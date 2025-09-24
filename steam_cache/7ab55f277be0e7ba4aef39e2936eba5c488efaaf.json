@@ -1,0 +1,809 @@
+{
+  "playerstats": {
+    "steamID": "76561198023037279",
+    "gameName": "Shonen Idle Z",
+    "achievements": [
+      {
+        "apiname": "WELCOME_TO_SHONEN_IDLE",
+        "achieved": 1,
+        "unlocktime": 1480927308
+      },
+      {
+        "apiname": "ATTACK_MASTERY_I",
+        "achieved": 1,
+        "unlocktime": 1480929427
+      },
+      {
+        "apiname": "ATTACK_MASTERY_II",
+        "achieved": 1,
+        "unlocktime": 1480929912
+      },
+      {
+        "apiname": "PARTY_TIME_I",
+        "achieved": 1,
+        "unlocktime": 1481043333
+      },
+      {
+        "apiname": "PARTY_TIME_II",
+        "achieved": 1,
+        "unlocktime": 1481043352
+      },
+      {
+        "apiname": "GOLD_DIGGER_I",
+        "achieved": 1,
+        "unlocktime": 1480935661
+      },
+      {
+        "apiname": "GOLD_DIGGER_II",
+        "achieved": 1,
+        "unlocktime": 1480941540
+      },
+      {
+        "apiname": "MONSTER_KILLER_I",
+        "achieved": 1,
+        "unlocktime": 1480928610
+      },
+      {
+        "apiname": "MONSTER_KILLER_II",
+        "achieved": 1,
+        "unlocktime": 1480928925
+      },
+      {
+        "apiname": "MONSTER_KILLER_III",
+        "achieved": 1,
+        "unlocktime": 1481025544
+      },
+      {
+        "apiname": "MONSTER_LEVELER_I",
+        "achieved": 1,
+        "unlocktime": 1480928828
+      },
+      {
+        "apiname": "MONSTER_LEVELER_II",
+        "achieved": 1,
+        "unlocktime": 1480929319
+      },
+      {
+        "apiname": "MONSTER_LEVELER_III",
+        "achieved": 1,
+        "unlocktime": 1480930011
+      },
+      {
+        "apiname": "BOSS_DESTROYER_I",
+        "achieved": 1,
+        "unlocktime": 1480937287
+      },
+      {
+        "apiname": "BOSS_DESTROYER_II",
+        "achieved": 1,
+        "unlocktime": 1481023482
+      },
+      {
+        "apiname": "BOSS_DESTROYER_III",
+        "achieved": 1,
+        "unlocktime": 1481324136
+      },
+      {
+        "apiname": "KI_CONTROL_I",
+        "achieved": 1,
+        "unlocktime": 1480928914
+      },
+      {
+        "apiname": "KI_CONTROL_II",
+        "achieved": 1,
+        "unlocktime": 1480929221
+      },
+      {
+        "apiname": "KI_CONTROL_III",
+        "achieved": 1,
+        "unlocktime": 1480930095
+      },
+      {
+        "apiname": "TIME_MASTER_I",
+        "achieved": 1,
+        "unlocktime": 1481022255
+      },
+      {
+        "apiname": "TIME_MASTER_II",
+        "achieved": 1,
+        "unlocktime": 1481200101
+      },
+      {
+        "apiname": "TRAINER_I",
+        "achieved": 1,
+        "unlocktime": 1480928838
+      },
+      {
+        "apiname": "TRAINER_II",
+        "achieved": 1,
+        "unlocktime": 1480933178
+      },
+      {
+        "apiname": "TRAINER_III",
+        "achieved": 1,
+        "unlocktime": 1481035577
+      },
+      {
+        "apiname": "CLOTHERER_I",
+        "achieved": 1,
+        "unlocktime": 1481127224
+      },
+      {
+        "apiname": "CLOTHERER_II",
+        "achieved": 1,
+        "unlocktime": 1481726239
+      },
+      {
+        "apiname": "FRIENDLY_I",
+        "achieved": 1,
+        "unlocktime": 1480933574
+      },
+      {
+        "apiname": "FRIENDLY_II",
+        "achieved": 1,
+        "unlocktime": 1481850336
+      },
+      {
+        "apiname": "PRESTIGIOUS_I",
+        "achieved": 1,
+        "unlocktime": 1481026401
+      },
+      {
+        "apiname": "PRESTIGIOUS_II",
+        "achieved": 1,
+        "unlocktime": 1481124971
+      },
+      {
+        "apiname": "COLLECTOR_I",
+        "achieved": 1,
+        "unlocktime": 1481850337
+      },
+      {
+        "apiname": "THE_ACHIEVER_I",
+        "achieved": 1,
+        "unlocktime": 1481850337
+      },
+      {
+        "apiname": "LIKE_A_BOSS_I",
+        "achieved": 1,
+        "unlocktime": 1481726238
+      },
+      {
+        "apiname": "ATTACK_MASTERY_III",
+        "achieved": 1,
+        "unlocktime": 1480935726
+      },
+      {
+        "apiname": "ATTACK_MASTERY_IV",
+        "achieved": 1,
+        "unlocktime": 1481022455
+      },
+      {
+        "apiname": "PARTY_TIME_III",
+        "achieved": 1,
+        "unlocktime": 1481053598
+      },
+      {
+        "apiname": "PARTY_TIME_IV",
+        "achieved": 1,
+        "unlocktime": 1481495941
+      },
+      {
+        "apiname": "GOLD_DIGGER_III",
+        "achieved": 1,
+        "unlocktime": 1480976435
+      },
+      {
+        "apiname": "GOLD_DIGGER_IV",
+        "achieved": 1,
+        "unlocktime": 1481028771
+      },
+      {
+        "apiname": "MONSTER_KILLER_IV",
+        "achieved": 1,
+        "unlocktime": 1482243680
+      },
+      {
+        "apiname": "MONSTER_KILLER_V",
+        "achieved": 1,
+        "unlocktime": 1483217326
+      },
+      {
+        "apiname": "MONSTER_KILLER_VI",
+        "achieved": 1,
+        "unlocktime": 1484654820
+      },
+      {
+        "apiname": "MONSTER_LEVELER_IV",
+        "achieved": 1,
+        "unlocktime": 1480933574
+      },
+      {
+        "apiname": "MONSTER_LEVELER_V",
+        "achieved": 1,
+        "unlocktime": 1480976577
+      },
+      {
+        "apiname": "MONSTER_LEVELER_VI",
+        "achieved": 1,
+        "unlocktime": 1481388090
+      },
+      {
+        "apiname": "BOSS_DESTROYER_IV",
+        "achieved": 1,
+        "unlocktime": 1481981051
+      },
+      {
+        "apiname": "BOSS_DESTROYER_V",
+        "achieved": 1,
+        "unlocktime": 1483057777
+      },
+      {
+        "apiname": "BOSS_DESTROYER_VI",
+        "achieved": 1,
+        "unlocktime": 1483201221
+      },
+      {
+        "apiname": "KI_CONTROL_IV",
+        "achieved": 1,
+        "unlocktime": 1480937288
+      },
+      {
+        "apiname": "KI_CONTROL_V",
+        "achieved": 1,
+        "unlocktime": 1481046432
+      },
+      {
+        "apiname": "KI_CONTROL_VI",
+        "achieved": 1,
+        "unlocktime": 1481389844
+      },
+      {
+        "apiname": "TIME_MASTER_III",
+        "achieved": 1,
+        "unlocktime": 1481547358
+      },
+      {
+        "apiname": "TIME_MASTER_IV",
+        "achieved": 1,
+        "unlocktime": 1482190251
+      },
+      {
+        "apiname": "TRAINER_IV",
+        "achieved": 1,
+        "unlocktime": 1481127224
+      },
+      {
+        "apiname": "TRAINER_V",
+        "achieved": 1,
+        "unlocktime": 1481496853
+      },
+      {
+        "apiname": "TRAINER_VI",
+        "achieved": 1,
+        "unlocktime": 1481662020
+      },
+      {
+        "apiname": "CLOTHERER_III",
+        "achieved": 1,
+        "unlocktime": 1482068794
+      },
+      {
+        "apiname": "CLOTHERER_IV",
+        "achieved": 1,
+        "unlocktime": 1483110545
+      },
+      {
+        "apiname": "FRIENDLY_III",
+        "achieved": 1,
+        "unlocktime": 1482323231
+      },
+      {
+        "apiname": "FRIENDLY_IV",
+        "achieved": 1,
+        "unlocktime": 1483740621
+      },
+      {
+        "apiname": "PRESTIGIOUS_III",
+        "achieved": 1,
+        "unlocktime": 1481640536
+      },
+      {
+        "apiname": "PRESTIGIOUS_IV",
+        "achieved": 1,
+        "unlocktime": 1482243583
+      },
+      {
+        "apiname": "COLLECTOR_II",
+        "achieved": 1,
+        "unlocktime": 1483734735
+      },
+      {
+        "apiname": "THE_ACHIEVER_II",
+        "achieved": 1,
+        "unlocktime": 1484654820
+      },
+      {
+        "apiname": "LIKE_A_BOSS_II",
+        "achieved": 1,
+        "unlocktime": 1483472032
+      },
+      {
+        "apiname": "ATTACK_MASTERY_V",
+        "achieved": 1,
+        "unlocktime": 1481390102
+      },
+      {
+        "apiname": "ATTACK_MASTERY_VI",
+        "achieved": 1,
+        "unlocktime": 1481733666
+      },
+      {
+        "apiname": "PARTY_TIME_V",
+        "achieved": 1,
+        "unlocktime": 1482243613
+      },
+      {
+        "apiname": "PARTY_TIME_VI",
+        "achieved": 1,
+        "unlocktime": 1483057043
+      },
+      {
+        "apiname": "GOLD_DIGGER_V",
+        "achieved": 1,
+        "unlocktime": 1481155849
+      },
+      {
+        "apiname": "GOLD_DIGGER_VI",
+        "achieved": 1,
+        "unlocktime": 1481305336
+      },
+      {
+        "apiname": "MONSTER_KILLER_VII",
+        "achieved": 1,
+        "unlocktime": 1486039272
+      },
+      {
+        "apiname": "MONSTER_KILLER_VIII",
+        "achieved": 1,
+        "unlocktime": 1486164304
+      },
+      {
+        "apiname": "MONSTER_KILLER_IX",
+        "achieved": 1,
+        "unlocktime": 1552169349
+      },
+      {
+        "apiname": "MONSTER_LEVELER_VII",
+        "achieved": 1,
+        "unlocktime": 1481820512
+      },
+      {
+        "apiname": "MONSTER_LEVELER_VIII",
+        "achieved": 1,
+        "unlocktime": 1482200727
+      },
+      {
+        "apiname": "MONSTER_LEVELER_IX",
+        "achieved": 1,
+        "unlocktime": 1483038664
+      },
+      {
+        "apiname": "BOSS_DESTROYER_VII",
+        "achieved": 1,
+        "unlocktime": 1484066887
+      },
+      {
+        "apiname": "BOSS_DESTROYER_VIII",
+        "achieved": 1,
+        "unlocktime": 1484768009
+      },
+      {
+        "apiname": "BOSS_DESTROYER_IX",
+        "achieved": 1,
+        "unlocktime": 1485376901
+      },
+      {
+        "apiname": "KI_CONTROL_VII",
+        "achieved": 1,
+        "unlocktime": 1481737029
+      },
+      {
+        "apiname": "KI_CONTROL_VIII",
+        "achieved": 1,
+        "unlocktime": 1481902889
+      },
+      {
+        "apiname": "KI_CONTROL_IX",
+        "achieved": 1,
+        "unlocktime": 1482193076
+      },
+      {
+        "apiname": "TIME_MASTER_V",
+        "achieved": 1,
+        "unlocktime": 1482845613
+      },
+      {
+        "apiname": "TIME_MASTER_VI",
+        "achieved": 1,
+        "unlocktime": 1483622082
+      },
+      {
+        "apiname": "TRAINER_VII",
+        "achieved": 1,
+        "unlocktime": 1482247290
+      },
+      {
+        "apiname": "TRAINER_VIII",
+        "achieved": 1,
+        "unlocktime": 1482323230
+      },
+      {
+        "apiname": "TRAINER_IX",
+        "achieved": 1,
+        "unlocktime": 1483048452
+      },
+      {
+        "apiname": "CLOTHERER_V",
+        "achieved": 1,
+        "unlocktime": 1483921095
+      },
+      {
+        "apiname": "CLOTHERER_VI",
+        "achieved": 1,
+        "unlocktime": 1485372695
+      },
+      {
+        "apiname": "FRIENDLY_V",
+        "achieved": 1,
+        "unlocktime": 1484678095
+      },
+      {
+        "apiname": "FRIENDLY_VI",
+        "achieved": 1,
+        "unlocktime": 1486071858
+      },
+      {
+        "apiname": "PRESTIGIOUS_V",
+        "achieved": 1,
+        "unlocktime": 1483057014
+      },
+      {
+        "apiname": "PRESTIGIOUS_VI",
+        "achieved": 1,
+        "unlocktime": 1483883135
+      },
+      {
+        "apiname": "COLLECTOR_III",
+        "achieved": 1,
+        "unlocktime": 1486071858
+      },
+      {
+        "apiname": "THE_ACHIEVER_III",
+        "achieved": 1,
+        "unlocktime": 1552169349
+      },
+      {
+        "apiname": "LIKE_A_BOSS_III",
+        "achieved": 1,
+        "unlocktime": 1485059821
+      },
+      {
+        "apiname": "ATTACK_MASTERY_VII",
+        "achieved": 1,
+        "unlocktime": 1482014745
+      },
+      {
+        "apiname": "ATTACK_MASTERY_VIII",
+        "achieved": 1,
+        "unlocktime": 1482165561
+      },
+      {
+        "apiname": "PARTY_TIME_VII",
+        "achieved": 1,
+        "unlocktime": 1483883197
+      },
+      {
+        "apiname": "PARTY_TIME_VIII",
+        "achieved": 1,
+        "unlocktime": 1484858880
+      },
+      {
+        "apiname": "GOLD_DIGGER_VII",
+        "achieved": 1,
+        "unlocktime": 1481400341
+      },
+      {
+        "apiname": "GOLD_DIGGER_VIII",
+        "achieved": 1,
+        "unlocktime": 1481558508
+      },
+      {
+        "apiname": "MONSTER_KILLER_X",
+        "achieved": 1,
+        "unlocktime": 1552589791
+      },
+      {
+        "apiname": "MONSTER_KILLER_XI",
+        "achieved": 1,
+        "unlocktime": 1552916303
+      },
+      {
+        "apiname": "MONSTER_KILLER_XII",
+        "achieved": 1,
+        "unlocktime": 1553263390
+      },
+      {
+        "apiname": "MONSTER_LEVELER_X",
+        "achieved": 1,
+        "unlocktime": 1483734735
+      },
+      {
+        "apiname": "MONSTER_LEVELER_XI",
+        "achieved": 1,
+        "unlocktime": 1483878373
+      },
+      {
+        "apiname": "MONSTER_LEVELER_XII",
+        "achieved": 1,
+        "unlocktime": 1485054888
+      },
+      {
+        "apiname": "BOSS_DESTROYER_X",
+        "achieved": 1,
+        "unlocktime": 1486172900
+      },
+      {
+        "apiname": "BOSS_DESTROYER_XI",
+        "achieved": 1,
+        "unlocktime": 1500485492
+      },
+      {
+        "apiname": "BOSS_DESTROYER_XII",
+        "achieved": 1,
+        "unlocktime": 1503180070
+      },
+      {
+        "apiname": "KI_CONTROL_X",
+        "achieved": 1,
+        "unlocktime": 1483015571
+      },
+      {
+        "apiname": "KI_CONTROL_XI",
+        "achieved": 1,
+        "unlocktime": 1483055064
+      },
+      {
+        "apiname": "KI_CONTROL_XII",
+        "achieved": 1,
+        "unlocktime": 1483472032
+      },
+      {
+        "apiname": "TIME_MASTER_VII",
+        "achieved": 1,
+        "unlocktime": 1486220909
+      },
+      {
+        "apiname": "TIME_MASTER_VIII",
+        "achieved": 1,
+        "unlocktime": 1495209064
+      },
+      {
+        "apiname": "TRAINER_X",
+        "achieved": 1,
+        "unlocktime": 1483110545
+      },
+      {
+        "apiname": "TRAINER_XI",
+        "achieved": 1,
+        "unlocktime": 1483199198
+      },
+      {
+        "apiname": "TRAINER_XII",
+        "achieved": 1,
+        "unlocktime": 1483210875
+      },
+      {
+        "apiname": "CLOTHERER_VII",
+        "achieved": 1,
+        "unlocktime": 1486776477
+      },
+      {
+        "apiname": "CLOTHERER_VIII",
+        "achieved": 1,
+        "unlocktime": 1486928244
+      },
+      {
+        "apiname": "FRIENDLY_VII",
+        "achieved": 1,
+        "unlocktime": 1487778837
+      },
+      {
+        "apiname": "FRIENDLY_VIII",
+        "achieved": 1,
+        "unlocktime": 1488478314
+      },
+      {
+        "apiname": "PRESTIGIOUS_VII",
+        "achieved": 1,
+        "unlocktime": 1484241868
+      },
+      {
+        "apiname": "PRESTIGIOUS_VIII",
+        "achieved": 1,
+        "unlocktime": 1485164654
+      },
+      {
+        "apiname": "COLLECTOR_IV",
+        "achieved": 1,
+        "unlocktime": 1488674609
+      },
+      {
+        "apiname": "THE_ACHIEVER_IV",
+        "achieved": 1,
+        "unlocktime": 1553263391
+      },
+      {
+        "apiname": "LIKE_A_BOSS_IV",
+        "achieved": 1,
+        "unlocktime": 1486888009
+      },
+      {
+        "apiname": "ATTACK_MASTERY_IX",
+        "achieved": 1,
+        "unlocktime": 1482973678
+      },
+      {
+        "apiname": "ATTACK_MASTERY_X",
+        "achieved": 1,
+        "unlocktime": 1483033610
+      },
+      {
+        "apiname": "PARTY_TIME_IX",
+        "achieved": 1,
+        "unlocktime": 1485164683
+      },
+      {
+        "apiname": "PARTY_TIME_X",
+        "achieved": 1,
+        "unlocktime": 1485612304
+      },
+      {
+        "apiname": "GOLD_DIGGER_IX",
+        "achieved": 1,
+        "unlocktime": 1481661240
+      },
+      {
+        "apiname": "GOLD_DIGGER_X",
+        "achieved": 1,
+        "unlocktime": 1481977704
+      },
+      {
+        "apiname": "MONSTER_KILLER_XIII",
+        "achieved": 1,
+        "unlocktime": 1553623393
+      },
+      {
+        "apiname": "MONSTER_KILLER_XIV",
+        "achieved": 1,
+        "unlocktime": 1553890044
+      },
+      {
+        "apiname": "MONSTER_KILLER_XV",
+        "achieved": 1,
+        "unlocktime": 1554218654
+      },
+      {
+        "apiname": "MONSTER_LEVELER_XIII",
+        "achieved": 1,
+        "unlocktime": 1485560461
+      },
+      {
+        "apiname": "MONSTER_LEVELER_XIV",
+        "achieved": 1,
+        "unlocktime": 1486849762
+      },
+      {
+        "apiname": "MONSTER_LEVELER_XV",
+        "achieved": 1,
+        "unlocktime": 1486888020
+      },
+      {
+        "apiname": "BOSS_DESTROYER_XIII",
+        "achieved": 1,
+        "unlocktime": 1504892205
+      },
+      {
+        "apiname": "BOSS_DESTROYER_XIV",
+        "achieved": 1,
+        "unlocktime": 1505504790
+      },
+      {
+        "apiname": "BOSS_DESTROYER_XV",
+        "achieved": 1,
+        "unlocktime": 1522235503
+      },
+      {
+        "apiname": "KI_CONTROL_XIII",
+        "achieved": 1,
+        "unlocktime": 1483734669
+      },
+      {
+        "apiname": "KI_CONTROL_XIV",
+        "achieved": 1,
+        "unlocktime": 1483782770
+      },
+      {
+        "apiname": "KI_CONTROL_XV",
+        "achieved": 1,
+        "unlocktime": 1483875682
+      },
+      {
+        "apiname": "TIME_MASTER_IX",
+        "achieved": 1,
+        "unlocktime": 1497437817
+      },
+      {
+        "apiname": "TIME_MASTER_X",
+        "achieved": 1,
+        "unlocktime": 1500115077
+      },
+      {
+        "apiname": "TRAINER_XIII",
+        "achieved": 1,
+        "unlocktime": 1483372400
+      },
+      {
+        "apiname": "TRAINER_XIV",
+        "achieved": 1,
+        "unlocktime": 1483650586
+      },
+      {
+        "apiname": "TRAINER_XV",
+        "achieved": 1,
+        "unlocktime": 1483891777
+      },
+      {
+        "apiname": "CLOTHERER_IX",
+        "achieved": 1,
+        "unlocktime": 1489696476
+      },
+      {
+        "apiname": "CLOTHERER_X",
+        "achieved": 1,
+        "unlocktime": 1490697616
+      },
+      {
+        "apiname": "FRIENDLY_IX",
+        "achieved": 1,
+        "unlocktime": 1492462368
+      },
+      {
+        "apiname": "FRIENDLY_X",
+        "achieved": 1,
+        "unlocktime": 1495213375
+      },
+      {
+        "apiname": "PRESTIGIOUS_IX",
+        "achieved": 1,
+        "unlocktime": 1485372775
+      },
+      {
+        "apiname": "PRESTIGIOUS_X",
+        "achieved": 1,
+        "unlocktime": 1485981357
+      },
+      {
+        "apiname": "COLLECTOR_V",
+        "achieved": 1,
+        "unlocktime": 1495744840
+      },
+      {
+        "apiname": "THE_ACHIEVER_V",
+        "achieved": 1,
+        "unlocktime": 1554218655
+      }
+    ],
+    "success": true
+  }
+}

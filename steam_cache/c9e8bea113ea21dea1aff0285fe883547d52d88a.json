@@ -1,0 +1,35 @@
+{
+  "response": {
+    "total_count": 4,
+    "games": [
+      {
+        "appid": 2369390,
+        "name": "Far Cry 6",
+        "playtime_2weeks": 4526,
+        "playtime_forever": 15906,
+        "img_icon_url": "178c21f6ed3ea43c9e5b3c9ea2919e7bca63c7b0"
+      },
+      {
+        "appid": 8850,
+        "name": "BioShock 2",
+        "playtime_2weeks": 709,
+        "playtime_forever": 732,
+        "img_icon_url": "f5eda925c0e57373aaea4cae17b6f175115a8d54"
+      },
+      {
+        "appid": 552520,
+        "name": "Far Cry 5",
+        "playtime_2weeks": 383,
+        "playtime_forever": 10275,
+        "img_icon_url": "928df2d32021f480499a97458068f62c45298e7a"
+      },
+      {
+        "appid": 7670,
+        "name": "BioShock",
+        "playtime_2weeks": 89,
+        "playtime_forever": 725,
+        "img_icon_url": "9a7c9f640a76e6a32592277dbbc36a0f6da05372"
+      }
+    ]
+  }
+}

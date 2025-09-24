@@ -1,0 +1,28 @@
+{
+  "response": {
+    "total_count": 3,
+    "games": [
+      {
+        "appid": 1592670,
+        "name": "Soda Crisis",
+        "playtime_2weeks": 105,
+        "playtime_forever": 105,
+        "img_icon_url": "b1f43f72ef59397518ce7cef8de5e25b7ef96ccd"
+      },
+      {
+        "appid": 107410,
+        "name": "Arma 3",
+        "playtime_2weeks": 57,
+        "playtime_forever": 2379,
+        "img_icon_url": "3212af52faf994c558bd622cb0f360c1ef295a6b"
+      },
+      {
+        "appid": 1184760,
+        "name": "Shovel Knight Pocket Dungeon",
+        "playtime_2weeks": 18,
+        "playtime_forever": 18,
+        "img_icon_url": "90ab518c87329d965f756b4869a3a16997a395d6"
+      }
+    ]
+  }
+}

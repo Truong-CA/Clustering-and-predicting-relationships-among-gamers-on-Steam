@@ -1,0 +1,256 @@
+{
+  "response": {
+    "game_count": 30,
+    "games": [
+      {
+        "appid": 10,
+        "name": "Counter-Strike",
+        "playtime_forever": 1,
+        "img_icon_url": "6b0312cda02f5f777efa2f3318c307ff9acafbb5",
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 80,
+        "name": "Counter-Strike: Condition Zero",
+        "playtime_forever": 0,
+        "img_icon_url": "077b050ef3e89cd84e2c5a575d78d53b54058236",
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 100,
+        "name": "Counter-Strike: Condition Zero Deleted Scenes",
+        "playtime_forever": 0,
+        "img_icon_url": "077b050ef3e89cd84e2c5a575d78d53b54058236"
+      },
+      {
+        "appid": 240,
+        "name": "Counter-Strike: Source",
+        "playtime_forever": 0,
+        "img_icon_url": "9052fa60c496a1c03383b27687ec50f4bf0f0e10",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 570,
+        "name": "Dota 2",
+        "playtime_forever": 63653,
+        "img_icon_url": "0bbb630d63262dd66d2fdd0f7d37e8661a410075",
+        "content_descriptorids": [
+          5
+        ]
+      },
+      {
+        "appid": 730,
+        "name": "Counter-Strike 2",
+        "playtime_2weeks": 93,
+        "playtime_forever": 364825,
+        "img_icon_url": "8dbc71957312bbd3baea65848b545be9eae2a355",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 207610,
+        "name": "The Walking Dead",
+        "playtime_forever": 0,
+        "img_icon_url": "87a13ae0a2a76488792924aa8bb0dd8a7760f931",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 218620,
+        "name": "PAYDAY 2",
+        "playtime_forever": 137,
+        "img_icon_url": "a6abc0d0c1e79c0b5b0f5c8ab81ce9076a542414",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 239450,
+        "name": "Gun Monkeys",
+        "playtime_forever": 0,
+        "img_icon_url": "175feabf1003b3b72eadeb04c71f1a8bf9749e11",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 324810,
+        "name": "TOXIKK",
+        "playtime_forever": 103,
+        "img_icon_url": "18523599fb9e8305d0c6b6b99f561f4d88bdec59",
+        "has_community_visible_stats": true,
+        "has_leaderboards": true
+      },
+      {
+        "appid": 391720,
+        "name": "Layers of Fear (2016)",
+        "playtime_forever": 0,
+        "img_icon_url": "0fc90b925c7bbdcc95df6599a01b80dff18e6bbb",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          5
+        ]
+      },
+      {
+        "appid": 397900,
+        "name": "Business Tour - Online Multiplayer Board Game",
+        "playtime_forever": 23,
+        "img_icon_url": "b6ce52a576e99f54c5d18f675540b9c3ee70ed47",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 439190,
+        "name": "Stories: The Path of Destinies",
+        "playtime_forever": 0,
+        "img_icon_url": "ed3383f9deed7e41515d34e544a67258fcf91c23",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 448510,
+        "name": "Overcooked",
+        "playtime_forever": 7,
+        "img_icon_url": "0f8cb2d03134bfbc0536dcc9a476d9ba3a1e67f5",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 551170,
+        "name": "Onmyoji",
+        "playtime_forever": 1132,
+        "img_icon_url": "d7533d4a676b1b94c27ac970e5abe2f301a4c07f",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 578080,
+        "name": "PUBG: BATTLEGROUNDS",
+        "playtime_forever": 636,
+        "img_icon_url": "609f27278aa70697c13bf99f32c5a0248c381f9d",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 611500,
+        "name": "Quake Champions",
+        "playtime_forever": 0,
+        "img_icon_url": "539032fb1e8b41d0a48ff11bf63bfe7918ace24c",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 619400,
+        "name": "Fluffy Creatures VS The World",
+        "playtime_forever": 0,
+        "img_icon_url": "818016bcc3ccd46153026960121e74bc91165cd6",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 705210,
+        "name": "Cube Racer",
+        "playtime_forever": 214,
+        "img_icon_url": "729bcef1b009c32e0c99b7418bac2e5873ae872f",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 714010,
+        "name": "Aimlabs",
+        "playtime_forever": 260,
+        "img_icon_url": "15347de11efc127539c388e585af9e92d10d5189",
+        "has_community_visible_stats": true,
+        "has_leaderboards": true
+      },
+      {
+        "appid": 728880,
+        "name": "Overcooked! 2",
+        "playtime_forever": 921,
+        "img_icon_url": "bac36f471109038ae0b40619de4109d475f86a54",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 844870,
+        "name": "KurtzPel",
+        "playtime_forever": 285,
+        "img_icon_url": "2947d156a2633c9a5c092d2a14890bc56a342b70",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 1046930,
+        "name": "Dota Underlords",
+        "playtime_forever": 221,
+        "img_icon_url": "1f6f64144e8cc371c5382660e48998dfbe0a708e"
+      },
+      {
+        "appid": 1172470,
+        "name": "Apex Legends",
+        "playtime_forever": 157,
+        "img_icon_url": "6cc35932af780289ae3d8d5cdbfe9cd545decad2",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 1422450,
+        "name": "Deadlock",
+        "playtime_forever": 7094,
+        "img_icon_url": "f6da1420a173324d49bcd470fa3eee781ad0fa5e"
+      },
+      {
+        "appid": 1568590,
+        "name": "Goose Goose Duck",
+        "playtime_forever": 1471,
+        "img_icon_url": "3b802d5010d6d5d72c93a8565b260c6042cc9390",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 1623660,
+        "name": "MIR4",
+        "playtime_forever": 1395,
+        "img_icon_url": "6c4b7e10e9fbb9c2165ce07833ba715897cbc192"
+      },
+      {
+        "appid": 1782210,
+        "name": "Crab Game",
+        "playtime_forever": 45,
+        "img_icon_url": "e1afdaf96f55771d1d5ea4c9692d0f707ab0110b",
+        "content_descriptorids": [
+          5
+        ]
+      },
+      {
+        "appid": 2767030,
+        "name": "Marvel Rivals",
+        "playtime_forever": 1083,
+        "img_icon_url": "839b4712925b95702ca56e0c4d399adf54f4d617",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 3062930,
+        "name": "Unplagued",
+        "playtime_forever": 0,
+        "img_icon_url": "76b8f7f7e491b71766c6c7138417c3b7f7b8f52e"
+      }
+    ]
+  }
+}

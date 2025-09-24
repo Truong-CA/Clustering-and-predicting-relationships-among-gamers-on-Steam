@@ -1,0 +1,35 @@
+{
+  "response": {
+    "total_count": 4,
+    "games": [
+      {
+        "appid": 730,
+        "name": "Counter-Strike 2",
+        "playtime_2weeks": 200,
+        "playtime_forever": 307001,
+        "img_icon_url": "8dbc71957312bbd3baea65848b545be9eae2a355"
+      },
+      {
+        "appid": 2561270,
+        "name": "Skibidi Toilet Hero",
+        "playtime_2weeks": 12,
+        "playtime_forever": 12,
+        "img_icon_url": "c63dcda8dd051097670615ed83e760b3d331ab28"
+      },
+      {
+        "appid": 252950,
+        "name": "Rocket League",
+        "playtime_2weeks": 4,
+        "playtime_forever": 80161,
+        "img_icon_url": "9ad6dd3d173523354385955b5fb2af87639c4163"
+      },
+      {
+        "appid": 3164500,
+        "name": "Schedule I",
+        "playtime_2weeks": 2,
+        "playtime_forever": 498,
+        "img_icon_url": "3d9f9ed56cb6e1ba995883207290c39674e9c411"
+      }
+    ]
+  }
+}

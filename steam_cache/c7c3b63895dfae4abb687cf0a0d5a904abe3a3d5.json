@@ -1,0 +1,28 @@
+{
+  "response": {
+    "total_count": 3,
+    "games": [
+      {
+        "appid": 1364780,
+        "name": "Street Fighter™ 6",
+        "playtime_2weeks": 510,
+        "playtime_forever": 42143,
+        "img_icon_url": "d8057ee15238077329f869c1610e257461ab3f76"
+      },
+      {
+        "appid": 307780,
+        "name": "Mortal Kombat X",
+        "playtime_2weeks": 93,
+        "playtime_forever": 20065,
+        "img_icon_url": "f3137c23413b98a9091a217e16ccc5e477a2a88e"
+      },
+      {
+        "appid": 1778820,
+        "name": "TEKKEN 8",
+        "playtime_2weeks": 34,
+        "playtime_forever": 2448,
+        "img_icon_url": "379f0bd7dcf0b6b20bd9041ddfaba05fdaa77a6e"
+      }
+    ]
+  }
+}

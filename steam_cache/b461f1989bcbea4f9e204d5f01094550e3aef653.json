@@ -1,0 +1,42 @@
+{
+  "response": {
+    "total_count": 5,
+    "games": [
+      {
+        "appid": 1422450,
+        "name": "Deadlock",
+        "playtime_2weeks": 1793,
+        "playtime_forever": 25045,
+        "img_icon_url": "f6da1420a173324d49bcd470fa3eee781ad0fa5e"
+      },
+      {
+        "appid": 1517290,
+        "name": "Battlefield™ 2042",
+        "playtime_2weeks": 1044,
+        "playtime_forever": 4667,
+        "img_icon_url": "dc805cd05c36a1b26f4eb57b64301e6708e20776"
+      },
+      {
+        "appid": 3354750,
+        "name": "skate.",
+        "playtime_2weeks": 151,
+        "playtime_forever": 151,
+        "img_icon_url": "741cefdfeabf38b28288dab2cdbcf848995b85cb"
+      },
+      {
+        "appid": 730,
+        "name": "Counter-Strike 2",
+        "playtime_2weeks": 74,
+        "playtime_forever": 299891,
+        "img_icon_url": "8dbc71957312bbd3baea65848b545be9eae2a355"
+      },
+      {
+        "appid": 3165720,
+        "name": "Fellowship Playtest",
+        "playtime_2weeks": 3,
+        "playtime_forever": 3,
+        "img_icon_url": "364217c140be107d1c8e23dabc573bba9fa8fcd0"
+      }
+    ]
+  }
+}

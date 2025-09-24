@@ -1,0 +1,28 @@
+{
+  "response": {
+    "total_count": 3,
+    "games": [
+      {
+        "appid": 2903690,
+        "name": "Horny Villa",
+        "playtime_2weeks": 261,
+        "playtime_forever": 930,
+        "img_icon_url": "637a36cc309e39bda61d0c2ab082c9d3cdeb37e7"
+      },
+      {
+        "appid": 1466640,
+        "name": "Road 96",
+        "playtime_2weeks": 22,
+        "playtime_forever": 152,
+        "img_icon_url": "031fb207de40b078417ab77b2c4e00545e910ad1"
+      },
+      {
+        "appid": 3743800,
+        "name": "Hozy Playtest",
+        "playtime_2weeks": 15,
+        "playtime_forever": 15,
+        "img_icon_url": "70fbb3dddc594e3b6b9b697eaeb19725e29efdc6"
+      }
+    ]
+  }
+}

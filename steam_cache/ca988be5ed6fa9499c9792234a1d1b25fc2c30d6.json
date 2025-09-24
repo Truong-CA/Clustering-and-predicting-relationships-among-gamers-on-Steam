@@ -1,0 +1,49 @@
+{
+  "response": {
+    "total_count": 6,
+    "games": [
+      {
+        "appid": 251670,
+        "name": "Battle Nations",
+        "playtime_2weeks": 1096,
+        "playtime_forever": 2535,
+        "img_icon_url": "9b70cfea91e249493d2739b4c3e463dad5177276"
+      },
+      {
+        "appid": 1517290,
+        "name": "Battlefield™ 2042",
+        "playtime_2weeks": 508,
+        "playtime_forever": 3026,
+        "img_icon_url": "dc805cd05c36a1b26f4eb57b64301e6708e20776"
+      },
+      {
+        "appid": 325610,
+        "name": "Total War: ATTILA",
+        "playtime_2weeks": 502,
+        "playtime_forever": 10511,
+        "img_icon_url": "efb8ae63b78a36f130a4e9c1768d3dfea7056d02"
+      },
+      {
+        "appid": 394360,
+        "name": "Hearts of Iron IV",
+        "playtime_2weeks": 133,
+        "playtime_forever": 55252,
+        "img_icon_url": "67b15e2336311b4b4f1eb5c802af0c0dbe644195"
+      },
+      {
+        "appid": 553850,
+        "name": "HELLDIVERS™ 2",
+        "playtime_2weeks": 67,
+        "playtime_forever": 5431,
+        "img_icon_url": "c3dff088e090f81d6e3d88eabbb67732647c69cf"
+      },
+      {
+        "appid": 214950,
+        "name": "Total War: ROME II - Emperor Edition",
+        "playtime_2weeks": 12,
+        "playtime_forever": 5472,
+        "img_icon_url": "08ae0b3454bfe8e7ae9038331b27629667119a24"
+      }
+    ]
+  }
+}

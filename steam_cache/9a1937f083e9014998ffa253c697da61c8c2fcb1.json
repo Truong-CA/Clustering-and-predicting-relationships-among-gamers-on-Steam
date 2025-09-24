@@ -1,0 +1,5873 @@
+{
+  "response": {
+    "game_count": 719,
+    "games": [
+      {
+        "appid": 10,
+        "name": "Counter-Strike",
+        "playtime_forever": 0,
+        "img_icon_url": "6b0312cda02f5f777efa2f3318c307ff9acafbb5",
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 80,
+        "name": "Counter-Strike: Condition Zero",
+        "playtime_forever": 0,
+        "img_icon_url": "077b050ef3e89cd84e2c5a575d78d53b54058236",
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 100,
+        "name": "Counter-Strike: Condition Zero Deleted Scenes",
+        "playtime_forever": 0,
+        "img_icon_url": "077b050ef3e89cd84e2c5a575d78d53b54058236"
+      },
+      {
+        "appid": 240,
+        "name": "Counter-Strike: Source",
+        "playtime_forever": 0,
+        "img_icon_url": "9052fa60c496a1c03383b27687ec50f4bf0f0e10",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 620,
+        "name": "Portal 2",
+        "playtime_forever": 40,
+        "img_icon_url": "25a5a16b2423bf7487ac5340b5b0948cef48c5f8",
+        "has_community_visible_stats": true,
+        "has_leaderboards": true
+      },
+      {
+        "appid": 730,
+        "name": "Counter-Strike 2",
+        "playtime_2weeks": 140,
+        "playtime_forever": 72824,
+        "img_icon_url": "8dbc71957312bbd3baea65848b545be9eae2a355",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 3590,
+        "name": "Plants vs. Zombies: Game of the Year",
+        "playtime_forever": 0,
+        "img_icon_url": "d2a9c24de11210560f579e7fd9303960c5060155",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 4000,
+        "name": "Garry's Mod",
+        "playtime_forever": 97,
+        "img_icon_url": "4a6f25cfa2426445d0d9d6e233408de4d371ce8b",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 6800,
+        "name": "Commandos: Behind Enemy Lines",
+        "playtime_forever": 4,
+        "img_icon_url": "809e75c47b592f737e0c91b4e63d65d7b9e41239"
+      },
+      {
+        "appid": 6810,
+        "name": "Commandos: Beyond the Call of Duty",
+        "playtime_forever": 8,
+        "img_icon_url": "a3980f343245376fbfa787077fe2ff3231bc6319"
+      },
+      {
+        "appid": 6830,
+        "name": "Commandos 2: Men of Courage",
+        "playtime_forever": 0,
+        "img_icon_url": "8eaed194affcbbdc617687e2fa80af146e97bb93"
+      },
+      {
+        "appid": 6840,
+        "name": "Commandos 3: Destination Berlin",
+        "playtime_forever": 0,
+        "img_icon_url": "73f9a99ca805232d3fd632fc2eba4ad6e2832195"
+      },
+      {
+        "appid": 8930,
+        "name": "Sid Meier's Civilization V",
+        "playtime_forever": 0,
+        "img_icon_url": "fbe80c4743e226f0bf65559c91b12953d4446808",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 12210,
+        "name": "Grand Theft Auto IV: The Complete Edition",
+        "playtime_forever": 0,
+        "img_icon_url": "a3cf6a64c73f991898a9e34681d0db8226eaa191",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 13500,
+        "name": "Prince of Persia: Warrior Within",
+        "playtime_forever": 0,
+        "img_icon_url": "7ccfe3fae3c5fc44dad734dbd0af10f041fe94e7",
+        "content_descriptorids": [
+          5
+        ]
+      },
+      {
+        "appid": 13530,
+        "name": "Prince of Persia: The Two Thrones",
+        "playtime_forever": 0,
+        "img_icon_url": "8ceeaa9e2d1b0eb804b1826e95e5c268703f6c37"
+      },
+      {
+        "appid": 13600,
+        "name": "Prince of Persia: The Sands of Time",
+        "playtime_forever": 0,
+        "img_icon_url": "e65c77b489a5f4e0d4cde9f09d05443b717d0690"
+      },
+      {
+        "appid": 19980,
+        "name": "Prince of Persia",
+        "playtime_forever": 0,
+        "img_icon_url": "2b404bd60fb97a9c1eabb9d4a573909c014a23fd"
+      },
+      {
+        "appid": 22600,
+        "name": "Worms Reloaded",
+        "playtime_forever": 300,
+        "img_icon_url": "f600c6e630d9af3ccb1d7892ecc9bb01a7087695",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 33320,
+        "name": "Prince of Persia: The Forgotten Sands",
+        "playtime_forever": 0,
+        "img_icon_url": "ae71d05f6a30478dc896f58bff7b353c0edf9959"
+      },
+      {
+        "appid": 40700,
+        "name": "Machinarium",
+        "playtime_forever": 278,
+        "img_icon_url": "33e11d52f0a2335671d7bf73341c14ae6e596809",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 49520,
+        "name": "Borderlands 2",
+        "playtime_forever": 0,
+        "img_icon_url": "a3f4945226e69b6196074df4c776e342d3e5a3be",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 105600,
+        "name": "Terraria",
+        "playtime_forever": 0,
+        "img_icon_url": "858961e95fbf869f136e1770d586e0caefd4cfac",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 108600,
+        "name": "Project Zomboid",
+        "playtime_forever": 231,
+        "img_icon_url": "2bd4642ae337e378e7b04a19d19683425c5f81a4",
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 110800,
+        "name": "L.A. Noire",
+        "playtime_forever": 78,
+        "img_icon_url": "ee09d4d2552e52c78d139a3b6dbe60173079d9f8",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 200260,
+        "name": "Batman: Arkham City GOTY",
+        "playtime_forever": 0,
+        "img_icon_url": "746ecf3ce44b2525eb7ad643e76a3b60913d2662",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 203140,
+        "name": "Hitman: Absolution",
+        "playtime_forever": 0,
+        "img_icon_url": "fe5e36ac1548793eb48b6b25b701b37d86fb94a3",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 204100,
+        "name": "Max Payne 3",
+        "playtime_forever": 418,
+        "img_icon_url": "96af86331719b56cefc55298b4fcb99c99f1cfee",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 204360,
+        "name": "Castle Crashers",
+        "playtime_forever": 305,
+        "img_icon_url": "9b7625f9b70f103397fd0416fd92abb583db8659",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 205930,
+        "name": "Hitman: Sniper Challenge",
+        "playtime_forever": 0,
+        "img_icon_url": "756d0ca797b4c8a1340dd73bf49b0bb0656a1802",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 208650,
+        "name": "Batman™: Arkham Knight",
+        "playtime_forever": 0,
+        "img_icon_url": "f6c2ce13796844750dfbd01685fb009eeac4bf70",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 212030,
+        "name": "Kung Fu Strike: The Warrior's Rise",
+        "playtime_forever": 9,
+        "img_icon_url": "97a2dcc75d66a8a2c707ba7053a67aae2bbff264",
+        "has_community_visible_stats": true,
+        "has_leaderboards": true
+      },
+      {
+        "appid": 217200,
+        "name": "Worms Armageddon",
+        "playtime_forever": 4,
+        "img_icon_url": "68c6d17bde9c578d91dd1e207b58eb4d8308ce40"
+      },
+      {
+        "appid": 218620,
+        "name": "PAYDAY 2",
+        "playtime_forever": 35,
+        "img_icon_url": "a6abc0d0c1e79c0b5b0f5c8ab81ce9076a542414",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 220440,
+        "name": "DmC Devil May Cry",
+        "playtime_forever": 37,
+        "img_icon_url": "1fcf4c7d96acb1cdf2b30fb40a02030ba6991e2d",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 221040,
+        "name": "Resident Evil 6",
+        "playtime_forever": 293,
+        "img_icon_url": "0a0832a59b6c0a4ffa995b0343892729fe61ec1b",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 221100,
+        "name": "DayZ",
+        "playtime_forever": 1864,
+        "img_icon_url": "16a985dfee9b093d76a0ffc4cf4c77ba20c2eb0d",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 222900,
+        "name": "Dead Island: Epidemic",
+        "playtime_forever": 0,
+        "img_icon_url": "eeca961216745840443d87373f907d1e6e4ca764",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 223710,
+        "name": "Cry of Fear",
+        "playtime_forever": 15,
+        "img_icon_url": "962637bf69fddc5466b042c748b6408d2901f25c"
+      },
+      {
+        "appid": 224260,
+        "name": "No More Room in Hell",
+        "playtime_forever": 8,
+        "img_icon_url": "684de0d9c5749b5ddd52f120894fd97efd620b1d",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 225080,
+        "name": "Brothers - A Tale of Two Sons",
+        "playtime_forever": 0,
+        "img_icon_url": "9d6e8bcae597582734b382d8da93e5fa7b1c640b",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 227300,
+        "name": "Euro Truck Simulator 2",
+        "playtime_forever": 74,
+        "img_icon_url": "adc18a4fc9adc0330144b76d61cbda68bb2394a0",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 231040,
+        "name": "Beatbuddy: Tale of the Guardians",
+        "playtime_forever": 0,
+        "img_icon_url": "1da60d64393a63533d348d0de309adb9c825402c",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 231430,
+        "name": "Company of Heroes 2",
+        "playtime_forever": 0,
+        "img_icon_url": "5e7e1866fb4f33a17393b0441cd1c750dbd91c5f",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 233130,
+        "name": "Shadow Warrior",
+        "playtime_forever": 0,
+        "img_icon_url": "5d7c205ce18f17a99c95ff81499c2f496e0570f2",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 236390,
+        "name": "War Thunder",
+        "playtime_forever": 29,
+        "img_icon_url": "c69fbafb6e9891314cc5df0fe6a659612c289bf9",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 237630,
+        "name": "DuckTales Remastered",
+        "playtime_forever": 2,
+        "img_icon_url": "65047061a0122f4a97f7e1aad43375e9d6374e66",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 238320,
+        "name": "Outlast",
+        "playtime_forever": 396,
+        "img_icon_url": "46bd3df92d4693d3b2af113bf8f31c2cbdadb20a",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          1,
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 239140,
+        "name": "Dying Light",
+        "playtime_forever": 73,
+        "img_icon_url": "d575b4ba3480fe20aaeda8e8f498c3e47033069d",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 240720,
+        "name": "Getting Over It with Bennett Foddy",
+        "playtime_forever": 97,
+        "img_icon_url": "161090eb78acf2e28333e8ae182121d906f1ee85",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 241930,
+        "name": "Middle-earth™: Shadow of Mordor™",
+        "playtime_forever": 0,
+        "img_icon_url": "161afab3c9f725f593635723cc64a7fbeb324ead",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 251570,
+        "name": "7 Days to Die",
+        "playtime_forever": 103,
+        "img_icon_url": "f6515dd177b2992aebcb563151fbe836a600f364",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 252490,
+        "name": "Rust",
+        "playtime_forever": 2618,
+        "img_icon_url": "820be4782639f9c4b64fa3ca7e6c26a95ae4fd1c",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          1,
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 252850,
+        "name": "Streamline",
+        "playtime_forever": 0,
+        "img_icon_url": "8c7695a2e6017605e704a52c630090349f344ae2",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 255520,
+        "name": "Viscera Cleanup Detail: Shadow Warrior",
+        "playtime_forever": 0,
+        "img_icon_url": "56c3840d52a0da4f397d9991d368c75ed53d99fa",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 255710,
+        "name": "Cities: Skylines",
+        "playtime_forever": 228,
+        "img_icon_url": "6cf7b10dd29db28448ef79698ed2118a03617d63",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 257510,
+        "name": "The Talos Principle",
+        "playtime_forever": 0,
+        "img_icon_url": "8222673c1eb13e6a8a8367ec0e2940a887ecf270",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 258520,
+        "name": "The Vanishing of Ethan Carter",
+        "playtime_forever": 215,
+        "img_icon_url": "d94c31f17ff27a733fd01ecf929106264b89b8b5",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 260230,
+        "name": "Valiant Hearts: The Great War™ / Soldats Inconnus : Mémoires de la Grande Guerre™",
+        "playtime_forever": 333,
+        "img_icon_url": "903f95e08ebcd45dfb78deb171b2f12909892be2",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 261550,
+        "name": "Mount & Blade II: Bannerlord",
+        "playtime_forever": 3299,
+        "img_icon_url": "896d5f4214e4e185a20af51b46d9dea2e6f4aaad",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          5
+        ]
+      },
+      {
+        "appid": 261570,
+        "name": "Ori and the Blind Forest",
+        "playtime_forever": 35,
+        "img_icon_url": "a8b0c1ca89fa421e5061d4ac5c17e2fbf4f08845",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 264710,
+        "name": "Subnautica",
+        "playtime_forever": 2014,
+        "img_icon_url": "8a14ceef6e230330a916d7a6324b8c52d464d569",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 265300,
+        "name": "Lords Of The Fallen",
+        "playtime_forever": 0,
+        "img_icon_url": "b01d7d060da64430dbbc5195f26225f2e75c38b0",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 265630,
+        "name": "Fistful of Frags",
+        "playtime_forever": 38,
+        "img_icon_url": "e70c19e10125ea3f221666327af2b90f3fcecad9",
+        "has_community_visible_stats": true,
+        "has_leaderboards": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 268050,
+        "name": "The Evil Within",
+        "playtime_forever": 42,
+        "img_icon_url": "3ec11bf61b679fe85a529fc139ed90f39964a7c1",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 268910,
+        "name": "Cuphead",
+        "playtime_forever": 821,
+        "img_icon_url": "c19f1bd916b6d171e94089d03112ec4e4e4da84e",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 269790,
+        "name": "DreadOut",
+        "playtime_forever": 0,
+        "img_icon_url": "a5fccac81bf4c4fe8be3378d5acfb9c8ed4e6d17",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          5
+        ]
+      },
+      {
+        "appid": 270880,
+        "name": "American Truck Simulator",
+        "playtime_forever": 97,
+        "img_icon_url": "2aec8af4b4b23cb6054d9aea06194621cdd66945",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 271590,
+        "name": "Grand Theft Auto V Legacy",
+        "playtime_forever": 2461,
+        "img_icon_url": "1e72f87eb927fa1485e68aefaff23c7fd7178251",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          5
+        ]
+      },
+      {
+        "appid": 275850,
+        "name": "No Man's Sky",
+        "playtime_forever": 102,
+        "img_icon_url": "fccb20f309ac5ae05b3cb4576a8a3357edf86f2e",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 282070,
+        "name": "This War of Mine",
+        "playtime_forever": 306,
+        "img_icon_url": "38ad6fd10e2b89ab24e8013584ece7961bebe086",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          5
+        ]
+      },
+      {
+        "appid": 285900,
+        "name": "Gang Beasts",
+        "playtime_forever": 52,
+        "img_icon_url": "fe0f0440dabf5ff8d8326d2d6ff629e016fe3559",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 286160,
+        "name": "Tabletop Simulator",
+        "playtime_forever": 10277,
+        "img_icon_url": "19f5b90e3c7084758f885ded843631b13929fa26",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 287700,
+        "name": "METAL GEAR SOLID V: THE PHANTOM PAIN",
+        "playtime_forever": 0,
+        "img_icon_url": "7a1737163c96ea641143db45709a4ac444ba8f7b",
+        "has_community_visible_stats": true,
+        "has_leaderboards": true
+      },
+      {
+        "appid": 289070,
+        "name": "Sid Meier's Civilization VI",
+        "playtime_forever": 91,
+        "img_icon_url": "9dc914132fec244adcede62fb8e7524a72a7398c",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 289130,
+        "name": "ENDLESS™ Legend",
+        "playtime_forever": 0,
+        "img_icon_url": "02277be6b9b09671b857948006316057974d7036",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 291550,
+        "name": "Brawlhalla",
+        "playtime_forever": 19,
+        "img_icon_url": "c43fac31b8bf8821764603a14d09412bc3d45f66",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 291650,
+        "name": "Pillars of Eternity",
+        "playtime_forever": 0,
+        "img_icon_url": "95f72e4cf0fe3e882ca2bd0fef7e804709650943",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 292030,
+        "name": "The Witcher 3: Wild Hunt",
+        "playtime_forever": 283,
+        "img_icon_url": "78d0ff98b67851f24539cdf2402cf147679134f4",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          1,
+          5
+        ]
+      },
+      {
+        "appid": 297000,
+        "name": "Heroes of Might & Magic III - HD Edition",
+        "playtime_forever": 199,
+        "img_icon_url": "0ae505e74b80d1cdee125500f4467a4c7a1d7e43",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 301640,
+        "name": "Zombie Army Trilogy",
+        "playtime_forever": 227,
+        "img_icon_url": "ce8a1505c309b0427f9559e1e7cf8d00c963451b",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 302590,
+        "name": "Of Guards And Thieves",
+        "playtime_forever": 84,
+        "img_icon_url": "06883aee459f709a526cb5676ec24d2aaf454b06",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 304390,
+        "name": "For Honor",
+        "playtime_forever": 94,
+        "img_icon_url": "24ec1359d4c27b2aef9ad3fc59fdfa495789d6e6",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 304430,
+        "name": "INSIDE",
+        "playtime_forever": 180,
+        "img_icon_url": "047e00c80d6aca008ce5eaaf54df4d98c822ee19",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 305380,
+        "name": "Blue Estate",
+        "playtime_forever": 21,
+        "img_icon_url": "7363265c06228fc487ad14d4b84c15f605874f95",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 305620,
+        "name": "The Long Dark",
+        "playtime_forever": 0,
+        "img_icon_url": "e26b78087b75d5e002e92f2bdd73ce6fc4861e56",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 307690,
+        "name": "Sleeping Dogs: Definitive Edition",
+        "playtime_forever": 2,
+        "img_icon_url": "8ef5e84ffbd9a4b3fb28d308073bccb415fc25ab",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 310950,
+        "name": "Street Fighter V",
+        "playtime_forever": 5,
+        "img_icon_url": "ea0db9dc61e606b544fa30d21d31354998ca1f95",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 312660,
+        "name": "Sniper Elite 4",
+        "playtime_forever": 0,
+        "img_icon_url": "3a1dbbf59326c0bb78113db7ac0d70b9988b3ce8",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 312670,
+        "name": "Strange Brigade",
+        "playtime_forever": 134,
+        "img_icon_url": "328f1ee6525320b82ad06033da1e0194a9ae0436",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 313120,
+        "name": "Stranded Deep",
+        "playtime_forever": 336,
+        "img_icon_url": "1d2f450f4cf55ecf0275f49f68a3440eef93ad27",
+        "has_community_visible_stats": true,
+        "has_leaderboards": true
+      },
+      {
+        "appid": 319630,
+        "name": "Life is Strange™",
+        "playtime_forever": 40,
+        "img_icon_url": "e54b13da0710a35e7088664a77632e79157d8332",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 319910,
+        "name": "Trine 3: The Artifacts of Power",
+        "playtime_forever": 111,
+        "img_icon_url": "15853f24d7576a83cd4d54532a2a93c2d8d6024d",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 321400,
+        "name": "Supraball",
+        "playtime_forever": 232,
+        "img_icon_url": "b1a38c4f768289b87d6dad77d72d13684180848c",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 322330,
+        "name": "Don't Starve Together",
+        "playtime_forever": 336,
+        "img_icon_url": "a80aa6cff8eebc1cbc18c367d9ab063e1553b0ee"
+      },
+      {
+        "appid": 323190,
+        "name": "Frostpunk",
+        "playtime_forever": 0,
+        "img_icon_url": "0561084dfe24c469c905fe0681da82aa31102836",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          5
+        ]
+      },
+      {
+        "appid": 327030,
+        "name": "Worms W.M.D",
+        "playtime_forever": 35,
+        "img_icon_url": "9f18090e88fd50a0a85a66a1a9872bd36c856b58",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 329070,
+        "name": "SpyParty",
+        "playtime_forever": 211,
+        "img_icon_url": "a3fa1df98cce4bd0989f74e5305c9add920b4e8e"
+      },
+      {
+        "appid": 341800,
+        "name": "Keep Talking and Nobody Explodes",
+        "playtime_forever": 92,
+        "img_icon_url": "1d0a322b0184faa755ad99af803dfd7e14add30f",
+        "has_community_visible_stats": true,
+        "has_leaderboards": true
+      },
+      {
+        "appid": 342260,
+        "name": "Nevermind",
+        "playtime_forever": 0,
+        "img_icon_url": "96644ee4544bf72a3f0429e97544063c2873229a",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          1,
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 346010,
+        "name": "Besiege",
+        "playtime_forever": 779,
+        "img_icon_url": "16667f445723c720782314269e41f9daa8a7fb56",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 346110,
+        "name": "ARK: Survival Evolved",
+        "playtime_forever": 26019,
+        "img_icon_url": "fef1799533131c10f538d2dd697bbbd89e663265",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 349720,
+        "name": "Audition Online",
+        "playtime_forever": 46,
+        "img_icon_url": "aa380213685e41b6fc1305a3ae11511eb7cf3be5"
+      },
+      {
+        "appid": 350640,
+        "name": "Sherlock Holmes: The Devil's Daughter",
+        "playtime_forever": 0,
+        "img_icon_url": "d29f5a2a683f0b2767c5fab8b41dd2c491d59e1b",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 356190,
+        "name": "Middle-earth™: Shadow of War™",
+        "playtime_forever": 0,
+        "img_icon_url": "316c479e5d51d21e15eb8f82338fce82c42c4115",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 357300,
+        "name": "Snakebird",
+        "playtime_forever": 27,
+        "img_icon_url": "8885a12c4c8e8079f35608abfb5af6897bc52315",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 359100,
+        "name": "Q.U.B.E. 2",
+        "playtime_forever": 0,
+        "img_icon_url": "838508ed8b203d780afe14ee904ba954d5dff9f0",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 359550,
+        "name": "Tom Clancy's Rainbow Six® Siege X",
+        "playtime_forever": 84,
+        "img_icon_url": "624745d333ac54aedb1ee911013e2edb7722550e",
+        "content_descriptorids": [
+          5
+        ]
+      },
+      {
+        "appid": 359840,
+        "name": "Shift Happens",
+        "playtime_forever": 56,
+        "img_icon_url": "4babaa40ec39ec666b12b54487578770a178a657",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 360170,
+        "name": "How to Survive 2",
+        "playtime_forever": 352,
+        "img_icon_url": "ec2bf917af3fd4ab5a030b3f4d2bca0b9ef4a94e",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 360940,
+        "name": "The Mean Greens - Plastic Warfare",
+        "playtime_forever": 9,
+        "img_icon_url": "e0e8e9115614360ab29f0de41adb6a5ffe4bdd61",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 361800,
+        "name": "Tree of Life",
+        "playtime_forever": 204,
+        "img_icon_url": "e1d0f5a2acc968d7a7a38943ed613b872d6f9939"
+      },
+      {
+        "appid": 367450,
+        "name": "Poly Bridge",
+        "playtime_forever": 1243,
+        "img_icon_url": "7bc695b845364099d87469c2d9074a3782c68638",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 367500,
+        "name": "Dragon's Dogma: Dark Arisen",
+        "playtime_forever": 0,
+        "img_icon_url": "c21a873b4d4ccd64e582e733c9f319fbb4d7899e",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 368390,
+        "name": "The Darkside Detective",
+        "playtime_forever": 0,
+        "img_icon_url": "5d6af724579453c87a82a63c4341ccaac58a4dc1",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 374320,
+        "name": "DARK SOULS™ III",
+        "playtime_forever": 817,
+        "img_icon_url": "7abe1a33129c20cf10d2c74128bbd657a2a2c806",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 377160,
+        "name": "Fallout 4",
+        "playtime_forever": 0,
+        "img_icon_url": "779c4356ebe32af2af7c9f0bbba595dfe872cd7f",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 379430,
+        "name": "Kingdom Come: Deliverance",
+        "playtime_forever": 0,
+        "img_icon_url": "915ec515c36645855abed0476b5b0891d8a4e47a",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          1,
+          5
+        ]
+      },
+      {
+        "appid": 381210,
+        "name": "Dead by Daylight",
+        "playtime_forever": 160,
+        "img_icon_url": "aa152097a700fd6f4707397ce41794ea30874790",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 383150,
+        "name": "Dead Island Definitive Edition",
+        "playtime_forever": 0,
+        "img_icon_url": "80d0dabca21c70909e63682512a24ce66c4f5c3b",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 387290,
+        "name": "Ori and the Blind Forest: Definitive Edition",
+        "playtime_forever": 0,
+        "img_icon_url": "a8b0c1ca89fa421e5061d4ac5c17e2fbf4f08845",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 387990,
+        "name": "Scrap Mechanic",
+        "playtime_forever": 77,
+        "img_icon_url": "a912301394e90691ef6a1598e971c9b47c1806b5"
+      },
+      {
+        "appid": 391720,
+        "name": "Layers of Fear (2016)",
+        "playtime_forever": 98,
+        "img_icon_url": "0fc90b925c7bbdcc95df6599a01b80dff18e6bbb",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          5
+        ]
+      },
+      {
+        "appid": 393380,
+        "name": "Squad",
+        "playtime_forever": 19,
+        "img_icon_url": "eb66a8cb52165274c84cae6526205065d13119d5",
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 394510,
+        "name": "HELLDIVERS™",
+        "playtime_forever": 0,
+        "img_icon_url": "5b6ef3a885886cc6bacad6384c31f1efc22b1da1",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 394690,
+        "name": "Tower Unite",
+        "playtime_forever": 0,
+        "img_icon_url": "53c78cd39b2421412fd367214f26c453714e6225",
+        "has_community_visible_stats": true,
+        "has_leaderboards": true
+      },
+      {
+        "appid": 395200,
+        "name": "Ben and Ed",
+        "playtime_forever": 0,
+        "img_icon_url": "ad4b350ee4861e635646366461d360452f4963a5",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 397900,
+        "name": "Business Tour - Online Multiplayer Board Game",
+        "playtime_forever": 4427,
+        "img_icon_url": "b6ce52a576e99f54c5d18f675540b9c3ee70ed47",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 399820,
+        "name": "Kopanito All-Stars Soccer",
+        "playtime_forever": 58,
+        "img_icon_url": "efb557e4cc3effe1c98e718f8fb6aac718484250",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 400430,
+        "name": "The Vanishing of Ethan Carter Redux",
+        "playtime_forever": 0,
+        "img_icon_url": "1385cf04f3625f1281c964f070cc6eaeb5642cd3",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 403640,
+        "name": "Dishonored 2",
+        "playtime_forever": 0,
+        "img_icon_url": "6d6bac950a234764a353c518607dcd01973f5b65",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 405710,
+        "name": "Staxel",
+        "playtime_forever": 0,
+        "img_icon_url": "2c025dc365c080a29d2e2d1411718fd68a8d2c70",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 407530,
+        "name": "ARK: Survival Of The Fittest",
+        "playtime_forever": 0,
+        "img_icon_url": "807c673cddebbfee0700a947a75f4872ad136e9b"
+      },
+      {
+        "appid": 412020,
+        "name": "Metro Exodus",
+        "playtime_forever": 0,
+        "img_icon_url": "f9863ed0ffc717b130744488f088ae95fe6e9bd8",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 413150,
+        "name": "Stardew Valley",
+        "playtime_forever": 2,
+        "img_icon_url": "35d1377200084a4034238c05b0c8930451e2fb40",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 414340,
+        "name": "Hellblade: Senua's Sacrifice",
+        "playtime_forever": 0,
+        "img_icon_url": "8a5d8f2d1cb52b21eaf4f6609592c6634731c962",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 414700,
+        "name": "Outlast 2",
+        "playtime_forever": 106,
+        "img_icon_url": "f336155a1714d0d413dea897f63ef19ee1f7cf21",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          1,
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 417910,
+        "name": "Street Warriors Online",
+        "playtime_forever": 46,
+        "img_icon_url": "8a5352b3c69402e0ce18db3d4c202c0c0ee63f71",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 420290,
+        "name": "Blackwake",
+        "playtime_forever": 0,
+        "img_icon_url": "e59e4513c41fab6493b80e78a5bfae5252239b71",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 421120,
+        "name": "Samorost 3",
+        "playtime_forever": 0,
+        "img_icon_url": "abef8e1de0c23cbbe719b2734be1f041d1dbfe11",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 421740,
+        "name": "Goetia",
+        "playtime_forever": 0,
+        "img_icon_url": "e8cf66ff090f8007aa9bfa2b5c52475d599ab8de",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 424840,
+        "name": "Little Nightmares",
+        "playtime_forever": 432,
+        "img_icon_url": "1904c041f963b5e2cb22b56c370444517cc4e288",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 425580,
+        "name": "The Room Two",
+        "playtime_forever": 169,
+        "img_icon_url": "f3cbf3fc433f4c05000c0ec4fc057bc8b333224a",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 427410,
+        "name": "Abiotic Factor",
+        "playtime_forever": 109,
+        "img_icon_url": "789cca4e4e51a6649f5728d870d3a602e3c453fe",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 431240,
+        "name": "Golf With Your Friends",
+        "playtime_forever": 2916,
+        "img_icon_url": "c6379c8ec66ac02565f1155bf3821b846164d93c",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 431960,
+        "name": "Wallpaper Engine",
+        "playtime_forever": 9,
+        "img_icon_url": "72edaed9d748c6cf7397ffb1c83f0b837b9ebd9d",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 433550,
+        "name": "DARQ",
+        "playtime_forever": 11,
+        "img_icon_url": "9cd00d8e169e3fac185ce9268df580337dffc630",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          5
+        ]
+      },
+      {
+        "appid": 433850,
+        "name": "Z1 Battle Royale",
+        "playtime_forever": 657,
+        "img_icon_url": "aee7491abfd812e2fbb4ec3326ad5f4b85c8137a",
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 435150,
+        "name": "Divinity: Original Sin 2",
+        "playtime_forever": 4034,
+        "img_icon_url": "519a99caef7c5e2b4625c8c2fa0620fb66a752f3",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          5
+        ]
+      },
+      {
+        "appid": 437920,
+        "name": "Tricky Towers",
+        "playtime_forever": 589,
+        "img_icon_url": "b5eaff8c251b1df18d3d8534279242f0908e7403",
+        "has_community_visible_stats": true,
+        "has_leaderboards": true
+      },
+      {
+        "appid": 438740,
+        "name": "Friday the 13th: The Game",
+        "playtime_forever": 210,
+        "img_icon_url": "42b5e4d9df60f86b00b7b48a7061657475740030",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 439700,
+        "name": "H1Z1: Test Server",
+        "playtime_forever": 0,
+        "img_icon_url": "d0e924622be8ce1e9920197f397365bb1e6bca5f"
+      },
+      {
+        "appid": 440900,
+        "name": "Conan Exiles",
+        "playtime_forever": 13444,
+        "img_icon_url": "399859f8bdaeef066f14029d5f1910960545fbd9",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          1,
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 442070,
+        "name": "Drawful 2",
+        "playtime_forever": 0,
+        "img_icon_url": "a2aab99a9ec657f817aff247593b3310cae44288",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 444090,
+        "name": "Paladins",
+        "playtime_forever": 13,
+        "img_icon_url": "1565119c17f532338a0645b98e69e1fc1df0c29e",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 444200,
+        "name": "World of Tanks Blitz",
+        "playtime_forever": 197,
+        "img_icon_url": "6ce02840322f500c93a2f0304bc916fb44422631"
+      },
+      {
+        "appid": 445980,
+        "name": "Wizard of Legend",
+        "playtime_forever": 0,
+        "img_icon_url": "1177948ac90affc4ede111e2bb9f3f7b78122189",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 451020,
+        "name": "Battle Chasers: Nightwar",
+        "playtime_forever": 0,
+        "img_icon_url": "07852ee68f15102a0c14ddd404b52ffc62273cff",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 456670,
+        "name": "Hand of Fate 2",
+        "playtime_forever": 0,
+        "img_icon_url": "cf7c30fc310fd3aac1662df680b56ac5a1b01a1c",
+        "has_community_visible_stats": true,
+        "has_leaderboards": true
+      },
+      {
+        "appid": 456750,
+        "name": "The Room Three",
+        "playtime_forever": 369,
+        "img_icon_url": "464b82f61f438eacf86cb7731649c5eb00ba60ef",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 457140,
+        "name": "Oxygen Not Included",
+        "playtime_forever": 14,
+        "img_icon_url": "d37534163ebac8351e0bda0bf30f8f2174c921b6",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 460920,
+        "name": "Steep",
+        "playtime_forever": 27,
+        "img_icon_url": "0cd871768bc488856bd5bf44a196b221fc9a878b",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 461040,
+        "name": "PICO PARK:Classic Edition",
+        "playtime_forever": 16,
+        "img_icon_url": "03190707446a3394e000bafee58da96581ed8721"
+      },
+      {
+        "appid": 466240,
+        "name": "Deceit",
+        "playtime_forever": 508,
+        "img_icon_url": "9ab4436d104e73d560f6e0c439bcb150a9c5a174",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 466560,
+        "name": "Northgard",
+        "playtime_forever": 0,
+        "img_icon_url": "f290db6bc98c8b40d01a13b9c99baaf705c6ac17",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 466630,
+        "name": "The Pedestrian",
+        "playtime_forever": 12,
+        "img_icon_url": "2e6339d0f48fd88a9e9339937977e1ad711ab32e",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 469820,
+        "name": "Genital Jousting",
+        "playtime_forever": 29,
+        "img_icon_url": "6c75b49fb3dcf2f3903878e274a13e44d100b85a",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          1,
+          5
+        ]
+      },
+      {
+        "appid": 470780,
+        "name": "She Remembered Caterpillars",
+        "playtime_forever": 0,
+        "img_icon_url": "4447df6c232b6c90489fbe1f603ef2f194f2a3ec",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 473690,
+        "name": "Absolver",
+        "playtime_forever": 0,
+        "img_icon_url": "2b104291f0b2574f9c8c36c668be5c2d5351352e",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          5
+        ]
+      },
+      {
+        "appid": 475150,
+        "name": "Titan Quest Anniversary Edition",
+        "playtime_forever": 231,
+        "img_icon_url": "be3384e7936f548303c77ee2abc4c9026285f554",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 477160,
+        "name": "Human Fall Flat",
+        "playtime_forever": 1443,
+        "img_icon_url": "15c6f6a4d69633a63ee410b24a2417f16d803b06",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 481110,
+        "name": "The Bunker",
+        "playtime_forever": 0,
+        "img_icon_url": "a85258815351b6ace267372c0c1a1ed7b92779b9",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 485030,
+        "name": "PLANET ALPHA",
+        "playtime_forever": 0,
+        "img_icon_url": "e08911ca7d2ffc146bfe413cc0e647192d6d9cd8",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 485610,
+        "name": "Soccer Online: Ball 3D",
+        "playtime_forever": 20,
+        "img_icon_url": "68cdf3cab7f123f7ae2dd7584596503a497883d3",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 489520,
+        "name": "Minion Masters",
+        "playtime_forever": 0,
+        "img_icon_url": "ad87d123224d786a413a6021ddaf9257e26c0a28",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 494840,
+        "name": "UBOAT",
+        "playtime_forever": 0,
+        "img_icon_url": "456cd3ff98511c5874d3cb2492e0db1019610767",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 495420,
+        "name": "State of Decay 2",
+        "playtime_forever": 59,
+        "img_icon_url": "d6d418d682accfb51ee089ea506587c9c924989b",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 500260,
+        "name": "Ben and Ed - Blood Party",
+        "playtime_forever": 41,
+        "img_icon_url": "3a192f2ccb7140ee9831dcb3109ed5e39fa79fab",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 504370,
+        "name": "Battlerite",
+        "playtime_forever": 74,
+        "img_icon_url": "943ec9894774f40c9863d0305c456a3c3b2f7c13"
+      },
+      {
+        "appid": 505460,
+        "name": "Foxhole",
+        "playtime_forever": 95,
+        "img_icon_url": "69f274102aa347f7c22c4e6b9bb02dd20ee976e0",
+        "content_descriptorids": [
+          5
+        ]
+      },
+      {
+        "appid": 508440,
+        "name": "Totally Accurate Battle Simulator",
+        "playtime_forever": 207,
+        "img_icon_url": "50fbd075b1cbb63ab805d9e49bbe6c57c5c6e9ff",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 509980,
+        "name": "BIGFOOT",
+        "playtime_forever": 28,
+        "img_icon_url": "11430873eef6c4da71933645cb4d623439f5c919",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 513710,
+        "name": "SCUM",
+        "playtime_forever": 12654,
+        "img_icon_url": "c25483e3e989239b932901118e44cf71606b5973",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          1,
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 514900,
+        "name": "Observer",
+        "playtime_forever": 0,
+        "img_icon_url": "9bc60be48d6df66694f8774598a4a54631dc3d8c",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 518150,
+        "name": "Intruder",
+        "playtime_forever": 212,
+        "img_icon_url": "df1535a0f79188f103ec3337a0c1e7a5a4307770",
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 518790,
+        "name": "theHunter: Call of the Wild™",
+        "playtime_forever": 572,
+        "img_icon_url": "8cd121cb62c8f98019ed333716657449c8da2b81",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 522470,
+        "name": "The House of Da Vinci",
+        "playtime_forever": 422,
+        "img_icon_url": "aacf5e28467b6575a5b93efdf1ad9b86adaa7bf4",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 525510,
+        "name": "Guns, Gore and Cannoli 2",
+        "playtime_forever": 13,
+        "img_icon_url": "5cd5a0a73891f82b221105f5360d7f0b2f9f672a",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 527450,
+        "name": "Cockroach Simulator",
+        "playtime_forever": 27,
+        "img_icon_url": "257a3977e168e5d5cdc23596be1cf34ca1ffe53b"
+      },
+      {
+        "appid": 532210,
+        "name": "Life is Strange 2",
+        "playtime_forever": 0,
+        "img_icon_url": "4bc11557267819da12bb45488ffd3f1fb3945279",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          1,
+          5
+        ]
+      },
+      {
+        "appid": 534500,
+        "name": "Tiger Knight: Empire War",
+        "playtime_forever": 752,
+        "img_icon_url": "569f892f5d0c70adbc59efd2e63b98bab5da3ec5",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 535480,
+        "name": "Sundered: Eldritch Edition",
+        "playtime_forever": 0,
+        "img_icon_url": "1909ea5532df1dad6b672f6f683a7f64f861d292",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 537340,
+        "name": "Guts and Glory",
+        "playtime_forever": 54,
+        "img_icon_url": "8e6caf134735eaeae803e959cae1e254a5ddc31e",
+        "has_community_visible_stats": true,
+        "has_leaderboards": true
+      },
+      {
+        "appid": 552500,
+        "name": "Warhammer: Vermintide 2",
+        "playtime_forever": 0,
+        "img_icon_url": "a671f2ddf7359beba9702ac097baf6d50cb07202",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 553420,
+        "name": "TUNIC",
+        "playtime_forever": 8,
+        "img_icon_url": "f4c05eb0f62914cf03a33c820e42359dad439912",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 553850,
+        "name": "HELLDIVERS™ 2",
+        "playtime_forever": 123,
+        "img_icon_url": "c3dff088e090f81d6e3d88eabbb67732647c69cf",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 554620,
+        "name": "Life is Strange: Before the Storm",
+        "playtime_forever": 0,
+        "img_icon_url": "3bf0d4bc9563fd21d273123646e74669abb83947",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 555150,
+        "name": "The First Tree",
+        "playtime_forever": 19,
+        "img_icon_url": "76a972598c30da9778e1ac780650f6a9e5f40ccd",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 557340,
+        "name": "My Friend Pedro",
+        "playtime_forever": 1,
+        "img_icon_url": "734deb65d5561961595a190fa2d2adf61d607efe",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 557600,
+        "name": "Gorogoa",
+        "playtime_forever": 31,
+        "img_icon_url": "ae001eaabbb76bf67661566249c978b73c4693e7",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 562500,
+        "name": "Warstone TD",
+        "playtime_forever": 0,
+        "img_icon_url": "b130b95e5a72ace6ab4260db01ee26e7383477ce",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 565020,
+        "name": "Global Adventures",
+        "playtime_forever": 0,
+        "img_icon_url": "0dad6ea7f029b035d040088552f748387c5f75bb"
+      },
+      {
+        "appid": 566190,
+        "name": "The Search",
+        "playtime_forever": 0,
+        "img_icon_url": "5a8693763ac2f9aa8cf55382278f6f630e8f7b1d",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 571740,
+        "name": "Golf It!",
+        "playtime_forever": 79,
+        "img_icon_url": "70b58cf94333587a69cf93c7e4a4241500928251",
+        "has_community_visible_stats": true,
+        "has_leaderboards": true
+      },
+      {
+        "appid": 577670,
+        "name": "Demolish & Build 2018",
+        "playtime_forever": 0,
+        "img_icon_url": "52510112d423589d1217d3fbd47cf071260e91da",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 578080,
+        "name": "PUBG: BATTLEGROUNDS",
+        "playtime_2weeks": 40,
+        "playtime_forever": 158400,
+        "img_icon_url": "609f27278aa70697c13bf99f32c5a0248c381f9d",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 581320,
+        "name": "Insurgency: Sandstorm",
+        "playtime_forever": 0,
+        "img_icon_url": "d279a836f1d2df271dadbefda9fee7fc65c5fe87",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 582010,
+        "name": "Monster Hunter: World",
+        "playtime_forever": 0,
+        "img_icon_url": "6ec147f2d423f435e15eb79b3d82f771913de634",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 582160,
+        "name": "Assassin's Creed Origins",
+        "playtime_forever": 0,
+        "img_icon_url": "dff3a53f93d39f1e0432ec4f22d31c12aeefa36f",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 582500,
+        "name": "We Were Here",
+        "playtime_forever": 167,
+        "img_icon_url": "3b5dc17a063e558ef755b7bb6e7a3feeb771972f",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 584980,
+        "name": "Late Shift",
+        "playtime_forever": 7,
+        "img_icon_url": "8a040e14b44da6e798b2c61a8cde1320da05c845",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          5
+        ]
+      },
+      {
+        "appid": 585420,
+        "name": "Trailmakers",
+        "playtime_forever": 0,
+        "img_icon_url": "343fef058327a2fe514cac2e270fbdc581b05786",
+        "has_community_visible_stats": true,
+        "has_leaderboards": true
+      },
+      {
+        "appid": 585450,
+        "name": "Shadows: Awakening",
+        "playtime_forever": 36,
+        "img_icon_url": "07481d66b77cbe7b6d94726968ba0f99bdeb4b42",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 589290,
+        "name": "Holdfast: Nations At War",
+        "playtime_forever": 0,
+        "img_icon_url": "4a1d30894946a782014e8542884e64c25c2b062a",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 598780,
+        "name": "Boreal Blade",
+        "playtime_forever": 224,
+        "img_icon_url": "2e8c6237c614e3d54e44bedcc1757d933244f0cc",
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 600080,
+        "name": "Unto The End",
+        "playtime_forever": 43,
+        "img_icon_url": "b4b96ce2a72eea9b25a85425fec4f8ceff835510",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 600370,
+        "name": "Paradigm",
+        "playtime_forever": 0,
+        "img_icon_url": "74980e3a20cb9496118c214824a0587e502dc450",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 601150,
+        "name": "Devil May Cry 5",
+        "playtime_forever": 419,
+        "img_icon_url": "7ec2f6fb9069c3ae03af7e83610862090cd757bb",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          1,
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 601530,
+        "name": "Darkarta: A Broken Heart's Quest Collector's Edition",
+        "playtime_forever": 2,
+        "img_icon_url": "ab8e45c6132045c000152241e99d054ef081bddb",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 605740,
+        "name": "Flashing Lights",
+        "playtime_forever": 46,
+        "img_icon_url": "b6306adcac895a9e69bd6b6217b37fa3fccb9ee4",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 606880,
+        "name": "GreedFall",
+        "playtime_forever": 0,
+        "img_icon_url": "80c655c74f7f8f01e02e68a6583e79376dec5963",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 609320,
+        "name": "FAR: Lone Sails",
+        "playtime_forever": 162,
+        "img_icon_url": "3e1dc29370610797cfebed20bb202f5bffd236fe",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 609490,
+        "name": "Minit",
+        "playtime_forever": 0,
+        "img_icon_url": "a000467e6d1f42730e6adac03ff39907f2ecd554",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 612390,
+        "name": "Dandara: Trials of Fear Edition",
+        "playtime_forever": 0,
+        "img_icon_url": "c64bcd654c0854f70273b2ccc00096cc68747130",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 619700,
+        "name": "Steel Rats",
+        "playtime_forever": 0,
+        "img_icon_url": "ce4d4ba2b2940f77f69834fde9a50d6840881677",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 623990,
+        "name": "Tom Clancy's Rainbow Six Siege - Test Server",
+        "playtime_forever": 0,
+        "img_icon_url": "20deaf466474f76f2ffdb345fe56f40fe3af74c0"
+      },
+      {
+        "appid": 629820,
+        "name": "Maneater",
+        "playtime_forever": 139,
+        "img_icon_url": "8c360e45ff1ec31a3640e62780d7d1f47badc251",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 632300,
+        "name": "Hobo: Tough Life",
+        "playtime_forever": 1438,
+        "img_icon_url": "1a30df0276b9dc7ec2b9c36e6388619a5d21b859",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          5
+        ]
+      },
+      {
+        "appid": 632470,
+        "name": "Disco Elysium",
+        "playtime_forever": 0,
+        "img_icon_url": "b681544caa931c7c1a6788e6e3e33cb42892d17c",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          5
+        ]
+      },
+      {
+        "appid": 633460,
+        "name": "Tannenberg",
+        "playtime_forever": 0,
+        "img_icon_url": "66761379149da17d488cc6a114dcd08847a9ef75",
+        "has_community_visible_stats": true,
+        "has_leaderboards": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 638230,
+        "name": "Journey",
+        "playtime_forever": 5,
+        "img_icon_url": "8538c0cb998e844ce5c78683f322e9ca81075a34",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 641990,
+        "name": "The Escapists 2",
+        "playtime_forever": 5,
+        "img_icon_url": "c1d2bb67884d14088b7befc3d442df6eb801cd13",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 646910,
+        "name": "The Crew 2",
+        "playtime_forever": 58,
+        "img_icon_url": "c627b2fa24d61b4042afbd2b183f49b9ca59bc45",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 648800,
+        "name": "Raft",
+        "playtime_forever": 602,
+        "img_icon_url": "6a9ae357c4133b1b631b520edd25b1974f3afb68",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 649950,
+        "name": "Ashen",
+        "playtime_forever": 0,
+        "img_icon_url": "149743265f44d2c0092676bfbc93e75798a644a5",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 654310,
+        "name": "For Honor - Public Test",
+        "playtime_forever": 0,
+        "img_icon_url": "64dd8eca34f0b5faeda135f057da1973806852f2"
+      },
+      {
+        "appid": 657200,
+        "name": "Hand Simulator",
+        "playtime_forever": 381,
+        "img_icon_url": "b2ecce2712d54f1978496919c734b6da1d1cbb5e",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 665360,
+        "name": "Comedy Night",
+        "playtime_forever": 110,
+        "img_icon_url": "adeee993be9886ca04225bbd04e5d296597d2698",
+        "has_community_visible_stats": true,
+        "has_leaderboards": true
+      },
+      {
+        "appid": 666140,
+        "name": "My Time at Portia",
+        "playtime_forever": 237,
+        "img_icon_url": "06668be3a8b596a5980adf1b61b0c0dd515b5acd",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 670290,
+        "name": "Real Pool 3D - Poolians",
+        "playtime_forever": 947,
+        "img_icon_url": "b74acc3e1996c8cb9ce9e2933c190575fa0be457"
+      },
+      {
+        "appid": 671860,
+        "name": "BattleBit Remastered",
+        "playtime_forever": 28,
+        "img_icon_url": "84d4db032ad4d637b97e9a25f7d3da70b6fd6257",
+        "content_descriptorids": [
+          5
+        ]
+      },
+      {
+        "appid": 673560,
+        "name": "IOSoccer",
+        "playtime_forever": 59,
+        "img_icon_url": "8fee12060ccdfa615e9c21bcead22b9f10020bdf"
+      },
+      {
+        "appid": 673750,
+        "name": "Super Bunny Man",
+        "playtime_forever": 77,
+        "img_icon_url": "84dacb8846b7ede61ca12576ee2c5393b390ed88"
+      },
+      {
+        "appid": 673950,
+        "name": "Farm Together",
+        "playtime_forever": 4222,
+        "img_icon_url": "d968e9e31ef9cb110f09780f7112bac1c9968716",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 674520,
+        "name": "Fight'N Rage",
+        "playtime_forever": 0,
+        "img_icon_url": "e112c03476f7f30e2b9832ef25d4d50d46159fb9",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 674940,
+        "name": "Stick Fight: The Game",
+        "playtime_forever": 55,
+        "img_icon_url": "28bc7ba8952d488e01e7136126cbbc3b42ee443a",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 680360,
+        "name": "Regions Of Ruin",
+        "playtime_forever": 0,
+        "img_icon_url": "d8f045e06bc779e2f46718cf05dea4132365a04a",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 682990,
+        "name": "Drug Dealer Simulator",
+        "playtime_forever": 40,
+        "img_icon_url": "c80b7b0b203eb18386ce1210a9ee2afdfe0660ce",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          5
+        ]
+      },
+      {
+        "appid": 686810,
+        "name": "Hell Let Loose",
+        "playtime_forever": 1122,
+        "img_icon_url": "34a4b24b1132045d8e59e56b9c24bed725af55c7",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 690640,
+        "name": "Trine 4: The Nightmare Prince",
+        "playtime_forever": 300,
+        "img_icon_url": "afe71b7d8dd5ceb78d971d1996266c6307ec5fd0",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 690790,
+        "name": "DiRT Rally 2.0",
+        "playtime_forever": 6,
+        "img_icon_url": "bd4cc20090b66b8e5a992a1ab67e3de0bef177da",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 696260,
+        "name": "Tree of Life - Experimental Server",
+        "playtime_forever": 0,
+        "img_icon_url": "e1d0f5a2acc968d7a7a38943ed613b872d6f9939"
+      },
+      {
+        "appid": 703080,
+        "name": "Planet Zoo",
+        "playtime_forever": 79,
+        "img_icon_url": "68c7a610498955f547b0ece0aff081d23f2025b5",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 704850,
+        "name": "Thief Simulator",
+        "playtime_forever": 1193,
+        "img_icon_url": "351a94d88850d4e0495e8a880f87af4a881f7d78",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 718670,
+        "name": "Cultist Simulator",
+        "playtime_forever": 0,
+        "img_icon_url": "45d3323697f801b62bab92ef0bbd2e672d68f504",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 728880,
+        "name": "Overcooked! 2",
+        "playtime_forever": 330,
+        "img_icon_url": "bac36f471109038ae0b40619de4109d475f86a54",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 732810,
+        "name": "Slipstream",
+        "playtime_forever": 0,
+        "img_icon_url": "67c6464118cd920503ebc0463e96ce16ff1f413c",
+        "has_community_visible_stats": true,
+        "has_leaderboards": true
+      },
+      {
+        "appid": 739630,
+        "name": "Phasmophobia",
+        "playtime_forever": 544,
+        "img_icon_url": "125673b382059f666ec81477173380a76e1df0be",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 741510,
+        "name": "The Hong Kong Massacre",
+        "playtime_forever": 132,
+        "img_icon_url": "4fd7619fc55b5b14bed0151e7da9f2c193a68440",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 742300,
+        "name": "Mega Man 11",
+        "playtime_forever": 285,
+        "img_icon_url": "059016117c2eaf1299c1496fad9a23fb7b302940",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 747350,
+        "name": "Hellblade: Senua's Sacrifice VR Edition",
+        "playtime_forever": 0,
+        "img_icon_url": "8a5d8f2d1cb52b21eaf4f6609592c6634731c962",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 750920,
+        "name": "Shadow of the Tomb Raider",
+        "playtime_forever": 16,
+        "img_icon_url": "7db38cff16091c9c058892fcfeee102a6ed589d9",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 752590,
+        "name": "A Plague Tale: Innocence",
+        "playtime_forever": 3,
+        "img_icon_url": "25e8278800f59f82e0fc2d8a61fb17ec1468a500",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 755790,
+        "name": "Ring of Elysium",
+        "playtime_forever": 278,
+        "img_icon_url": "bff111ed4307fc769143eb3d652fb940c363e37e",
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 756800,
+        "name": "Contraband Police",
+        "playtime_forever": 798,
+        "img_icon_url": "33b1e9a1aa8c32899d175b4b9e67ba2cab8827d4",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          5
+        ]
+      },
+      {
+        "appid": 760060,
+        "name": "Mutant Year Zero: Road to Eden",
+        "playtime_forever": 0,
+        "img_icon_url": "b263a08326409d579612ac5745bab3c3543ab442",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 765410,
+        "name": "Bean Battles",
+        "playtime_forever": 2,
+        "img_icon_url": "4db235394b860089409665efde93e13ddedc4474",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 768200,
+        "name": "Smalland: Survive the Wilds",
+        "playtime_forever": 19,
+        "img_icon_url": "82fe464a17c8ac11b806ec3d2861860c21e161c0",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 768750,
+        "name": "Montecrypto: The Bitcoin Enigma",
+        "playtime_forever": 91,
+        "img_icon_url": "a28fbbd5db0b729bf2b8f983480a2e654d17c584",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 774361,
+        "name": "Blasphemous",
+        "playtime_forever": 0,
+        "img_icon_url": "4adaff16db14b2cf3bcfda2c523f0d4d68e15d6f",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          1,
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 774861,
+        "name": "Project Winter",
+        "playtime_forever": 108,
+        "img_icon_url": "c6991b5658dcefeb09f867784b8b4780f4ad2d7c",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          5
+        ]
+      },
+      {
+        "appid": 774941,
+        "name": "Squad - Public Testing",
+        "playtime_forever": 0,
+        "img_icon_url": "6a9ee44c92c5ca7ddacf0d56bb7d5720961da0f8"
+      },
+      {
+        "appid": 779340,
+        "name": "Total War: THREE KINGDOMS",
+        "playtime_forever": 0,
+        "img_icon_url": "12eb7d5a469812b3dd13d04165cff053f477914d",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 780350,
+        "name": "Unruly Heroes",
+        "playtime_forever": 153,
+        "img_icon_url": "0eba121ddd5e72ace1020a614cfaf5a966aced32",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 785790,
+        "name": "WHAT THE GOLF?",
+        "playtime_forever": 55,
+        "img_icon_url": "dfbc173846f95b6db536560328860dde84b291f2",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 790740,
+        "name": "Tick Tock: A Tale for Two",
+        "playtime_forever": 10,
+        "img_icon_url": "91bf61eb7e9b6b630009f89db43c856236b9c932"
+      },
+      {
+        "appid": 794800,
+        "name": "Clue/Cluedo: Classic Edition",
+        "playtime_forever": 81,
+        "img_icon_url": "1272844abc386f9ef8d3648ad3c621a0070b7c1a",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 795040,
+        "name": "E.Z",
+        "playtime_forever": 35,
+        "img_icon_url": "2ad8d005ec462c7181fa385a34d013fc3d8ed7e8",
+        "has_community_visible_stats": true,
+        "has_leaderboards": true
+      },
+      {
+        "appid": 797430,
+        "name": "HD Poker",
+        "playtime_forever": 254,
+        "img_icon_url": "32b7e5d1447ebd3b85e8b32cd987aba74c3a406f",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 798460,
+        "name": "Ni no Kuni Wrath of the White Witch™ Remastered",
+        "playtime_forever": 0,
+        "img_icon_url": "c2ab51aa5079f5e64e6128b247057c165555ca8e",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 803330,
+        "name": "Destroy All Humans!",
+        "playtime_forever": 8,
+        "img_icon_url": "f6679705155ed59580d9d6c9a8b13b577c9db776",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 812140,
+        "name": "Assassin's Creed Odyssey",
+        "playtime_forever": 34,
+        "img_icon_url": "4b6cf0715b30669411bf204bce7ed99a9c84671b",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          1,
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 813630,
+        "name": "Supraland",
+        "playtime_forever": 191,
+        "img_icon_url": "e5def2d820a777ad0408249b8fa5deffae645d19",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 813780,
+        "name": "Age of Empires II: Definitive Edition",
+        "playtime_forever": 147,
+        "img_icon_url": "e2b5a7beb58136b892e517cb93ae08b36065363c",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 814380,
+        "name": "Sekiro™: Shadows Die Twice",
+        "playtime_forever": 69,
+        "img_icon_url": "2704fb9c5465045d00a5b19a0cb1e9bdabbd15cc",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 815370,
+        "name": "Green Hell",
+        "playtime_forever": 1024,
+        "img_icon_url": "d118d766ef0107189e71b1410bebe13831b70d7b",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          5
+        ]
+      },
+      {
+        "appid": 834910,
+        "name": "ATLAS",
+        "playtime_forever": 408,
+        "img_icon_url": "1e6ea0c1ac52eaed07ae7ec957182948de938505",
+        "content_descriptorids": [
+          5
+        ]
+      },
+      {
+        "appid": 835570,
+        "name": "Conqueror's Blade",
+        "playtime_forever": 1098,
+        "img_icon_url": "146c4d41ab8c557a2a9ff1818d438e74de55942a",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 837470,
+        "name": "Untitled Goose Game",
+        "playtime_forever": 16,
+        "img_icon_url": "6e2e1a85218053fbb1bca010bf28d73f1bec1965",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 846870,
+        "name": "Yooka-Laylee and the Impossible Lair",
+        "playtime_forever": 14,
+        "img_icon_url": "3a08d3a4f424a9538f7753e4d01214fda88c892f",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 848450,
+        "name": "Subnautica: Below Zero",
+        "playtime_forever": 333,
+        "img_icon_url": "eae16718327a78d87ac7ae61db96729926c97a16",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 850190,
+        "name": "Goat Simulator 3",
+        "playtime_forever": 0,
+        "img_icon_url": "d439f89f9ca1316b6fb187db3d97e168c9fa6460",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 850450,
+        "name": "Escape First",
+        "playtime_forever": 202,
+        "img_icon_url": "f88fffdb90f182df33d6f52c0e84c45e632c778d",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 855740,
+        "name": "Bum Simulator",
+        "playtime_forever": 21,
+        "img_icon_url": "c4b5662dcf067e7be3f9c14c0c2632020a7847f9",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 859570,
+        "name": "Secret Neighbor",
+        "playtime_forever": 53,
+        "img_icon_url": "14b7442bc008ef6dac687ab3dbd44b1ee2a55b17",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 860510,
+        "name": "Little Nightmares II",
+        "playtime_forever": 276,
+        "img_icon_url": "8875efb23a0fc1f079f227508d981f2cba82d735",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 860950,
+        "name": "Mark of the Ninja: Remastered",
+        "playtime_forever": 41,
+        "img_icon_url": "15cafd79313f15077051ef753a66e50fd2c41596",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 863550,
+        "name": "HITMAN™ 2",
+        "playtime_forever": 377,
+        "img_icon_url": "3f7c071da7a338e03f6243b73c02c072f1bacee9",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 865360,
+        "name": "We Were Here Together",
+        "playtime_forever": 394,
+        "img_icon_url": "48102be9c6ee895f77d2af44ac83a1e6150cd458",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 873840,
+        "name": "Truck and Logistics Simulator",
+        "playtime_forever": 101,
+        "img_icon_url": "bddfda341d92cd9ea0c9ad0c08738cbd229d19c2",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 880940,
+        "name": "Pummel Party",
+        "playtime_forever": 2372,
+        "img_icon_url": "0e2e222010d009ca46b575cc5c53a23250434341",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 883360,
+        "name": "Beyond Blue",
+        "playtime_forever": 11,
+        "img_icon_url": "7a9f7b1e47ced5a735c72359277a8fd8c761142a",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 883710,
+        "name": "Resident Evil 2",
+        "playtime_forever": 678,
+        "img_icon_url": "86ef2fdebeced746313994ccf2d7afb1f2887bf0",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 884660,
+        "name": "CRSED: Cuisine Royale",
+        "playtime_forever": 47,
+        "img_icon_url": "e4c07740f6f49341f830565c91e05bca0bb10d64",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 892970,
+        "name": "Valheim",
+        "playtime_forever": 3801,
+        "img_icon_url": "2f64c9a826e2c6cf3253fea4834c2e612db09143"
+      },
+      {
+        "appid": 893050,
+        "name": "Hasbro's BATTLESHIP",
+        "playtime_forever": 652,
+        "img_icon_url": "7685d378123775e804f33253d1bc81cede6bfaac",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 893850,
+        "name": ":THE LONGING:",
+        "playtime_forever": 0,
+        "img_icon_url": "8171a6a3bf39c6573a927fce616b7a1adf043aaa",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 895400,
+        "name": "Deadside",
+        "playtime_forever": 41,
+        "img_icon_url": "084d1cc38c922bd38cfe1daff75583f58eb2ead2",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 897450,
+        "name": "The Survivalists",
+        "playtime_forever": 0,
+        "img_icon_url": "210ddf7659b9dc50051c397cbd51eb35fa584373",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 898650,
+        "name": "The Shapeshifting Detective",
+        "playtime_forever": 216,
+        "img_icon_url": "62f05c8f90dede57c692ef5084349b1884d62b67",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          1,
+          5
+        ]
+      },
+      {
+        "appid": 905340,
+        "name": "Heave Ho",
+        "playtime_forever": 82,
+        "img_icon_url": "40c4305497de0d0ea540632e82dac34987354be8",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 907470,
+        "name": "Iris.Fall",
+        "playtime_forever": 0,
+        "img_icon_url": "16d78c6fd9ddb9572843204bd49eb3ad98fa74e7",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 909080,
+        "name": "Cube Escape: Paradox",
+        "playtime_forever": 12,
+        "img_icon_url": "d6c5912e9c059f073e2705665f6ded6afa0a579c",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 911400,
+        "name": "Assassin's Creed III Remastered",
+        "playtime_forever": 0,
+        "img_icon_url": "68e5640754e5ddf29aadff49062fa68cc8c8f4a5",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          5
+        ]
+      },
+      {
+        "appid": 915230,
+        "name": "Zombie Rollerz: Pinball Heroes",
+        "playtime_forever": 3,
+        "img_icon_url": "a511b6a2ee2bf48564fd0cf077e5f3e463441e1b",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 915810,
+        "name": "Midnight Ghost Hunt",
+        "playtime_forever": 23,
+        "img_icon_url": "8a5d189d042482d800101866b8e4fb4356474713",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 924140,
+        "name": "Hand Simulator: Survival",
+        "playtime_forever": 114,
+        "img_icon_url": "6ff4145d649d59b54b47765d166c5d52f5ef536b",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 924970,
+        "name": "Back 4 Blood",
+        "playtime_forever": 2226,
+        "img_icon_url": "4a2e853e7098bb0ebe637107e8180084a3117184",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 931180,
+        "name": "Conan Exiles - Public Beta Client",
+        "playtime_forever": 0,
+        "img_icon_url": "67a32c9bdd0738df619162c70bdebfe8a735abec"
+      },
+      {
+        "appid": 945360,
+        "name": "Among Us",
+        "playtime_forever": 1756,
+        "img_icon_url": "b82c3f46da8f3c918e1c9e0d18bd6fa8fcef6801",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 952060,
+        "name": "Resident Evil 3",
+        "playtime_forever": 370,
+        "img_icon_url": "136b7a39787b0d8df93cf3b757c36ae1eb392784",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 952070,
+        "name": "RESIDENT EVIL RESISTANCE",
+        "playtime_forever": 0,
+        "img_icon_url": "05c0148e8e414361742c38e3709ca9cdd9c637a8",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 956030,
+        "name": "Creaks",
+        "playtime_forever": 9,
+        "img_icon_url": "60f2c8cf0a95d5920089e2829baae257611ff257",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 960090,
+        "name": "Bloons TD 6",
+        "playtime_forever": 3,
+        "img_icon_url": "c5f0b67c8beeb6be99abe2ad8db2cada5d5ccff0",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 961440,
+        "name": "Resident Evil 2 \"1-Shot Demo\"",
+        "playtime_forever": 40,
+        "img_icon_url": "280cc7bf9e12785e84dc84b9db2c6e44adfa2aad",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 962130,
+        "name": "Grounded",
+        "playtime_forever": 484,
+        "img_icon_url": "0e598fd0dc10e3d85e5f244c62d0c41e4c8d96cc",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 962580,
+        "name": "Summer in Mara",
+        "playtime_forever": 0,
+        "img_icon_url": "e04b8a76de0da6666e1366f07edbaec6669a3660",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 967050,
+        "name": "Pacify",
+        "playtime_forever": 0,
+        "img_icon_url": "58100bbcafa4244c8ea086d8de1208787c44c7e0",
+        "has_community_visible_stats": true,
+        "has_leaderboards": true
+      },
+      {
+        "appid": 976310,
+        "name": "Mortal Kombat 11",
+        "playtime_forever": 0,
+        "img_icon_url": "315c46ce25bcb6afa47473588b5fd8edeb3afdfa",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 976900,
+        "name": "Lumberhill",
+        "playtime_forever": 0,
+        "img_icon_url": "d53936d641b768d4a61f66b9a8a91cc12b62a774",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 977570,
+        "name": "The Experiment: Escape Room",
+        "playtime_forever": 91,
+        "img_icon_url": "c9fd446a4b90aaeaefa8ed5bdb42976b17fb66c4",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          5
+        ]
+      },
+      {
+        "appid": 985890,
+        "name": "Streets of Rage 4",
+        "playtime_forever": 0,
+        "img_icon_url": "befb7c78958bea322edfaa2f87abefaa28d35c37",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 990080,
+        "name": "Hogwarts Legacy",
+        "playtime_forever": 883,
+        "img_icon_url": "a9ecb94f249768d0ee5ccecbffe8d8c06d9bed59",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 992300,
+        "name": "嗜血印 Bloody Spell",
+        "playtime_forever": 112,
+        "img_icon_url": "f1cd20fe2003a32bfe10f2e234a4a3f2cd234134",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          1,
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 994280,
+        "name": "Gujian3(古剑奇谭三)",
+        "playtime_forever": 30,
+        "img_icon_url": "df578400e899bfd1605c01ce5ff6894c5d986ffb",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 996770,
+        "name": "Moving Out",
+        "playtime_forever": 58,
+        "img_icon_url": "aa7ac3ddf3ca381661297ff603a1acf4eeb38f6c",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 1001270,
+        "name": "Kebab Chefs! - Restaurant Simulator",
+        "playtime_forever": 592,
+        "img_icon_url": "101ebac992c88da333970c8d0fb6bd3a6d7527fc",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 1016800,
+        "name": "Chernobylite Complete Edition",
+        "playtime_forever": 0,
+        "img_icon_url": "3c733253b4956d49f8bea1aee92ce29abc1cd2d9",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 1017180,
+        "name": "The Long Drive",
+        "playtime_forever": 24,
+        "img_icon_url": "9534fafdb3e6867978402e27464199f06ed3ad73"
+      },
+      {
+        "appid": 1017900,
+        "name": "Age of Empires: Definitive Edition",
+        "playtime_forever": 201,
+        "img_icon_url": "e8623421f060fd7e3a5f79a5c003701702acec42",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 1027820,
+        "name": "Hand Simulator: Horror",
+        "playtime_forever": 239,
+        "img_icon_url": "2d2f6f7bc3fdb048429cc25fc6a7542f78be3921"
+      },
+      {
+        "appid": 1030840,
+        "name": "Mafia: Definitive Edition",
+        "playtime_forever": 43,
+        "img_icon_url": "883ceebf7d8ebce37c9244a62777ef4a800393ce",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          1,
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 1040200,
+        "name": "Crime Scene Cleaner",
+        "playtime_forever": 576,
+        "img_icon_url": "9f68c266494cc1ac3095c5d4c11d284d02f76925",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 1042490,
+        "name": "Call of the Sea",
+        "playtime_forever": 61,
+        "img_icon_url": "ec91d394beed7123356920cc1ad1bd7700540ff0",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 1045080,
+        "name": "Curious Cases",
+        "playtime_forever": 115,
+        "img_icon_url": "895d3ee75fbb939791ea36727e7d3459ec28d378",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 1046930,
+        "name": "Dota Underlords",
+        "playtime_forever": 562,
+        "img_icon_url": "1f6f64144e8cc371c5382660e48998dfbe0a708e"
+      },
+      {
+        "appid": 1048100,
+        "name": "Peekaboo",
+        "playtime_forever": 72,
+        "img_icon_url": "c622417b1d4167ca71a2efb1daa2ea6af76c0d60",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 1049410,
+        "name": "Superliminal",
+        "playtime_forever": 0,
+        "img_icon_url": "94dafc4a3469aff1c47c5f03f0114e2db2e99e9a",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 1051310,
+        "name": "Paper Dolls Original",
+        "playtime_forever": 117,
+        "img_icon_url": "9f66a0b091eea93dd92472e8c55a9a61af4c975f",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 1054430,
+        "name": "Fling to the Finish",
+        "playtime_forever": 35,
+        "img_icon_url": "f7aad886c0ff682b58ebf241ec4c1250c476cab5",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 1055490,
+        "name": "Weed Farmer Simulator",
+        "playtime_forever": 0,
+        "img_icon_url": "0ab866fc85d08076100e2abc10c202a343a130fc",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          5
+        ]
+      },
+      {
+        "appid": 1056600,
+        "name": "Home Sweet Home Survive",
+        "playtime_forever": 329,
+        "img_icon_url": "7b4c63381adb8e1071d125ba27f195590193e443",
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 1061090,
+        "name": "Jump King",
+        "playtime_forever": 158,
+        "img_icon_url": "a55d3eacf184ccacebfea90192d11dc2c6fcecfc",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 1061910,
+        "name": "Metal: Hellsinger",
+        "playtime_forever": 0,
+        "img_icon_url": "380101087101052cd304c1bc107672e6c0da815e",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 1062160,
+        "name": "Poly Bridge 2",
+        "playtime_forever": 317,
+        "img_icon_url": "9be50a08f160c70f07d4f870ca12c909242ad332",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 1062520,
+        "name": "Dinkum",
+        "playtime_forever": 571,
+        "img_icon_url": "0201c9b277e291d2fe3d2a5e6d3dda0ee38d9e4e",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 1071870,
+        "name": "Biped",
+        "playtime_forever": 146,
+        "img_icon_url": "d0afb3337b4b36272cffbf1b83c75fdf4f659352",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 1079260,
+        "name": "Fireworks Mania",
+        "playtime_forever": 53,
+        "img_icon_url": "a936d3047fe636e11d51f62317e945cf1a27401a"
+      },
+      {
+        "appid": 1082430,
+        "name": "Before Your Eyes",
+        "playtime_forever": 0,
+        "img_icon_url": "deb465120aefac3323083d341a4003e3fa1d12e6",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          5
+        ]
+      },
+      {
+        "appid": 1084600,
+        "name": "My Time at Sandrock",
+        "playtime_forever": 73,
+        "img_icon_url": "eb9042f448e5e3572df7e4447b0e644f5aef88ed",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 1085510,
+        "name": "Garfield Kart - Furious Racing",
+        "playtime_forever": 285,
+        "img_icon_url": "dbb7640f3d7b8027eadf708d899031390b1fe694",
+        "has_community_visible_stats": true,
+        "has_leaderboards": true
+      },
+      {
+        "appid": 1086940,
+        "name": "Baldur's Gate 3",
+        "playtime_forever": 847,
+        "img_icon_url": "d866cae7ea1e471fdbc206287111f1b642373bd9",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          1,
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 1088150,
+        "name": "Scribble It!",
+        "playtime_forever": 983,
+        "img_icon_url": "a7a683dce57646a59a0fca326d0ceae5a74b8c2f",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 1091500,
+        "name": "Cyberpunk 2077",
+        "playtime_forever": 61,
+        "img_icon_url": "42b9b33fa0f0d997beb299c6157592a8fe7d8f68",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          1,
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 1092790,
+        "name": "Inscryption",
+        "playtime_forever": 0,
+        "img_icon_url": "25c02dcbabe97febe787797195099325a4d47935",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 1094060,
+        "name": "Escape First 2",
+        "playtime_forever": 235,
+        "img_icon_url": "9db1f2626b394bc6aa1f5dee3286e2160d293308",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 1097150,
+        "name": "Fall Guys",
+        "playtime_forever": 680,
+        "img_icon_url": "6c027709b9eb1417c993bc7d513b97b232002368",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 1097200,
+        "name": "Twelve Minutes",
+        "playtime_forever": 217,
+        "img_icon_url": "8b32ecd85e11294527e301146edb4f276e11ddb0",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          1,
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 1099500,
+        "name": "The Curious Tale of the Stolen Pets",
+        "playtime_forever": 0,
+        "img_icon_url": "f1c006fbbc892ef6942da9def8fc8d1fb9de5d48",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 1101120,
+        "name": "Gunsmith Simulator",
+        "playtime_forever": 0,
+        "img_icon_url": "4730a0d138d106590baf379169b02b140530821e",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 1104450,
+        "name": "Bombergrounds: Reborn",
+        "playtime_forever": 30,
+        "img_icon_url": "f8bff39b0634d51f1555b70bbcb110ecfa078b74"
+      },
+      {
+        "appid": 1107790,
+        "name": "The Complex",
+        "playtime_forever": 11,
+        "img_icon_url": "33e6ef09319f7b7c68fa302871c2bbd083aeb4d4",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          5
+        ]
+      },
+      {
+        "appid": 1110910,
+        "name": "Mortal Shell",
+        "playtime_forever": 0,
+        "img_icon_url": "93aec806d86b09186b9f0258ec25b606dfea7d96",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 1119730,
+        "name": "Ranch Simulator",
+        "playtime_forever": 168,
+        "img_icon_url": "183b5e569eb811efa38f43245c9eb66e4e5b7d51",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 1123050,
+        "name": "GRIME",
+        "playtime_forever": 0,
+        "img_icon_url": "e7cc092fe24a4b0043080946473dab6a42217986",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 1128810,
+        "name": "RISK: Global Domination",
+        "playtime_forever": 32,
+        "img_icon_url": "ecc6f7301e88a88e93edec1a3d4ddcc7ec9c5335",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 1131720,
+        "name": "Prop and Seek",
+        "playtime_forever": 2755,
+        "img_icon_url": "c580682bdb70b0a9d5f4d5374f2e2fad8ca75438",
+        "has_community_visible_stats": true,
+        "has_leaderboards": true
+      },
+      {
+        "appid": 1133590,
+        "name": "Stilt Fella",
+        "playtime_forever": 23,
+        "img_icon_url": "c731c09069aad844db50734c86b4c90d4917783e",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 1135690,
+        "name": "Unpacking",
+        "playtime_forever": 42,
+        "img_icon_url": "f6dffe30852176b5c1286e9755d0e5169a3d07d0",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 1137300,
+        "name": "Sherlock Holmes Chapter One",
+        "playtime_forever": 0,
+        "img_icon_url": "038c59dc4a1bc39b59b2fc69a8648fe7412ad5c1",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          5
+        ]
+      },
+      {
+        "appid": 1137460,
+        "name": "ALTF4",
+        "playtime_forever": 561,
+        "img_icon_url": "d288495e8df6690d606dcfca97725f60fbe050bc",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 1138850,
+        "name": "Heavenly Bodies",
+        "playtime_forever": 91,
+        "img_icon_url": "4c25224c3094cb5804114768f062a4f70bb7edd2",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 1144200,
+        "name": "Ready or Not",
+        "playtime_forever": 440,
+        "img_icon_url": "9312af21d070f126acbd2237c461b0d06d9b3e20",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          1,
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 1145350,
+        "name": "Hades II",
+        "playtime_forever": 0,
+        "img_icon_url": "621d9f1cfa204c0bae07a981f41007d2cf03a56c",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 1145360,
+        "name": "Hades",
+        "playtime_forever": 285,
+        "img_icon_url": "8a3fca36a00883e8066263ad35dd15d77a1f9abc",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 1149460,
+        "name": "Icarus",
+        "playtime_forever": 8,
+        "img_icon_url": "3600ab7fb8dbc0898116ea1c0365de4f6d285d5a",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 1149620,
+        "name": "Gas Station Simulator",
+        "playtime_forever": 628,
+        "img_icon_url": "7b57c38b066dfe58882cc358f379060ae36dfe1f",
+        "has_community_visible_stats": true,
+        "has_leaderboards": true
+      },
+      {
+        "appid": 1151340,
+        "name": "Fallout 76",
+        "playtime_forever": 0,
+        "img_icon_url": "81185120c1c1a4b26442828b25bbb58aec8d734c",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 1151640,
+        "name": "Horizon Zero Dawn™ Complete Edition",
+        "playtime_forever": 0,
+        "img_icon_url": "08a1b6df68bdc8c28c974b79325ed8c89417af48",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 1154030,
+        "name": "Titan Quest II",
+        "playtime_forever": 464,
+        "img_icon_url": "6ee1578894b8cb810ce9146d7d45d586fa2e2f04"
+      },
+      {
+        "appid": 1158940,
+        "name": "Blazing Sails",
+        "playtime_forever": 62,
+        "img_icon_url": "5eb807c2f664fe4ea2784ccc4ea5dded625d79b2",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 1172050,
+        "name": "COCKHEAD",
+        "playtime_forever": 0,
+        "img_icon_url": "4498b95c4da28c3cc53eb0d7eddf50857c34a5f3",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          1,
+          5
+        ]
+      },
+      {
+        "appid": 1172380,
+        "name": "STAR WARS Jedi: Fallen Order™ ",
+        "playtime_forever": 0,
+        "img_icon_url": "0ea1d285a8ee6fbeef0e8f7f3b2d7fa4cbcb423b",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 1172620,
+        "name": "Sea of Thieves",
+        "playtime_forever": 2442,
+        "img_icon_url": "f95f362708fc326511c5d86566c447ee625bf776",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 1174180,
+        "name": "Red Dead Redemption 2",
+        "playtime_forever": 1396,
+        "img_icon_url": "5106abd9c1187a97f23295a0ba9470c94804ec6c",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          5
+        ]
+      },
+      {
+        "appid": 1182900,
+        "name": "A Plague Tale: Requiem",
+        "playtime_forever": 2,
+        "img_icon_url": "eaebd6a8952539659e28725f90802cd1a4f93d37",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 1184140,
+        "name": "KartRider: Drift",
+        "playtime_forever": 142,
+        "img_icon_url": "a927291ddc309b89846521a61a7ca04db03086f9"
+      },
+      {
+        "appid": 1190000,
+        "name": "Car Mechanic Simulator 2021",
+        "playtime_forever": 0,
+        "img_icon_url": "b8a1a49beda2a70e57c2c1b72d5c531a638fd0f8",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 1194250,
+        "name": "Screaming Chicken: Ultimate Showdown",
+        "playtime_forever": 0,
+        "img_icon_url": "634ca9bd5a2c6dd7c2a1ce829e3f7d46ac81906b",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 1196590,
+        "name": "Resident Evil Village",
+        "playtime_forever": 630,
+        "img_icon_url": "d97fb0681f9517c65a9d7ba9dd7e63f775375645",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 1201550,
+        "name": "Mad Experiments: Escape Room",
+        "playtime_forever": 164,
+        "img_icon_url": "c0de428b07fac2844f2fcebd63f08c15ce6f3416",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 1203620,
+        "name": "Enshrouded",
+        "playtime_forever": 1846,
+        "img_icon_url": "9588cc0bd32e350a2353c332be67cf52a9b2b47b",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 1211020,
+        "name": "Wobbly Life",
+        "playtime_forever": 6,
+        "img_icon_url": "bb731d6554f7614b5c2ad1acb511286de1cc7ba4",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 1215390,
+        "name": "Animal Revolt Battle Simulator",
+        "playtime_forever": 86,
+        "img_icon_url": "db4042e3bb66118104ace325791e00450d1c1e85",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 1217060,
+        "name": "Gunfire Reborn",
+        "playtime_forever": 2219,
+        "img_icon_url": "446d10e4c62466203a4c60e3416d4307048710b8",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 1220170,
+        "name": "Eville",
+        "playtime_forever": 134,
+        "img_icon_url": "7799817e424c2dc61d573671b02cb801dd63ac8e",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 1222140,
+        "name": "Detroit: Become Human",
+        "playtime_forever": 0,
+        "img_icon_url": "3d9f5bc971d44398aef740c0d8e79a358be2e800",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 1222680,
+        "name": "Need for Speed™ Heat ",
+        "playtime_forever": 28,
+        "img_icon_url": "98a96955403db8eeed026bc5ff04e51e3329f1b0",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 1225560,
+        "name": "Unravel",
+        "playtime_forever": 3,
+        "img_icon_url": "6746371712b83b3c45e282862ad3f466b6a791d9",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 1225570,
+        "name": "Unravel Two",
+        "playtime_forever": 72,
+        "img_icon_url": "e47fb3108c7590af816e13f216500036ca32203f",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 1232130,
+        "name": "BEAR, VODKA, STALINGRAD! 🐻",
+        "playtime_forever": 6,
+        "img_icon_url": "945316799a912f0b53214c956a76b8ca38755541",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 1233410,
+        "name": "MicroWorks",
+        "playtime_forever": 88,
+        "img_icon_url": "ce146617a11047d579c756af7125b3b69e348f42",
+        "has_community_visible_stats": true,
+        "has_leaderboards": true
+      },
+      {
+        "appid": 1234520,
+        "name": "The Escaper",
+        "playtime_forever": 0,
+        "img_icon_url": "fa228eb62b43a696138a4becfb348f1d812c6d10",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 1236300,
+        "name": "Resident Evil Re:Verse",
+        "playtime_forever": 0,
+        "img_icon_url": "eb2517104ec768ea3217ca875f94925bfcf3d7bb",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 1238810,
+        "name": "Battlefield™ V",
+        "playtime_forever": 36,
+        "img_icon_url": "23ded6a957b5ec7525679c2e7bdac90c0653dbc8",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 1238840,
+        "name": "Battlefield™ 1",
+        "playtime_forever": 0,
+        "img_icon_url": "325c78f6940b57a43b65468d2dc10e22601b0ec5",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 1243830,
+        "name": "Overcooked! All You Can Eat",
+        "playtime_forever": 66,
+        "img_icon_url": "ba25c11b6bfd3fb70a59ca00ce6ae1bf7e5b21ea",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 1245620,
+        "name": "ELDEN RING",
+        "playtime_forever": 4702,
+        "img_icon_url": "b6e290dd5a92ce98f89089a207733c70c41a1871",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 1255630,
+        "name": "WWE 2K22",
+        "playtime_forever": 219,
+        "img_icon_url": "972f4f5488edb683f2f03dde42f256c269e92686",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 1258460,
+        "name": "Escape First 3",
+        "playtime_forever": 77,
+        "img_icon_url": "5cb7b7e3eb24bae59d7cc7807a0630d454884ab0",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 1259420,
+        "name": "Days Gone",
+        "playtime_forever": 0,
+        "img_icon_url": "839338fcedd1033ab7f0d2a31c194fb880ebf7b5",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 1259840,
+        "name": "The House of Da Vinci 2",
+        "playtime_forever": 131,
+        "img_icon_url": "4908fd117e9810ea4ed5a8fcbd340ab839d9b245",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 1260320,
+        "name": "Party Animals",
+        "playtime_forever": 457,
+        "img_icon_url": "868cd2d22c96076658ff5b572c4dc790c200de7e",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 1262560,
+        "name": "Need for Speed™ Most Wanted",
+        "playtime_forever": 0,
+        "img_icon_url": "80157ace77b6ed6a96db83546bdaf066a6cf8393"
+      },
+      {
+        "appid": 1262580,
+        "name": "Need for Speed™ Payback",
+        "playtime_forever": 0,
+        "img_icon_url": "af67577ce6051d85440c7fa65ff21f8eb5b0b199",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 1272320,
+        "name": "Diplomacy is Not an Option",
+        "playtime_forever": 0,
+        "img_icon_url": "3a013eec1a7ff2aef7a136a49c340b703ce7aae3",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 1273400,
+        "name": "Construction Simulator",
+        "playtime_forever": 0,
+        "img_icon_url": "e8d8dcccca84500b17912f4def1209d07700480c",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 1273710,
+        "name": "King of Crabs",
+        "playtime_forever": 347,
+        "img_icon_url": "ee2469b799c84eca9681baf6fdabd1fef8979164",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 1274570,
+        "name": "DEVOUR",
+        "playtime_forever": 602,
+        "img_icon_url": "e24aa080068d3686e0b1b5aa52a4155dc553e69d",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 1281590,
+        "name": "The Dark Pictures Anthology: House of Ashes",
+        "playtime_forever": 316,
+        "img_icon_url": "1d506f35aef4da7596f333d5b542698a1308cc42",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 1281800,
+        "name": "Samsara Room",
+        "playtime_forever": 70,
+        "img_icon_url": "31254e826f8404bc2d9611aac3ab03e7580c4108",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 1282100,
+        "name": "Remnant II",
+        "playtime_forever": 241,
+        "img_icon_url": "7223e40d6e1d9a25db48cce857d1b83c5f2c5704",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 1284190,
+        "name": "The Planet Crafter",
+        "playtime_forever": 0,
+        "img_icon_url": "95278d64933f5420aff962bba6770478cc29e74b",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 1288320,
+        "name": "Way of the Hunter",
+        "playtime_forever": 70,
+        "img_icon_url": "908688f5ce7c768b5f000411f5f72564f9b56078",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          5
+        ]
+      },
+      {
+        "appid": 1290000,
+        "name": "PowerWash Simulator",
+        "playtime_forever": 74,
+        "img_icon_url": "cdc9126e41c1968c52fb86b46f0391db1fa23420",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 1291340,
+        "name": "Townscaper",
+        "playtime_forever": 4,
+        "img_icon_url": "bec1b2f145c6c11bb4e26aa61ff980f46100df41"
+      },
+      {
+        "appid": 1292940,
+        "name": "Cube Escape Collection",
+        "playtime_forever": 53,
+        "img_icon_url": "9ca195ab75faaf0f11c3b70f336b12b88629c735",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 1293830,
+        "name": "Forza Horizon 4",
+        "playtime_forever": 0,
+        "img_icon_url": "7c993f9089d54fe2767efec47b75a7009cdd632e",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 1294660,
+        "name": "Divine Knockout (DKO)",
+        "playtime_forever": 69,
+        "img_icon_url": "2f2112d19f357a6bdaccafbdda5bd3ad82bb0d9f",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 1296830,
+        "name": "暖雪 Warm Snow",
+        "playtime_forever": 0,
+        "img_icon_url": "48380df34376cdfc206d647d61fed9e98ce929f1",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 1303140,
+        "name": "Escape Game Fort Boyard",
+        "playtime_forever": 46,
+        "img_icon_url": "f18a79e280ebb781a53db3da1333287b4836a928",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 1304930,
+        "name": "The Outlast Trials",
+        "playtime_forever": 155,
+        "img_icon_url": "159a7d66ffd179c920eefe07392e6a261e899965",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          1,
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 1305420,
+        "name": "Agrou",
+        "playtime_forever": 8235,
+        "img_icon_url": "f1cf3a79549ee9b856ae2a0066ad3813ff8ee142",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 1310410,
+        "name": "Alone in the Dark",
+        "playtime_forever": 156,
+        "img_icon_url": "f9e442d4c81b3908cd887e4c97398710bee26518",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 1313140,
+        "name": "Cult of the Lamb",
+        "playtime_forever": 0,
+        "img_icon_url": "337223c1a97705aee1714ad9534c7d6cfabd92b0",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          5
+        ]
+      },
+      {
+        "appid": 1326470,
+        "name": "Sons Of The Forest",
+        "playtime_forever": 397,
+        "img_icon_url": "bd28fe592b339cff5a3eef743f31e3166c984c68",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          1,
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 1332010,
+        "name": "Stray",
+        "playtime_forever": 136,
+        "img_icon_url": "7794cc0b4e70bd3e4b9a0d07e2570ab8668c5f0b",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 1332720,
+        "name": "Thief Simulator 2",
+        "playtime_forever": 839,
+        "img_icon_url": "1120e5a3c23b3b18e6634c165c7ca3a9b0f86824",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 1334010,
+        "name": "Last Room",
+        "playtime_forever": 0,
+        "img_icon_url": "c9b798bc314d8568c40b787d7e827b5c5b9986ae"
+      },
+      {
+        "appid": 1339000,
+        "name": "Aquarium Designer",
+        "playtime_forever": 24,
+        "img_icon_url": "554659daa9b228e9f5f847bfb27d786c5e3b954a",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 1341290,
+        "name": "We Were Here Forever",
+        "playtime_forever": 762,
+        "img_icon_url": "a62e86221fc8e49864d779833460dcf9114fd433",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 1346840,
+        "name": "Dead Reset",
+        "playtime_forever": 0,
+        "img_icon_url": "b34834d207e0eb094b2b744894bf017cda30c4cf",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 1353270,
+        "name": "Five Dates",
+        "playtime_forever": 17,
+        "img_icon_url": "37e37cbc3c3caed0ecc9b371de0a46acdf3a2acb",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 1359090,
+        "name": "Zero Hour",
+        "playtime_forever": 144,
+        "img_icon_url": "435172a2df3695389d00ea2c78d820c9e748f01e",
+        "has_community_visible_stats": true,
+        "has_leaderboards": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 1361320,
+        "name": "The Room 4: Old Sins",
+        "playtime_forever": 0,
+        "img_icon_url": "6f0a9af10b1e25d058811efcced81120aaae71c8",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          5
+        ]
+      },
+      {
+        "appid": 1363080,
+        "name": "Manor Lords",
+        "playtime_forever": 54,
+        "img_icon_url": "f0b869c004ddb564f961668130894f335fe04175",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 1364780,
+        "name": "Street Fighter™ 6",
+        "playtime_forever": 634,
+        "img_icon_url": "d8057ee15238077329f869c1610e257461ab3f76",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 1367550,
+        "name": "Kingdom Rush Vengeance",
+        "playtime_forever": 180,
+        "img_icon_url": "f6eda841719d02a0b0248b5043f36dfd1fdec335",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 1371580,
+        "name": "Myth of Empires",
+        "playtime_forever": 0,
+        "img_icon_url": "f8358bf999cd47e53f226602cfb2b12e59eba23b",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 1377380,
+        "name": "Night of the Dead",
+        "playtime_forever": 31,
+        "img_icon_url": "7b9307de9fa2d3fc98b5e56c1f234c0d7f5b1381",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 1381530,
+        "name": "Mess Adventures",
+        "playtime_forever": 121,
+        "img_icon_url": "cbda5b4ebc142d0b88378024732113760561d5fa",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 1383960,
+        "name": "Nickelodeon Kart Racers 2: Grand Prix",
+        "playtime_forever": 58,
+        "img_icon_url": "672061795b9cced24dba663f907e90b01222740a",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 1418630,
+        "name": "Dread Hunger",
+        "playtime_forever": 476,
+        "img_icon_url": "eab41bc3a1ff97b428fc6bf7f85dec5cd39c2eef",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          1,
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 1422450,
+        "name": "Deadlock",
+        "playtime_forever": 0,
+        "img_icon_url": "f6da1420a173324d49bcd470fa3eee781ad0fa5e"
+      },
+      {
+        "appid": 1426210,
+        "name": "It Takes Two",
+        "playtime_forever": 552,
+        "img_icon_url": "6b15f6d81c4fc52056f4928b363b7fac591a945b",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 1429740,
+        "name": "Raji: An Ancient Epic Prologue",
+        "playtime_forever": 17,
+        "img_icon_url": "4fe90a887df4a6f0a27dec74206ec76176ee2df3"
+      },
+      {
+        "appid": 1430760,
+        "name": "Aquarist",
+        "playtime_forever": 1,
+        "img_icon_url": "ad778a2a6d031ce259c31361c0ee1ed323cc14a1",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 1435790,
+        "name": "Escape Simulator",
+        "playtime_forever": 0,
+        "img_icon_url": "6c294463e2be859160824246e2123a08afce83c4",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 1436990,
+        "name": "Feign",
+        "playtime_forever": 1246,
+        "img_icon_url": "2d6be288a42a664f088d163dab298ec32029afc4",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 1442430,
+        "name": "Storage Hunter",
+        "playtime_forever": 82,
+        "img_icon_url": "2f423fd712f6f10b40ddfb853be40fd31a684fb7",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          5
+        ]
+      },
+      {
+        "appid": 1448440,
+        "name": "Wo Long: Fallen Dynasty",
+        "playtime_forever": 0,
+        "img_icon_url": "5d520e308b6acd4277b28f6f68db50782a9a9340",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 1449560,
+        "name": "Metro Exodus Enhanced Edition",
+        "playtime_forever": 0,
+        "img_icon_url": "f9863ed0ffc717b130744488f088ae95fe6e9bd8",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 1451190,
+        "name": "Undisputed",
+        "playtime_forever": 56,
+        "img_icon_url": "e19d544dff690b21742a0520b2b59c02c05bf574",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 1458140,
+        "name": "Pacific Drive",
+        "playtime_forever": 0,
+        "img_icon_url": "bea29dede5c446d40700fd6c2c74abb933559716",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 1461600,
+        "name": "Project Sparrow",
+        "playtime_forever": 58,
+        "img_icon_url": "970919f43cd5982eee609879d8aa17f075305ebb",
+        "content_descriptorids": [
+          5
+        ]
+      },
+      {
+        "appid": 1466860,
+        "name": "Age of Empires IV: Anniversary Edition",
+        "playtime_forever": 0,
+        "img_icon_url": "503acf3ef0503e24af6b5336012a1f585a2f955e",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 1466930,
+        "name": "Survival Quiz CITY",
+        "playtime_forever": 159,
+        "img_icon_url": "b7583bfa8ab06d61f1de05759bc059e4fd73f556",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 1468720,
+        "name": "Ultimate Epic Battle Simulator 2",
+        "playtime_forever": 0,
+        "img_icon_url": "52280ff48d79ef527dac6dc43dd4c71f1ae7410a",
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 1469250,
+        "name": "Rubber Bandits: Christmas Prologue",
+        "playtime_forever": 16,
+        "img_icon_url": "ed413305843c50c08112eb16db7df2f60802e366"
+      },
+      {
+        "appid": 1472560,
+        "name": "I Am Fish",
+        "playtime_forever": 86,
+        "img_icon_url": "b2781154005d87649a661dfe759471623f6a5920",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 1482620,
+        "name": "Slappyball",
+        "playtime_forever": 20,
+        "img_icon_url": "78c5050ad73758c22d9d5cb3be5773ffbb4e1a34",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 1484900,
+        "name": "Hoa",
+        "playtime_forever": 140,
+        "img_icon_url": "b2cb36e97aac4758e39cfdffd567818dcbbfb300",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 1485080,
+        "name": "Just Act Natural",
+        "playtime_forever": 36,
+        "img_icon_url": "4a7143f689b3c7fd24b4f145062e2e8da73ed64d",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 1498140,
+        "name": "Cafe Owner Simulator",
+        "playtime_forever": 5,
+        "img_icon_url": "b85e9b1207e7bddae2fced53a332b6967a38e841",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 1498570,
+        "name": "THE KING OF FIGHTERS XV",
+        "playtime_forever": 988,
+        "img_icon_url": "66b75e0a9bb33320565802f743f18a62fe25396b",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          1,
+          5
+        ]
+      },
+      {
+        "appid": 1501750,
+        "name": "Lords of the Fallen",
+        "playtime_forever": 0,
+        "img_icon_url": "f2e5d49aab202dc9b12b6bfca1d9cf96bd2ab097",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 1509960,
+        "name": "PICO PARK",
+        "playtime_forever": 194,
+        "img_icon_url": "738c7b1a12275d8b792f9a01a6c174453cd9770e"
+      },
+      {
+        "appid": 1515210,
+        "name": "The Past Within",
+        "playtime_forever": 97,
+        "img_icon_url": "58a79b1c6fd17926bc2b03668c376ca07ae20858",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 1520850,
+        "name": "Mess Adventures 2",
+        "playtime_forever": 0,
+        "img_icon_url": "881097f4f8c6772a8c32e352eeac8ffc6503b294",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 1521580,
+        "name": "Perfect Heist 2",
+        "playtime_forever": 488,
+        "img_icon_url": "78a54aba83ed0dc7039b2f3afd232dfc41f79c44",
+        "has_community_visible_stats": true,
+        "has_leaderboards": true
+      },
+      {
+        "appid": 1522870,
+        "name": "Supraland Six Inches Under",
+        "playtime_forever": 0,
+        "img_icon_url": "17ea4eae0aff945da2fe345517951ae992461612",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 1528080,
+        "name": "Gas Station Simulator: Prologue - Early Days",
+        "playtime_forever": 9,
+        "img_icon_url": "24e2fc9fa306605134e3d46fdea7a1afefb8d818",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 1544360,
+        "name": "LEGO® Builder's Journey",
+        "playtime_forever": 15,
+        "img_icon_url": "2ac9cb8e7d84d5708ed6d449852bf9a94b88b4f9",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 1546970,
+        "name": "Grand Theft Auto III - The Definitive Edition",
+        "playtime_forever": 0,
+        "img_icon_url": "34da0ad18d5dd3507e137195038ecd4b45ec08b3",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 1546990,
+        "name": "Grand Theft Auto: Vice City - The Definitive Edition",
+        "playtime_forever": 0,
+        "img_icon_url": "cdbe042499edb7c1ca10ae17077a01ef2d4ea116",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 1547000,
+        "name": "Grand Theft Auto: San Andreas - The Definitive Edition",
+        "playtime_forever": 0,
+        "img_icon_url": "44e14013432397d8c710ffcafcb77c259f3b4f27",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 1548850,
+        "name": "Six Days in Fallujah",
+        "playtime_forever": 136,
+        "img_icon_url": "10896561621de499b220167574c3acda30adf621",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 1549180,
+        "name": "Propnight",
+        "playtime_forever": 922,
+        "img_icon_url": "a08a950bb15efdde626f686b0765dba71bd6ec6e",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 1551360,
+        "name": "Forza Horizon 5",
+        "playtime_forever": 1721,
+        "img_icon_url": "6c1d20c62c4613263548323052c62cece488876b",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 1555220,
+        "name": "Artemishea",
+        "playtime_forever": 19,
+        "img_icon_url": "199876928b80f7921421718fd3d52e9dd4899505"
+      },
+      {
+        "appid": 1556790,
+        "name": "Isonzo",
+        "playtime_forever": 78,
+        "img_icon_url": "cfd4412226a3a302490dbefc72b0eacc5a1260f8",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 1562420,
+        "name": "FOREWARNED",
+        "playtime_forever": 54,
+        "img_icon_url": "eb1b3555482fc2be72a5561b5e8ba700b88a3f47",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 1562430,
+        "name": "DREDGE",
+        "playtime_forever": 576,
+        "img_icon_url": "c8b352e87c28aa9ffe3a4641b230beb5064a49e6",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 1563180,
+        "name": "Internet Cafe Simulator 2",
+        "playtime_forever": 479,
+        "img_icon_url": "effa00f23c7b8a38ca8bbb194be6b5f1f63b43aa",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          1,
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 1567020,
+        "name": "The Dark Pictures Anthology: The Devil in Me",
+        "playtime_forever": 199,
+        "img_icon_url": "9d1a5776f1917fe1bf1842fd328dcbbb191076c6",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 1568590,
+        "name": "Goose Goose Duck",
+        "playtime_2weeks": 146,
+        "playtime_forever": 9401,
+        "img_icon_url": "3b802d5010d6d5d72c93a8565b260c6042cc9390",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 1570330,
+        "name": "West Hunt",
+        "playtime_forever": 258,
+        "img_icon_url": "b23423dc803d9216d1e3d9de6ff98a05fb28a17d",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 1577120,
+        "name": "The Quarry",
+        "playtime_forever": 590,
+        "img_icon_url": "a07e751df943234665eb9b91fd44cbb4aa3477c6",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 1593500,
+        "name": "God of War",
+        "playtime_forever": 0,
+        "img_icon_url": "8aa5e7e0e55cad682c7f2e65e075c3bc04dfc1cb",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 1604030,
+        "name": "V Rising",
+        "playtime_forever": 21,
+        "img_icon_url": "d18204000a839feb84393b3d860c17cd4a4b269c",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 1607680,
+        "name": "Bread & Fred",
+        "playtime_forever": 13,
+        "img_icon_url": "fcfff47466da4d40a2f1aa12fc941e2955f55038",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 1620690,
+        "name": "Rubber Bandits: Summer Prologue",
+        "playtime_forever": 16,
+        "img_icon_url": "085a4a96593bedb8e408887469b926c1eeec31b6"
+      },
+      {
+        "appid": 1623730,
+        "name": "Palworld",
+        "playtime_forever": 4456,
+        "img_icon_url": "f5523077a8f4c923c2e8d8c17794b3319035fa73",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 1624540,
+        "name": "Storyteller",
+        "playtime_forever": 2,
+        "img_icon_url": "ec684a533a1caabac73781d32afe94b0ed7b17d4",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 1625450,
+        "name": "Muck",
+        "playtime_forever": 253,
+        "img_icon_url": "a123e3d10527fbdf3fea7ea235e11b41da3754dc",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 1635450,
+        "name": "Longvinter",
+        "playtime_forever": 544,
+        "img_icon_url": "dfc64c88d8df08c4084871663c8bc0a324a4f73e",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 1651560,
+        "name": "Fabledom",
+        "playtime_forever": 8,
+        "img_icon_url": "2cb1d506b82a9b23f10371a03a0df72178f271f2",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 1659040,
+        "name": "HITMAN World of Assassination",
+        "playtime_forever": 0,
+        "img_icon_url": "552be1d38866afd1c33f682323d325130e7d0ce6",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 1673000,
+        "name": "Blood Field",
+        "playtime_forever": 64,
+        "img_icon_url": "08d32fe62614b7b51c0f81a13492729cd65e745e",
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 1675900,
+        "name": "Warlander",
+        "playtime_forever": 403,
+        "img_icon_url": "9bc63957995b5210dea55b07db9053005719926c",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 1677740,
+        "name": "Stumble Guys",
+        "playtime_forever": 142,
+        "img_icon_url": "4517b0a1eff3befd699ede64a57e3f816d581be7",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 1681970,
+        "name": "神都不良探",
+        "playtime_forever": 375,
+        "img_icon_url": "2de8fd09ee2aa83e7fe85a264b99d9e93e51636d",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 1682050,
+        "name": "PropHunter",
+        "playtime_forever": 15,
+        "img_icon_url": "d963438eda385e538baf2f857e366c4a6cad1dfa",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 1692070,
+        "name": "CROWZ",
+        "playtime_forever": 7,
+        "img_icon_url": "a01dca6cdeaf4485aff260eafb465cdcfc0d47c1",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 1695840,
+        "name": "Fear Therapy",
+        "playtime_forever": 36,
+        "img_icon_url": "f84e70453b70d7acd1b57b559fb9c816d96b0240",
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 1708850,
+        "name": "Drug Dealer Simulator 2",
+        "playtime_forever": 0,
+        "img_icon_url": "902c6415f7ce3215f2d375ab22547552429bd92d",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          5
+        ]
+      },
+      {
+        "appid": 1710170,
+        "name": "Blade of Darkness",
+        "playtime_forever": 0,
+        "img_icon_url": "56d8d29179e9bfa0692db0df7668ec45d17d8f65",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 1715730,
+        "name": "Boo Men",
+        "playtime_forever": 107,
+        "img_icon_url": "fdc982691b42a43ee9f2be7da0e43e10819caa64",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          5
+        ]
+      },
+      {
+        "appid": 1721470,
+        "name": "Poppy Playtime",
+        "playtime_forever": 698,
+        "img_icon_url": "2035ade9393613f669a77e23d09b1fa22ac77481"
+      },
+      {
+        "appid": 1726400,
+        "name": "The Death | Thần Trùng",
+        "playtime_forever": 0,
+        "img_icon_url": "63bfab672956ccc0bd12d361286532401c38f697",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          5
+        ]
+      },
+      {
+        "appid": 1732650,
+        "name": "Fighting Robots",
+        "playtime_forever": 31,
+        "img_icon_url": "012bdc85616bffc92ac29ef10c7c88e367349521",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 1735950,
+        "name": "Paper Bride",
+        "playtime_forever": 248,
+        "img_icon_url": "283e47a5a0ecac0d1ad94beaa9f98714564f86fb",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 1746030,
+        "name": "Murders on the Yangtze River",
+        "playtime_forever": 1220,
+        "img_icon_url": "8cc7a3d8ddfbe56e9ecb769c506a652edf4b2b24",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 1755350,
+        "name": "BBQ Simulator: The Squad",
+        "playtime_forever": 12,
+        "img_icon_url": "6c330489e3bf3299ec0de5f26e489928c02163de",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 1757610,
+        "name": "Puppet Master: The Game",
+        "playtime_forever": 27,
+        "img_icon_url": "af0cf03021a986f0b15496078b019414a5f83d2c",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 1766060,
+        "name": "HumanitZ",
+        "playtime_forever": 155,
+        "img_icon_url": "fe283b75eaef7d639e88aaf35e935dc3841fabe1",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 1771300,
+        "name": "Kingdom Come: Deliverance II",
+        "playtime_forever": 2333,
+        "img_icon_url": "80e8d75b87433627cafd2a1bcbb5b9f5741e2277",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          1,
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 1775270,
+        "name": "The Dark Pictures Anthology: House of Ashes - Friend's Pass",
+        "playtime_forever": 0,
+        "img_icon_url": "d5bc7ab65e7f93e93aefb3bd65e28ed00fd4d604",
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 1782210,
+        "name": "Crab Game",
+        "playtime_forever": 188,
+        "img_icon_url": "e1afdaf96f55771d1d5ea4c9692d0f707ab0110b",
+        "content_descriptorids": [
+          5
+        ]
+      },
+      {
+        "appid": 1794680,
+        "name": "Vampire Survivors",
+        "playtime_forever": 923,
+        "img_icon_url": "3677cf1be3be1f4ea42261c62ce10519715ade58",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 1796200,
+        "name": "Who's Who?",
+        "playtime_forever": 51,
+        "img_icon_url": "5a72f90c134bc3b6623ceb6346188a74e3bd410c",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 1805360,
+        "name": "Bounty game",
+        "playtime_forever": 22,
+        "img_icon_url": "fc3de8d5a72ee8ec48c015c121188e2345f092c6",
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 1824220,
+        "name": "Chivalry 2",
+        "playtime_forever": 640,
+        "img_icon_url": "c3f16bfc0ab3bed369a63309e1f0e33d3f9ccce5",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 1850160,
+        "name": "Poly Bridge 3",
+        "playtime_forever": 256,
+        "img_icon_url": "aef1f667e42556da48ca58620f5d7e5c0a1e6b7a",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 1850550,
+        "name": "I'm on Observation Duty 5",
+        "playtime_forever": 93,
+        "img_icon_url": "5ff3558bdb3da9da0953baff54c583823d722fd4",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          5
+        ]
+      },
+      {
+        "appid": 1850740,
+        "name": "Ghost Watchers",
+        "playtime_forever": 171,
+        "img_icon_url": "81b51a9b069e0c9fde1b96fd4ff5eb727ed84dd7",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 1858650,
+        "name": "In Sink",
+        "playtime_forever": 0,
+        "img_icon_url": "4942d205824b55246db0959d237cd69f67dd2b50",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 1868140,
+        "name": "DAVE THE DIVER",
+        "playtime_forever": 712,
+        "img_icon_url": "2f19d6889f66eae88e8b5a36727d560ec88a00cb",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 1874880,
+        "name": "Arma Reforger",
+        "playtime_forever": 489,
+        "img_icon_url": "0de311f3ef216db08badc6a9ef7c5fd8712ac334",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 1876930,
+        "name": "Saloon Simulator",
+        "playtime_forever": 0,
+        "img_icon_url": "4c76342397a41818ee99e3deb271aac2001dafc3",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 1879380,
+        "name": "Paper Bride 2 Zangling Village",
+        "playtime_forever": 307,
+        "img_icon_url": "5ca618a199a207fdb34206ea48fd5096d11a5968",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 1882580,
+        "name": "FALL GIRLS",
+        "playtime_forever": 0,
+        "img_icon_url": "bd17f4f7bba87dc3c748cc34f26d9cfc646b94e4",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          1,
+          5
+        ]
+      },
+      {
+        "appid": 1890860,
+        "name": "Arma Reforger Experimental",
+        "playtime_forever": 0,
+        "img_icon_url": "cc4ccaea0621ec054334edb07c00c834bf496056",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 1903340,
+        "name": "Clair Obscur: Expedition 33",
+        "playtime_forever": 0,
+        "img_icon_url": "d48fb3ed033a08bad9bf0a2e1ceb145e58ffe0aa",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          1,
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 1911390,
+        "name": "Knightfall: A Daring Journey",
+        "playtime_forever": 63,
+        "img_icon_url": "8e09cd2255f59c3b079f31525853639fb8ad39e2"
+      },
+      {
+        "appid": 1918040,
+        "name": "Army of Ruin",
+        "playtime_forever": 23,
+        "img_icon_url": "11dda9cfe45f9662a0c1619db22e1adc6aabe3e0",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 1927720,
+        "name": "Monument Valley",
+        "playtime_forever": 13,
+        "img_icon_url": "058aa7e0cd93213d60eefa6bf5ef75b1859075c2",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 1928980,
+        "name": "Nightingale",
+        "playtime_forever": 0,
+        "img_icon_url": "fe20849c803762b931d66afa4d92ce8c6dd37f35",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 1929610,
+        "name": "Demonologist",
+        "playtime_forever": 105,
+        "img_icon_url": "ac2b7b0810b1c6d0364bb3e73d552fece53b7c29",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 1939790,
+        "name": "Paper Bride 3 Unresolved Love",
+        "playtime_forever": 405,
+        "img_icon_url": "aea1210827a3da8204cc901e407f10354b773717",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 1942280,
+        "name": "Brotato",
+        "playtime_forever": 0,
+        "img_icon_url": "256b74e935280a11e9cfdfc03e02137bbf0c9a7a",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 1943950,
+        "name": "Escape the Backrooms",
+        "playtime_forever": 780,
+        "img_icon_url": "2bd4431dd3b71ea7fd11cbcef9594f0d09e4079d",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 1944430,
+        "name": "Amnesia: The Bunker",
+        "playtime_forever": 133,
+        "img_icon_url": "2a01ab3123fe95f66788a50c99c2855868220de5",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 1946070,
+        "name": "Ten Dates",
+        "playtime_forever": 92,
+        "img_icon_url": "3eb1ad624090dfdaa7ae86335b426cd49ea3b7b7",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 1954200,
+        "name": "Kena: Bridge of Spirits",
+        "playtime_forever": 0,
+        "img_icon_url": "6aa6d99f50212e2b13ca564cdd5359f7db6b18be",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 1956830,
+        "name": "The Bathhouse | 地獄銭湯",
+        "playtime_forever": 0,
+        "img_icon_url": "5f524e5be7e963d4151e01bad1c51ef6a30fcb17",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          5
+        ]
+      },
+      {
+        "appid": 1966720,
+        "name": "Lethal Company",
+        "playtime_forever": 236,
+        "img_icon_url": "8393f321a62a9ef0be762c81565d2caea4fb7da6",
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 1971870,
+        "name": "Mortal Kombat 1",
+        "playtime_forever": 410,
+        "img_icon_url": "8b1c5aa33466802fc2a5df95505be71fae0b8d47",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 1979460,
+        "name": "Sinister Night",
+        "playtime_forever": 83,
+        "img_icon_url": "fbe258a18fa2a2bf565c4a75f67cff0d096c0b26",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 1981820,
+        "name": "Strike Force Heroes",
+        "playtime_forever": 6,
+        "img_icon_url": "01c92871b5a3ceedcb1b3d613241682cd22b2fa3",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 1987080,
+        "name": "Inside the Backrooms",
+        "playtime_forever": 365,
+        "img_icon_url": "36c529359e0802af3589360e03ed781c366b5ae5",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 2001120,
+        "name": "Split Fiction",
+        "playtime_forever": 783,
+        "img_icon_url": "a01dc6ea47db8c74964d581fe9f1f8039e0e4f33",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 2004770,
+        "name": "Dark Notes",
+        "playtime_forever": 205,
+        "img_icon_url": "e372503d72391f1519b998183426e543e99a2c91",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 2009310,
+        "name": "Goi",
+        "playtime_forever": 11,
+        "img_icon_url": "85011cdc78246dbf9b341728eb9a6984a6a453da"
+      },
+      {
+        "appid": 2009350,
+        "name": "Out of Ore",
+        "playtime_forever": 9,
+        "img_icon_url": "bb45cf2f73bd7a53423e49e391404254d80cd4fd"
+      },
+      {
+        "appid": 2016590,
+        "name": "Dark and Darker",
+        "playtime_forever": 130,
+        "img_icon_url": "9dfa7ea1b799b795ab5795e8251b17e35ef2b8d8",
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 2050650,
+        "name": "Resident Evil 4",
+        "playtime_forever": 1082,
+        "img_icon_url": "817358b8013c55831ea10d031ef9c0b151110826",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 2054970,
+        "name": "Dragon's Dogma 2",
+        "playtime_forever": 0,
+        "img_icon_url": "f3d469e0d7a0e25ddd13db8ebf08f1c24d6478b0",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          1,
+          5
+        ]
+      },
+      {
+        "appid": 2064870,
+        "name": "Deceit 2",
+        "playtime_forever": 105,
+        "img_icon_url": "715ab1f1e47eca99fcdd03c8cecf53490888e7c3",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 2067050,
+        "name": "Squirrel with a Gun",
+        "playtime_forever": 113,
+        "img_icon_url": "3368df6ca883bc3a355b03101f4e7ab51e756fc0",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          5
+        ]
+      },
+      {
+        "appid": 2069040,
+        "name": "Unboxing the Cryptic Killer",
+        "playtime_forever": 193,
+        "img_icon_url": "26a9c5c0a81913b3c55c01bb99a09fb3bc955241",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 2073850,
+        "name": "THE FINALS",
+        "playtime_forever": 24,
+        "img_icon_url": "9532db560dca3b4982f4af3f5981b6b2ce2a6909",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 2080690,
+        "name": "Sunkenland",
+        "playtime_forever": 307,
+        "img_icon_url": "95b7e6a119fc7f3bce8b72ca7fae345b65c9da3f",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 2095300,
+        "name": "Breakout 13",
+        "playtime_forever": 432,
+        "img_icon_url": "109c91341080c842e221babf5621573a64698c28",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          5
+        ]
+      },
+      {
+        "appid": 2099110,
+        "name": "The Classrooms",
+        "playtime_forever": 0,
+        "img_icon_url": "5725719fe9c5f459302c3745dfe670fd3fdc3403",
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 2107670,
+        "name": "Warhaven",
+        "playtime_forever": 69,
+        "img_icon_url": "b576af3cada5729dc495c59e43a72b6f7dac8aaf",
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 2116120,
+        "name": "Incursion Red River",
+        "playtime_forever": 46,
+        "img_icon_url": "8aeae21642e86f5c00d5ee14baf498db7229b98c",
+        "content_descriptorids": [
+          5
+        ]
+      },
+      {
+        "appid": 2119590,
+        "name": "Deducto 2",
+        "playtime_forever": 46,
+        "img_icon_url": "fa0980c582a96500a4317e2b6fb6b3d5f4401003",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 2138710,
+        "name": "Sifu",
+        "playtime_forever": 45,
+        "img_icon_url": "3930eb06cc31a6c91ab243afd4c45f49c9d0c5c1",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 2140510,
+        "name": "Town of Salem 2",
+        "playtime_forever": 74,
+        "img_icon_url": "7122d4be42d1412846b2d27ff5458f879aaf1de0",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 2174560,
+        "name": "Bus Flipper Simulator",
+        "playtime_forever": 0,
+        "img_icon_url": "480d6247669a55fa0e75e40008627a0aa2fd05d7",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 2178070,
+        "name": "Towers of Aghasba",
+        "playtime_forever": 0,
+        "img_icon_url": "15d6eb0ea4b3f71356a857685987cf22ebe932ce",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 2187230,
+        "name": "Altf42",
+        "playtime_forever": 144,
+        "img_icon_url": "46cb2b4dc0ff540e0480be987e97b656e634c041",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 2195250,
+        "name": "EA SPORTS FC™ 24",
+        "playtime_forever": 0,
+        "img_icon_url": "d01e05e0fb8e77c790c699b4fa0a9559cf80d16d",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 2197890,
+        "name": "Paranormal Cleanup",
+        "playtime_forever": 60,
+        "img_icon_url": "34f3d563665fb9e77469f8ed585b6c27139ad724",
+        "has_community_visible_stats": true,
+        "has_leaderboards": true,
+        "content_descriptorids": [
+          5
+        ]
+      },
+      {
+        "appid": 2208570,
+        "name": "Dark Hours",
+        "playtime_forever": 82,
+        "img_icon_url": "092ab63a14b24564ca7865452c002605f55d7905",
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 2216970,
+        "name": "Hand Simulator: Aliens",
+        "playtime_forever": 62,
+        "img_icon_url": "d270b7966027f498c4e4fb97f98a25df584b21a0"
+      },
+      {
+        "appid": 2230170,
+        "name": "The Cenozoic Era",
+        "playtime_forever": 0,
+        "img_icon_url": "29c619a89ae36b46e3b15b0fb97eb3d6d688aa6c"
+      },
+      {
+        "appid": 2231380,
+        "name": "Ghost Recon Breakpoint",
+        "playtime_forever": 0,
+        "img_icon_url": "c3672938f6f5bd6b7825a1a3e434c27971a481a5",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 2232600,
+        "name": "Anomaly Exit",
+        "playtime_forever": 87,
+        "img_icon_url": "a942d50a7a911e0dc6cbe368239282dce56be4f9",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 2233120,
+        "name": "A Quiet Place: The Road Ahead",
+        "playtime_forever": 315,
+        "img_icon_url": "4893c6aec0a972c3d7180a5402eaf383094be600",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          5
+        ]
+      },
+      {
+        "appid": 2234150,
+        "name": "BACKROOMS: APPREHENSION",
+        "playtime_forever": 0,
+        "img_icon_url": "5eb8809d9e6282fad3745a837ac7b687914a6221",
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 2235150,
+        "name": "Brain Show",
+        "playtime_forever": 9,
+        "img_icon_url": "84337f3cf6a385d0639d65fcd5d1be49f6205ed1"
+      },
+      {
+        "appid": 2236070,
+        "name": "Peaks of Yore",
+        "playtime_forever": 0,
+        "img_icon_url": "06d6b4b3735986ee350d8415d9a5d18fbae4c7ab",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 2239150,
+        "name": "Thronefall",
+        "playtime_forever": 37,
+        "img_icon_url": "33b662f2a7a302f154861643b0e59c87b36a3d5e",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 2239710,
+        "name": "Into the Dead: Our Darkest Days",
+        "playtime_forever": 1270,
+        "img_icon_url": "8f935a91f22993da60f163f54c2eb84999585433",
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 2246340,
+        "name": "Monster Hunter Wilds",
+        "playtime_forever": 0,
+        "img_icon_url": "23474d61e4506351f9b26f230fd417d017cf2806",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 2246880,
+        "name": "STANDBOX",
+        "playtime_forever": 3,
+        "img_icon_url": "ef1064bb4c221918280f8dd035164077ffe7215b",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 2248180,
+        "name": "Just Xiangqi",
+        "playtime_forever": 0,
+        "img_icon_url": "c8919a852ebc4bbd152af28cff9f4703e4832e0b",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 2248760,
+        "name": "Car For Sale Simulator 2023",
+        "playtime_forever": 647,
+        "img_icon_url": "6efd6e445c441505ab4ff2786a8ffd5a35062ed3",
+        "has_community_visible_stats": true,
+        "has_leaderboards": true
+      },
+      {
+        "appid": 2263920,
+        "name": "Multiplayer Platform Golf",
+        "playtime_forever": 147,
+        "img_icon_url": "f56dd8cbba24255f10423a018f6f91d68caf804a",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 2272420,
+        "name": "Thief Simulator 2: Prologue",
+        "playtime_forever": 7,
+        "img_icon_url": "cce5dfebbb89b833142c9cc96294fd6d9d1157a3",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 2277560,
+        "name": "WUCHANG: Fallen Feathers",
+        "playtime_forever": 7,
+        "img_icon_url": "06a62ea3a0cb8c177a0e336696d174ceacd003f4",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 2285890,
+        "name": "The Dark Pictures Anthology: The Devil in Me - Friend's Pass",
+        "playtime_forever": 0,
+        "img_icon_url": "92199362469f1d28b1dbff68ade1993bdf0eb374",
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 2286770,
+        "name": "Paper Bride 4 Bound Love",
+        "playtime_forever": 420,
+        "img_icon_url": "b10203cafca6deb5dcc39a5d9cf35edb0703accf",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 2289400,
+        "name": "MAD WAY",
+        "playtime_forever": 0,
+        "img_icon_url": "7c9f7a2ac6e38fec70faedac3da09be412722120",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 2291850,
+        "name": "Underground Blossom",
+        "playtime_forever": 133,
+        "img_icon_url": "6bf51729a48287d60ab2adfdca41bc957e415877",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 2296990,
+        "name": "We Were Here Expeditions: The FriendShip",
+        "playtime_forever": 123,
+        "img_icon_url": "66b945c2e9201fb7b9aa92f17dbecaa06350fe5a",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 2300230,
+        "name": "Feather Party",
+        "playtime_forever": 32,
+        "img_icon_url": "738b35352732d47c6cf08f3e5f3e7934cc3eda71",
+        "has_community_visible_stats": true,
+        "has_leaderboards": true
+      },
+      {
+        "appid": 2306590,
+        "name": "Apewar",
+        "playtime_forever": 81,
+        "img_icon_url": "d84ae56fba2f23f8503d24357e54ce55cd28d497",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 2314720,
+        "name": "Parasocial | パラソーシャル",
+        "playtime_forever": 90,
+        "img_icon_url": "81da1b20ed70e9d4b9e1a248d18af2b30fd47ece",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 2322560,
+        "name": "Love Is All Around",
+        "playtime_forever": 271,
+        "img_icon_url": "cc1eca77633803c11c8ac8a6e386b9e43da9f1b0",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          5
+        ]
+      },
+      {
+        "appid": 2328540,
+        "name": "Incantation",
+        "playtime_forever": 57,
+        "img_icon_url": "2fc5728099e42327eb575d31ac586afa3a9ca331",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 2334730,
+        "name": "Death Must Die",
+        "playtime_forever": 10,
+        "img_icon_url": "8bb324e3520441323adf02215b66f5c0c685d6c8",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 2353760,
+        "name": "Landfall Archives",
+        "playtime_forever": 39,
+        "img_icon_url": "4e9b39d637b24e668bbdbba6f33e0d570de4e25b"
+      },
+      {
+        "appid": 2358720,
+        "name": "Black Myth: Wukong",
+        "playtime_forever": 2841,
+        "img_icon_url": "764ad8ff458f7020d63a3f7f0abf6ad8882c05df",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 2379780,
+        "name": "Balatro",
+        "playtime_forever": 70,
+        "img_icon_url": "b6018068070ab0e23561694c11f7950dd6f4c752",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 2381590,
+        "name": "Only Up!",
+        "playtime_forever": 243,
+        "img_icon_url": "fdc1739c6bb79a32a817ca1dae170a1f60a09cc9",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 2399830,
+        "name": "ARK: Survival Ascended",
+        "playtime_forever": 4092,
+        "img_icon_url": "655cc2012105979c2b8e4821d568351c86b22be7",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 2406770,
+        "name": "Bodycam",
+        "playtime_forever": 71,
+        "img_icon_url": "793bf9dd10a0c8838879adca10459e77e1f02c51",
+        "has_community_visible_stats": true,
+        "has_leaderboards": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 2418520,
+        "name": "Farm Together 2",
+        "playtime_forever": 624,
+        "img_icon_url": "dda6a5202ada060fb486c4b06c67c0b3fa061749",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 2422870,
+        "name": "Bronzebeard's Tavern",
+        "playtime_forever": 115,
+        "img_icon_url": "7e2a3a7abdceb5065c4e5e51d5019c56ea0ceaf1",
+        "has_community_visible_stats": true,
+        "has_leaderboards": true
+      },
+      {
+        "appid": 2430830,
+        "name": "Strongblade",
+        "playtime_forever": 13,
+        "img_icon_url": "0703df37980945f83087f113da647cc5a6c7b646",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 2456350,
+        "name": "The Scourge | Tai Ương",
+        "playtime_forever": 179,
+        "img_icon_url": "4e93302ed0781193232c4ece513aff5ea69764ef",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          5
+        ]
+      },
+      {
+        "appid": 2497920,
+        "name": "A Difficult Game About Climbing",
+        "playtime_forever": 147,
+        "img_icon_url": "6d955fa7e8ccf056c8f5a0281aaa1b8daf9d4f72",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 2500750,
+        "name": "Only Climb: Better Together",
+        "playtime_forever": 259,
+        "img_icon_url": "6861256b9c708893f06269c9a734da9e735fd290",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 2522520,
+        "name": "Only Up: With Friends",
+        "playtime_forever": 264,
+        "img_icon_url": "3eb6ba2bed994df00c70f23f38e793dbbcdef88f",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 2527500,
+        "name": "MiSide",
+        "playtime_forever": 0,
+        "img_icon_url": "c262acd97d45a10d3102cb654dace25af7b05977",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 2540100,
+        "name": "Crime Scene Cleaner: Prologue",
+        "playtime_forever": 72,
+        "img_icon_url": "9f68c266494cc1ac3095c5d4c11d284d02f76925",
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 2559270,
+        "name": "Gym Simulator 24",
+        "playtime_forever": 239,
+        "img_icon_url": "654654880f4d79a9a02b863e5f5b559a62db038a",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 2567870,
+        "name": "Chained Together",
+        "playtime_forever": 472,
+        "img_icon_url": "231b8f624ff26721431fe5749fa5ab5bccd75ff4",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 2569820,
+        "name": "Manic Mechanics",
+        "playtime_forever": 0,
+        "img_icon_url": "37608526a2ed3bf8f4b5610a61009108a91a5306",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 2600570,
+        "name": "Paper Bride 5 Two Lifetimes",
+        "playtime_forever": 411,
+        "img_icon_url": "38d59252bb355705a64aa264bd49992eeef33d09",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 2605640,
+        "name": "Buried",
+        "playtime_forever": 14,
+        "img_icon_url": "d1d8f4a79ec9996f153b971027f04cbf7932dfc5",
+        "content_descriptorids": [
+          5
+        ]
+      },
+      {
+        "appid": 2606170,
+        "name": "Vivaland: Dream House",
+        "playtime_forever": 507,
+        "img_icon_url": "d4f0b15597e63b3d8a130641e2be9be2a662905c"
+      },
+      {
+        "appid": 2625420,
+        "name": "Drive Beyond Horizons",
+        "playtime_forever": 295,
+        "img_icon_url": "92b3ede8d8f0215e74871630223e4a702db83560",
+        "has_community_visible_stats": true,
+        "has_leaderboards": true
+      },
+      {
+        "appid": 2644470,
+        "name": "PICO PARK 2",
+        "playtime_forever": 806,
+        "img_icon_url": "7d1948eb5efb3d884c5d726591549e1cfd8a7d00",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 2646460,
+        "name": "Soulmask",
+        "playtime_forever": 644,
+        "img_icon_url": "a6e8a3962f1110deb848aeb979e306c6416972fd",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 2653170,
+        "name": "Only Up 2",
+        "playtime_forever": 80,
+        "img_icon_url": "72331dccc60f60275ce06ea4efefa306bdf0ceb2",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 2653790,
+        "name": "The Exit 8",
+        "playtime_forever": 41,
+        "img_icon_url": "7c040c733fc64d878d8c7b8c8564eb1a9ae10238",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 2669320,
+        "name": "EA SPORTS FC™ 25",
+        "playtime_forever": 123,
+        "img_icon_url": "f6c4988f3e7b965451a3d9fca34014585d1754e2",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 2670630,
+        "name": "Supermarket Simulator",
+        "playtime_forever": 1403,
+        "img_icon_url": "b76ce5e747870bed95bf994f95103a3dd143d4da",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 2682580,
+        "name": "DUCKSIDE",
+        "playtime_forever": 204,
+        "img_icon_url": "e25af84332f4285225e56ae0ba35c56d11f5b8d7"
+      },
+      {
+        "appid": 2695940,
+        "name": "PANICORE",
+        "playtime_forever": 443,
+        "img_icon_url": "93ee1710ba0dc640e250a08612c88a5a9ec65103",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 2706170,
+        "name": "Get To Work",
+        "playtime_forever": 47,
+        "img_icon_url": "a0825d8c7429e527df297b2e3cb20f633d62e8d1",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 2708450,
+        "name": "Oh Deer",
+        "playtime_forever": 28,
+        "img_icon_url": "76c2b497b1128171675eb7165d76f431a5788e9f",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 2709570,
+        "name": "Supermarket Together",
+        "playtime_forever": 84,
+        "img_icon_url": "df024275a7ba53c79008b45c0d74b4a2e6a2069b",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 2726890,
+        "name": "Tomorrow's Love Puzzle",
+        "playtime_forever": 9,
+        "img_icon_url": "dcfdd22c07f9c6e0aa7e6473ba8cd13b1571151a",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 2737070,
+        "name": "Crime Simulator",
+        "playtime_forever": 739,
+        "img_icon_url": "4bd0c05d0e57ad04a4ec8c9fefb37b42a59c04d7",
+        "has_community_visible_stats": true,
+        "has_leaderboards": true
+      },
+      {
+        "appid": 2738380,
+        "name": "Internet Cafe & Supermarket Simulator 2024",
+        "playtime_forever": 148,
+        "img_icon_url": "e85b4703e134de9c1b7ecf2c1fae2261a655e1c5",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 2744880,
+        "name": "Climber Animals: Together",
+        "playtime_forever": 66,
+        "img_icon_url": "d61fbdf2a35e03754c842dbf57a0a0bae69baa2c",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 2753520,
+        "name": "Don't Pee",
+        "playtime_forever": 25,
+        "img_icon_url": "e658c6333511d3977b5332ed48f8e1091a395267"
+      },
+      {
+        "appid": 2758000,
+        "name": "Vanity Fair: The Pursuit",
+        "playtime_forever": 134,
+        "img_icon_url": "96dc98c666f70636cee7150bd1d5c05de003db3f",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 2766860,
+        "name": "MY DESTINY GIRLS",
+        "playtime_forever": 0,
+        "img_icon_url": "5dad352b0e433970fad0aaa9112059f970ef4244",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          1,
+          5
+        ]
+      },
+      {
+        "appid": 2767030,
+        "name": "Marvel Rivals",
+        "playtime_forever": 95,
+        "img_icon_url": "839b4712925b95702ca56e0c4d399adf54f4d617",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 2774380,
+        "name": "Hospital 666",
+        "playtime_forever": 385,
+        "img_icon_url": "ea469c191d2c93a2bd59a04a3388c5be1767e265",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          5
+        ]
+      },
+      {
+        "appid": 2780980,
+        "name": "LOCKDOWN Protocol",
+        "playtime_forever": 1254,
+        "img_icon_url": "2358878a464f5e9c8ef00270ddd455aa7be08847"
+      },
+      {
+        "appid": 2781370,
+        "name": "EXIT KUN",
+        "playtime_forever": 12,
+        "img_icon_url": "7f1f997957c4d4e9c3c99de3ccd76b082ddac0d8",
+        "has_community_visible_stats": true,
+        "has_leaderboards": true
+      },
+      {
+        "appid": 2786680,
+        "name": "Knowledge, or know Lady",
+        "playtime_forever": 205,
+        "img_icon_url": "d72cb3aa13aa29469af9ee3731ff3099df7620d0",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          1,
+          5
+        ]
+      },
+      {
+        "appid": 2793370,
+        "name": "Shinkansen 0 | 新幹線 0号",
+        "playtime_forever": 76,
+        "img_icon_url": "d932e4f546e8d8d4fc8c538efd59df55c8b25696",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          5
+        ]
+      },
+      {
+        "appid": 2793710,
+        "name": "Dollmare",
+        "playtime_forever": 140,
+        "img_icon_url": "61f1d7c6fbd3fdd79c5f6f5656c5eef6f6737692",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 2802820,
+        "name": "School 666",
+        "playtime_forever": 131,
+        "img_icon_url": "c6d40cf24223c5791489f8adfbdfe77c0bbdb4ad",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          5
+        ]
+      },
+      {
+        "appid": 2808270,
+        "name": "Buckshot With Friends",
+        "playtime_forever": 84,
+        "img_icon_url": "89e6a6f26b6b3bb8252797eac6a9e215a470b26c",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 2835570,
+        "name": "Buckshot Roulette",
+        "playtime_forever": 72,
+        "img_icon_url": "81779afdc4209795d9ccf7948514b9a227acf601",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 2881650,
+        "name": "Content Warning",
+        "playtime_forever": 45,
+        "img_icon_url": "513cf7f2e22c94f4372369e29bffccc4c239e9c0"
+      },
+      {
+        "appid": 2890830,
+        "name": "Streamer Life Simulator 2",
+        "playtime_forever": 29,
+        "img_icon_url": "c05fabc5f962aa8a7e200a16106db39d80123023",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 2893820,
+        "name": "Of Ash and Steel",
+        "playtime_forever": 6,
+        "img_icon_url": "87ae1023fb86fdc6957b97bb9bc21b64a75dfa27",
+        "content_descriptorids": [
+          5
+        ]
+      },
+      {
+        "appid": 2904890,
+        "name": "The Game of Sisyphus",
+        "playtime_forever": 6,
+        "img_icon_url": "cf6929a787d83431122e6f899822012c1bd7c572",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 2905970,
+        "name": "Sunset Motel: Prologue",
+        "playtime_forever": 90,
+        "img_icon_url": "ce08b3514b954feb5608ad83575cd5fa6d33339c",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 2916430,
+        "name": "Fast Food Simulator",
+        "playtime_forever": 231,
+        "img_icon_url": "15ed340ecea42c62e23b8c38c610959ebd275473",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 2928650,
+        "name": "Only Up: SKIBIDI TOGETHER",
+        "playtime_forever": 117,
+        "img_icon_url": "7467dfe6cd865d321d85e1e9cd1473e690921955",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 2932920,
+        "name": "Mayonaka 10 chome",
+        "playtime_forever": 25,
+        "img_icon_url": "f0f30558e9fe942d1d11df722f5958424d81147e",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 2933080,
+        "name": "Crime Boss: Rockay City",
+        "playtime_forever": 107,
+        "img_icon_url": "b312d3f34a9f3f3acaa51f7fd8fd7515d32c5c65",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 2963880,
+        "name": "Murky Divers",
+        "playtime_forever": 138,
+        "img_icon_url": "914ee1c06320e51cbde70ba582379310717f4602",
+        "content_descriptorids": [
+          5
+        ]
+      },
+      {
+        "appid": 2966470,
+        "name": "IdontFall",
+        "playtime_forever": 64,
+        "img_icon_url": "aefab4a17de68c44e56ca53a0bae3cbefd45e570",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 2976900,
+        "name": "Unpossess",
+        "playtime_forever": 81,
+        "img_icon_url": "29977d4c051ac50441e4a9113fa75954cb2758b1",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 2989950,
+        "name": "The Bathhouse | 地獄銭湯 Restored Ver.",
+        "playtime_forever": 158,
+        "img_icon_url": "10bf0b3a5be9c7fa9fbd7c48adb544ac97c02bc8",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          1,
+          5
+        ]
+      },
+      {
+        "appid": 3008130,
+        "name": "Dying Light: The Beast",
+        "playtime_2weeks": 1435,
+        "playtime_forever": 1435,
+        "img_icon_url": "48a57f9344332b2c9c16c3590a14af7b39abd8eb",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 3059070,
+        "name": "The Headliners",
+        "playtime_forever": 578,
+        "img_icon_url": "c418a2be40255908b0455f6a8f24f35909cddf5c",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 3064370,
+        "name": "Dark Hours: Prologue",
+        "playtime_forever": 79,
+        "img_icon_url": "7d641ff40284775d41efaa5d059535d6b8de47d2",
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 3070070,
+        "name": "TCG Card Shop Simulator",
+        "playtime_forever": 1704,
+        "img_icon_url": "ade567b04584ff71000ff91a8dd65aac4833206b",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 3070520,
+        "name": "Granny: Escape Together",
+        "playtime_forever": 136,
+        "img_icon_url": "078c4109fab02a951402668b070bfed781dc9ff0",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 3089130,
+        "name": "Retail Company Simulator",
+        "playtime_forever": 1,
+        "img_icon_url": "b32ba1c7399a1a483114e696813197a4fbdbc4f2",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 3089150,
+        "name": "Retail Company Simulator: Prologue",
+        "playtime_forever": 121,
+        "img_icon_url": "b32ba1c7399a1a483114e696813197a4fbdbc4f2",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 3097560,
+        "name": "Liar's Bar",
+        "playtime_2weeks": 184,
+        "playtime_forever": 1608,
+        "img_icon_url": "5342338ad1fd3561c1ed8c6d2ed4ae0e6ada2e9c",
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 3115010,
+        "name": "Car Dealer Simulator: Prologue - Early Days",
+        "playtime_forever": 39,
+        "img_icon_url": "f889427d07f32b517ac797873ad934a1033e932a"
+      },
+      {
+        "appid": 3121110,
+        "name": "Zort",
+        "playtime_forever": 51,
+        "img_icon_url": "785d1d26402b58e537159093b604764aa69bc2fa",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 3176060,
+        "name": "Emissary Zero",
+        "playtime_forever": 243,
+        "img_icon_url": "509b738936caaf48aacecfed36d8c9dcfd091631",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 3227760,
+        "name": "Paper Bride 6 Nightmare",
+        "playtime_forever": 421,
+        "img_icon_url": "49bfc9ca756dc74a78b5416250d3943f2cae400c",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 3240220,
+        "name": "Grand Theft Auto V Enhanced",
+        "playtime_forever": 34,
+        "img_icon_url": "8355a7bbdb704f727bfba80ec56bc7228991338e",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          1,
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 3241660,
+        "name": "R.E.P.O.",
+        "playtime_2weeks": 118,
+        "playtime_forever": 1573,
+        "img_icon_url": "b8bf4770408fc369e15cebd42e0026a27b67aaa8"
+      },
+      {
+        "appid": 3244220,
+        "name": "A Game About Digging A Hole",
+        "playtime_forever": 80,
+        "img_icon_url": "42e30470e2691b8be5e5be7892193da955f30c4c",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 3263320,
+        "name": "Carry The Glass",
+        "playtime_forever": 110,
+        "img_icon_url": "30caae17dc829272011a7c557c36b5708c6497a7",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 3273240,
+        "name": "DYNASTY WARRIORS: ORIGINS Demo",
+        "playtime_forever": 13,
+        "img_icon_url": "eb0916e2273784868147d295465cd8e2e72433a1"
+      },
+      {
+        "appid": 3279160,
+        "name": "Only Up: LIZARDS MUST FALL",
+        "playtime_forever": 86,
+        "img_icon_url": "373a8430223c7e3689f21d7ebd1e63edd6897777",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 3282390,
+        "name": "Love is All Around 2",
+        "playtime_forever": 400,
+        "img_icon_url": "af8a45be4698186d6d7443728a74d803ae2bc540",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          5
+        ]
+      },
+      {
+        "appid": 3293260,
+        "name": "Waterpark Simulator",
+        "playtime_forever": 0,
+        "img_icon_url": "748bc3c1e0c66dd914345c3c0f59226cf0ed0294",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 3311740,
+        "name": "The Cabin Factory",
+        "playtime_forever": 39,
+        "img_icon_url": "b9b847c496aae14f910ee9f4a3d7dab758180beb",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          5
+        ]
+      },
+      {
+        "appid": 3334550,
+        "name": "Cursed Digicam | 呪われたデジカメ",
+        "playtime_forever": 63,
+        "img_icon_url": "3c29b1e1a8b7326e9f5afaa55c26efff49ceac8d",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 3376250,
+        "name": "Nine-Ball Roulette",
+        "playtime_forever": 129,
+        "img_icon_url": "f29097a56d34eb3051616479698a68b8bca5ef58",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          5
+        ]
+      },
+      {
+        "appid": 3400930,
+        "name": "Guilty as Sock!",
+        "playtime_forever": 5,
+        "img_icon_url": "e78c625ba2d01c152a32853f911f1ef1115286f4",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 3408110,
+        "name": "Cafemart Simulator",
+        "playtime_forever": 44,
+        "img_icon_url": "362bb7d5017dcf4c28db67773cfaf85397ba5469",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 3424520,
+        "name": "Monster Hunter Wilds Benchmark",
+        "playtime_forever": 13,
+        "img_icon_url": "05667f3795ed72593bc38225271e2b0b33a906e4"
+      },
+      {
+        "appid": 3461920,
+        "name": "The Boba Teashop",
+        "playtime_forever": 63,
+        "img_icon_url": "29f01f5d489c8501893d04521cd8fe86bee5ff11",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          5
+        ]
+      },
+      {
+        "appid": 3527290,
+        "name": "PEAK",
+        "playtime_forever": 652,
+        "img_icon_url": "b3a992fd5991bd2f4c956d58e062b0ce2988d6cd",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 3585800,
+        "name": "Keep Digging",
+        "playtime_2weeks": 104,
+        "playtime_forever": 104,
+        "img_icon_url": "72aba47a92f807053e34fa3c280f70f786bc9054",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 3672720,
+        "name": "Prison Escape Simulator: Dig Out",
+        "playtime_forever": 188,
+        "img_icon_url": "3ddbb2b266e58a4b976c5b3f24afd20300a1f818",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 3690010,
+        "name": "Who's at the door?",
+        "playtime_forever": 0,
+        "img_icon_url": "6fb1cd865fd8d058b1fd5ff8f950e8529526ecb2",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 3751730,
+        "name": "Loan Shark",
+        "playtime_forever": 92,
+        "img_icon_url": "c2e52d43fb9cb66b7be9ebc5643083bbea5fedb7",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          5
+        ]
+      }
+    ]
+  }
+}

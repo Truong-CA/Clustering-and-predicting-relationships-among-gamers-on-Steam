@@ -1,0 +1,42 @@
+{
+  "response": {
+    "total_count": 5,
+    "games": [
+      {
+        "appid": 1030300,
+        "name": "Hollow Knight: Silksong",
+        "playtime_2weeks": 550,
+        "playtime_forever": 899,
+        "img_icon_url": "b4a999c1302e3ac123c041fd41bb8a34528c6ab5"
+      },
+      {
+        "appid": 570,
+        "name": "Dota 2",
+        "playtime_2weeks": 389,
+        "playtime_forever": 29948,
+        "img_icon_url": "0bbb630d63262dd66d2fdd0f7d37e8661a410075"
+      },
+      {
+        "appid": 3174070,
+        "name": "Texas Hold'em Poker: Pokerist",
+        "playtime_2weeks": 212,
+        "playtime_forever": 212,
+        "img_icon_url": "3c81bcae3af0fc5f943648862a95b21bbb2fc52a"
+      },
+      {
+        "appid": 730,
+        "name": "Counter-Strike 2",
+        "playtime_2weeks": 203,
+        "playtime_forever": 337850,
+        "img_icon_url": "8dbc71957312bbd3baea65848b545be9eae2a355"
+      },
+      {
+        "appid": 886250,
+        "name": "Vegas Infinite by PokerStars",
+        "playtime_2weeks": 135,
+        "playtime_forever": 135,
+        "img_icon_url": "44f9bb13c08eed9e1e8b3d467c71a784bae4989b"
+      }
+    ]
+  }
+}

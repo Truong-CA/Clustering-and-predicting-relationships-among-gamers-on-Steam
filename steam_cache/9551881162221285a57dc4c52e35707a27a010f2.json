@@ -1,0 +1,21 @@
+{
+  "response": {
+    "total_count": 2,
+    "games": [
+      {
+        "appid": 1203220,
+        "name": "NARAKA: BLADEPOINT",
+        "playtime_2weeks": 1154,
+        "playtime_forever": 171212,
+        "img_icon_url": "8055e7baa81ce2084d7daa42233983967956abb0"
+      },
+      {
+        "appid": 457140,
+        "name": "Oxygen Not Included",
+        "playtime_2weeks": 27,
+        "playtime_forever": 4612,
+        "img_icon_url": "d37534163ebac8351e0bda0bf30f8f2174c921b6"
+      }
+    ]
+  }
+}

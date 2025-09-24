@@ -1,0 +1,35 @@
+{
+  "response": {
+    "total_count": 4,
+    "games": [
+      {
+        "appid": 3405690,
+        "name": "EA SPORTS FC™ 26",
+        "playtime_2weeks": 1225,
+        "playtime_forever": 1225,
+        "img_icon_url": "9216dc0dc099279f3d560fcc73ff3c26f754100b"
+      },
+      {
+        "appid": 2669320,
+        "name": "EA SPORTS FC 25",
+        "playtime_2weeks": 289,
+        "playtime_forever": 6218,
+        "img_icon_url": "f6c4988f3e7b965451a3d9fca34014585d1754e2"
+      },
+      {
+        "appid": 730,
+        "name": "Counter-Strike 2",
+        "playtime_2weeks": 249,
+        "playtime_forever": 35859,
+        "img_icon_url": "8dbc71957312bbd3baea65848b545be9eae2a355"
+      },
+      {
+        "appid": 673950,
+        "name": "Farm Together",
+        "playtime_2weeks": 8,
+        "playtime_forever": 6042,
+        "img_icon_url": "d968e9e31ef9cb110f09780f7112bac1c9968716"
+      }
+    ]
+  }
+}

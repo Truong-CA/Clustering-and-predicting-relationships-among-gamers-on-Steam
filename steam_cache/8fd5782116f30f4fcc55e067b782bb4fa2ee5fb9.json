@@ -1,0 +1,564 @@
+{
+  "playerstats": {
+    "steamID": "76561198099249694",
+    "gameName": "Clicker Heroes",
+    "achievements": [
+      {
+        "apiname": "HIGHEST_ZONE_10",
+        "achieved": 1,
+        "unlocktime": 1433111516
+      },
+      {
+        "apiname": "HIGHEST_ZONE_20",
+        "achieved": 1,
+        "unlocktime": 1433114495
+      },
+      {
+        "apiname": "HIGHEST_ZONE_50",
+        "achieved": 1,
+        "unlocktime": 1433157810
+      },
+      {
+        "apiname": "HIGHEST_ZONE_100",
+        "achieved": 1,
+        "unlocktime": 1433415861
+      },
+      {
+        "apiname": "HIGHEST_ZONE_120",
+        "achieved": 1,
+        "unlocktime": 1433505052
+      },
+      {
+        "apiname": "HIGHEST_ZONE_140",
+        "achieved": 1,
+        "unlocktime": 1433714800
+      },
+      {
+        "apiname": "HIGHEST_ZONE_160",
+        "achieved": 1,
+        "unlocktime": 1451617727
+      },
+      {
+        "apiname": "HIGHEST_ZONE_OMEET",
+        "achieved": 1,
+        "unlocktime": 1433415861
+      },
+      {
+        "apiname": "HIGHEST_ZONE_200",
+        "achieved": 1,
+        "unlocktime": 1460235821
+      },
+      {
+        "apiname": "HIGHEST_ZONE_300",
+        "achieved": 1,
+        "unlocktime": 1490647667
+      },
+      {
+        "apiname": "HIGHEST_ZONE_400",
+        "achieved": 0,
+        "unlocktime": 0
+      },
+      {
+        "apiname": "HIGHEST_ZONE_500",
+        "achieved": 0,
+        "unlocktime": 0
+      },
+      {
+        "apiname": "HIGHEST_ZONE_600",
+        "achieved": 0,
+        "unlocktime": 0
+      },
+      {
+        "apiname": "HIGHEST_ZONE_700",
+        "achieved": 0,
+        "unlocktime": 0
+      },
+      {
+        "apiname": "HIGHEST_ZONE_800",
+        "achieved": 0,
+        "unlocktime": 0
+      },
+      {
+        "apiname": "HIGHEST_ZONE_900",
+        "achieved": 0,
+        "unlocktime": 0
+      },
+      {
+        "apiname": "HIGHEST_ZONE_1000",
+        "achieved": 0,
+        "unlocktime": 0
+      },
+      {
+        "apiname": "HIGHEST_ZONE_1200",
+        "achieved": 0,
+        "unlocktime": 0
+      },
+      {
+        "apiname": "HIGHEST_ZONE_1400",
+        "achieved": 0,
+        "unlocktime": 0
+      },
+      {
+        "apiname": "HIGHEST_ZONE_1600",
+        "achieved": 0,
+        "unlocktime": 0
+      },
+      {
+        "apiname": "HIGHEST_ZONE_1800",
+        "achieved": 0,
+        "unlocktime": 0
+      },
+      {
+        "apiname": "HIGHEST_ZONE_2000",
+        "achieved": 0,
+        "unlocktime": 0
+      },
+      {
+        "apiname": "HIGHEST_ZONE_2200",
+        "achieved": 0,
+        "unlocktime": 0
+      },
+      {
+        "apiname": "HIGHEST_ZONE_2400",
+        "achieved": 0,
+        "unlocktime": 0
+      },
+      {
+        "apiname": "HIGHEST_ZONE_2600",
+        "achieved": 0,
+        "unlocktime": 0
+      },
+      {
+        "apiname": "ASCENSIONS_1",
+        "achieved": 1,
+        "unlocktime": 1433586551
+      },
+      {
+        "apiname": "ASCENSIONS_3",
+        "achieved": 1,
+        "unlocktime": 1433734037
+      },
+      {
+        "apiname": "ASCENSIONS_5",
+        "achieved": 1,
+        "unlocktime": 1434022848
+      },
+      {
+        "apiname": "ASCENSIONS_10",
+        "achieved": 1,
+        "unlocktime": 1434665591
+      },
+      {
+        "apiname": "ASCENSIONS_25",
+        "achieved": 0,
+        "unlocktime": 0
+      },
+      {
+        "apiname": "ASCENSIONS_50",
+        "achieved": 0,
+        "unlocktime": 0
+      },
+      {
+        "apiname": "ASCENSIONS_100",
+        "achieved": 0,
+        "unlocktime": 0
+      },
+      {
+        "apiname": "ASCENSIONS_250",
+        "achieved": 0,
+        "unlocktime": 0
+      },
+      {
+        "apiname": "BOSSES_KILLED_10",
+        "achieved": 1,
+        "unlocktime": 1433111299
+      },
+      {
+        "apiname": "BOSSES_KILLED_100",
+        "achieved": 1,
+        "unlocktime": 1433112530
+      },
+      {
+        "apiname": "BOSSES_KILLED_1000",
+        "achieved": 1,
+        "unlocktime": 1433707753
+      },
+      {
+        "apiname": "BOSSES_KILLED_10,000",
+        "achieved": 0,
+        "unlocktime": 0
+      },
+      {
+        "apiname": "BOSSES_KILLED_100,000",
+        "achieved": 0,
+        "unlocktime": 0
+      },
+      {
+        "apiname": "HERO_LEVELS_100",
+        "achieved": 1,
+        "unlocktime": 1433111839
+      },
+      {
+        "apiname": "HERO_LEVELS_500",
+        "achieved": 1,
+        "unlocktime": 1433114996
+      },
+      {
+        "apiname": "HERO_LEVELS_2500",
+        "achieved": 1,
+        "unlocktime": 1433186442
+      },
+      {
+        "apiname": "HERO_LEVELS_10,000",
+        "achieved": 1,
+        "unlocktime": 1433492113
+      },
+      {
+        "apiname": "HERO_LEVELS_25,000",
+        "achieved": 0,
+        "unlocktime": 0
+      },
+      {
+        "apiname": "HERO_LEVELS_50,000",
+        "achieved": 0,
+        "unlocktime": 0
+      },
+      {
+        "apiname": "MONSTERS_KILLED_100",
+        "achieved": 1,
+        "unlocktime": 1433111066
+      },
+      {
+        "apiname": "MONSTERS_KILLED_1000",
+        "achieved": 1,
+        "unlocktime": 1433115463
+      },
+      {
+        "apiname": "MONSTERS_KILLED_10,000",
+        "achieved": 1,
+        "unlocktime": 1433298522
+      },
+      {
+        "apiname": "MONSTERS_KILLED_100,000",
+        "achieved": 1,
+        "unlocktime": 1434150433
+      },
+      {
+        "apiname": "MONSTERS_KILLED_1,000K",
+        "achieved": 1,
+        "unlocktime": 1435371059
+      },
+      {
+        "apiname": "MONSTERS_KILLED_1,500K",
+        "achieved": 1,
+        "unlocktime": 1438038755
+      },
+      {
+        "apiname": "TOTAL_CLICKS_1000",
+        "achieved": 1,
+        "unlocktime": 1433111185
+      },
+      {
+        "apiname": "TOTAL_CLICKS_10,000",
+        "achieved": 1,
+        "unlocktime": 1433111760
+      },
+      {
+        "apiname": "TOTAL_CLICKS_50,000",
+        "achieved": 1,
+        "unlocktime": 1433113368
+      },
+      {
+        "apiname": "TOTAL_CLICKS_100,000",
+        "achieved": 1,
+        "unlocktime": 1433116172
+      },
+      {
+        "apiname": "TOTAL_CLICKS_250,000",
+        "achieved": 1,
+        "unlocktime": 1433158813
+      },
+      {
+        "apiname": "TREASURES_10,000",
+        "achieved": 0,
+        "unlocktime": 0
+      },
+      {
+        "apiname": "UPGRADES_25",
+        "achieved": 1,
+        "unlocktime": 1433115286
+      },
+      {
+        "apiname": "UPGRADES_50",
+        "achieved": 1,
+        "unlocktime": 1433122300
+      },
+      {
+        "apiname": "UPGRADES_100",
+        "achieved": 1,
+        "unlocktime": 1433359470
+      },
+      {
+        "apiname": "UPGRADES_200",
+        "achieved": 1,
+        "unlocktime": 1433653990
+      },
+      {
+        "apiname": "HIGHEST_ZONE_2800",
+        "achieved": 0,
+        "unlocktime": 0
+      },
+      {
+        "apiname": "HIGHEST_ZONE_3000",
+        "achieved": 0,
+        "unlocktime": 0
+      },
+      {
+        "apiname": "HIGHEST_ZONE_3200",
+        "achieved": 0,
+        "unlocktime": 0
+      },
+      {
+        "apiname": "HIGHEST_ZONE_3400",
+        "achieved": 0,
+        "unlocktime": 0
+      },
+      {
+        "apiname": "HIGHEST_ZONE_3600",
+        "achieved": 0,
+        "unlocktime": 0
+      },
+      {
+        "apiname": "BURY_MERC_5",
+        "achieved": 0,
+        "unlocktime": 0
+      },
+      {
+        "apiname": "BURY_MERC_25",
+        "achieved": 0,
+        "unlocktime": 0
+      },
+      {
+        "apiname": "BURY_MERC_100",
+        "achieved": 0,
+        "unlocktime": 0
+      },
+      {
+        "apiname": "REVIVE_MERC_5",
+        "achieved": 0,
+        "unlocktime": 0
+      },
+      {
+        "apiname": "REVIVE_MERC_25",
+        "achieved": 0,
+        "unlocktime": 0
+      },
+      {
+        "apiname": "REVIVE_MERC_100",
+        "achieved": 0,
+        "unlocktime": 0
+      },
+      {
+        "apiname": "GOLD_QUEST_5",
+        "achieved": 0,
+        "unlocktime": 0
+      },
+      {
+        "apiname": "GOLD_QUEST_25",
+        "achieved": 0,
+        "unlocktime": 0
+      },
+      {
+        "apiname": "GOLD_QUEST_100",
+        "achieved": 0,
+        "unlocktime": 0
+      },
+      {
+        "apiname": "GOLD_QUEST_500",
+        "achieved": 0,
+        "unlocktime": 0
+      },
+      {
+        "apiname": "RELIC_QUEST_5",
+        "achieved": 0,
+        "unlocktime": 0
+      },
+      {
+        "apiname": "RELIC_QUEST_25",
+        "achieved": 0,
+        "unlocktime": 0
+      },
+      {
+        "apiname": "RELIC_QUEST_100",
+        "achieved": 0,
+        "unlocktime": 0
+      },
+      {
+        "apiname": "RELIC_QUEST_500",
+        "achieved": 0,
+        "unlocktime": 0
+      },
+      {
+        "apiname": "RUBY_QUEST_5",
+        "achieved": 0,
+        "unlocktime": 0
+      },
+      {
+        "apiname": "RUBY_QUEST_25",
+        "achieved": 0,
+        "unlocktime": 0
+      },
+      {
+        "apiname": "RUBY_QUEST_100",
+        "achieved": 0,
+        "unlocktime": 0
+      },
+      {
+        "apiname": "RUBY_QUEST_500",
+        "achieved": 0,
+        "unlocktime": 0
+      },
+      {
+        "apiname": "SOUL_QUEST_5",
+        "achieved": 0,
+        "unlocktime": 0
+      },
+      {
+        "apiname": "SOUL_QUEST_25",
+        "achieved": 0,
+        "unlocktime": 0
+      },
+      {
+        "apiname": "SOUL_QUEST_100",
+        "achieved": 0,
+        "unlocktime": 0
+      },
+      {
+        "apiname": "SOUL_QUEST_500",
+        "achieved": 0,
+        "unlocktime": 0
+      },
+      {
+        "apiname": "FIVE_MIN_QUEST_10",
+        "achieved": 0,
+        "unlocktime": 0
+      },
+      {
+        "apiname": "FIVE_MIN_QUEST_50",
+        "achieved": 0,
+        "unlocktime": 0
+      },
+      {
+        "apiname": "FIVE_MIN_QUEST_250",
+        "achieved": 0,
+        "unlocktime": 0
+      },
+      {
+        "apiname": "FIVE_MIN_QUEST_1000",
+        "achieved": 0,
+        "unlocktime": 0
+      },
+      {
+        "apiname": "BURY_LEEROY_1",
+        "achieved": 0,
+        "unlocktime": 0
+      },
+      {
+        "apiname": "HIGHEST_MERCENARY_5",
+        "achieved": 0,
+        "unlocktime": 0
+      },
+      {
+        "apiname": "HIGHEST_MERCENARY_10",
+        "achieved": 0,
+        "unlocktime": 0
+      },
+      {
+        "apiname": "HIGHEST_MERCENARY_15",
+        "achieved": 0,
+        "unlocktime": 0
+      },
+      {
+        "apiname": "HIGHEST_MERCENARY_20",
+        "achieved": 0,
+        "unlocktime": 0
+      },
+      {
+        "apiname": "HIGHEST_MERCENARY_25",
+        "achieved": 0,
+        "unlocktime": 0
+      },
+      {
+        "apiname": "RAREST_MERCENARY_4",
+        "achieved": 0,
+        "unlocktime": 0
+      },
+      {
+        "apiname": "MERCENARY_COUNT_5",
+        "achieved": 0,
+        "unlocktime": 0
+      },
+      {
+        "apiname": "TRANSCENSION_1",
+        "achieved": 0,
+        "unlocktime": 0
+      },
+      {
+        "apiname": "HIGHEST_TRANSCEND_ZONE_4000",
+        "achieved": 0,
+        "unlocktime": 0
+      },
+      {
+        "apiname": "HIGHEST_TRANSCEND_ZONE_5000",
+        "achieved": 0,
+        "unlocktime": 0
+      },
+      {
+        "apiname": "HIGHEST_TRANSCEND_ZONE_7500",
+        "achieved": 0,
+        "unlocktime": 0
+      },
+      {
+        "apiname": "HIGHEST_TRANSCEND_ZONE_10000",
+        "achieved": 0,
+        "unlocktime": 0
+      },
+      {
+        "apiname": "HIGHEST_TRANSCEND_ZONE_15000",
+        "achieved": 0,
+        "unlocktime": 0
+      },
+      {
+        "apiname": "HIGHEST_TRANSCEND_ZONE_20000",
+        "achieved": 0,
+        "unlocktime": 0
+      },
+      {
+        "apiname": "HIGHEST_TRANSCEND_ZONE_30000",
+        "achieved": 0,
+        "unlocktime": 0
+      },
+      {
+        "apiname": "ANCIENT_SOULS_50",
+        "achieved": 0,
+        "unlocktime": 0
+      },
+      {
+        "apiname": "ANCIENT_SOULS_100",
+        "achieved": 0,
+        "unlocktime": 0
+      },
+      {
+        "apiname": "ANCIENT_SOULS_200",
+        "achieved": 0,
+        "unlocktime": 0
+      },
+      {
+        "apiname": "ANCIENT_SOULS_500",
+        "achieved": 0,
+        "unlocktime": 0
+      }
+    ],
+    "success": true
+  }
+}

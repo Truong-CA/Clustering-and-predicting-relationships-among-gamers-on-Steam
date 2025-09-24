@@ -1,0 +1,21 @@
+{
+  "response": {
+    "total_count": 2,
+    "games": [
+      {
+        "appid": 271590,
+        "name": "Grand Theft Auto V Legacy",
+        "playtime_2weeks": 703,
+        "playtime_forever": 21542,
+        "img_icon_url": "1e72f87eb927fa1485e68aefaff23c7fd7178251"
+      },
+      {
+        "appid": 730,
+        "name": "Counter-Strike 2",
+        "playtime_2weeks": 30,
+        "playtime_forever": 88861,
+        "img_icon_url": "8dbc71957312bbd3baea65848b545be9eae2a355"
+      }
+    ]
+  }
+}

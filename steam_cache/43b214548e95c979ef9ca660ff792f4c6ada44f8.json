@@ -1,0 +1,35 @@
+{
+  "response": {
+    "total_count": 4,
+    "games": [
+      {
+        "appid": 3405690,
+        "name": "EA SPORTS FC™ 26",
+        "playtime_2weeks": 584,
+        "playtime_forever": 584,
+        "img_icon_url": "9216dc0dc099279f3d560fcc73ff3c26f754100b"
+      },
+      {
+        "appid": 1568590,
+        "name": "Goose Goose Duck",
+        "playtime_2weeks": 145,
+        "playtime_forever": 6219,
+        "img_icon_url": "3b802d5010d6d5d72c93a8565b260c6042cc9390"
+      },
+      {
+        "appid": 3097560,
+        "name": "Liar's Bar",
+        "playtime_2weeks": 43,
+        "playtime_forever": 957,
+        "img_icon_url": "5342338ad1fd3561c1ed8c6d2ed4ae0e6ada2e9c"
+      },
+      {
+        "appid": 431960,
+        "name": "Wallpaper Engine",
+        "playtime_2weeks": 1,
+        "playtime_forever": 171,
+        "img_icon_url": "72edaed9d748c6cf7397ffb1c83f0b837b9ebd9d"
+      }
+    ]
+  }
+}

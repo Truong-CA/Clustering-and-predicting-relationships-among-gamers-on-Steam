@@ -1,0 +1,28 @@
+{
+  "response": {
+    "total_count": 3,
+    "games": [
+      {
+        "appid": 730,
+        "name": "Counter-Strike 2",
+        "playtime_2weeks": 994,
+        "playtime_forever": 140755,
+        "img_icon_url": "8dbc71957312bbd3baea65848b545be9eae2a355"
+      },
+      {
+        "appid": 524220,
+        "name": "NieR:Automata™",
+        "playtime_2weeks": 38,
+        "playtime_forever": 135,
+        "img_icon_url": "ec431ecb2a5178c5a01bb15550f112f93af029bb"
+      },
+      {
+        "appid": 601150,
+        "name": "Devil May Cry 5",
+        "playtime_2weeks": 18,
+        "playtime_forever": 5223,
+        "img_icon_url": "7ec2f6fb9069c3ae03af7e83610862090cd757bb"
+      }
+    ]
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "response": {
+    "total_count": 5,
+    "games": [
+      {
+        "appid": 394360,
+        "name": "Hearts of Iron IV",
+        "playtime_2weeks": 1122,
+        "playtime_forever": 71988,
+        "img_icon_url": "67b15e2336311b4b4f1eb5c802af0c0dbe644195"
+      },
+      {
+        "appid": 686810,
+        "name": "Hell Let Loose",
+        "playtime_2weeks": 188,
+        "playtime_forever": 25109,
+        "img_icon_url": "34a4b24b1132045d8e59e56b9c24bed725af55c7"
+      },
+      {
+        "appid": 35450,
+        "name": "Rising Storm/Red Orchestra 2 Multiplayer",
+        "playtime_2weeks": 143,
+        "playtime_forever": 514,
+        "img_icon_url": "d70423dddb3bb2a144e38ab9cc811e6fda1eb622"
+      },
+      {
+        "appid": 1408720,
+        "name": "Krunker",
+        "playtime_2weeks": 5,
+        "playtime_forever": 22,
+        "img_icon_url": "f161bd7364757e3858c622acf0ed8bba6458c8f8"
+      },
+      {
+        "appid": 346900,
+        "name": "AdVenture Capitalist",
+        "playtime_2weeks": 1,
+        "playtime_forever": 316,
+        "img_icon_url": "b4dd5ca1582ed52335b31960e05766fd22fa7cc4"
+      }
+    ]
+  }
+}

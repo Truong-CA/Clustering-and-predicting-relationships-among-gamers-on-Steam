@@ -1,0 +1,35 @@
+{
+  "response": {
+    "total_count": 4,
+    "games": [
+      {
+        "appid": 730,
+        "name": "Counter-Strike 2",
+        "playtime_2weeks": 622,
+        "playtime_forever": 133907,
+        "img_icon_url": "8dbc71957312bbd3baea65848b545be9eae2a355"
+      },
+      {
+        "appid": 1568590,
+        "name": "Goose Goose Duck",
+        "playtime_2weeks": 145,
+        "playtime_forever": 7506,
+        "img_icon_url": "3b802d5010d6d5d72c93a8565b260c6042cc9390"
+      },
+      {
+        "appid": 3097560,
+        "name": "Liar's Bar",
+        "playtime_2weeks": 37,
+        "playtime_forever": 653,
+        "img_icon_url": "5342338ad1fd3561c1ed8c6d2ed4ae0e6ada2e9c"
+      },
+      {
+        "appid": 431960,
+        "name": "Wallpaper Engine",
+        "playtime_2weeks": 1,
+        "playtime_forever": 1076,
+        "img_icon_url": "72edaed9d748c6cf7397ffb1c83f0b837b9ebd9d"
+      }
+    ]
+  }
+}

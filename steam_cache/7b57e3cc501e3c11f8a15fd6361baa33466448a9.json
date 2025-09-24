@@ -1,0 +1,35 @@
+{
+  "response": {
+    "total_count": 4,
+    "games": [
+      {
+        "appid": 236390,
+        "name": "War Thunder",
+        "playtime_2weeks": 155,
+        "playtime_forever": 459706,
+        "img_icon_url": "c69fbafb6e9891314cc5df0fe6a659612c289bf9"
+      },
+      {
+        "appid": 730,
+        "name": "Counter-Strike 2",
+        "playtime_2weeks": 53,
+        "playtime_forever": 166868,
+        "img_icon_url": "8dbc71957312bbd3baea65848b545be9eae2a355"
+      },
+      {
+        "appid": 1172380,
+        "name": "STAR WARS Jedi: Fallen Order™ ",
+        "playtime_2weeks": 9,
+        "playtime_forever": 390,
+        "img_icon_url": "0ea1d285a8ee6fbeef0e8f7f3b2d7fa4cbcb423b"
+      },
+      {
+        "appid": 291480,
+        "name": "Warface: Clutch",
+        "playtime_2weeks": 1,
+        "playtime_forever": 5459,
+        "img_icon_url": "66ef308279871d99ca776d4602bf02a354570368"
+      }
+    ]
+  }
+}

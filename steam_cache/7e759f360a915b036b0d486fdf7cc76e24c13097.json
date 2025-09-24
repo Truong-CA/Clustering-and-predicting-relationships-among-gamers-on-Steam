@@ -1,0 +1,42 @@
+{
+  "response": {
+    "total_count": 5,
+    "games": [
+      {
+        "appid": 3224770,
+        "name": "Umamusume: Pretty Derby",
+        "playtime_2weeks": 1073,
+        "playtime_forever": 10049,
+        "img_icon_url": "67a3e76c151bb0fe82c707c32c83f4d518a73a85"
+      },
+      {
+        "appid": 488790,
+        "name": "South Park The Fractured But Whole",
+        "playtime_2weeks": 289,
+        "playtime_forever": 363,
+        "img_icon_url": "4012782cf19ec70c18e31508f1a9abcd50d44239"
+      },
+      {
+        "appid": 3557620,
+        "name": "Blue Archive",
+        "playtime_2weeks": 248,
+        "playtime_forever": 2097,
+        "img_icon_url": "9ca15a2d0d30d4094b7ce544fa3c97a4f1dd0d79"
+      },
+      {
+        "appid": 1426210,
+        "name": "It Takes Two",
+        "playtime_2weeks": 112,
+        "playtime_forever": 904,
+        "img_icon_url": "6b15f6d81c4fc52056f4928b363b7fac591a945b"
+      },
+      {
+        "appid": 431960,
+        "name": "Wallpaper Engine",
+        "playtime_2weeks": 1,
+        "playtime_forever": 1324,
+        "img_icon_url": "72edaed9d748c6cf7397ffb1c83f0b837b9ebd9d"
+      }
+    ]
+  }
+}

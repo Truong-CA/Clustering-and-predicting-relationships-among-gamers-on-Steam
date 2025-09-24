@@ -1,0 +1,21 @@
+{
+  "response": {
+    "total_count": 2,
+    "games": [
+      {
+        "appid": 346110,
+        "name": "ARK: Survival Evolved",
+        "playtime_2weeks": 1481,
+        "playtime_forever": 122210,
+        "img_icon_url": "fef1799533131c10f538d2dd697bbbd89e663265"
+      },
+      {
+        "appid": 730,
+        "name": "Counter-Strike 2",
+        "playtime_2weeks": 447,
+        "playtime_forever": 81934,
+        "img_icon_url": "8dbc71957312bbd3baea65848b545be9eae2a355"
+      }
+    ]
+  }
+}

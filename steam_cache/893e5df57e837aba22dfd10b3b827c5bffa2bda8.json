@@ -1,0 +1,21 @@
+{
+  "response": {
+    "total_count": 2,
+    "games": [
+      {
+        "appid": 730,
+        "name": "Counter-Strike 2",
+        "playtime_2weeks": 608,
+        "playtime_forever": 74307,
+        "img_icon_url": "8dbc71957312bbd3baea65848b545be9eae2a355"
+      },
+      {
+        "appid": 362890,
+        "name": "Black Mesa",
+        "playtime_2weeks": 232,
+        "playtime_forever": 396,
+        "img_icon_url": "51182b6a74035eb913b353d5d60e596c3804daf6"
+      }
+    ]
+  }
+}

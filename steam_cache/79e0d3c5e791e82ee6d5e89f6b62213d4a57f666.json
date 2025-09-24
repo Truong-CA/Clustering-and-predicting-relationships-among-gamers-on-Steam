@@ -1,0 +1,42 @@
+{
+  "response": {
+    "total_count": 5,
+    "games": [
+      {
+        "appid": 578080,
+        "name": "PUBG: BATTLEGROUNDS",
+        "playtime_2weeks": 1754,
+        "playtime_forever": 156110,
+        "img_icon_url": "609f27278aa70697c13bf99f32c5a0248c381f9d"
+      },
+      {
+        "appid": 730,
+        "name": "Counter-Strike 2",
+        "playtime_2weeks": 591,
+        "playtime_forever": 17932,
+        "img_icon_url": "8dbc71957312bbd3baea65848b545be9eae2a355"
+      },
+      {
+        "appid": 1568590,
+        "name": "Goose Goose Duck",
+        "playtime_2weeks": 146,
+        "playtime_forever": 2381,
+        "img_icon_url": "3b802d5010d6d5d72c93a8565b260c6042cc9390"
+      },
+      {
+        "appid": 3097560,
+        "name": "Liar's Bar",
+        "playtime_2weeks": 88,
+        "playtime_forever": 621,
+        "img_icon_url": "5342338ad1fd3561c1ed8c6d2ed4ae0e6ada2e9c"
+      },
+      {
+        "appid": 397900,
+        "name": "Business Tour - Online Multiplayer Board Game",
+        "playtime_2weeks": 69,
+        "playtime_forever": 2972,
+        "img_icon_url": "b6ce52a576e99f54c5d18f675540b9c3ee70ed47"
+      }
+    ]
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "response": {
+    "total_count": 5,
+    "games": [
+      {
+        "appid": 570,
+        "name": "Dota 2",
+        "playtime_2weeks": 102,
+        "playtime_forever": 90601,
+        "img_icon_url": "0bbb630d63262dd66d2fdd0f7d37e8661a410075"
+      },
+      {
+        "appid": 2524890,
+        "name": "Pixel Gun 3D: PC Edition",
+        "playtime_2weeks": 45,
+        "playtime_forever": 10825,
+        "img_icon_url": "74fa3fd8d35a1b1cce00dc7831078c5cfedb1a6c"
+      },
+      {
+        "appid": 555570,
+        "name": "Infestation: The New Z",
+        "playtime_2weeks": 14,
+        "playtime_forever": 4004,
+        "img_icon_url": "1a47976ed0794d3aeac244ce7303efd572728ba9"
+      },
+      {
+        "appid": 236110,
+        "name": "Dungeon Defenders II",
+        "playtime_2weeks": 12,
+        "playtime_forever": 28122,
+        "img_icon_url": "0ce07c2568f978a01c8ae5f4d9402c3253963641"
+      },
+      {
+        "appid": 291550,
+        "name": "Brawlhalla",
+        "playtime_2weeks": 2,
+        "playtime_forever": 15064,
+        "img_icon_url": "c43fac31b8bf8821764603a14d09412bc3d45f66"
+      }
+    ]
+  }
+}

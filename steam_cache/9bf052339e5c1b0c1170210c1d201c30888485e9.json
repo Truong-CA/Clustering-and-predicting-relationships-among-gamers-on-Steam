@@ -1,0 +1,28 @@
+{
+  "response": {
+    "total_count": 3,
+    "games": [
+      {
+        "appid": 1812090,
+        "name": "Escape Academy",
+        "playtime_2weeks": 62,
+        "playtime_forever": 668,
+        "img_icon_url": "99839dead94f4e2a28cf93807afdcdc15b820d7a"
+      },
+      {
+        "appid": 431240,
+        "name": "Golf With Your Friends",
+        "playtime_2weeks": 23,
+        "playtime_forever": 1698,
+        "img_icon_url": "c6379c8ec66ac02565f1155bf3821b846164d93c"
+      },
+      {
+        "appid": 730,
+        "name": "Counter-Strike 2",
+        "playtime_2weeks": 1,
+        "playtime_forever": 71236,
+        "img_icon_url": "8dbc71957312bbd3baea65848b545be9eae2a355"
+      }
+    ]
+  }
+}

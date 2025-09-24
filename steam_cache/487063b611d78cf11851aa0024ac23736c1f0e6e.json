@@ -1,0 +1,28 @@
+{
+  "response": {
+    "total_count": 3,
+    "games": [
+      {
+        "appid": 730,
+        "name": "Counter-Strike 2",
+        "playtime_2weeks": 1058,
+        "playtime_forever": 191498,
+        "img_icon_url": "8dbc71957312bbd3baea65848b545be9eae2a355"
+      },
+      {
+        "appid": 588430,
+        "name": "Fallout Shelter",
+        "playtime_2weeks": 217,
+        "playtime_forever": 300,
+        "img_icon_url": "bb39b682fefd9a95486911cd991d8cdc5d7b57c9"
+      },
+      {
+        "appid": 570,
+        "name": "Dota 2",
+        "playtime_2weeks": 11,
+        "playtime_forever": 3393,
+        "img_icon_url": "0bbb630d63262dd66d2fdd0f7d37e8661a410075"
+      }
+    ]
+  }
+}

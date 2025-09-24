@@ -1,0 +1,35 @@
+{
+  "response": {
+    "total_count": 4,
+    "games": [
+      {
+        "appid": 413150,
+        "name": "Stardew Valley",
+        "playtime_2weeks": 1145,
+        "playtime_forever": 4186,
+        "img_icon_url": "35d1377200084a4034238c05b0c8930451e2fb40"
+      },
+      {
+        "appid": 1203220,
+        "name": "NARAKA: BLADEPOINT",
+        "playtime_2weeks": 867,
+        "playtime_forever": 25251,
+        "img_icon_url": "8055e7baa81ce2084d7daa42233983967956abb0"
+      },
+      {
+        "appid": 1568590,
+        "name": "Goose Goose Duck",
+        "playtime_2weeks": 439,
+        "playtime_forever": 824,
+        "img_icon_url": "3b802d5010d6d5d72c93a8565b260c6042cc9390"
+      },
+      {
+        "appid": 105600,
+        "name": "Terraria",
+        "playtime_2weeks": 1,
+        "playtime_forever": 1,
+        "img_icon_url": "858961e95fbf869f136e1770d586e0caefd4cfac"
+      }
+    ]
+  }
+}

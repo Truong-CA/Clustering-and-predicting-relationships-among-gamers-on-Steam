@@ -1,0 +1,70 @@
+{
+  "response": {
+    "total_count": 9,
+    "games": [
+      {
+        "appid": 1407200,
+        "name": "World of Tanks",
+        "playtime_2weeks": 1008,
+        "playtime_forever": 6577,
+        "img_icon_url": "3ba3158e913a637a1fbe033db4f88fccc52f1ff4"
+      },
+      {
+        "appid": 730,
+        "name": "Counter-Strike 2",
+        "playtime_2weeks": 398,
+        "playtime_forever": 128843,
+        "img_icon_url": "8dbc71957312bbd3baea65848b545be9eae2a355"
+      },
+      {
+        "appid": 1517290,
+        "name": "Battlefield™ 2042",
+        "playtime_2weeks": 94,
+        "playtime_forever": 1915,
+        "img_icon_url": "dc805cd05c36a1b26f4eb57b64301e6708e20776"
+      },
+      {
+        "appid": 2183900,
+        "name": "Warhammer 40,000: Space Marine 2",
+        "playtime_2weeks": 89,
+        "playtime_forever": 89,
+        "img_icon_url": "0fccfb5eb2acb934db1fe95a4e578f25ccbd71ec"
+      },
+      {
+        "appid": 2073850,
+        "name": "THE FINALS",
+        "playtime_2weeks": 56,
+        "playtime_forever": 1758,
+        "img_icon_url": "9532db560dca3b4982f4af3f5981b6b2ce2a6909"
+      },
+      {
+        "appid": 1645820,
+        "name": "SurrounDead",
+        "playtime_2weeks": 45,
+        "playtime_forever": 129,
+        "img_icon_url": "51a09232eed1243103f8d746b2f1b685322463f1"
+      },
+      {
+        "appid": 1144200,
+        "name": "Ready or Not",
+        "playtime_2weeks": 45,
+        "playtime_forever": 1705,
+        "img_icon_url": "9312af21d070f126acbd2237c461b0d06d9b3e20"
+      },
+      {
+        "appid": 431960,
+        "name": "Wallpaper Engine",
+        "playtime_2weeks": 13,
+        "playtime_forever": 3476,
+        "img_icon_url": "72edaed9d748c6cf7397ffb1c83f0b837b9ebd9d"
+      },
+      {
+        "appid": 1217060,
+        "name": "Gunfire Reborn",
+        "playtime_2weeks": 2,
+        "playtime_forever": 629,
+        "img_icon_url": "446d10e4c62466203a4c60e3416d4307048710b8"
+      }
+    ]
+  }
+}

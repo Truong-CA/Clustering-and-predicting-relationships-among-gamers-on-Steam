@@ -1,0 +1,42 @@
+{
+  "response": {
+    "total_count": 5,
+    "games": [
+      {
+        "appid": 470310,
+        "name": "TROUBLESHOOTER: Abandoned Children",
+        "playtime_2weeks": 763,
+        "playtime_forever": 1617,
+        "img_icon_url": "3bf82fbc61ee907323fb8d7cfd4b1b568a81219e"
+      },
+      {
+        "appid": 200510,
+        "name": "XCOM: Enemy Unknown",
+        "playtime_2weeks": 458,
+        "playtime_forever": 31703,
+        "img_icon_url": "48be2fee1d0d511b5c7313e1359beafd36ea92ed"
+      },
+      {
+        "appid": 268500,
+        "name": "XCOM 2",
+        "playtime_2weeks": 201,
+        "playtime_forever": 62620,
+        "img_icon_url": "f275aeb0b1b947262810569356a199848c643754"
+      },
+      {
+        "appid": 22330,
+        "name": "The Elder Scrolls IV: Oblivion Game of the Year Edition (2009)",
+        "playtime_2weeks": 7,
+        "playtime_forever": 5947,
+        "img_icon_url": "e33402f6e1e4ed6dd001c7add26934f345cbd31e"
+      },
+      {
+        "appid": 489830,
+        "name": "The Elder Scrolls V: Skyrim Special Edition",
+        "playtime_2weeks": 3,
+        "playtime_forever": 48001,
+        "img_icon_url": "0dfe3eed5658f9fbd8b62f8021038c0a4190f21d"
+      }
+    ]
+  }
+}

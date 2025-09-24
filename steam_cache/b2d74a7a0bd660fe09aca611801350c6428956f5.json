@@ -1,0 +1,21 @@
+{
+  "response": {
+    "total_count": 2,
+    "games": [
+      {
+        "appid": 730,
+        "name": "Counter-Strike 2",
+        "playtime_2weeks": 1802,
+        "playtime_forever": 100270,
+        "img_icon_url": "8dbc71957312bbd3baea65848b545be9eae2a355"
+      },
+      {
+        "appid": 2507950,
+        "name": "Delta Force",
+        "playtime_2weeks": 542,
+        "playtime_forever": 4417,
+        "img_icon_url": "52bc6c4bf0c232cf30d66eb3d1638bf099bc6061"
+      }
+    ]
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "response": {
+    "total_count": 4,
+    "games": [
+      {
+        "appid": 1905180,
+        "name": "OBS Studio",
+        "playtime_2weeks": 7500,
+        "playtime_forever": 31089,
+        "img_icon_url": "b030cbb319718e6e06ce707ae564e0dd6e560735"
+      },
+      {
+        "appid": 367520,
+        "name": "Hollow Knight",
+        "playtime_2weeks": 227,
+        "playtime_forever": 938,
+        "img_icon_url": "f6ab055c2366237200b1a31cccbd6cf81e436d72"
+      },
+      {
+        "appid": 1740720,
+        "name": "Have a Nice Death",
+        "playtime_2weeks": 172,
+        "playtime_forever": 2130,
+        "img_icon_url": "57f69a232db93d89f1a9cc6f6d6bcfc9f30e7360"
+      },
+      {
+        "appid": 582010,
+        "name": "Monster Hunter: World",
+        "playtime_2weeks": 14,
+        "playtime_forever": 46178,
+        "img_icon_url": "6ec147f2d423f435e15eb79b3d82f771913de634"
+      }
+    ]
+  }
+}

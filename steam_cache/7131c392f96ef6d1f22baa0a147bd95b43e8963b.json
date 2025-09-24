@@ -1,0 +1,63 @@
+{
+  "response": {
+    "total_count": 8,
+    "games": [
+      {
+        "appid": 480,
+        "name": "Spacewar",
+        "playtime_2weeks": 296,
+        "playtime_forever": 3078,
+        "img_icon_url": ""
+      },
+      {
+        "appid": 271590,
+        "name": "Grand Theft Auto V Legacy",
+        "playtime_2weeks": 76,
+        "playtime_forever": 27098,
+        "img_icon_url": "1e72f87eb927fa1485e68aefaff23c7fd7178251"
+      },
+      {
+        "appid": 291550,
+        "name": "Brawlhalla",
+        "playtime_2weeks": 58,
+        "playtime_forever": 58,
+        "img_icon_url": "c43fac31b8bf8821764603a14d09412bc3d45f66"
+      },
+      {
+        "appid": 322330,
+        "name": "Don't Starve Together",
+        "playtime_2weeks": 47,
+        "playtime_forever": 886,
+        "img_icon_url": "a80aa6cff8eebc1cbc18c367d9ab063e1553b0ee"
+      },
+      {
+        "appid": 17480,
+        "name": "Command & Conquer™ Red Alert™ 3",
+        "playtime_2weeks": 44,
+        "playtime_forever": 44,
+        "img_icon_url": "02f2c2f9e3511f7c6d4a0afa184cc0a121581a13"
+      },
+      {
+        "appid": 646910,
+        "name": "The Crew 2",
+        "playtime_2weeks": 31,
+        "playtime_forever": 14373,
+        "img_icon_url": "c627b2fa24d61b4042afbd2b183f49b9ca59bc45"
+      },
+      {
+        "appid": 2229850,
+        "name": "Command & Conquer: Red Alert™ 2 and Yuri’s Revenge™",
+        "playtime_2weeks": 27,
+        "playtime_forever": 27,
+        "img_icon_url": "3ffff6e06d54ac701c45e4a92ac1dbeaaf4503d9"
+      },
+      {
+        "appid": 47700,
+        "name": "Command & Conquer™ 4 Tiberian Twilight",
+        "playtime_2weeks": 22,
+        "playtime_forever": 22,
+        "img_icon_url": "3872f47f0783eebbff61ce7d8ed7a33d7d6c6821"
+      }
+    ]
+  }
+}

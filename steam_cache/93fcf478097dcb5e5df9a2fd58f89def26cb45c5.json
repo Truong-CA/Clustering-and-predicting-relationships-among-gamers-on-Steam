@@ -1,0 +1,35 @@
+{
+  "response": {
+    "total_count": 4,
+    "games": [
+      {
+        "appid": 3224770,
+        "name": "Umamusume: Pretty Derby",
+        "playtime_2weeks": 2050,
+        "playtime_forever": 14505,
+        "img_icon_url": "67a3e76c151bb0fe82c707c32c83f4d518a73a85"
+      },
+      {
+        "appid": 2622380,
+        "name": "ELDEN RING NIGHTREIGN",
+        "playtime_2weeks": 1070,
+        "playtime_forever": 6599,
+        "img_icon_url": "c59f3732d379c9667450b174353d69d5bcea95a5"
+      },
+      {
+        "appid": 1928420,
+        "name": "Farlight 84",
+        "playtime_2weeks": 692,
+        "playtime_forever": 1499,
+        "img_icon_url": "c2aaf912e0bfd0da705fde5cb713758170633c9d"
+      },
+      {
+        "appid": 1172470,
+        "name": "Apex Legends",
+        "playtime_2weeks": 42,
+        "playtime_forever": 205780,
+        "img_icon_url": "6cc35932af780289ae3d8d5cdbfe9cd545decad2"
+      }
+    ]
+  }
+}

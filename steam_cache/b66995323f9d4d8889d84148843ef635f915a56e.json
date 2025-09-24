@@ -1,0 +1,28 @@
+{
+  "response": {
+    "total_count": 3,
+    "games": [
+      {
+        "appid": 2622380,
+        "name": "ELDEN RING NIGHTREIGN",
+        "playtime_2weeks": 3327,
+        "playtime_forever": 12392,
+        "img_icon_url": "c59f3732d379c9667450b174353d69d5bcea95a5"
+      },
+      {
+        "appid": 3354750,
+        "name": "skate.",
+        "playtime_2weeks": 224,
+        "playtime_forever": 224,
+        "img_icon_url": "741cefdfeabf38b28288dab2cdbcf848995b85cb"
+      },
+      {
+        "appid": 1659040,
+        "name": "HITMAN World of Assassination",
+        "playtime_2weeks": 3,
+        "playtime_forever": 13358,
+        "img_icon_url": "552be1d38866afd1c33f682323d325130e7d0ce6"
+      }
+    ]
+  }
+}

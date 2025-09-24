@@ -1,0 +1,21 @@
+{
+  "response": {
+    "total_count": 2,
+    "games": [
+      {
+        "appid": 1757300,
+        "name": "Jump Space",
+        "playtime_2weeks": 467,
+        "playtime_forever": 467,
+        "img_icon_url": "bf17dea5fe4340915e328e29b00b6fc43579194b"
+      },
+      {
+        "appid": 1063420,
+        "name": "Void Crew",
+        "playtime_2weeks": 304,
+        "playtime_forever": 797,
+        "img_icon_url": "fce405564dd17dcaa6a5d62a4adde3011a0a221e"
+      }
+    ]
+  }
+}

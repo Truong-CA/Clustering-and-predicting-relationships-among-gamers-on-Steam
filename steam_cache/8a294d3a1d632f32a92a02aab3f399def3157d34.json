@@ -1,0 +1,21 @@
+{
+  "response": {
+    "total_count": 2,
+    "games": [
+      {
+        "appid": 2183900,
+        "name": "Warhammer 40,000: Space Marine 2",
+        "playtime_2weeks": 3895,
+        "playtime_forever": 3895,
+        "img_icon_url": "0fccfb5eb2acb934db1fe95a4e578f25ccbd71ec"
+      },
+      {
+        "appid": 236390,
+        "name": "War Thunder",
+        "playtime_2weeks": 2,
+        "playtime_forever": 273098,
+        "img_icon_url": "c69fbafb6e9891314cc5df0fe6a659612c289bf9"
+      }
+    ]
+  }
+}

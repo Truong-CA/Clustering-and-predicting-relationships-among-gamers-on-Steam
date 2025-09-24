@@ -1,0 +1,21 @@
+{
+  "response": {
+    "total_count": 2,
+    "games": [
+      {
+        "appid": 275850,
+        "name": "No Man's Sky",
+        "playtime_2weeks": 168,
+        "playtime_forever": 2682,
+        "img_icon_url": "fccb20f309ac5ae05b3cb4576a8a3357edf86f2e"
+      },
+      {
+        "appid": 1174180,
+        "name": "Red Dead Redemption 2",
+        "playtime_2weeks": 1,
+        "playtime_forever": 7681,
+        "img_icon_url": "5106abd9c1187a97f23295a0ba9470c94804ec6c"
+      }
+    ]
+  }
+}

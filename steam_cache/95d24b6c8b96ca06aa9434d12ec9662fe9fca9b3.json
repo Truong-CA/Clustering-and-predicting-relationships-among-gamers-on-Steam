@@ -1,0 +1,302 @@
+{
+  "response": {
+    "game_count": 38,
+    "games": [
+      {
+        "appid": 570,
+        "name": "Dota 2",
+        "playtime_forever": 123,
+        "img_icon_url": "0bbb630d63262dd66d2fdd0f7d37e8661a410075",
+        "content_descriptorids": [
+          5
+        ]
+      },
+      {
+        "appid": 730,
+        "name": "Counter-Strike 2",
+        "playtime_forever": 77528,
+        "img_icon_url": "8dbc71957312bbd3baea65848b545be9eae2a355",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 4720,
+        "name": "Condemned: Criminal Origins",
+        "playtime_forever": 1,
+        "img_icon_url": "8ea7e69eb0f0f056c39f9c9d655d3885bbe4215a"
+      },
+      {
+        "appid": 34270,
+        "name": "SEGA Mega Drive & Genesis Classics",
+        "playtime_forever": 0,
+        "img_icon_url": "2cda9462fbaf9309e5aedce99ad8452adf8a40bd",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 99300,
+        "name": "Renegade Ops",
+        "playtime_forever": 0,
+        "img_icon_url": "def6f08f177180ab15bbf7c90ba8d323159ecd7d",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 105600,
+        "name": "Terraria",
+        "playtime_forever": 7958,
+        "img_icon_url": "858961e95fbf869f136e1770d586e0caefd4cfac",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 108600,
+        "name": "Project Zomboid",
+        "playtime_forever": 359,
+        "img_icon_url": "2bd4642ae337e378e7b04a19d19683425c5f81a4",
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 203750,
+        "name": "Binary Domain",
+        "playtime_forever": 588,
+        "img_icon_url": "14de291b4d113c03ba76111b22e697a4d220d840",
+        "has_community_visible_stats": true,
+        "has_leaderboards": true
+      },
+      {
+        "appid": 211160,
+        "name": "Viking: Battle for Asgard",
+        "playtime_forever": 0,
+        "img_icon_url": "fa0cc33822d69907bf8e761a645541784f85294d",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 218620,
+        "name": "PAYDAY 2",
+        "playtime_forever": 0,
+        "img_icon_url": "a6abc0d0c1e79c0b5b0f5c8ab81ce9076a542414",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 219740,
+        "name": "Don't Starve",
+        "playtime_forever": 5758,
+        "img_icon_url": "03fe647df40dccc4d19bf42a0185cd3e6b9f2953"
+      },
+      {
+        "appid": 219990,
+        "name": "Grim Dawn",
+        "playtime_forever": 1441,
+        "img_icon_url": "762057f2b14463ae1cbf0701a4cdb25cf94e8a0c",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 222880,
+        "name": "Insurgency",
+        "playtime_forever": 65,
+        "img_icon_url": "b072fc4239951c1952f4877edde340419438b528",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 238910,
+        "name": "Bionic Dues",
+        "playtime_forever": 205,
+        "img_icon_url": "b32336f3ed512f909b9d240e8e2a26638b3924d6",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 252850,
+        "name": "Streamline",
+        "playtime_forever": 5,
+        "img_icon_url": "8c7695a2e6017605e704a52c630090349f344ae2",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 299260,
+        "name": "Commando Jack",
+        "playtime_forever": 426,
+        "img_icon_url": "91f655ebeb3a9cb76905eb4856defe4a82ab840b"
+      },
+      {
+        "appid": 299460,
+        "name": "Woodle Tree Adventures",
+        "playtime_forever": 408,
+        "img_icon_url": "69bd90435878b5c5508dcb960ee0224de73c2c22",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 304930,
+        "name": "Unturned",
+        "playtime_forever": 0,
+        "img_icon_url": "e18009fb628b35953826efe47dc3be556b689f4c",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 322330,
+        "name": "Don't Starve Together",
+        "playtime_forever": 17914,
+        "img_icon_url": "a80aa6cff8eebc1cbc18c367d9ab063e1553b0ee"
+      },
+      {
+        "appid": 333930,
+        "name": "Dirty Bomb",
+        "playtime_forever": 23,
+        "img_icon_url": "48a3c464019fc161c2ea17334ca8d545a846a98e",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 335430,
+        "name": "Grimoire: Manastorm",
+        "playtime_forever": 385,
+        "img_icon_url": "23b7282fc7963bdd091a1eba93e32e0d5173ccc7"
+      },
+      {
+        "appid": 349580,
+        "name": "Burstfire",
+        "playtime_forever": 329,
+        "img_icon_url": "c7c68c1049a710af057967e25d00f050a52f3a5a"
+      },
+      {
+        "appid": 357900,
+        "name": "Make it indie!",
+        "playtime_forever": 227,
+        "img_icon_url": "cddd393b0db33549004a71cfcae5d85bc760cf56",
+        "has_community_visible_stats": true,
+        "has_leaderboards": true
+      },
+      {
+        "appid": 366760,
+        "name": "Adorables",
+        "playtime_forever": 469,
+        "img_icon_url": "6124cc41a6744360621ed7c3e9b5269c9e1114dd",
+        "has_community_visible_stats": true,
+        "has_leaderboards": true
+      },
+      {
+        "appid": 388490,
+        "name": "One Way To Die",
+        "playtime_forever": 0,
+        "img_icon_url": "e47003d080fb2ebc13569e4a22f052744b81c495",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          5
+        ]
+      },
+      {
+        "appid": 412880,
+        "name": "Drift Streets Japan",
+        "playtime_forever": 0,
+        "img_icon_url": "5612841435a9dd5db7972adaeb0e5ecb5014fef3"
+      },
+      {
+        "appid": 413150,
+        "name": "Stardew Valley",
+        "playtime_forever": 6055,
+        "img_icon_url": "35d1377200084a4034238c05b0c8930451e2fb40",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 422100,
+        "name": "Heaven Island Life",
+        "playtime_forever": 254,
+        "img_icon_url": "685998a7b9bd45ddd2344cd70912634e8038fc6f"
+      },
+      {
+        "appid": 427780,
+        "name": "PERFECT ANGLE: The puzzle game based on optical illusions",
+        "playtime_forever": 235,
+        "img_icon_url": "234d8bc154a906d411fd11c89d3ea625d010a773",
+        "has_community_visible_stats": true,
+        "has_leaderboards": true
+      },
+      {
+        "appid": 434250,
+        "name": "Masked Shooters 2",
+        "playtime_forever": 0,
+        "img_icon_url": "09d68c28627fa7aec7fb01708579467b07e4bd3f",
+        "has_community_visible_stats": true,
+        "has_leaderboards": true,
+        "content_descriptorids": [
+          5
+        ]
+      },
+      {
+        "appid": 444090,
+        "name": "Paladins",
+        "playtime_forever": 168,
+        "img_icon_url": "1565119c17f532338a0645b98e69e1fc1df0c29e",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 449220,
+        "name": "A grande bagunça espacial - The big space mess",
+        "playtime_forever": 298,
+        "img_icon_url": "7ed42e377a17de90231d46d1790c0f68b23629d2",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 625960,
+        "name": "Stoneshard",
+        "playtime_forever": 2937,
+        "img_icon_url": "552aefd08671b2d55291d70f1ad91e63834456fb",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 646570,
+        "name": "Slay the Spire",
+        "playtime_forever": 2764,
+        "img_icon_url": "33ea124ea8c03a9ce7012d34c3b348a351612fca",
+        "has_community_visible_stats": true,
+        "has_leaderboards": true
+      },
+      {
+        "appid": 1055430,
+        "name": "Swords and Sandals Classic Collection",
+        "playtime_forever": 433,
+        "img_icon_url": "0bfe973813cd900dc49c6ef3c79300a24c52c01f",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 1145360,
+        "name": "Hades",
+        "playtime_forever": 5238,
+        "img_icon_url": "8a3fca36a00883e8066263ad35dd15d77a1f9abc",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 1794680,
+        "name": "Vampire Survivors",
+        "playtime_forever": 1971,
+        "img_icon_url": "3677cf1be3be1f4ea42261c62ce10519715ade58",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 1868140,
+        "name": "DAVE THE DIVER",
+        "playtime_forever": 2610,
+        "img_icon_url": "2f19d6889f66eae88e8b5a36727d560ec88a00cb",
+        "has_community_visible_stats": true
+      }
+    ]
+  }
+}

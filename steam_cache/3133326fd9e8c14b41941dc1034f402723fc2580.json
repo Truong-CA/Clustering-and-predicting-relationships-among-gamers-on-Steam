@@ -1,0 +1,21 @@
+{
+  "response": {
+    "total_count": 2,
+    "games": [
+      {
+        "appid": 294100,
+        "name": "RimWorld",
+        "playtime_2weeks": 745,
+        "playtime_forever": 5123,
+        "img_icon_url": "addbe3b704b267060b4d5d7649cfb292de61bd70"
+      },
+      {
+        "appid": 252490,
+        "name": "Rust",
+        "playtime_2weeks": 41,
+        "playtime_forever": 11425,
+        "img_icon_url": "820be4782639f9c4b64fa3ca7e6c26a95ae4fd1c"
+      }
+    ]
+  }
+}

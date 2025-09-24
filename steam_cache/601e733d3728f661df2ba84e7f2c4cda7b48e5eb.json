@@ -1,0 +1,79 @@
+{
+  "response": {
+    "game_count": 9,
+    "games": [
+      {
+        "appid": 730,
+        "name": "Counter-Strike 2",
+        "playtime_2weeks": 54,
+        "playtime_forever": 5443,
+        "img_icon_url": "8dbc71957312bbd3baea65848b545be9eae2a355",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 291550,
+        "name": "Brawlhalla",
+        "playtime_forever": 26,
+        "img_icon_url": "c43fac31b8bf8821764603a14d09412bc3d45f66",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 578080,
+        "name": "PUBG: BATTLEGROUNDS",
+        "playtime_2weeks": 566,
+        "playtime_forever": 21888,
+        "img_icon_url": "609f27278aa70697c13bf99f32c5a0248c381f9d",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 670290,
+        "name": "Real Pool 3D - Poolians",
+        "playtime_forever": 10,
+        "img_icon_url": "b74acc3e1996c8cb9ce9e2933c190575fa0be457"
+      },
+      {
+        "appid": 1203220,
+        "name": "NARAKA: BLADEPOINT",
+        "playtime_forever": 95,
+        "img_icon_url": "8055e7baa81ce2084d7daa42233983967956abb0",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 1961460,
+        "name": "Project Playtime",
+        "playtime_forever": 7,
+        "img_icon_url": "c443ac07bed8665c5bef29464351c3b236684759"
+      },
+      {
+        "appid": 2551020,
+        "name": "One-armed robber",
+        "playtime_forever": 10,
+        "img_icon_url": "810402b02588c37cc459b1a39896ab9377ba616a",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 2767030,
+        "name": "Marvel Rivals",
+        "playtime_forever": 10,
+        "img_icon_url": "839b4712925b95702ca56e0c4d399adf54f4d617",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 2928280,
+        "name": "Crime Simulator: Playgrounds",
+        "playtime_forever": 44,
+        "img_icon_url": "ee10e414f9b0eb122e9369f5a509455f9b734872",
+        "has_community_visible_stats": true,
+        "has_leaderboards": true
+      }
+    ]
+  }
+}
