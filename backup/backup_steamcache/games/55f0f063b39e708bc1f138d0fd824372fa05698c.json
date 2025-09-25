@@ -1,0 +1,35 @@
+{
+  "response": {
+    "total_count": 4,
+    "games": [
+      {
+        "appid": 1174180,
+        "name": "Red Dead Redemption 2",
+        "playtime_2weeks": 3594,
+        "playtime_forever": 4076,
+        "img_icon_url": "5106abd9c1187a97f23295a0ba9470c94804ec6c"
+      },
+      {
+        "appid": 1976440,
+        "name": "CounterSide",
+        "playtime_2weeks": 2476,
+        "playtime_forever": 70353,
+        "img_icon_url": "c1f4a95b95894dac0827b2918193a36c0d617e05"
+      },
+      {
+        "appid": 730,
+        "name": "Counter-Strike 2",
+        "playtime_2weeks": 1131,
+        "playtime_forever": 134822,
+        "img_icon_url": "8dbc71957312bbd3baea65848b545be9eae2a355"
+      },
+      {
+        "appid": 3008130,
+        "name": "Dying Light: The Beast",
+        "playtime_2weeks": 343,
+        "playtime_forever": 343,
+        "img_icon_url": "48a57f9344332b2c9c16c3590a14af7b39abd8eb"
+      }
+    ]
+  }
+}

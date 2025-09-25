@@ -1,0 +1,35 @@
+{
+  "response": {
+    "total_count": 4,
+    "games": [
+      {
+        "appid": 397900,
+        "name": "Business Tour - Online Multiplayer Board Game",
+        "playtime_2weeks": 1321,
+        "playtime_forever": 7059,
+        "img_icon_url": "b6ce52a576e99f54c5d18f675540b9c3ee70ed47"
+      },
+      {
+        "appid": 2106670,
+        "name": "Gatekeeper",
+        "playtime_2weeks": 602,
+        "playtime_forever": 10384,
+        "img_icon_url": "69f1c4f815d5a15e31efec4b2f338e232d2230b7"
+      },
+      {
+        "appid": 730,
+        "name": "Counter-Strike 2",
+        "playtime_2weeks": 218,
+        "playtime_forever": 286292,
+        "img_icon_url": "8dbc71957312bbd3baea65848b545be9eae2a355"
+      },
+      {
+        "appid": 1517290,
+        "name": "Battlefield™ 2042",
+        "playtime_2weeks": 149,
+        "playtime_forever": 8378,
+        "img_icon_url": "dc805cd05c36a1b26f4eb57b64301e6708e20776"
+      }
+    ]
+  }
+}

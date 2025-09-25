@@ -1,0 +1,21 @@
+{
+  "response": {
+    "total_count": 2,
+    "games": [
+      {
+        "appid": 730,
+        "name": "Counter-Strike 2",
+        "playtime_2weeks": 152,
+        "playtime_forever": 116715,
+        "img_icon_url": "8dbc71957312bbd3baea65848b545be9eae2a355"
+      },
+      {
+        "appid": 381210,
+        "name": "Dead by Daylight",
+        "playtime_2weeks": 3,
+        "playtime_forever": 42955,
+        "img_icon_url": "aa152097a700fd6f4707397ce41794ea30874790"
+      }
+    ]
+  }
+}

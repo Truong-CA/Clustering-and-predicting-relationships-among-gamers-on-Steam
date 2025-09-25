@@ -1,0 +1,94 @@
+{
+  "response": {
+    "game_count": 11,
+    "games": [
+      {
+        "appid": 730,
+        "name": "Counter-Strike 2",
+        "playtime_2weeks": 274,
+        "playtime_forever": 283209,
+        "img_icon_url": "8dbc71957312bbd3baea65848b545be9eae2a355",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 231430,
+        "name": "Company of Heroes 2",
+        "playtime_forever": 1400,
+        "img_icon_url": "5e7e1866fb4f33a17393b0441cd1c750dbd91c5f",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 253880,
+        "name": "Earth 2150 Trilogy",
+        "playtime_forever": 0,
+        "img_icon_url": "04d85e6554d0132925cddb9f2aeb3c42e320a493"
+      },
+      {
+        "appid": 259280,
+        "name": "Earth 2150: The Moon Project",
+        "playtime_forever": 0,
+        "img_icon_url": "fdddf09c13b7b5aa264f3203d7f6cab5bc919245"
+      },
+      {
+        "appid": 259300,
+        "name": "Earth 2150: Lost Souls",
+        "playtime_forever": 0,
+        "img_icon_url": "22e4152438ee5634da2d038cd74d7a52b5dc71fb"
+      },
+      {
+        "appid": 346110,
+        "name": "ARK: Survival Evolved",
+        "playtime_forever": 0,
+        "img_icon_url": "fef1799533131c10f538d2dd697bbbd89e663265",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 383180,
+        "name": "Dead Island Riptide Definitive Edition",
+        "playtime_forever": 1204,
+        "img_icon_url": "68ea0c6d8ed1d089687da6318a62a7c3e3b5741b",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 397900,
+        "name": "Business Tour - Online Multiplayer Board Game",
+        "playtime_forever": 911,
+        "img_icon_url": "b6ce52a576e99f54c5d18f675540b9c3ee70ed47",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 407530,
+        "name": "ARK: Survival Of The Fittest",
+        "playtime_forever": 0,
+        "img_icon_url": "807c673cddebbfee0700a947a75f4872ad136e9b"
+      },
+      {
+        "appid": 578080,
+        "name": "PUBG: BATTLEGROUNDS",
+        "playtime_forever": 3728,
+        "img_icon_url": "609f27278aa70697c13bf99f32c5a0248c381f9d",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 714010,
+        "name": "Aimlabs",
+        "playtime_forever": 87,
+        "img_icon_url": "15347de11efc127539c388e585af9e92d10d5189",
+        "has_community_visible_stats": true,
+        "has_leaderboards": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "response": {
+    "total_count": 2,
+    "games": [
+      {
+        "appid": 1172710,
+        "name": "Dune: Awakening",
+        "playtime_2weeks": 873,
+        "playtime_forever": 873,
+        "img_icon_url": "4eb2afeae249b94be3ef0251f22fe72cd61d4c6e"
+      },
+      {
+        "appid": 275850,
+        "name": "No Man's Sky",
+        "playtime_2weeks": 307,
+        "playtime_forever": 16464,
+        "img_icon_url": "fccb20f309ac5ae05b3cb4576a8a3357edf86f2e"
+      }
+    ]
+  }
+}

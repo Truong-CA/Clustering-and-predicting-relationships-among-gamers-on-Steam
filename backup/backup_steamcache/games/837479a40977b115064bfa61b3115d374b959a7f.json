@@ -1,0 +1,49 @@
+{
+  "response": {
+    "total_count": 6,
+    "games": [
+      {
+        "appid": 2357570,
+        "name": "Overwatch® 2",
+        "playtime_2weeks": 1816,
+        "playtime_forever": 26504,
+        "img_icon_url": "da42bd294c941d5947b1bc2c2b2efa1313d36a91"
+      },
+      {
+        "appid": 1144200,
+        "name": "Ready or Not",
+        "playtime_2weeks": 485,
+        "playtime_forever": 2133,
+        "img_icon_url": "9312af21d070f126acbd2237c461b0d06d9b3e20"
+      },
+      {
+        "appid": 730,
+        "name": "Counter-Strike 2",
+        "playtime_2weeks": 391,
+        "playtime_forever": 125185,
+        "img_icon_url": "8dbc71957312bbd3baea65848b545be9eae2a355"
+      },
+      {
+        "appid": 16900,
+        "name": "GROUND BRANCH",
+        "playtime_2weeks": 216,
+        "playtime_forever": 1807,
+        "img_icon_url": "4ce3c7be77b7bd29c7bdae3d0c681b4f8a4644dc"
+      },
+      {
+        "appid": 553850,
+        "name": "HELLDIVERS™ 2",
+        "playtime_2weeks": 99,
+        "playtime_forever": 865,
+        "img_icon_url": "c3dff088e090f81d6e3d88eabbb67732647c69cf"
+      },
+      {
+        "appid": 1172470,
+        "name": "Apex Legends",
+        "playtime_2weeks": 13,
+        "playtime_forever": 100191,
+        "img_icon_url": "6cc35932af780289ae3d8d5cdbfe9cd545decad2"
+      }
+    ]
+  }
+}

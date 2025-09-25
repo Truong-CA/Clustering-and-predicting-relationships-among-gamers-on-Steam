@@ -1,0 +1,406 @@
+{
+  "response": {
+    "game_count": 47,
+    "games": [
+      {
+        "appid": 570,
+        "name": "Dota 2",
+        "playtime_forever": 3630,
+        "img_icon_url": "0bbb630d63262dd66d2fdd0f7d37e8661a410075",
+        "content_descriptorids": [
+          5
+        ]
+      },
+      {
+        "appid": 730,
+        "name": "Counter-Strike 2",
+        "playtime_forever": 338868,
+        "img_icon_url": "8dbc71957312bbd3baea65848b545be9eae2a355",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 51100,
+        "name": "Tactical Intervention",
+        "playtime_forever": 11,
+        "img_icon_url": "a1f93fbbd976523843c4f13321559b07cf387729",
+        "has_community_visible_stats": true,
+        "has_leaderboards": true
+      },
+      {
+        "appid": 206420,
+        "name": "Saints Row IV",
+        "playtime_forever": 29,
+        "img_icon_url": "211c502e385781a17b4d02cad7a3ef53f09f1e91",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          5
+        ]
+      },
+      {
+        "appid": 218620,
+        "name": "PAYDAY 2",
+        "playtime_forever": 9,
+        "img_icon_url": "a6abc0d0c1e79c0b5b0f5c8ab81ce9076a542414",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 239160,
+        "name": "Thief",
+        "playtime_forever": 80,
+        "img_icon_url": "d7688a71380a10c1e6113cee1a25ec8c7ae85aed",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 239660,
+        "name": "Soldier Front 2",
+        "playtime_forever": 62,
+        "img_icon_url": "5b506ecd514473924ade995a48d90957fa80b2f5",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 271590,
+        "name": "Grand Theft Auto V Legacy",
+        "playtime_forever": 4422,
+        "img_icon_url": "1e72f87eb927fa1485e68aefaff23c7fd7178251",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          5
+        ]
+      },
+      {
+        "appid": 286690,
+        "name": "Metro 2033 Redux",
+        "playtime_forever": 39,
+        "img_icon_url": "353ea01a045c084215bca95519808eaa7319ce0c",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          1,
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 287390,
+        "name": "Metro: Last Light Redux",
+        "playtime_forever": 0,
+        "img_icon_url": "7139b7af2ad9d248d21e98302b964cd61474318c",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          1,
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 292030,
+        "name": "The Witcher 3: Wild Hunt",
+        "playtime_forever": 258,
+        "img_icon_url": "78d0ff98b67851f24539cdf2402cf147679134f4",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          1,
+          5
+        ]
+      },
+      {
+        "appid": 315880,
+        "name": "WTFast Gamers Private Network (GPN)",
+        "playtime_forever": 2196,
+        "img_icon_url": "253320cbba7d60e475cb28cf2bce7dd9196b66c5"
+      },
+      {
+        "appid": 324810,
+        "name": "TOXIKK",
+        "playtime_forever": 10,
+        "img_icon_url": "18523599fb9e8305d0c6b6b99f561f4d88bdec59",
+        "has_community_visible_stats": true,
+        "has_leaderboards": true
+      },
+      {
+        "appid": 330760,
+        "name": "Running Shadow",
+        "playtime_forever": 8,
+        "img_icon_url": "e3bd52b25c0c7f32119cfb9e2acc9f1bbc91a3db",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 349720,
+        "name": "Audition Online",
+        "playtime_forever": 34,
+        "img_icon_url": "aa380213685e41b6fc1305a3ae11511eb7cf3be5"
+      },
+      {
+        "appid": 380600,
+        "name": "Fishing Planet",
+        "playtime_forever": 74,
+        "img_icon_url": "df6785140de8c32f6baec7fd7fd74c5823459250",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 381210,
+        "name": "Dead by Daylight",
+        "playtime_forever": 218,
+        "img_icon_url": "aa152097a700fd6f4707397ce41794ea30874790",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 386360,
+        "name": "SMITE",
+        "playtime_forever": 9,
+        "img_icon_url": "7ed9de7bbfab9accb81e47b84943e7478baf2f3a",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 403640,
+        "name": "Dishonored 2",
+        "playtime_forever": 18,
+        "img_icon_url": "6d6bac950a234764a353c518607dcd01973f5b65",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 433850,
+        "name": "Z1 Battle Royale",
+        "playtime_forever": 53643,
+        "img_icon_url": "aee7491abfd812e2fbb4ec3326ad5f4b85c8137a",
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 436150,
+        "name": "Governor of Poker 3",
+        "playtime_forever": 19,
+        "img_icon_url": "735ec92e0a6c35de6af1788021ec4bb9db02dd75",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 439700,
+        "name": "H1Z1: Test Server",
+        "playtime_forever": 2,
+        "img_icon_url": "d0e924622be8ce1e9920197f397365bb1e6bca5f"
+      },
+      {
+        "appid": 530700,
+        "name": "Argo",
+        "playtime_forever": 65,
+        "img_icon_url": "b827f64552754338bd272d6d2095714d77fa15cb"
+      },
+      {
+        "appid": 550650,
+        "name": "Black Squad",
+        "playtime_forever": 39,
+        "img_icon_url": "213a736d8c5b75998b671de25e6621d1e7bc122a",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          1,
+          5
+        ]
+      },
+      {
+        "appid": 562810,
+        "name": "Monopoly Plus",
+        "playtime_forever": 15,
+        "img_icon_url": "5834050412e3b3a54fce383589bed2dd32e5781c"
+      },
+      {
+        "appid": 578080,
+        "name": "PUBG: BATTLEGROUNDS",
+        "playtime_forever": 73158,
+        "img_icon_url": "609f27278aa70697c13bf99f32c5a0248c381f9d",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 760160,
+        "name": "Vampire: The Masquerade - Bloodhunt",
+        "playtime_forever": 9,
+        "img_icon_url": "08e7dfced6c1d534ec5d580a3a177427c7250a60",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          1,
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 797430,
+        "name": "HD Poker",
+        "playtime_forever": 234,
+        "img_icon_url": "32b7e5d1447ebd3b85e8b32cd987aba74c3a406f",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 835570,
+        "name": "Conqueror's Blade",
+        "playtime_forever": 75,
+        "img_icon_url": "146c4d41ab8c557a2a9ff1818d438e74de55942a",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 874240,
+        "name": "MU Legend",
+        "playtime_forever": 157,
+        "img_icon_url": "5b027ed9d7ee0718aff23db1a7beb24d65c13bc7"
+      },
+      {
+        "appid": 966610,
+        "name": "FPS Monitor",
+        "playtime_forever": 3,
+        "img_icon_url": "a736c197c71a90de7c2f186f9f7097f6ea1aec02"
+      },
+      {
+        "appid": 1203220,
+        "name": "NARAKA: BLADEPOINT",
+        "playtime_forever": 103,
+        "img_icon_url": "8055e7baa81ce2084d7daa42233983967956abb0",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 1254120,
+        "name": "Bless Unleashed",
+        "playtime_forever": 27,
+        "img_icon_url": "49c5ca0adc8d069c51e539498627c39668f4ac74",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 1422450,
+        "name": "Deadlock",
+        "playtime_forever": 0,
+        "img_icon_url": "f6da1420a173324d49bcd470fa3eee781ad0fa5e"
+      },
+      {
+        "appid": 1477830,
+        "name": "HudSight - crosshair overlay",
+        "playtime_forever": 6517,
+        "img_icon_url": "00e8a31d29638c165317b0630c7d0068e14026aa",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 1506830,
+        "name": "FIFA 22",
+        "playtime_forever": 69,
+        "img_icon_url": "97e6ad42ea46c285ba047e8e7fd0487688e9d4c1",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 1517290,
+        "name": "Battlefield™ 2042",
+        "playtime_forever": 335,
+        "img_icon_url": "dc805cd05c36a1b26f4eb57b64301e6708e20776",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 1549250,
+        "name": "Undecember",
+        "playtime_forever": 27,
+        "img_icon_url": "6c11f10e6f438fde8e7ca4c51447be720e200a83",
+        "content_descriptorids": [
+          1,
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 1623660,
+        "name": "MIR4",
+        "playtime_forever": 219,
+        "img_icon_url": "6c4b7e10e9fbb9c2165ce07833ba715897cbc192"
+      },
+      {
+        "appid": 1623730,
+        "name": "Palworld",
+        "playtime_forever": 8,
+        "img_icon_url": "f5523077a8f4c923c2e8d8c17794b3319035fa73",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 1774580,
+        "name": "STAR WARS Jedi: Survivor™",
+        "playtime_forever": 105,
+        "img_icon_url": "25578ffb2c6070c5d4e6569624efaadb8a0f5538",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 2195250,
+        "name": "EA SPORTS FC™ 24",
+        "playtime_forever": 6547,
+        "img_icon_url": "d01e05e0fb8e77c790c699b4fa0a9559cf80d16d",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 2239550,
+        "name": "Watch Dogs: Legion",
+        "playtime_forever": 161,
+        "img_icon_url": "66909b160660967933f4ffed89d10d1b1cc5df32",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          1,
+          5
+        ]
+      },
+      {
+        "appid": 2357570,
+        "name": "Overwatch® 2",
+        "playtime_forever": 21,
+        "img_icon_url": "da42bd294c941d5947b1bc2c2b2efa1313d36a91",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 2669320,
+        "name": "EA SPORTS FC™ 25",
+        "playtime_forever": 9428,
+        "img_icon_url": "f6c4988f3e7b965451a3d9fca34014585d1754e2",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 2903690,
+        "name": "Horny Villa",
+        "playtime_forever": 11,
+        "img_icon_url": "637a36cc309e39bda61d0c2ab082c9d3cdeb37e7",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          1,
+          3,
+          4,
+          5
+        ]
+      },
+      {
+        "appid": 3240220,
+        "name": "Grand Theft Auto V Enhanced",
+        "playtime_forever": 0,
+        "img_icon_url": "8355a7bbdb704f727bfba80ec56bc7228991338e",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          1,
+          2,
+          5
+        ]
+      }
+    ]
+  }
+}

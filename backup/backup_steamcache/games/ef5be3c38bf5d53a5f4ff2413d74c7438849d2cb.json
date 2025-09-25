@@ -1,0 +1,409 @@
+{
+  "response": {
+    "game_count": 50,
+    "games": [
+      {
+        "appid": 220,
+        "name": "Half-Life 2",
+        "playtime_forever": 0,
+        "img_icon_url": "fcfb366051782b8ebf2aa297f3b746395858cb62",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 320,
+        "name": "Half-Life 2: Deathmatch",
+        "playtime_forever": 0,
+        "img_icon_url": "795e85364189511f4990861b578084deef086cb1",
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 360,
+        "name": "Half-Life Deathmatch: Source",
+        "playtime_forever": 0,
+        "img_icon_url": "40b8a62efff5a9ab356e5c56f5c8b0532c8e1aa3",
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 730,
+        "name": "Counter-Strike 2",
+        "playtime_forever": 137522,
+        "img_icon_url": "8dbc71957312bbd3baea65848b545be9eae2a355",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 34330,
+        "name": "Total War: SHOGUN 2",
+        "playtime_forever": 0,
+        "img_icon_url": "2fa97296a62daf0329b3867ad6837a2289229fbb",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 43160,
+        "name": "Metro: Last Light Complete Edition",
+        "playtime_forever": 0,
+        "img_icon_url": "7b84b80d2cebe41ba87c59b28e2473d3b33e797d",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 203160,
+        "name": "Tomb Raider",
+        "playtime_forever": 0,
+        "img_icon_url": "3ee640a8aba6992678e36f4e40cba9c71c02348b",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 255710,
+        "name": "Cities: Skylines",
+        "playtime_forever": 3496,
+        "img_icon_url": "6cf7b10dd29db28448ef79698ed2118a03617d63",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 268500,
+        "name": "XCOM 2",
+        "playtime_2weeks": 926,
+        "playtime_forever": 3383,
+        "img_icon_url": "f275aeb0b1b947262810569356a199848c643754",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 286160,
+        "name": "Tabletop Simulator",
+        "playtime_forever": 125,
+        "img_icon_url": "19f5b90e3c7084758f885ded843631b13929fa26",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 289130,
+        "name": "ENDLESS™ Legend",
+        "playtime_forever": 0,
+        "img_icon_url": "02277be6b9b09671b857948006316057974d7036",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 323190,
+        "name": "Frostpunk",
+        "playtime_forever": 1,
+        "img_icon_url": "0561084dfe24c469c905fe0681da82aa31102836",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          5
+        ]
+      },
+      {
+        "appid": 346110,
+        "name": "ARK: Survival Evolved",
+        "playtime_forever": 0,
+        "img_icon_url": "fef1799533131c10f538d2dd697bbbd89e663265",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 359550,
+        "name": "Tom Clancy's Rainbow Six® Siege X",
+        "playtime_forever": 89,
+        "img_icon_url": "624745d333ac54aedb1ee911013e2edb7722550e",
+        "content_descriptorids": [
+          5
+        ]
+      },
+      {
+        "appid": 397900,
+        "name": "Business Tour - Online Multiplayer Board Game",
+        "playtime_forever": 108,
+        "img_icon_url": "b6ce52a576e99f54c5d18f675540b9c3ee70ed47",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 407530,
+        "name": "ARK: Survival Of The Fittest",
+        "playtime_forever": 0,
+        "img_icon_url": "807c673cddebbfee0700a947a75f4872ad136e9b"
+      },
+      {
+        "appid": 434170,
+        "name": "The Jackbox Party Pack 3",
+        "playtime_forever": 15,
+        "img_icon_url": "2ad3706f17b4e4ab41a337c59a63972cf5d77032",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 442070,
+        "name": "Drawful 2",
+        "playtime_forever": 0,
+        "img_icon_url": "a2aab99a9ec657f817aff247593b3310cae44288",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 444090,
+        "name": "Paladins",
+        "playtime_forever": 56,
+        "img_icon_url": "1565119c17f532338a0645b98e69e1fc1df0c29e",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 457140,
+        "name": "Oxygen Not Included",
+        "playtime_forever": 2803,
+        "img_icon_url": "d37534163ebac8351e0bda0bf30f8f2174c921b6",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 464920,
+        "name": "Surviving Mars",
+        "playtime_forever": 0,
+        "img_icon_url": "6c0bbf943ed725a16304161b89061ac1d37f6a2a",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 530700,
+        "name": "Argo",
+        "playtime_forever": 77,
+        "img_icon_url": "b827f64552754338bd272d6d2095714d77fa15cb"
+      },
+      {
+        "appid": 578080,
+        "name": "PUBG: BATTLEGROUNDS",
+        "playtime_forever": 2593,
+        "img_icon_url": "609f27278aa70697c13bf99f32c5a0248c381f9d",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 582660,
+        "name": "Black Desert",
+        "playtime_forever": 211,
+        "img_icon_url": "bf5ccace0a692720984827bf042143d0d4b28a42",
+        "content_descriptorids": [
+          1,
+          5
+        ]
+      },
+      {
+        "appid": 640590,
+        "name": "The LEGO® NINJAGO® Movie Video Game",
+        "playtime_forever": 0,
+        "img_icon_url": "e73b26c11ea3dd22910565c0621a3f511ea943d3",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 714010,
+        "name": "Aimlabs",
+        "playtime_forever": 21,
+        "img_icon_url": "15347de11efc127539c388e585af9e92d10d5189",
+        "has_community_visible_stats": true,
+        "has_leaderboards": true
+      },
+      {
+        "appid": 797430,
+        "name": "HD Poker",
+        "playtime_forever": 67,
+        "img_icon_url": "32b7e5d1447ebd3b85e8b32cd987aba74c3a406f",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 812140,
+        "name": "Assassin's Creed Odyssey",
+        "playtime_forever": 3605,
+        "img_icon_url": "4b6cf0715b30669411bf204bce7ed99a9c84671b",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          1,
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 836620,
+        "name": "Black Desert (Retired)",
+        "playtime_forever": 0,
+        "img_icon_url": "fd76e9933c56ebb5536b0396cfdf7c2dcd3e029c"
+      },
+      {
+        "appid": 911400,
+        "name": "Assassin's Creed III Remastered",
+        "playtime_forever": 0,
+        "img_icon_url": "68e5640754e5ddf29aadff49062fa68cc8c8f4a5",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          5
+        ]
+      },
+      {
+        "appid": 920210,
+        "name": "LEGO® Star Wars™: The Skywalker Saga",
+        "playtime_forever": 889,
+        "img_icon_url": "568a07f03f8dba0b74c4a02f6ebb43ce5e09075c",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 976730,
+        "name": "Halo: The Master Chief Collection",
+        "playtime_forever": 322,
+        "img_icon_url": "196a45d8df1981ff6b6b1872a38dc38f6c22875d",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 1056640,
+        "name": "Phantasy Star Online 2 New Genesis",
+        "playtime_forever": 1760,
+        "img_icon_url": "c54fa2778a5ebfa0d51e240f6782eb4af73e5b63",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 1086940,
+        "name": "Baldur's Gate 3",
+        "playtime_forever": 14599,
+        "img_icon_url": "d866cae7ea1e471fdbc206287111f1b642373bd9",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          1,
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 1172380,
+        "name": "STAR WARS Jedi: Fallen Order™ ",
+        "playtime_forever": 2040,
+        "img_icon_url": "0ea1d285a8ee6fbeef0e8f7f3b2d7fa4cbcb423b",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 1286830,
+        "name": "STAR WARS™: The Old Republic™",
+        "playtime_forever": 41,
+        "img_icon_url": "cee1e2970e9535767d963bf3c2c4011adb100609",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 1369320,
+        "name": "Virtual Cottage",
+        "playtime_forever": 121,
+        "img_icon_url": "74a82742492c2c5e456c8eeca2b74aa52694a04f",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 1372810,
+        "name": "Teamfight Manager",
+        "playtime_forever": 1235,
+        "img_icon_url": "f66623c6ba132e4b5ce625805748def5056fe5e4",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 1449850,
+        "name": "Yu-Gi-Oh!  Master Duel",
+        "playtime_forever": 6975,
+        "img_icon_url": "2cd45ee5b6c31445216a980cf40fdb10a1587b7f",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 1506830,
+        "name": "FIFA 22",
+        "playtime_forever": 20788,
+        "img_icon_url": "97e6ad42ea46c285ba047e8e7fd0487688e9d4c1",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 1568590,
+        "name": "Goose Goose Duck",
+        "playtime_forever": 237,
+        "img_icon_url": "3b802d5010d6d5d72c93a8565b260c6042cc9390",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 1749630,
+        "name": "Chill Corner",
+        "playtime_forever": 238,
+        "img_icon_url": "4497ce0f68ce946cb0a8f9daaaf19ed0470aea22",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 1774580,
+        "name": "STAR WARS Jedi: Survivor™",
+        "playtime_forever": 2845,
+        "img_icon_url": "25578ffb2c6070c5d4e6569624efaadb8a0f5538",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 1811260,
+        "name": "EA SPORTS™ FIFA 23",
+        "playtime_forever": 4078,
+        "img_icon_url": "c069d465ac21b9d68260a14298f8124c0b9ea4e1",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 1817070,
+        "name": "Marvel’s Spider-Man Remastered",
+        "playtime_forever": 1060,
+        "img_icon_url": "346333cb340139ad8b697005e5c79a3162c387b0",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 2195250,
+        "name": "EA SPORTS FC™ 24",
+        "playtime_forever": 3019,
+        "img_icon_url": "d01e05e0fb8e77c790c699b4fa0a9559cf80d16d",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 2274980,
+        "name": "My Neighbor's Lonely Wife 2",
+        "playtime_forever": 1018,
+        "img_icon_url": "0663a7c6a7532c281ffccc19a62adcfa2521de13",
+        "content_descriptorids": [
+          1,
+          3,
+          4,
+          5
+        ]
+      },
+      {
+        "appid": 2329630,
+        "name": "Lovey-Dovey Lockdown",
+        "playtime_forever": 114,
+        "img_icon_url": "822eeda9a73bdf91aef1e559a9f14fdb3b6d71d9",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          1,
+          3,
+          4,
+          5
+        ]
+      },
+      {
+        "appid": 2669320,
+        "name": "EA SPORTS FC™ 25",
+        "playtime_forever": 11562,
+        "img_icon_url": "f6c4988f3e7b965451a3d9fca34014585d1754e2",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 2828500,
+        "name": "The Jackbox Megapicker",
+        "playtime_forever": 0,
+        "img_icon_url": "0866a1d27e96a96c7d013c41eb6fa2ec6a935a7d"
+      }
+    ]
+  }
+}

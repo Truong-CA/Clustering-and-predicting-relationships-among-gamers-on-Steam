@@ -1,0 +1,86 @@
+{
+  "response": {
+    "game_count": 9,
+    "games": [
+      {
+        "appid": 730,
+        "name": "Counter-Strike 2",
+        "playtime_forever": 75182,
+        "img_icon_url": "8dbc71957312bbd3baea65848b545be9eae2a355",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 4000,
+        "name": "Garry's Mod",
+        "playtime_forever": 140,
+        "img_icon_url": "4a6f25cfa2426445d0d9d6e233408de4d371ce8b",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 218620,
+        "name": "PAYDAY 2",
+        "playtime_forever": 36,
+        "img_icon_url": "a6abc0d0c1e79c0b5b0f5c8ab81ce9076a542414",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 218640,
+        "name": "Lucius",
+        "playtime_forever": 155,
+        "img_icon_url": "467db011e0b4c1159777829746688eed7cf80f1d",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          1,
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 274900,
+        "name": "Murder Miners",
+        "playtime_forever": 0,
+        "img_icon_url": "0ba9a54e98ca963a8cabee36325f873f0b164c62",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 283290,
+        "name": "Nosferatu: The Wrath of Malachi",
+        "playtime_forever": 0,
+        "img_icon_url": "292f00106aa46a5df60d249000652b5adb6233e2"
+      },
+      {
+        "appid": 307350,
+        "name": "Nux",
+        "playtime_forever": 2,
+        "img_icon_url": "6f3ba6485a07b4a6c317df009c1a0f20b2d3f893"
+      },
+      {
+        "appid": 317360,
+        "name": "Double Action: Boogaloo",
+        "playtime_forever": 118,
+        "img_icon_url": "e739a26ecad7310a7aeb44d9e6e06654718b2975",
+        "has_community_visible_stats": true,
+        "has_leaderboards": true
+      },
+      {
+        "appid": 466240,
+        "name": "Deceit",
+        "playtime_forever": 90,
+        "img_icon_url": "9ab4436d104e73d560f6e0c439bcb150a9c5a174",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      }
+    ]
+  }
+}

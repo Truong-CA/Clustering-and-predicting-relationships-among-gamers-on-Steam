@@ -1,0 +1,35 @@
+{
+  "response": {
+    "total_count": 4,
+    "games": [
+      {
+        "appid": 3008130,
+        "name": "Dying Light: The Beast",
+        "playtime_2weeks": 1286,
+        "playtime_forever": 1286,
+        "img_icon_url": "48a57f9344332b2c9c16c3590a14af7b39abd8eb"
+      },
+      {
+        "appid": 730,
+        "name": "Counter-Strike 2",
+        "playtime_2weeks": 621,
+        "playtime_forever": 161115,
+        "img_icon_url": "8dbc71957312bbd3baea65848b545be9eae2a355"
+      },
+      {
+        "appid": 220240,
+        "name": "Far Cry® 3",
+        "playtime_2weeks": 31,
+        "playtime_forever": 7386,
+        "img_icon_url": "8231f43d3dd47fb4b4111fd6bd4a849e73eb0520"
+      },
+      {
+        "appid": 270880,
+        "name": "American Truck Simulator",
+        "playtime_2weeks": 1,
+        "playtime_forever": 1643,
+        "img_icon_url": "2aec8af4b4b23cb6054d9aea06194621cdd66945"
+      }
+    ]
+  }
+}

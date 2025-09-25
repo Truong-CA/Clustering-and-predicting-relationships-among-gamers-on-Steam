@@ -1,0 +1,367 @@
+{
+  "response": {
+    "game_count": 44,
+    "games": [
+      {
+        "appid": 550,
+        "name": "Left 4 Dead 2",
+        "playtime_forever": 433,
+        "img_icon_url": "7d5a243f9500d2f8467312822f8af2a2928777ed",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 730,
+        "name": "Counter-Strike 2",
+        "playtime_forever": 28002,
+        "img_icon_url": "8dbc71957312bbd3baea65848b545be9eae2a355",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 3910,
+        "name": "Sid Meier's Civilization III: Complete",
+        "playtime_forever": 0,
+        "img_icon_url": "9cc953317dabd7b8e39690472872b37104b5e625"
+      },
+      {
+        "appid": 4560,
+        "name": "Company of Heroes - Legacy Edition",
+        "playtime_forever": 0,
+        "img_icon_url": "64946619217da497c9b29bc817bb40dd7d28c912",
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 34010,
+        "name": "Alpha Protocol",
+        "playtime_forever": 0,
+        "img_icon_url": "2ac0dd4f55d09d6d20cdb21b03116dac6fe48164",
+        "content_descriptorids": [
+          1,
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 34270,
+        "name": "SEGA Mega Drive & Genesis Classics",
+        "playtime_forever": 0,
+        "img_icon_url": "2cda9462fbaf9309e5aedce99ad8452adf8a40bd",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 50300,
+        "name": "Spec Ops: The Line",
+        "playtime_forever": 0,
+        "img_icon_url": "55ae859a90d61c08f18ed3aa0ee2579169d2c2bf",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 55100,
+        "name": "Homefront",
+        "playtime_forever": 1,
+        "img_icon_url": "52d4f669d6aa00c92406457d430ed5aa6a035c54",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 57300,
+        "name": "Amnesia: The Dark Descent",
+        "playtime_forever": 0,
+        "img_icon_url": "2c08de657a8b273eeb55bb5bf674605ca023e381",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          5
+        ]
+      },
+      {
+        "appid": 65930,
+        "name": "The Bureau: XCOM Declassified",
+        "playtime_forever": 0,
+        "img_icon_url": "854f133d072a65e5577c2a21bf25ba863e4a6a23",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 99300,
+        "name": "Renegade Ops",
+        "playtime_forever": 0,
+        "img_icon_url": "def6f08f177180ab15bbf7c90ba8d323159ecd7d",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 203750,
+        "name": "Binary Domain",
+        "playtime_forever": 0,
+        "img_icon_url": "14de291b4d113c03ba76111b22e697a4d220d840",
+        "has_community_visible_stats": true,
+        "has_leaderboards": true
+      },
+      {
+        "appid": 207610,
+        "name": "The Walking Dead",
+        "playtime_forever": 1,
+        "img_icon_url": "87a13ae0a2a76488792924aa8bb0dd8a7760f931",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 209080,
+        "name": "Guns of Icarus Online",
+        "playtime_forever": 2,
+        "img_icon_url": "968e8c0b7a55f0229392278123dfd486140c9421",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 210770,
+        "name": "Sanctum 2",
+        "playtime_forever": 0,
+        "img_icon_url": "4cdfa1d19be460374a111b718ce3a204f21ea1dc",
+        "has_community_visible_stats": true,
+        "has_leaderboards": true
+      },
+      {
+        "appid": 211160,
+        "name": "Viking: Battle for Asgard",
+        "playtime_forever": 1,
+        "img_icon_url": "fa0cc33822d69907bf8e761a645541784f85294d",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 218620,
+        "name": "PAYDAY 2",
+        "playtime_forever": 1,
+        "img_icon_url": "a6abc0d0c1e79c0b5b0f5c8ab81ce9076a542414",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 228200,
+        "name": "Company of Heroes ",
+        "playtime_forever": 0,
+        "img_icon_url": "df92dc239acb3cf5d3e3eba645f3df2aaf7f91ad",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 238320,
+        "name": "Outlast",
+        "playtime_forever": 369,
+        "img_icon_url": "46bd3df92d4693d3b2af113bf8f31c2cbdadb20a",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          1,
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 239200,
+        "name": "Amnesia: A Machine for Pigs",
+        "playtime_forever": 1,
+        "img_icon_url": "3bf781ae80c6eeb8827819fb2ed92aa2353d3007",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          5
+        ]
+      },
+      {
+        "appid": 261110,
+        "name": "Killer is Dead",
+        "playtime_forever": 0,
+        "img_icon_url": "4bb1ca7ca4ffa4be186bdf0d01d0f07c71283fd3",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          1,
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 268870,
+        "name": "Satellite Reign",
+        "playtime_forever": 1,
+        "img_icon_url": "b609806b16b6581548c7d2908f0f75936ea86f48",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 277950,
+        "name": "Deadbreed®",
+        "playtime_forever": 0,
+        "img_icon_url": "d252c071b7c92f32f06e4bbb2e8edcc6f0422242"
+      },
+      {
+        "appid": 280790,
+        "name": "Creativerse",
+        "playtime_forever": 13,
+        "img_icon_url": "e4937c3f653f127bdfddc17a8a544f887775e6be"
+      },
+      {
+        "appid": 286570,
+        "name": "F1 2015",
+        "playtime_forever": 0,
+        "img_icon_url": "efba76526ca5cd18fabc9878c840ac583f08ead5",
+        "has_community_visible_stats": true,
+        "has_leaderboards": true
+      },
+      {
+        "appid": 291550,
+        "name": "Brawlhalla",
+        "playtime_forever": 7,
+        "img_icon_url": "c43fac31b8bf8821764603a14d09412bc3d45f66",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 303390,
+        "name": "Dead Bits",
+        "playtime_forever": 0,
+        "img_icon_url": "23c393739364bf2fb75577bdf03c8cafc418b8e4"
+      },
+      {
+        "appid": 368420,
+        "name": "Mirage: Arcane Warfare",
+        "playtime_forever": 3,
+        "img_icon_url": "c0b61f2a0d0499217b8b947eab1a995966dfe3c8"
+      },
+      {
+        "appid": 391720,
+        "name": "Layers of Fear (2016)",
+        "playtime_forever": 0,
+        "img_icon_url": "0fc90b925c7bbdcc95df6599a01b80dff18e6bbb",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          5
+        ]
+      },
+      {
+        "appid": 399100,
+        "name": "Spheroid",
+        "playtime_forever": 0,
+        "img_icon_url": "fb46240537e589d0578117c4da402151ace9ac2c"
+      },
+      {
+        "appid": 400250,
+        "name": "Heaven Island - VR MMO",
+        "playtime_forever": 1,
+        "img_icon_url": "870ea15929c9a6c56a9f8af94c402ae1478c0de0",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 444090,
+        "name": "Paladins",
+        "playtime_forever": 114,
+        "img_icon_url": "1565119c17f532338a0645b98e69e1fc1df0c29e",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 489220,
+        "name": "Unforgiving Trials: The Darkest Crusade",
+        "playtime_forever": 0,
+        "img_icon_url": "976c12d3fdc915565dcdc233bc3285df73a9e21e"
+      },
+      {
+        "appid": 503820,
+        "name": "A Detective's Novel",
+        "playtime_forever": 0,
+        "img_icon_url": "69a39477c3418ede5f976b63fcdfb9633ca67ce6"
+      },
+      {
+        "appid": 506540,
+        "name": "Last Man Standing",
+        "playtime_forever": 134,
+        "img_icon_url": "dbc9c2863f6b352c91fa6b347397320ea5ef19be"
+      },
+      {
+        "appid": 544610,
+        "name": "Battlestar Galactica Deadlock",
+        "playtime_forever": 0,
+        "img_icon_url": "9f04e46ee137eac4bcd300c566c91c858abb3c55",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 550650,
+        "name": "Black Squad",
+        "playtime_forever": 44,
+        "img_icon_url": "213a736d8c5b75998b671de25e6621d1e7bc122a",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          1,
+          5
+        ]
+      },
+      {
+        "appid": 551170,
+        "name": "Onmyoji",
+        "playtime_forever": 142598,
+        "img_icon_url": "d7533d4a676b1b94c27ac970e5abe2f301a4c07f",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 578080,
+        "name": "PUBG: BATTLEGROUNDS",
+        "playtime_forever": 74612,
+        "img_icon_url": "609f27278aa70697c13bf99f32c5a0248c381f9d",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 611500,
+        "name": "Quake Champions",
+        "playtime_forever": 1,
+        "img_icon_url": "539032fb1e8b41d0a48ff11bf63bfe7918ace24c",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 1025440,
+        "name": "Fantasy General II",
+        "playtime_forever": 0,
+        "img_icon_url": "bd5ca49b57cdf52990701a4ca22036b0e1fdbbf5",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 1203220,
+        "name": "NARAKA: BLADEPOINT",
+        "playtime_forever": 11256,
+        "img_icon_url": "8055e7baa81ce2084d7daa42233983967956abb0",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 1273710,
+        "name": "King of Crabs",
+        "playtime_forever": 41,
+        "img_icon_url": "ee2469b799c84eca9681baf6fdabd1fef8979164",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 1368870,
+        "name": "Field of Glory II: Medieval",
+        "playtime_forever": 0,
+        "img_icon_url": "3227ee83711ae4e2f24c62be289b9c35f43b5f18",
+        "has_community_visible_stats": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "response": {
+    "total_count": 5,
+    "games": [
+      {
+        "appid": 3405690,
+        "name": "EA SPORTS FC™ 26",
+        "playtime_2weeks": 3764,
+        "playtime_forever": 3764,
+        "img_icon_url": "9216dc0dc099279f3d560fcc73ff3c26f754100b"
+      },
+      {
+        "appid": 730,
+        "name": "Counter-Strike 2",
+        "playtime_2weeks": 180,
+        "playtime_forever": 1558614,
+        "img_icon_url": "8dbc71957312bbd3baea65848b545be9eae2a355"
+      },
+      {
+        "appid": 2669320,
+        "name": "EA SPORTS FC 25",
+        "playtime_2weeks": 66,
+        "playtime_forever": 258,
+        "img_icon_url": "f6c4988f3e7b965451a3d9fca34014585d1754e2"
+      },
+      {
+        "appid": 252490,
+        "name": "Rust",
+        "playtime_2weeks": 22,
+        "playtime_forever": 128555,
+        "img_icon_url": "820be4782639f9c4b64fa3ca7e6c26a95ae4fd1c"
+      },
+      {
+        "appid": 1366800,
+        "name": "Crosshair X",
+        "playtime_2weeks": 10,
+        "playtime_forever": 53223,
+        "img_icon_url": "16138bef561b61372e02f3006da2c76a21cdbbd7"
+      }
+    ]
+  }
+}

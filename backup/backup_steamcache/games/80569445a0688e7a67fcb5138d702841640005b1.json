@@ -1,0 +1,42 @@
+{
+  "response": {
+    "total_count": 5,
+    "games": [
+      {
+        "appid": 730,
+        "name": "Counter-Strike 2",
+        "playtime_2weeks": 848,
+        "playtime_forever": 228132,
+        "img_icon_url": "8dbc71957312bbd3baea65848b545be9eae2a355"
+      },
+      {
+        "appid": 2073620,
+        "name": "Arena Breakout: Infinite",
+        "playtime_2weeks": 532,
+        "playtime_forever": 532,
+        "img_icon_url": "4d54ea4bf3b0b391f3e2790afe992f4d8c5e40fd"
+      },
+      {
+        "appid": 2694490,
+        "name": "Path of Exile 2",
+        "playtime_2weeks": 447,
+        "playtime_forever": 11375,
+        "img_icon_url": "fa8ff2005f65d0cbc7403a5b18ca77c0bbc9d05a"
+      },
+      {
+        "appid": 480,
+        "name": "Spacewar",
+        "playtime_2weeks": 155,
+        "playtime_forever": 19849,
+        "img_icon_url": ""
+      },
+      {
+        "appid": 1097150,
+        "name": "Fall Guys",
+        "playtime_2weeks": 79,
+        "playtime_forever": 972,
+        "img_icon_url": "6c027709b9eb1417c993bc7d513b97b232002368"
+      }
+    ]
+  }
+}

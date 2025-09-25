@@ -1,0 +1,35 @@
+{
+  "response": {
+    "total_count": 4,
+    "games": [
+      {
+        "appid": 431960,
+        "name": "Wallpaper Engine",
+        "playtime_2weeks": 1210,
+        "playtime_forever": 9257,
+        "img_icon_url": "72edaed9d748c6cf7397ffb1c83f0b837b9ebd9d"
+      },
+      {
+        "appid": 588650,
+        "name": "Dead Cells",
+        "playtime_2weeks": 236,
+        "playtime_forever": 5248,
+        "img_icon_url": "a431361e5dae5fd6ac2433064b62b2a37abc38f1"
+      },
+      {
+        "appid": 291550,
+        "name": "Brawlhalla",
+        "playtime_2weeks": 206,
+        "playtime_forever": 51412,
+        "img_icon_url": "c43fac31b8bf8821764603a14d09412bc3d45f66"
+      },
+      {
+        "appid": 480,
+        "name": "Spacewar",
+        "playtime_2weeks": 125,
+        "playtime_forever": 23239,
+        "img_icon_url": ""
+      }
+    ]
+  }
+}

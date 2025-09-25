@@ -1,0 +1,104 @@
+{
+  "response": {
+    "game_count": 11,
+    "games": [
+      {
+        "appid": 730,
+        "name": "Counter-Strike 2",
+        "playtime_forever": 121584,
+        "img_icon_url": "8dbc71957312bbd3baea65848b545be9eae2a355",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 271590,
+        "name": "Grand Theft Auto V Legacy",
+        "playtime_forever": 21973,
+        "img_icon_url": "1e72f87eb927fa1485e68aefaff23c7fd7178251",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          5
+        ]
+      },
+      {
+        "appid": 291550,
+        "name": "Brawlhalla",
+        "playtime_2weeks": 4,
+        "playtime_forever": 15260,
+        "img_icon_url": "c43fac31b8bf8821764603a14d09412bc3d45f66",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 397900,
+        "name": "Business Tour - Online Multiplayer Board Game",
+        "playtime_forever": 498,
+        "img_icon_url": "b6ce52a576e99f54c5d18f675540b9c3ee70ed47",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 466240,
+        "name": "Deceit",
+        "playtime_forever": 328,
+        "img_icon_url": "9ab4436d104e73d560f6e0c439bcb150a9c5a174",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 578080,
+        "name": "PUBG: BATTLEGROUNDS",
+        "playtime_2weeks": 391,
+        "playtime_forever": 117852,
+        "img_icon_url": "609f27278aa70697c13bf99f32c5a0248c381f9d",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 670290,
+        "name": "Real Pool 3D - Poolians",
+        "playtime_forever": 861,
+        "img_icon_url": "b74acc3e1996c8cb9ce9e2933c190575fa0be457"
+      },
+      {
+        "appid": 1097150,
+        "name": "Fall Guys",
+        "playtime_forever": 3301,
+        "img_icon_url": "6c027709b9eb1417c993bc7d513b97b232002368",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 1623660,
+        "name": "MIR4",
+        "playtime_forever": 71584,
+        "img_icon_url": "6c4b7e10e9fbb9c2165ce07833ba715897cbc192"
+      },
+      {
+        "appid": 2767030,
+        "name": "Marvel Rivals",
+        "playtime_forever": 364,
+        "img_icon_url": "839b4712925b95702ca56e0c4d399adf54f4d617",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 3240220,
+        "name": "Grand Theft Auto V Enhanced",
+        "playtime_forever": 0,
+        "img_icon_url": "8355a7bbdb704f727bfba80ec56bc7228991338e",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          1,
+          2,
+          5
+        ]
+      }
+    ]
+  }
+}

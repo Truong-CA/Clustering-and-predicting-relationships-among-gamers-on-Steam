@@ -1,0 +1,468 @@
+{
+  "response": {
+    "game_count": 55,
+    "games": [
+      {
+        "appid": 730,
+        "name": "Counter-Strike 2",
+        "playtime_2weeks": 452,
+        "playtime_forever": 17932,
+        "img_icon_url": "8dbc71957312bbd3baea65848b545be9eae2a355",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 261550,
+        "name": "Mount & Blade II: Bannerlord",
+        "playtime_forever": 12452,
+        "img_icon_url": "896d5f4214e4e185a20af51b46d9dea2e6f4aaad",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          5
+        ]
+      },
+      {
+        "appid": 271590,
+        "name": "Grand Theft Auto V Legacy",
+        "playtime_forever": 11,
+        "img_icon_url": "1e72f87eb927fa1485e68aefaff23c7fd7178251",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          5
+        ]
+      },
+      {
+        "appid": 286160,
+        "name": "Tabletop Simulator",
+        "playtime_forever": 143,
+        "img_icon_url": "19f5b90e3c7084758f885ded843631b13929fa26",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 397900,
+        "name": "Business Tour - Online Multiplayer Board Game",
+        "playtime_2weeks": 69,
+        "playtime_forever": 2972,
+        "img_icon_url": "b6ce52a576e99f54c5d18f675540b9c3ee70ed47",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 431240,
+        "name": "Golf With Your Friends",
+        "playtime_forever": 0,
+        "img_icon_url": "c6379c8ec66ac02565f1155bf3821b846164d93c",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 513710,
+        "name": "SCUM",
+        "playtime_forever": 7030,
+        "img_icon_url": "c25483e3e989239b932901118e44cf71606b5973",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          1,
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 578080,
+        "name": "PUBG: BATTLEGROUNDS",
+        "playtime_2weeks": 1786,
+        "playtime_forever": 156142,
+        "img_icon_url": "609f27278aa70697c13bf99f32c5a0248c381f9d",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 673750,
+        "name": "Super Bunny Man",
+        "playtime_forever": 63,
+        "img_icon_url": "84dacb8846b7ede61ca12576ee2c5393b390ed88"
+      },
+      {
+        "appid": 686810,
+        "name": "Hell Let Loose",
+        "playtime_forever": 0,
+        "img_icon_url": "34a4b24b1132045d8e59e56b9c24bed725af55c7",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 705210,
+        "name": "Cube Racer",
+        "playtime_forever": 166,
+        "img_icon_url": "729bcef1b009c32e0c99b7418bac2e5873ae872f",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 728880,
+        "name": "Overcooked! 2",
+        "playtime_forever": 267,
+        "img_icon_url": "bac36f471109038ae0b40619de4109d475f86a54",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 880940,
+        "name": "Pummel Party",
+        "playtime_forever": 117,
+        "img_icon_url": "0e2e222010d009ca46b575cc5c53a23250434341",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 893050,
+        "name": "Hasbro's BATTLESHIP",
+        "playtime_forever": 653,
+        "img_icon_url": "7685d378123775e804f33253d1bc81cede6bfaac",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 924970,
+        "name": "Back 4 Blood",
+        "playtime_forever": 620,
+        "img_icon_url": "4a2e853e7098bb0ebe637107e8180084a3117184",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 945360,
+        "name": "Among Us",
+        "playtime_forever": 488,
+        "img_icon_url": "b82c3f46da8f3c918e1c9e0d18bd6fa8fcef6801",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 1184140,
+        "name": "KartRider: Drift",
+        "playtime_forever": 7,
+        "img_icon_url": "a927291ddc309b89846521a61a7ca04db03086f9"
+      },
+      {
+        "appid": 1203220,
+        "name": "NARAKA: BLADEPOINT",
+        "playtime_forever": 146,
+        "img_icon_url": "8055e7baa81ce2084d7daa42233983967956abb0",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 1260320,
+        "name": "Party Animals",
+        "playtime_forever": 341,
+        "img_icon_url": "868cd2d22c96076658ff5b572c4dc790c200de7e",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 1305420,
+        "name": "Agrou",
+        "playtime_forever": 1057,
+        "img_icon_url": "f1cf3a79549ee9b856ae2a0066ad3813ff8ee142",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 1359090,
+        "name": "Zero Hour",
+        "playtime_forever": 84,
+        "img_icon_url": "435172a2df3695389d00ea2c78d820c9e748f01e",
+        "has_community_visible_stats": true,
+        "has_leaderboards": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 1422450,
+        "name": "Deadlock",
+        "playtime_forever": 0,
+        "img_icon_url": "f6da1420a173324d49bcd470fa3eee781ad0fa5e"
+      },
+      {
+        "appid": 1426210,
+        "name": "It Takes Two",
+        "playtime_forever": 0,
+        "img_icon_url": "6b15f6d81c4fc52056f4928b363b7fac591a945b",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 1436990,
+        "name": "Feign",
+        "playtime_forever": 90,
+        "img_icon_url": "2d6be288a42a664f088d163dab298ec32029afc4",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 1509960,
+        "name": "PICO PARK",
+        "playtime_forever": 128,
+        "img_icon_url": "738c7b1a12275d8b792f9a01a6c174453cd9770e"
+      },
+      {
+        "appid": 1521580,
+        "name": "Perfect Heist 2",
+        "playtime_forever": 62,
+        "img_icon_url": "78a54aba83ed0dc7039b2f3afd232dfc41f79c44",
+        "has_community_visible_stats": true,
+        "has_leaderboards": true
+      },
+      {
+        "appid": 1568590,
+        "name": "Goose Goose Duck",
+        "playtime_2weeks": 146,
+        "playtime_forever": 2381,
+        "img_icon_url": "3b802d5010d6d5d72c93a8565b260c6042cc9390",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 1599340,
+        "name": "Lost Ark",
+        "playtime_forever": 13503,
+        "img_icon_url": "4e4ef2862189e1f1d3052125fb1ed6cb42bcaaf8",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          1,
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 1623730,
+        "name": "Palworld",
+        "playtime_forever": 1094,
+        "img_icon_url": "f5523077a8f4c923c2e8d8c17794b3319035fa73",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 1735950,
+        "name": "Paper Bride",
+        "playtime_forever": 0,
+        "img_icon_url": "283e47a5a0ecac0d1ad94beaa9f98714564f86fb",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 1794680,
+        "name": "Vampire Survivors",
+        "playtime_forever": 1299,
+        "img_icon_url": "3677cf1be3be1f4ea42261c62ce10519715ade58",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 1874880,
+        "name": "Arma Reforger",
+        "playtime_forever": 285,
+        "img_icon_url": "0de311f3ef216db08badc6a9ef7c5fd8712ac334",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 1890860,
+        "name": "Arma Reforger Experimental",
+        "playtime_forever": 0,
+        "img_icon_url": "cc4ccaea0621ec054334edb07c00c834bf496056",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 2073850,
+        "name": "THE FINALS",
+        "playtime_forever": 43,
+        "img_icon_url": "9532db560dca3b4982f4af3f5981b6b2ce2a6909",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 2239150,
+        "name": "Thronefall",
+        "playtime_forever": 302,
+        "img_icon_url": "33b662f2a7a302f154861643b0e59c87b36a3d5e",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 2263920,
+        "name": "Multiplayer Platform Golf",
+        "playtime_forever": 78,
+        "img_icon_url": "f56dd8cbba24255f10423a018f6f91d68caf804a",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 2358720,
+        "name": "Black Myth: Wukong",
+        "playtime_forever": 6506,
+        "img_icon_url": "764ad8ff458f7020d63a3f7f0abf6ad8882c05df",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 2381590,
+        "name": "Only Up!",
+        "playtime_forever": 72,
+        "img_icon_url": "fdc1739c6bb79a32a817ca1dae170a1f60a09cc9",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 2399830,
+        "name": "ARK: Survival Ascended",
+        "playtime_forever": 2977,
+        "img_icon_url": "655cc2012105979c2b8e4821d568351c86b22be7",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 2456350,
+        "name": "The Scourge | Tai Ương",
+        "playtime_forever": 179,
+        "img_icon_url": "4e93302ed0781193232c4ece513aff5ea69764ef",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          5
+        ]
+      },
+      {
+        "appid": 2522520,
+        "name": "Only Up: With Friends",
+        "playtime_forever": 79,
+        "img_icon_url": "3eb6ba2bed994df00c70f23f38e793dbbcdef88f",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 2644470,
+        "name": "PICO PARK 2",
+        "playtime_forever": 757,
+        "img_icon_url": "7d1948eb5efb3d884c5d726591549e1cfd8a7d00",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 2737070,
+        "name": "Crime Simulator",
+        "playtime_forever": 172,
+        "img_icon_url": "4bd0c05d0e57ad04a4ec8c9fefb37b42a59c04d7",
+        "has_community_visible_stats": true,
+        "has_leaderboards": true
+      },
+      {
+        "appid": 2767030,
+        "name": "Marvel Rivals",
+        "playtime_forever": 4193,
+        "img_icon_url": "839b4712925b95702ca56e0c4d399adf54f4d617",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 2780980,
+        "name": "LOCKDOWN Protocol",
+        "playtime_forever": 923,
+        "img_icon_url": "2358878a464f5e9c8ef00270ddd455aa7be08847"
+      },
+      {
+        "appid": 2918550,
+        "name": "Drive Me Crazy",
+        "playtime_forever": 283,
+        "img_icon_url": "7b8b979415061ff7ac02f082794e5dbb98cb93a7",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          1,
+          5
+        ]
+      },
+      {
+        "appid": 2989950,
+        "name": "The Bathhouse | 地獄銭湯 Restored Ver.",
+        "playtime_forever": 138,
+        "img_icon_url": "10bf0b3a5be9c7fa9fbd7c48adb544ac97c02bc8",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          1,
+          5
+        ]
+      },
+      {
+        "appid": 3097560,
+        "name": "Liar's Bar",
+        "playtime_2weeks": 88,
+        "playtime_forever": 621,
+        "img_icon_url": "5342338ad1fd3561c1ed8c6d2ed4ae0e6ada2e9c",
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 3098660,
+        "name": "Photo Studio Simulator",
+        "playtime_forever": 38,
+        "img_icon_url": "b551fcbdc3bc27fc9975c368b01a19603a164ff1",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          1,
+          5
+        ]
+      },
+      {
+        "appid": 3114900,
+        "name": "DREAD FLATS",
+        "playtime_forever": 3,
+        "img_icon_url": "3e2998ddf6d6d834d8a0e35c7736c6e07cc66a08",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          5
+        ]
+      },
+      {
+        "appid": 3240220,
+        "name": "Grand Theft Auto V Enhanced",
+        "playtime_forever": 0,
+        "img_icon_url": "8355a7bbdb704f727bfba80ec56bc7228991338e",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          1,
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 3241660,
+        "name": "R.E.P.O.",
+        "playtime_forever": 688,
+        "img_icon_url": "b8bf4770408fc369e15cebd42e0026a27b67aaa8"
+      },
+      {
+        "appid": 3527290,
+        "name": "PEAK",
+        "playtime_forever": 247,
+        "img_icon_url": "b3a992fd5991bd2f4c956d58e062b0ce2988d6cd",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 3570070,
+        "name": "Paddle Paddle Paddle",
+        "playtime_forever": 68,
+        "img_icon_url": "6dd36c044e957efbbb187351b5ef68c1db317748",
+        "has_community_visible_stats": true,
+        "has_leaderboards": true
+      },
+      {
+        "appid": 3716600,
+        "name": "Mage Arena",
+        "playtime_forever": 39,
+        "img_icon_url": "46a9d7edea98cc637b327ee188a5d1524f32448e",
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "response": {
+    "total_count": 3,
+    "games": [
+      {
+        "appid": 431240,
+        "name": "Golf With Your Friends",
+        "playtime_2weeks": 7,
+        "playtime_forever": 1468,
+        "img_icon_url": "c6379c8ec66ac02565f1155bf3821b846164d93c"
+      },
+      {
+        "appid": 307340,
+        "name": "Platypus",
+        "playtime_2weeks": 7,
+        "playtime_forever": 645,
+        "img_icon_url": "08968ed2d9a73871de1ae9b1ec3198fbd47e964e"
+      },
+      {
+        "appid": 61510,
+        "name": "Age of Wonders 2: The Wizard's Throne",
+        "playtime_2weeks": 2,
+        "playtime_forever": 277,
+        "img_icon_url": "1f736120995226568b4fbfb7d8976ea68992df7c"
+      }
+    ]
+  }
+}

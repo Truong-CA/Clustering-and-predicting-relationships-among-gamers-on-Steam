@@ -1,0 +1,42 @@
+{
+  "response": {
+    "total_count": 5,
+    "games": [
+      {
+        "appid": 2767030,
+        "name": "Marvel Rivals",
+        "playtime_2weeks": 1641,
+        "playtime_forever": 55195,
+        "img_icon_url": "839b4712925b95702ca56e0c4d399adf54f4d617"
+      },
+      {
+        "appid": 3472040,
+        "name": "NBA 2K26",
+        "playtime_2weeks": 823,
+        "playtime_forever": 4378,
+        "img_icon_url": "78919a2d089bd18bd0dc9ee2525256f9723b047c"
+      },
+      {
+        "appid": 553850,
+        "name": "HELLDIVERS™ 2",
+        "playtime_2weeks": 393,
+        "playtime_forever": 1232,
+        "img_icon_url": "c3dff088e090f81d6e3d88eabbb67732647c69cf"
+      },
+      {
+        "appid": 730,
+        "name": "Counter-Strike 2",
+        "playtime_2weeks": 117,
+        "playtime_forever": 244542,
+        "img_icon_url": "8dbc71957312bbd3baea65848b545be9eae2a355"
+      },
+      {
+        "appid": 550,
+        "name": "Left 4 Dead 2",
+        "playtime_2weeks": 112,
+        "playtime_forever": 5222,
+        "img_icon_url": "7d5a243f9500d2f8467312822f8af2a2928777ed"
+      }
+    ]
+  }
+}

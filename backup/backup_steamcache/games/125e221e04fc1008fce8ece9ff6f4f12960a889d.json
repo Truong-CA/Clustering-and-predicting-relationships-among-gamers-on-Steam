@@ -1,0 +1,325 @@
+{
+  "response": {
+    "game_count": 36,
+    "games": [
+      {
+        "appid": 550,
+        "name": "Left 4 Dead 2",
+        "playtime_forever": 992,
+        "img_icon_url": "7d5a243f9500d2f8467312822f8af2a2928777ed",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 570,
+        "name": "Dota 2",
+        "playtime_forever": 248143,
+        "img_icon_url": "0bbb630d63262dd66d2fdd0f7d37e8661a410075",
+        "content_descriptorids": [
+          5
+        ]
+      },
+      {
+        "appid": 730,
+        "name": "Counter-Strike 2",
+        "playtime_forever": 64392,
+        "img_icon_url": "8dbc71957312bbd3baea65848b545be9eae2a355",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 24240,
+        "name": "PAYDAY: The Heist",
+        "playtime_forever": 373,
+        "img_icon_url": "a07ceea8808f1a2104ed1c864756f263ec67df49",
+        "has_community_visible_stats": true,
+        "has_leaderboards": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 55100,
+        "name": "Homefront",
+        "playtime_forever": 0,
+        "img_icon_url": "52d4f669d6aa00c92406457d430ed5aa6a035c54",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 70000,
+        "name": "Dino D-Day",
+        "playtime_forever": 8,
+        "img_icon_url": "958cda55e4c95d79c651b567f3083204d9842911",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 218620,
+        "name": "PAYDAY 2",
+        "playtime_forever": 33,
+        "img_icon_url": "a6abc0d0c1e79c0b5b0f5c8ab81ce9076a542414",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 222900,
+        "name": "Dead Island: Epidemic",
+        "playtime_forever": 35,
+        "img_icon_url": "eeca961216745840443d87373f907d1e6e4ca764",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 224420,
+        "name": "Afterfall InSanity Extended Edition",
+        "playtime_forever": 0,
+        "img_icon_url": "f934d7548341cb9973bccf40b590d49800c25fab",
+        "has_community_visible_stats": true,
+        "has_leaderboards": true
+      },
+      {
+        "appid": 233130,
+        "name": "Shadow Warrior",
+        "playtime_forever": 126,
+        "img_icon_url": "5d7c205ce18f17a99c95ff81499c2f496e0570f2",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 238320,
+        "name": "Outlast",
+        "playtime_forever": 0,
+        "img_icon_url": "46bd3df92d4693d3b2af113bf8f31c2cbdadb20a",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          1,
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 252490,
+        "name": "Rust",
+        "playtime_forever": 7090,
+        "img_icon_url": "820be4782639f9c4b64fa3ca7e6c26a95ae4fd1c",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          1,
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 255520,
+        "name": "Viscera Cleanup Detail: Shadow Warrior",
+        "playtime_forever": 0,
+        "img_icon_url": "56c3840d52a0da4f397d9991d368c75ed53d99fa",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 262280,
+        "name": "Dungeons 2",
+        "playtime_forever": 0,
+        "img_icon_url": "429544f4c7680d781477059d59e5314974574db3",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 264710,
+        "name": "Subnautica",
+        "playtime_forever": 2173,
+        "img_icon_url": "8a14ceef6e230330a916d7a6324b8c52d464d569",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 271590,
+        "name": "Grand Theft Auto V Legacy",
+        "playtime_forever": 8506,
+        "img_icon_url": "1e72f87eb927fa1485e68aefaff23c7fd7178251",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          5
+        ]
+      },
+      {
+        "appid": 292030,
+        "name": "The Witcher 3: Wild Hunt",
+        "playtime_forever": 1484,
+        "img_icon_url": "78d0ff98b67851f24539cdf2402cf147679134f4",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          1,
+          5
+        ]
+      },
+      {
+        "appid": 323190,
+        "name": "Frostpunk",
+        "playtime_forever": 2405,
+        "img_icon_url": "0561084dfe24c469c905fe0681da82aa31102836",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          5
+        ]
+      },
+      {
+        "appid": 340300,
+        "name": "Teddy Floppy Ear - Mountain Adventure",
+        "playtime_forever": 0,
+        "img_icon_url": "b4ed9074689fae19eb323fdb71fe06e64e77616c"
+      },
+      {
+        "appid": 346110,
+        "name": "ARK: Survival Evolved",
+        "playtime_forever": 12426,
+        "img_icon_url": "fef1799533131c10f538d2dd697bbbd89e663265",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 349720,
+        "name": "Audition Online",
+        "playtime_forever": 266,
+        "img_icon_url": "aa380213685e41b6fc1305a3ae11511eb7cf3be5"
+      },
+      {
+        "appid": 359550,
+        "name": "Tom Clancy's Rainbow Six® Siege X",
+        "playtime_forever": 1417,
+        "img_icon_url": "624745d333ac54aedb1ee911013e2edb7722550e",
+        "content_descriptorids": [
+          5
+        ]
+      },
+      {
+        "appid": 374320,
+        "name": "DARK SOULS™ III",
+        "playtime_forever": 556,
+        "img_icon_url": "7abe1a33129c20cf10d2c74128bbd657a2a2c806",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 407530,
+        "name": "ARK: Survival Of The Fittest",
+        "playtime_forever": 0,
+        "img_icon_url": "807c673cddebbfee0700a947a75f4872ad136e9b"
+      },
+      {
+        "appid": 431960,
+        "name": "Wallpaper Engine",
+        "playtime_forever": 1560,
+        "img_icon_url": "72edaed9d748c6cf7397ffb1c83f0b837b9ebd9d",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 453100,
+        "name": "Frederic: Resurrection of Music Director's Cut",
+        "playtime_forever": 0,
+        "img_icon_url": "cb2ec8535c7db605df991db6dcc80726ec6c0e84",
+        "has_community_visible_stats": true,
+        "has_leaderboards": true
+      },
+      {
+        "appid": 578080,
+        "name": "PUBG: BATTLEGROUNDS",
+        "playtime_forever": 51435,
+        "img_icon_url": "609f27278aa70697c13bf99f32c5a0248c381f9d",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 623990,
+        "name": "Tom Clancy's Rainbow Six Siege - Test Server",
+        "playtime_forever": 0,
+        "img_icon_url": "20deaf466474f76f2ffdb345fe56f40fe3af74c0"
+      },
+      {
+        "appid": 636150,
+        "name": "Cyberhunt",
+        "playtime_forever": 0,
+        "img_icon_url": "7c84ce7b6481f437e75e3fd2a20b7f4a54640ced",
+        "has_community_visible_stats": true,
+        "has_leaderboards": true
+      },
+      {
+        "appid": 673950,
+        "name": "Farm Together",
+        "playtime_forever": 628,
+        "img_icon_url": "d968e9e31ef9cb110f09780f7112bac1c9968716",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 848450,
+        "name": "Subnautica: Below Zero",
+        "playtime_forever": 1222,
+        "img_icon_url": "eae16718327a78d87ac7ae61db96729926c97a16",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 945360,
+        "name": "Among Us",
+        "playtime_forever": 348,
+        "img_icon_url": "b82c3f46da8f3c918e1c9e0d18bd6fa8fcef6801",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 1131720,
+        "name": "Prop and Seek",
+        "playtime_forever": 260,
+        "img_icon_url": "c580682bdb70b0a9d5f4d5374f2e2fad8ca75438",
+        "has_community_visible_stats": true,
+        "has_leaderboards": true
+      },
+      {
+        "appid": 1273710,
+        "name": "King of Crabs",
+        "playtime_forever": 148,
+        "img_icon_url": "ee2469b799c84eca9681baf6fdabd1fef8979164",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 3240220,
+        "name": "Grand Theft Auto V Enhanced",
+        "playtime_forever": 25,
+        "img_icon_url": "8355a7bbdb704f727bfba80ec56bc7228991338e",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          1,
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 3659280,
+        "name": "Off The Grid",
+        "playtime_forever": 19,
+        "img_icon_url": "a562bea20a47a2a3fa2d2b4f3099e16fe45054ff",
+        "content_descriptorids": [
+          1,
+          2,
+          5
+        ]
+      }
+    ]
+  }
+}

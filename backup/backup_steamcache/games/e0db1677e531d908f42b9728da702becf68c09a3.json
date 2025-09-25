@@ -1,0 +1,49 @@
+{
+  "response": {
+    "total_count": 6,
+    "games": [
+      {
+        "appid": 2138720,
+        "name": "REMATCH",
+        "playtime_2weeks": 888,
+        "playtime_forever": 6026,
+        "img_icon_url": "fe863eabc2365b3a7bce66297d95f843867cc483"
+      },
+      {
+        "appid": 1172470,
+        "name": "Apex Legends",
+        "playtime_2weeks": 877,
+        "playtime_forever": 145103,
+        "img_icon_url": "6cc35932af780289ae3d8d5cdbfe9cd545decad2"
+      },
+      {
+        "appid": 570,
+        "name": "Dota 2",
+        "playtime_2weeks": 169,
+        "playtime_forever": 250315,
+        "img_icon_url": "0bbb630d63262dd66d2fdd0f7d37e8661a410075"
+      },
+      {
+        "appid": 730,
+        "name": "Counter-Strike 2",
+        "playtime_2weeks": 92,
+        "playtime_forever": 244589,
+        "img_icon_url": "8dbc71957312bbd3baea65848b545be9eae2a355"
+      },
+      {
+        "appid": 3462260,
+        "name": "Aethermancer Demo",
+        "playtime_2weeks": 36,
+        "playtime_forever": 36,
+        "img_icon_url": "1c0cbf4e63ba5dff97a0da68caf67395f8a4b89a"
+      },
+      {
+        "appid": 3401450,
+        "name": "Arkheron Playtest",
+        "playtime_2weeks": 14,
+        "playtime_forever": 14,
+        "img_icon_url": "15f081f19d73f8ea2fc0d3cc52e27ba50b43a073"
+      }
+    ]
+  }
+}

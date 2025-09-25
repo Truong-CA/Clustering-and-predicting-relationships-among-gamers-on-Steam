@@ -1,0 +1,35 @@
+{
+  "response": {
+    "total_count": 4,
+    "games": [
+      {
+        "appid": 379430,
+        "name": "Kingdom Come: Deliverance",
+        "playtime_2weeks": 1298,
+        "playtime_forever": 1298,
+        "img_icon_url": "915ec515c36645855abed0476b5b0891d8a4e47a"
+      },
+      {
+        "appid": 362890,
+        "name": "Black Mesa",
+        "playtime_2weeks": 703,
+        "playtime_forever": 1317,
+        "img_icon_url": "51182b6a74035eb913b353d5d60e596c3804daf6"
+      },
+      {
+        "appid": 236390,
+        "name": "War Thunder",
+        "playtime_2weeks": 56,
+        "playtime_forever": 8352,
+        "img_icon_url": "c69fbafb6e9891314cc5df0fe6a659612c289bf9"
+      },
+      {
+        "appid": 287700,
+        "name": "METAL GEAR SOLID V: THE PHANTOM PAIN",
+        "playtime_2weeks": 5,
+        "playtime_forever": 6021,
+        "img_icon_url": "7a1737163c96ea641143db45709a4ac444ba8f7b"
+      }
+    ]
+  }
+}

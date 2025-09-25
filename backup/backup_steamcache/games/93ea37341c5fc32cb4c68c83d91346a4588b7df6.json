@@ -1,0 +1,49 @@
+{
+  "response": {
+    "total_count": 6,
+    "games": [
+      {
+        "appid": 480,
+        "name": "Spacewar",
+        "playtime_2weeks": 264,
+        "playtime_forever": 15861,
+        "img_icon_url": ""
+      },
+      {
+        "appid": 730,
+        "name": "Counter-Strike 2",
+        "playtime_2weeks": 199,
+        "playtime_forever": 61953,
+        "img_icon_url": "8dbc71957312bbd3baea65848b545be9eae2a355"
+      },
+      {
+        "appid": 548430,
+        "name": "Deep Rock Galactic",
+        "playtime_2weeks": 23,
+        "playtime_forever": 7153,
+        "img_icon_url": "e033e23c29a192a17c16a7645a2b423ac64ff447"
+      },
+      {
+        "appid": 2767030,
+        "name": "Marvel Rivals",
+        "playtime_2weeks": 16,
+        "playtime_forever": 266,
+        "img_icon_url": "839b4712925b95702ca56e0c4d399adf54f4d617"
+      },
+      {
+        "appid": 236390,
+        "name": "War Thunder",
+        "playtime_2weeks": 16,
+        "playtime_forever": 197,
+        "img_icon_url": "c69fbafb6e9891314cc5df0fe6a659612c289bf9"
+      },
+      {
+        "appid": 3354750,
+        "name": "skate.",
+        "playtime_2weeks": 15,
+        "playtime_forever": 15,
+        "img_icon_url": "741cefdfeabf38b28288dab2cdbcf848995b85cb"
+      }
+    ]
+  }
+}

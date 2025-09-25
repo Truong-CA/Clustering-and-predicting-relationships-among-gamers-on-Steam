@@ -1,0 +1,71 @@
+{
+  "response": {
+    "game_count": 7,
+    "games": [
+      {
+        "appid": 271590,
+        "name": "Grand Theft Auto V Legacy",
+        "playtime_forever": 2919,
+        "img_icon_url": "1e72f87eb927fa1485e68aefaff23c7fd7178251",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          5
+        ]
+      },
+      {
+        "appid": 578080,
+        "name": "PUBG: BATTLEGROUNDS",
+        "playtime_2weeks": 1671,
+        "playtime_forever": 58735,
+        "img_icon_url": "609f27278aa70697c13bf99f32c5a0248c381f9d",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 1665460,
+        "name": "eFootball™",
+        "playtime_forever": 172,
+        "img_icon_url": "a92db647cc4e0a0cecfa1b664de7ab800343e3a3"
+      },
+      {
+        "appid": 1677740,
+        "name": "Stumble Guys",
+        "playtime_forever": 109,
+        "img_icon_url": "4517b0a1eff3befd699ede64a57e3f816d581be7",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 2187230,
+        "name": "Altf42",
+        "playtime_forever": 89,
+        "img_icon_url": "46cb2b4dc0ff540e0480be987e97b656e634c041",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 3097560,
+        "name": "Liar's Bar",
+        "playtime_forever": 172,
+        "img_icon_url": "5342338ad1fd3561c1ed8c6d2ed4ae0e6ada2e9c",
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 3240220,
+        "name": "Grand Theft Auto V Enhanced",
+        "playtime_forever": 0,
+        "img_icon_url": "8355a7bbdb704f727bfba80ec56bc7228991338e",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          1,
+          2,
+          5
+        ]
+      }
+    ]
+  }
+}

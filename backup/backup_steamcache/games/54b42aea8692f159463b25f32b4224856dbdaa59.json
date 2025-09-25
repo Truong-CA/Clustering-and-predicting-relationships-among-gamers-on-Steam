@@ -1,0 +1,56 @@
+{
+  "response": {
+    "total_count": 7,
+    "games": [
+      {
+        "appid": 1874880,
+        "name": "Arma Reforger",
+        "playtime_2weeks": 1394,
+        "playtime_forever": 3180,
+        "img_icon_url": "0de311f3ef216db08badc6a9ef7c5fd8712ac334"
+      },
+      {
+        "appid": 427520,
+        "name": "Factorio",
+        "playtime_2weeks": 1108,
+        "playtime_forever": 5927,
+        "img_icon_url": "267f5a89f36ab287e600a4e7d4e73d3d11f0fd7d"
+      },
+      {
+        "appid": 2694490,
+        "name": "Path of Exile 2",
+        "playtime_2weeks": 542,
+        "playtime_forever": 542,
+        "img_icon_url": "fa8ff2005f65d0cbc7403a5b18ca77c0bbc9d05a"
+      },
+      {
+        "appid": 570,
+        "name": "Dota 2",
+        "playtime_2weeks": 149,
+        "playtime_forever": 117724,
+        "img_icon_url": "0bbb630d63262dd66d2fdd0f7d37e8661a410075"
+      },
+      {
+        "appid": 346110,
+        "name": "ARK: Survival Evolved",
+        "playtime_2weeks": 122,
+        "playtime_forever": 4392,
+        "img_icon_url": "fef1799533131c10f538d2dd697bbbd89e663265"
+      },
+      {
+        "appid": 1549970,
+        "name": "Aliens: Fireteam Elite",
+        "playtime_2weeks": 84,
+        "playtime_forever": 84,
+        "img_icon_url": "c2ad8ba213932fae2b528eda83973c22ae7379eb"
+      },
+      {
+        "appid": 3585800,
+        "name": "Keep Digging",
+        "playtime_2weeks": 53,
+        "playtime_forever": 53,
+        "img_icon_url": "72aba47a92f807053e34fa3c280f70f786bc9054"
+      }
+    ]
+  }
+}

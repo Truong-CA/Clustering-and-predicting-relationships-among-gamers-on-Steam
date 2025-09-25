@@ -1,0 +1,21 @@
+{
+  "response": {
+    "total_count": 2,
+    "games": [
+      {
+        "appid": 3417120,
+        "name": "Lakeside Bar",
+        "playtime_2weeks": 1039,
+        "playtime_forever": 1039,
+        "img_icon_url": "ebcb19af0b450c89630458e070954c7b8c99c71f"
+      },
+      {
+        "appid": 391220,
+        "name": "Rise of the Tomb Raider",
+        "playtime_2weeks": 688,
+        "playtime_forever": 2711,
+        "img_icon_url": "0b8a37f32ed2b7c934be8aa94d53f71e274c6497"
+      }
+    ]
+  }
+}

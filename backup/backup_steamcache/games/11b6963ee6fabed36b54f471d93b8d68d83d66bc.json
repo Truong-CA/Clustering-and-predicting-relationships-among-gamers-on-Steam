@@ -1,0 +1,378 @@
+{
+  "response": {
+    "game_count": 45,
+    "games": [
+      {
+        "appid": 240,
+        "name": "Counter-Strike: Source",
+        "playtime_forever": 4365,
+        "img_icon_url": "9052fa60c496a1c03383b27687ec50f4bf0f0e10",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 300,
+        "name": "Day of Defeat: Source",
+        "playtime_forever": 0,
+        "img_icon_url": "062754bb5853b0534283ae27dc5d58200692b22d",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 320,
+        "name": "Half-Life 2: Deathmatch",
+        "playtime_forever": 2,
+        "img_icon_url": "795e85364189511f4990861b578084deef086cb1",
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 730,
+        "name": "Counter-Strike 2",
+        "playtime_forever": 449829,
+        "img_icon_url": "8dbc71957312bbd3baea65848b545be9eae2a355",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 10180,
+        "name": "Call of Duty: Modern Warfare 2 (2009)",
+        "playtime_forever": 123,
+        "img_icon_url": "ad502494f1658220f9166c7e17ac90422bf6a479",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 10190,
+        "name": "Call of Duty: Modern Warfare 2 (2009) - Multiplayer",
+        "playtime_forever": 29609,
+        "img_icon_url": "7dd7c2d5bce2413131762d7cbee3f059614ed69d"
+      },
+      {
+        "appid": 13140,
+        "name": "America's Army 3",
+        "playtime_forever": 62,
+        "img_icon_url": "caed133dcc23d5e0df57ecc9fcc1ca31e0ffb98e",
+        "has_community_visible_stats": true,
+        "has_leaderboards": true
+      },
+      {
+        "appid": 42680,
+        "name": "Call of Duty®: Modern Warfare® 3 (2011)",
+        "playtime_forever": 142,
+        "img_icon_url": "c3330a875925437d8216949b6571f6e941ba0679",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 42690,
+        "name": "Call of Duty®: Modern Warfare® 3 (2011) - Multiplayer",
+        "playtime_forever": 3020,
+        "img_icon_url": "c3330a875925437d8216949b6571f6e941ba0679"
+      },
+      {
+        "appid": 42700,
+        "name": "Call of Duty: Black Ops",
+        "playtime_forever": 110,
+        "img_icon_url": "ea744d59efded3feaeebcafed224be9eadde90ac",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 42710,
+        "name": "Call of Duty: Black Ops - Multiplayer",
+        "playtime_forever": 3806,
+        "img_icon_url": "d595fb4b01201cade09e1232f2c41c0866840628",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 44320,
+        "name": "DiRT 3",
+        "playtime_forever": 13,
+        "img_icon_url": "c75648fec8ff9f218e3b1b5dcb7ac38b8b2e7bda",
+        "has_community_visible_stats": true,
+        "has_leaderboards": true
+      },
+      {
+        "appid": 44350,
+        "name": "GRID 2",
+        "playtime_forever": 427,
+        "img_icon_url": "78dfd2533e0ee4cdf981cf13fbdea9596f1ed433",
+        "has_community_visible_stats": true,
+        "has_leaderboards": true
+      },
+      {
+        "appid": 63380,
+        "name": "Sniper Elite V2",
+        "playtime_forever": 0,
+        "img_icon_url": "0092da2541424d4c1d10c1757dcb8104c37323ac",
+        "has_community_visible_stats": true,
+        "has_leaderboards": true
+      },
+      {
+        "appid": 96100,
+        "name": "Defy Gravity",
+        "playtime_forever": 0,
+        "img_icon_url": "fa26f1090915f4248bdabe9c99e3d51113fb6e3f",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 107410,
+        "name": "Arma 3",
+        "playtime_forever": 15,
+        "img_icon_url": "3212af52faf994c558bd622cb0f360c1ef295a6b",
+        "has_community_visible_stats": true,
+        "has_leaderboards": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 202170,
+        "name": "Sleeping Dogs™",
+        "playtime_forever": 0,
+        "img_icon_url": "3d70bfb50bc3a162685e6775c4da2d336d1ba1ea",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 202970,
+        "name": "Call of Duty: Black Ops II",
+        "playtime_forever": 4,
+        "img_icon_url": "0a23d78ade8c8d7b4cfa15bf71c9dd535b2998ca",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 202990,
+        "name": "Call of Duty: Black Ops II - Multiplayer",
+        "playtime_forever": 31890,
+        "img_icon_url": "1f3a69123b4c7e47904dcd0c55e48c5522e30284",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 203140,
+        "name": "Hitman: Absolution",
+        "playtime_forever": 20,
+        "img_icon_url": "fe5e36ac1548793eb48b6b25b701b37d86fb94a3",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 203290,
+        "name": "America's Army: Proving Grounds",
+        "playtime_forever": 7630,
+        "img_icon_url": "f75fedb2e1c35742f9e8b907c33aaaa6bddea3f3",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 209160,
+        "name": "Call of Duty: Ghosts",
+        "playtime_forever": 30,
+        "img_icon_url": "634577eb0ac94ce620c328885961ed6756823474",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 209170,
+        "name": "Call of Duty: Ghosts - Multiplayer",
+        "playtime_forever": 21084,
+        "img_icon_url": "634577eb0ac94ce620c328885961ed6756823474",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 212910,
+        "name": "Call of Duty: Black Ops II - Zombies",
+        "playtime_forever": 228,
+        "img_icon_url": "abbc45872375bcf8ac6b67cae6ed9ddb6c75d350",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 222880,
+        "name": "Insurgency",
+        "playtime_forever": 0,
+        "img_icon_url": "b072fc4239951c1952f4877edde340419438b528",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 242760,
+        "name": "The Forest",
+        "playtime_forever": 22,
+        "img_icon_url": "3a6847f6ac5879e48531db52261771d5e22904ac",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 252950,
+        "name": "Rocket League",
+        "playtime_forever": 38804,
+        "img_icon_url": "9ad6dd3d173523354385955b5fb2af87639c4163",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 282660,
+        "name": "Easy eSports",
+        "playtime_forever": 356,
+        "img_icon_url": "38a313d2413d5c679dcf41e169cc4d815765d775"
+      },
+      {
+        "appid": 321040,
+        "name": "DiRT 3 Complete Edition",
+        "playtime_forever": 0,
+        "img_icon_url": "fdfb3aa153b57d6ae6cd8099cb4456b3d5b182b6",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 323190,
+        "name": "Frostpunk",
+        "playtime_forever": 0,
+        "img_icon_url": "0561084dfe24c469c905fe0681da82aa31102836",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          5
+        ]
+      },
+      {
+        "appid": 360430,
+        "name": "Mafia III: Definitive Edition",
+        "playtime_forever": 0,
+        "img_icon_url": "3df3ee0dfcb254bedbf15822c93a6983f67b0822",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 431960,
+        "name": "Wallpaper Engine",
+        "playtime_forever": 143,
+        "img_icon_url": "72edaed9d748c6cf7397ffb1c83f0b837b9ebd9d",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 433850,
+        "name": "Z1 Battle Royale",
+        "playtime_forever": 334,
+        "img_icon_url": "aee7491abfd812e2fbb4ec3326ad5f4b85c8137a",
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 439700,
+        "name": "H1Z1: Test Server",
+        "playtime_forever": 0,
+        "img_icon_url": "d0e924622be8ce1e9920197f397365bb1e6bca5f"
+      },
+      {
+        "appid": 550650,
+        "name": "Black Squad",
+        "playtime_forever": 586,
+        "img_icon_url": "213a736d8c5b75998b671de25e6621d1e7bc122a",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          1,
+          5
+        ]
+      },
+      {
+        "appid": 578080,
+        "name": "PUBG: BATTLEGROUNDS",
+        "playtime_forever": 64353,
+        "img_icon_url": "609f27278aa70697c13bf99f32c5a0248c381f9d",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 779340,
+        "name": "Total War: THREE KINGDOMS",
+        "playtime_forever": 0,
+        "img_icon_url": "12eb7d5a469812b3dd13d04165cff053f477914d",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 880940,
+        "name": "Pummel Party",
+        "playtime_forever": 259,
+        "img_icon_url": "0e2e222010d009ca46b575cc5c53a23250434341",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 945360,
+        "name": "Among Us",
+        "playtime_forever": 8,
+        "img_icon_url": "b82c3f46da8f3c918e1c9e0d18bd6fa8fcef6801",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 1097150,
+        "name": "Fall Guys",
+        "playtime_forever": 534,
+        "img_icon_url": "6c027709b9eb1417c993bc7d513b97b232002368",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 1190340,
+        "name": "SUPER PEOPLE",
+        "playtime_forever": 641,
+        "img_icon_url": "f52b710771a1156ac5216cb6ade53419a9b273f2",
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 1278060,
+        "name": "FPV.SkyDive",
+        "playtime_forever": 9,
+        "img_icon_url": "a8b31164bbced19069c6a2bc0bfa4e6b28d267e1",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 1881200,
+        "name": "TRYP FPV",
+        "playtime_forever": 125,
+        "img_icon_url": "519b8936d83341a637223ee8a2b662cd1a43b5a9"
+      },
+      {
+        "appid": 1938090,
+        "name": "Call of Duty®",
+        "playtime_forever": 480,
+        "img_icon_url": "8eaf32220060344996cbf11f697a4f4be943e5f3",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 2567870,
+        "name": "Chained Together",
+        "playtime_forever": 44,
+        "img_icon_url": "231b8f624ff26721431fe5749fa5ab5bccd75ff4",
+        "has_community_visible_stats": true
+      }
+    ]
+  }
+}

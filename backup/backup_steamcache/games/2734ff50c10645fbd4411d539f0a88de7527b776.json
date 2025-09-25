@@ -1,0 +1,21 @@
+{
+  "response": {
+    "total_count": 2,
+    "games": [
+      {
+        "appid": 3730770,
+        "name": "SpeedRunners 2: King of Speed Playtest",
+        "playtime_2weeks": 10,
+        "playtime_forever": 10,
+        "img_icon_url": "42a3615baa8a45f61e5bc9337ae7bc5a8404a6de"
+      },
+      {
+        "appid": 431960,
+        "name": "Wallpaper Engine",
+        "playtime_2weeks": 1,
+        "playtime_forever": 3,
+        "img_icon_url": "72edaed9d748c6cf7397ffb1c83f0b837b9ebd9d"
+      }
+    ]
+  }
+}

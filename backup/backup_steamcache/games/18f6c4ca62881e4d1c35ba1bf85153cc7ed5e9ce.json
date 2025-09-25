@@ -1,0 +1,557 @@
+{
+  "response": {
+    "game_count": 72,
+    "games": [
+      {
+        "appid": 440,
+        "name": "Team Fortress 2",
+        "playtime_forever": 998,
+        "img_icon_url": "f568912870a4684f9ec76277a1a404dda6bab213",
+        "has_community_visible_stats": true,
+        "has_leaderboards": true
+      },
+      {
+        "appid": 730,
+        "name": "Counter-Strike 2",
+        "playtime_forever": 90003,
+        "img_icon_url": "8dbc71957312bbd3baea65848b545be9eae2a355",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 3390,
+        "name": "Feeding Frenzy 2: Shipwreck Showdown Deluxe",
+        "playtime_forever": 165,
+        "img_icon_url": "d34697dfa581120f4204fef71e2fbdf9a4800b6b"
+      },
+      {
+        "appid": 227300,
+        "name": "Euro Truck Simulator 2",
+        "playtime_forever": 235,
+        "img_icon_url": "adc18a4fc9adc0330144b76d61cbda68bb2394a0",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 236390,
+        "name": "War Thunder",
+        "playtime_forever": 134,
+        "img_icon_url": "c69fbafb6e9891314cc5df0fe6a659612c289bf9",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 242760,
+        "name": "The Forest",
+        "playtime_forever": 0,
+        "img_icon_url": "3a6847f6ac5879e48531db52261771d5e22904ac",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 252490,
+        "name": "Rust",
+        "playtime_forever": 0,
+        "img_icon_url": "820be4782639f9c4b64fa3ca7e6c26a95ae4fd1c",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          1,
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 255710,
+        "name": "Cities: Skylines",
+        "playtime_forever": 1264,
+        "img_icon_url": "6cf7b10dd29db28448ef79698ed2118a03617d63",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 265610,
+        "name": "Epic Battle Fantasy 4",
+        "playtime_forever": 85,
+        "img_icon_url": "a6556081949eaea3eb8525dd8a6a798e6915b2b3",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 271590,
+        "name": "Grand Theft Auto V Legacy",
+        "playtime_forever": 105,
+        "img_icon_url": "1e72f87eb927fa1485e68aefaff23c7fd7178251",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          5
+        ]
+      },
+      {
+        "appid": 286160,
+        "name": "Tabletop Simulator",
+        "playtime_forever": 532,
+        "img_icon_url": "19f5b90e3c7084758f885ded843631b13929fa26",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 291930,
+        "name": "Industry Empire",
+        "playtime_forever": 382,
+        "img_icon_url": "6d6e93ed922c8347a12690e0232b382c0dc72d51",
+        "has_community_visible_stats": true,
+        "has_leaderboards": true
+      },
+      {
+        "appid": 306350,
+        "name": "Slipstream 5000",
+        "playtime_forever": 0,
+        "img_icon_url": "238b04064cbe6aad5f6c9bc0567a804f3923c0ee"
+      },
+      {
+        "appid": 318600,
+        "name": "The Flame in the Flood",
+        "playtime_forever": 0,
+        "img_icon_url": "c02a40cc55fcb8f37d02680b1ee0da53290da5bf",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 346110,
+        "name": "ARK: Survival Evolved",
+        "playtime_forever": 34492,
+        "img_icon_url": "fef1799533131c10f538d2dd697bbbd89e663265",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 347560,
+        "name": "Terra Incognita Chapter One: The Descendant",
+        "playtime_forever": 6,
+        "img_icon_url": "ef4c1e270090bf8c724a6b0ea7b68c7c5d5ac33f",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 353090,
+        "name": "Chicken Invaders 5",
+        "playtime_forever": 2641,
+        "img_icon_url": "5f27edc16f5c8d9e5215a99cae1248bd48bf24cb",
+        "has_community_visible_stats": true,
+        "has_leaderboards": true
+      },
+      {
+        "appid": 371510,
+        "name": "Gunnheim",
+        "playtime_forever": 0,
+        "img_icon_url": "107eb5f20a64c770652ad7bed2b95cd410d41cb4",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 397900,
+        "name": "Business Tour - Online Multiplayer Board Game",
+        "playtime_forever": 328,
+        "img_icon_url": "b6ce52a576e99f54c5d18f675540b9c3ee70ed47",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 398680,
+        "name": "Ace of Words",
+        "playtime_forever": 0,
+        "img_icon_url": "72af82eba158795b7b3785ab62d1f299094f6053",
+        "has_community_visible_stats": true,
+        "has_leaderboards": true
+      },
+      {
+        "appid": 407530,
+        "name": "ARK: Survival Of The Fittest",
+        "playtime_forever": 0,
+        "img_icon_url": "807c673cddebbfee0700a947a75f4872ad136e9b"
+      },
+      {
+        "appid": 407730,
+        "name": "Dungeons Of Kragmor",
+        "playtime_forever": 0,
+        "img_icon_url": "2630230838ea3327f32b709c747f7ad1aa8bc249"
+      },
+      {
+        "appid": 413150,
+        "name": "Stardew Valley",
+        "playtime_forever": 74,
+        "img_icon_url": "35d1377200084a4034238c05b0c8930451e2fb40",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 431960,
+        "name": "Wallpaper Engine",
+        "playtime_forever": 3737,
+        "img_icon_url": "72edaed9d748c6cf7397ffb1c83f0b837b9ebd9d",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 432350,
+        "name": "Epic Battle Fantasy 5",
+        "playtime_forever": 737,
+        "img_icon_url": "c0d93e017277a1db8222e6c4f57dab6e1f1d0e9c",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 440900,
+        "name": "Conan Exiles",
+        "playtime_forever": 620,
+        "img_icon_url": "399859f8bdaeef066f14029d5f1910960545fbd9",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          1,
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 457590,
+        "name": "Luna Online: Reborn",
+        "playtime_forever": 0,
+        "img_icon_url": "0bef3f4248e453d5c2b88266b5fd971e2e258e92"
+      },
+      {
+        "appid": 485310,
+        "name": "Head Shot",
+        "playtime_forever": 0,
+        "img_icon_url": "b53192e5f57462540c32ad33f17c8a6c775d8b34"
+      },
+      {
+        "appid": 513710,
+        "name": "SCUM",
+        "playtime_forever": 2602,
+        "img_icon_url": "c25483e3e989239b932901118e44cf71606b5973",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          1,
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 562810,
+        "name": "Monopoly Plus",
+        "playtime_forever": 13,
+        "img_icon_url": "5834050412e3b3a54fce383589bed2dd32e5781c"
+      },
+      {
+        "appid": 574720,
+        "name": "Little Big Workshop",
+        "playtime_forever": 140,
+        "img_icon_url": "5454053a0b47c72840b477a741c970d8f8f9d75c",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 578080,
+        "name": "PUBG: BATTLEGROUNDS",
+        "playtime_forever": 62789,
+        "img_icon_url": "609f27278aa70697c13bf99f32c5a0248c381f9d",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 582010,
+        "name": "Monster Hunter: World",
+        "playtime_forever": 0,
+        "img_icon_url": "6ec147f2d423f435e15eb79b3d82f771913de634",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 606800,
+        "name": "Startup Company",
+        "playtime_forever": 78,
+        "img_icon_url": "373583624a5600570be32f4cb8492b7694ecc3e1",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 627690,
+        "name": "Idle Champions of the Forgotten Realms",
+        "playtime_forever": 46,
+        "img_icon_url": "1abb043002c041c59a7a945b3706d0bd5a223dbc",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 629520,
+        "name": "Soundpad",
+        "playtime_forever": 6030,
+        "img_icon_url": "f261c8f5948de73428a1dbed573ec964fcbecb67"
+      },
+      {
+        "appid": 646910,
+        "name": "The Crew 2",
+        "playtime_forever": 258,
+        "img_icon_url": "c627b2fa24d61b4042afbd2b183f49b9ca59bc45",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 648800,
+        "name": "Raft",
+        "playtime_forever": 1117,
+        "img_icon_url": "6a9ae357c4133b1b631b520edd25b1974f3afb68",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 673950,
+        "name": "Farm Together",
+        "playtime_forever": 783,
+        "img_icon_url": "d968e9e31ef9cb110f09780f7112bac1c9968716",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 690830,
+        "name": "Foundation",
+        "playtime_forever": 1,
+        "img_icon_url": "4f5b6c66cb718578819bb92f40d0f2d616378892",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 823950,
+        "name": "Re:Legend",
+        "playtime_forever": 20,
+        "img_icon_url": "a2bb26256501df2f0fd933baeec62f75fd335414",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 880940,
+        "name": "Pummel Party",
+        "playtime_forever": 340,
+        "img_icon_url": "0e2e222010d009ca46b575cc5c53a23250434341",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 884660,
+        "name": "CRSED: Cuisine Royale",
+        "playtime_forever": 15,
+        "img_icon_url": "e4c07740f6f49341f830565c91e05bca0bb10d64",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 894940,
+        "name": "Littlewood",
+        "playtime_forever": 0,
+        "img_icon_url": "b1e0c0a086c3f93c756179583eefd36d5ed21dfd",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 897450,
+        "name": "The Survivalists",
+        "playtime_forever": 367,
+        "img_icon_url": "210ddf7659b9dc50051c397cbd51eb35fa584373",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 931180,
+        "name": "Conan Exiles - Public Beta Client",
+        "playtime_forever": 1,
+        "img_icon_url": "67a32c9bdd0738df619162c70bdebfe8a735abec"
+      },
+      {
+        "appid": 945360,
+        "name": "Among Us",
+        "playtime_forever": 1389,
+        "img_icon_url": "b82c3f46da8f3c918e1c9e0d18bd6fa8fcef6801",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 960090,
+        "name": "Bloons TD 6",
+        "playtime_forever": 75,
+        "img_icon_url": "c5f0b67c8beeb6be99abe2ad8db2cada5d5ccff0",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 1046930,
+        "name": "Dota Underlords",
+        "playtime_forever": 59,
+        "img_icon_url": "1f6f64144e8cc371c5382660e48998dfbe0a708e"
+      },
+      {
+        "appid": 1062520,
+        "name": "Dinkum",
+        "playtime_forever": 65,
+        "img_icon_url": "0201c9b277e291d2fe3d2a5e6d3dda0ee38d9e4e",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 1131720,
+        "name": "Prop and Seek",
+        "playtime_forever": 303,
+        "img_icon_url": "c580682bdb70b0a9d5f4d5374f2e2fad8ca75438",
+        "has_community_visible_stats": true,
+        "has_leaderboards": true
+      },
+      {
+        "appid": 1149460,
+        "name": "Icarus",
+        "playtime_forever": 29,
+        "img_icon_url": "3600ab7fb8dbc0898116ea1c0365de4f6d285d5a",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 1172470,
+        "name": "Apex Legends",
+        "playtime_forever": 38,
+        "img_icon_url": "6cc35932af780289ae3d8d5cdbfe9cd545decad2",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 1172620,
+        "name": "Sea of Thieves",
+        "playtime_forever": 506,
+        "img_icon_url": "f95f362708fc326511c5d86566c447ee625bf776",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 1250410,
+        "name": "Microsoft Flight Simulator (2020)",
+        "playtime_forever": 1823,
+        "img_icon_url": "e374de450803dc212690bf721a14843a0dd2ad58",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 1274570,
+        "name": "DEVOUR",
+        "playtime_forever": 28,
+        "img_icon_url": "e24aa080068d3686e0b1b5aa52a4155dc553e69d",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 1276390,
+        "name": "Bloons TD Battles 2",
+        "playtime_forever": 21,
+        "img_icon_url": "a7dc725886824299daeecb20076e7fbd6615927d"
+      },
+      {
+        "appid": 1291010,
+        "name": "Warpips",
+        "playtime_forever": 14,
+        "img_icon_url": "ff187db322aba39cb43ac7e47aaf836de98e9bf7",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 1305420,
+        "name": "Agrou",
+        "playtime_forever": 836,
+        "img_icon_url": "f1cf3a79549ee9b856ae2a0066ad3813ff8ee142",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 1326470,
+        "name": "Sons Of The Forest",
+        "playtime_forever": 1182,
+        "img_icon_url": "bd28fe592b339cff5a3eef743f31e3166c984c68",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          1,
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 1477830,
+        "name": "HudSight - crosshair overlay",
+        "playtime_forever": 150953,
+        "img_icon_url": "00e8a31d29638c165317b0630c7d0068e14026aa",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 1482910,
+        "name": "Idle Monster TD",
+        "playtime_forever": 7,
+        "img_icon_url": "c6c9b8df1b9f504eaad3699a257479901cece7dd",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 1551360,
+        "name": "Forza Horizon 5",
+        "playtime_forever": 66,
+        "img_icon_url": "6c1d20c62c4613263548323052c62cece488876b",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 1568590,
+        "name": "Goose Goose Duck",
+        "playtime_forever": 1421,
+        "img_icon_url": "3b802d5010d6d5d72c93a8565b260c6042cc9390",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 1623730,
+        "name": "Palworld",
+        "playtime_forever": 4535,
+        "img_icon_url": "f5523077a8f4c923c2e8d8c17794b3319035fa73",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 1794680,
+        "name": "Vampire Survivors",
+        "playtime_forever": 0,
+        "img_icon_url": "3677cf1be3be1f4ea42261c62ce10519715ade58",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 2399830,
+        "name": "ARK: Survival Ascended",
+        "playtime_forever": 1116,
+        "img_icon_url": "655cc2012105979c2b8e4821d568351c86b22be7",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 2422870,
+        "name": "Bronzebeard's Tavern",
+        "playtime_forever": 61,
+        "img_icon_url": "7e2a3a7abdceb5065c4e5e51d5019c56ea0ceaf1",
+        "has_community_visible_stats": true,
+        "has_leaderboards": true
+      },
+      {
+        "appid": 2670630,
+        "name": "Supermarket Simulator",
+        "playtime_forever": 80,
+        "img_icon_url": "b76ce5e747870bed95bf994f95103a3dd143d4da",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 2780980,
+        "name": "LOCKDOWN Protocol",
+        "playtime_forever": 38,
+        "img_icon_url": "2358878a464f5e9c8ef00270ddd455aa7be08847"
+      },
+      {
+        "appid": 3070070,
+        "name": "TCG Card Shop Simulator",
+        "playtime_forever": 62,
+        "img_icon_url": "ade567b04584ff71000ff91a8dd65aac4833206b",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 3240220,
+        "name": "Grand Theft Auto V Enhanced",
+        "playtime_forever": 0,
+        "img_icon_url": "8355a7bbdb704f727bfba80ec56bc7228991338e",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          1,
+          2,
+          5
+        ]
+      }
+    ]
+  }
+}

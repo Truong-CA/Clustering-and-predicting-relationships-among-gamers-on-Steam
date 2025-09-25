@@ -1,0 +1,42 @@
+{
+  "response": {
+    "total_count": 5,
+    "games": [
+      {
+        "appid": 2139460,
+        "name": "Once Human",
+        "playtime_2weeks": 2231,
+        "playtime_forever": 4524,
+        "img_icon_url": "e1c29227c162232120c15edcf282df61ee35f091"
+      },
+      {
+        "appid": 427410,
+        "name": "Abiotic Factor",
+        "playtime_2weeks": 754,
+        "playtime_forever": 3722,
+        "img_icon_url": "789cca4e4e51a6649f5728d870d3a602e3c453fe"
+      },
+      {
+        "appid": 400750,
+        "name": "Call to Arms - Gates of Hell: Ostfront",
+        "playtime_2weeks": 113,
+        "playtime_forever": 6245,
+        "img_icon_url": "31294c5a56bb88cc09000e8bc88c5473fd251107"
+      },
+      {
+        "appid": 3347820,
+        "name": "CloverPit Demo",
+        "playtime_2weeks": 33,
+        "playtime_forever": 33,
+        "img_icon_url": "aefbacf94b21a6b3cb5b354900b4900e2c9a1985"
+      },
+      {
+        "appid": 431960,
+        "name": "Wallpaper Engine",
+        "playtime_2weeks": 9,
+        "playtime_forever": 253,
+        "img_icon_url": "72edaed9d748c6cf7397ffb1c83f0b837b9ebd9d"
+      }
+    ]
+  }
+}

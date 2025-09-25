@@ -1,0 +1,21 @@
+{
+  "response": {
+    "total_count": 2,
+    "games": [
+      {
+        "appid": 1623730,
+        "name": "Palworld",
+        "playtime_2weeks": 380,
+        "playtime_forever": 6597,
+        "img_icon_url": "f5523077a8f4c923c2e8d8c17794b3319035fa73"
+      },
+      {
+        "appid": 730,
+        "name": "Counter-Strike 2",
+        "playtime_2weeks": 108,
+        "playtime_forever": 154444,
+        "img_icon_url": "8dbc71957312bbd3baea65848b545be9eae2a355"
+      }
+    ]
+  }
+}

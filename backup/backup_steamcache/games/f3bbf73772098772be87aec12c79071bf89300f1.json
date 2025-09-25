@@ -1,0 +1,122 @@
+{
+  "response": {
+    "game_count": 12,
+    "games": [
+      {
+        "appid": 10,
+        "name": "Counter-Strike",
+        "playtime_forever": 3694,
+        "img_icon_url": "6b0312cda02f5f777efa2f3318c307ff9acafbb5",
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 80,
+        "name": "Counter-Strike: Condition Zero",
+        "playtime_forever": 0,
+        "img_icon_url": "077b050ef3e89cd84e2c5a575d78d53b54058236",
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 100,
+        "name": "Counter-Strike: Condition Zero Deleted Scenes",
+        "playtime_forever": 0,
+        "img_icon_url": "077b050ef3e89cd84e2c5a575d78d53b54058236"
+      },
+      {
+        "appid": 550,
+        "name": "Left 4 Dead 2",
+        "playtime_forever": 7825,
+        "img_icon_url": "7d5a243f9500d2f8467312822f8af2a2928777ed",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 730,
+        "name": "Counter-Strike 2",
+        "playtime_forever": 109521,
+        "img_icon_url": "8dbc71957312bbd3baea65848b545be9eae2a355",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 207610,
+        "name": "The Walking Dead",
+        "playtime_forever": 939,
+        "img_icon_url": "87a13ae0a2a76488792924aa8bb0dd8a7760f931",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 578080,
+        "name": "PUBG: BATTLEGROUNDS",
+        "playtime_forever": 12648,
+        "img_icon_url": "609f27278aa70697c13bf99f32c5a0248c381f9d",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 699130,
+        "name": "World War Z",
+        "playtime_forever": 2902,
+        "img_icon_url": "0f9e81a6be6e3f5d2a40551ee3aaf63329048b7a",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 883710,
+        "name": "Resident Evil 2",
+        "playtime_forever": 5690,
+        "img_icon_url": "86ef2fdebeced746313994ccf2d7afb1f2887bf0",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 967050,
+        "name": "Pacify",
+        "playtime_forever": 43,
+        "img_icon_url": "58100bbcafa4244c8ea086d8de1208787c44c7e0",
+        "has_community_visible_stats": true,
+        "has_leaderboards": true
+      },
+      {
+        "appid": 1301720,
+        "name": "Escape Room - The Sick Colleague",
+        "playtime_forever": 116,
+        "img_icon_url": "ae597ce21855d7d2e9d79a1522c130b9f1738559",
+        "has_community_visible_stats": true,
+        "has_leaderboards": true
+      },
+      {
+        "appid": 2098350,
+        "name": "Escape Memoirs: Mini Stories",
+        "playtime_forever": 302,
+        "img_icon_url": "0dbe2e44d427571b56041f6063bd3a6f7eb6362e",
+        "has_community_visible_stats": true
+      }
+    ]
+  }
+}

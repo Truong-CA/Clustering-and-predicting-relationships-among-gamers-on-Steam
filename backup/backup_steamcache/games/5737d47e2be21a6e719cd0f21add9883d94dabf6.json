@@ -1,0 +1,563 @@
+{
+  "response": {
+    "game_count": 74,
+    "games": [
+      {
+        "appid": 730,
+        "name": "Counter-Strike 2",
+        "playtime_2weeks": 249,
+        "playtime_forever": 35859,
+        "img_icon_url": "8dbc71957312bbd3baea65848b545be9eae2a355",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 218620,
+        "name": "PAYDAY 2",
+        "playtime_forever": 31,
+        "img_icon_url": "a6abc0d0c1e79c0b5b0f5c8ab81ce9076a542414",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 223750,
+        "name": "DCS World Steam Edition",
+        "playtime_forever": 32,
+        "img_icon_url": "f709dbfd1d2ad385ae5baaa1824422c11a4a2dea"
+      },
+      {
+        "appid": 236390,
+        "name": "War Thunder",
+        "playtime_forever": 8,
+        "img_icon_url": "c69fbafb6e9891314cc5df0fe6a659612c289bf9",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 285900,
+        "name": "Gang Beasts",
+        "playtime_forever": 302,
+        "img_icon_url": "fe0f0440dabf5ff8d8326d2d6ff629e016fe3559",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 286160,
+        "name": "Tabletop Simulator",
+        "playtime_forever": 1169,
+        "img_icon_url": "19f5b90e3c7084758f885ded843631b13929fa26",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 291550,
+        "name": "Brawlhalla",
+        "playtime_forever": 439,
+        "img_icon_url": "c43fac31b8bf8821764603a14d09412bc3d45f66",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 310950,
+        "name": "Street Fighter V",
+        "playtime_forever": 93,
+        "img_icon_url": "ea0db9dc61e606b544fa30d21d31354998ca1f95",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 380600,
+        "name": "Fishing Planet",
+        "playtime_forever": 61,
+        "img_icon_url": "df6785140de8c32f6baec7fd7fd74c5823459250",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 386180,
+        "name": "Crossout",
+        "playtime_forever": 11,
+        "img_icon_url": "e918b17b3cac48c661c6c885adef16467036a5e7",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 397900,
+        "name": "Business Tour - Online Multiplayer Board Game",
+        "playtime_forever": 262,
+        "img_icon_url": "b6ce52a576e99f54c5d18f675540b9c3ee70ed47",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 431240,
+        "name": "Golf With Your Friends",
+        "playtime_forever": 161,
+        "img_icon_url": "c6379c8ec66ac02565f1155bf3821b846164d93c",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 431960,
+        "name": "Wallpaper Engine",
+        "playtime_forever": 227,
+        "img_icon_url": "72edaed9d748c6cf7397ffb1c83f0b837b9ebd9d",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 436150,
+        "name": "Governor of Poker 3",
+        "playtime_forever": 10,
+        "img_icon_url": "735ec92e0a6c35de6af1788021ec4bb9db02dd75",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 437920,
+        "name": "Tricky Towers",
+        "playtime_forever": 105,
+        "img_icon_url": "b5eaff8c251b1df18d3d8534279242f0908e7403",
+        "has_community_visible_stats": true,
+        "has_leaderboards": true
+      },
+      {
+        "appid": 477160,
+        "name": "Human Fall Flat",
+        "playtime_forever": 282,
+        "img_icon_url": "15c6f6a4d69633a63ee410b24a2417f16d803b06",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 503560,
+        "name": "911 Operator",
+        "playtime_forever": 269,
+        "img_icon_url": "823158b3e81e69f1fb9c355c86f05655575e6317",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 578080,
+        "name": "PUBG: BATTLEGROUNDS",
+        "playtime_forever": 6953,
+        "img_icon_url": "609f27278aa70697c13bf99f32c5a0248c381f9d",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 582500,
+        "name": "We Were Here",
+        "playtime_forever": 45,
+        "img_icon_url": "3b5dc17a063e558ef755b7bb6e7a3feeb771972f",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 673950,
+        "name": "Farm Together",
+        "playtime_2weeks": 8,
+        "playtime_forever": 6042,
+        "img_icon_url": "d968e9e31ef9cb110f09780f7112bac1c9968716",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 686810,
+        "name": "Hell Let Loose",
+        "playtime_forever": 147,
+        "img_icon_url": "34a4b24b1132045d8e59e56b9c24bed725af55c7",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 728880,
+        "name": "Overcooked! 2",
+        "playtime_forever": 471,
+        "img_icon_url": "bac36f471109038ae0b40619de4109d475f86a54",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 764570,
+        "name": "Beavers Be Dammed",
+        "playtime_forever": 44,
+        "img_icon_url": "8dd5e978ccfe60e20732dd9117539ab43023092b",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 850170,
+        "name": "EMERGENCY",
+        "playtime_forever": 11,
+        "img_icon_url": "5b515288cfb55e20b4e86b346a37136c72f5b99a",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 863550,
+        "name": "HITMAN™ 2",
+        "playtime_forever": 15,
+        "img_icon_url": "3f7c071da7a338e03f6243b73c02c072f1bacee9",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 880940,
+        "name": "Pummel Party",
+        "playtime_forever": 66,
+        "img_icon_url": "0e2e222010d009ca46b575cc5c53a23250434341",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 997010,
+        "name": "Police Simulator: Patrol Officers",
+        "playtime_forever": 2365,
+        "img_icon_url": "c70e222d018ee6aa2571d1c41b7c928f20dfc00f",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 1001270,
+        "name": "Kebab Chefs! - Restaurant Simulator",
+        "playtime_forever": 218,
+        "img_icon_url": "101ebac992c88da333970c8d0fb6bd3a6d7527fc",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 1085510,
+        "name": "Garfield Kart - Furious Racing",
+        "playtime_forever": 232,
+        "img_icon_url": "dbb7640f3d7b8027eadf708d899031390b1fe694",
+        "has_community_visible_stats": true,
+        "has_leaderboards": true
+      },
+      {
+        "appid": 1088150,
+        "name": "Scribble It!",
+        "playtime_forever": 776,
+        "img_icon_url": "a7a683dce57646a59a0fca326d0ceae5a74b8c2f",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 1097150,
+        "name": "Fall Guys",
+        "playtime_forever": 317,
+        "img_icon_url": "6c027709b9eb1417c993bc7d513b97b232002368",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 1138190,
+        "name": "Poker Championship",
+        "playtime_forever": 41,
+        "img_icon_url": "4a576e5662836a8b5374ef47e23cb02ef193d0ee"
+      },
+      {
+        "appid": 1174180,
+        "name": "Red Dead Redemption 2",
+        "playtime_forever": 1214,
+        "img_icon_url": "5106abd9c1187a97f23295a0ba9470c94804ec6c",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          5
+        ]
+      },
+      {
+        "appid": 1178160,
+        "name": "Blackjack Championship",
+        "playtime_forever": 8,
+        "img_icon_url": "d543a62a2d1b6a910609d1e076303d6207c40fbf",
+        "content_descriptorids": [
+          5
+        ]
+      },
+      {
+        "appid": 1190970,
+        "name": "House Flipper 2",
+        "playtime_forever": 255,
+        "img_icon_url": "1b2d7e7824627c605cb4ddb29e3be200fccd8438",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 1222670,
+        "name": "The Sims™ 4",
+        "playtime_forever": 881,
+        "img_icon_url": "ca6bc8b2411bce4a2cd325ab75f0204bc3a4ad98"
+      },
+      {
+        "appid": 1260320,
+        "name": "Party Animals",
+        "playtime_forever": 149,
+        "img_icon_url": "868cd2d22c96076658ff5b572c4dc790c200de7e",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 1273400,
+        "name": "Construction Simulator",
+        "playtime_forever": 1140,
+        "img_icon_url": "e8d8dcccca84500b17912f4def1209d07700480c",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 1305420,
+        "name": "Agrou",
+        "playtime_forever": 431,
+        "img_icon_url": "f1cf3a79549ee9b856ae2a0066ad3813ff8ee142",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 1308380,
+        "name": "Super Bomberman R Online",
+        "playtime_forever": 57,
+        "img_icon_url": "2bd0ccc9cb01b3e0efdd80d9c03fbac5a159fadf",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 1407200,
+        "name": "World of Tanks",
+        "playtime_forever": 36,
+        "img_icon_url": "3ba3158e913a637a1fbe033db4f88fccc52f1ff4",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 1482620,
+        "name": "Slappyball",
+        "playtime_forever": 15,
+        "img_icon_url": "78c5050ad73758c22d9d5cb3be5773ffbb4e1a34",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 1485080,
+        "name": "Just Act Natural",
+        "playtime_forever": 21,
+        "img_icon_url": "4a7143f689b3c7fd24b4f145062e2e8da73ed64d",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 1506830,
+        "name": "FIFA 22",
+        "playtime_forever": 226,
+        "img_icon_url": "97e6ad42ea46c285ba047e8e7fd0487688e9d4c1",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 1509960,
+        "name": "PICO PARK",
+        "playtime_forever": 241,
+        "img_icon_url": "738c7b1a12275d8b792f9a01a6c174453cd9770e"
+      },
+      {
+        "appid": 1510460,
+        "name": "Chicken Invaders Universe",
+        "playtime_forever": 139,
+        "img_icon_url": "94b6d0cd6104e7a8ef3afee6d0abbb924cabeba2",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 1517290,
+        "name": "Battlefield™ 2042",
+        "playtime_forever": 65,
+        "img_icon_url": "dc805cd05c36a1b26f4eb57b64301e6708e20776",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 1521580,
+        "name": "Perfect Heist 2",
+        "playtime_forever": 230,
+        "img_icon_url": "78a54aba83ed0dc7039b2f3afd232dfc41f79c44",
+        "has_community_visible_stats": true,
+        "has_leaderboards": true
+      },
+      {
+        "appid": 1528080,
+        "name": "Gas Station Simulator: Prologue - Early Days",
+        "playtime_forever": 90,
+        "img_icon_url": "24e2fc9fa306605134e3d46fdea7a1afefb8d818",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 1537830,
+        "name": "Disney Speedstorm",
+        "playtime_forever": 7,
+        "img_icon_url": "81737059aa22bae2b1c8fc774f7534a9ba7b5d24",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 1568590,
+        "name": "Goose Goose Duck",
+        "playtime_forever": 4529,
+        "img_icon_url": "3b802d5010d6d5d72c93a8565b260c6042cc9390",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 1588400,
+        "name": "Spacelines from the Far Out - Captain's Prologue",
+        "playtime_forever": 8,
+        "img_icon_url": "3ec6f525284f4a359a837652596ac15648b17536"
+      },
+      {
+        "appid": 1625450,
+        "name": "Muck",
+        "playtime_forever": 383,
+        "img_icon_url": "a123e3d10527fbdf3fea7ea235e11b41da3754dc",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 1641650,
+        "name": "Airline Manager 4",
+        "playtime_forever": 23,
+        "img_icon_url": "7922e8e372e03c0e8a93612820a1a0c14529649e",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 1659040,
+        "name": "HITMAN World of Assassination",
+        "playtime_forever": 136,
+        "img_icon_url": "552be1d38866afd1c33f682323d325130e7d0ce6",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 1677350,
+        "name": "EA SPORTS™ PGA TOUR™",
+        "playtime_forever": 307,
+        "img_icon_url": "99ffb31c94d7bde842173321ae9f682ba0dd1683",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 1677740,
+        "name": "Stumble Guys",
+        "playtime_forever": 77,
+        "img_icon_url": "4517b0a1eff3befd699ede64a57e3f816d581be7",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 1749630,
+        "name": "Chill Corner",
+        "playtime_forever": 28,
+        "img_icon_url": "4497ce0f68ce946cb0a8f9daaaf19ed0470aea22",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 1781160,
+        "name": "Electrician Simulator - First Shock",
+        "playtime_forever": 55,
+        "img_icon_url": "0c92587307f12a54ebf8e6d5f1e57704b94faf0e"
+      },
+      {
+        "appid": 1811260,
+        "name": "EA SPORTS™ FIFA 23",
+        "playtime_forever": 10273,
+        "img_icon_url": "c069d465ac21b9d68260a14298f8124c0b9ea4e1",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 1868140,
+        "name": "DAVE THE DIVER",
+        "playtime_forever": 213,
+        "img_icon_url": "2f19d6889f66eae88e8b5a36727d560ec88a00cb",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 1977530,
+        "name": "One-armed cook",
+        "playtime_forever": 14,
+        "img_icon_url": "432f7c9b7de50ad808f1d7f7718bbe9617798b50",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 2098350,
+        "name": "Escape Memoirs: Mini Stories",
+        "playtime_forever": 198,
+        "img_icon_url": "0dbe2e44d427571b56041f6063bd3a6f7eb6362e",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 2195250,
+        "name": "EA SPORTS FC™ 24",
+        "playtime_forever": 13979,
+        "img_icon_url": "d01e05e0fb8e77c790c699b4fa0a9559cf80d16d",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 2250040,
+        "name": "Crosshair V2",
+        "playtime_forever": 26,
+        "img_icon_url": "7e534fde2bed17e2114d7c110910296174328891"
+      },
+      {
+        "appid": 2368470,
+        "name": "An Arcade Full of Cats",
+        "playtime_forever": 101,
+        "img_icon_url": "b36b8338c1c0d29ec77c8d357c709a026b3f3fc6",
+        "has_community_visible_stats": true,
+        "has_leaderboards": true
+      },
+      {
+        "appid": 2418520,
+        "name": "Farm Together 2",
+        "playtime_forever": 24433,
+        "img_icon_url": "dda6a5202ada060fb486c4b06c67c0b3fa061749",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 2551020,
+        "name": "One-armed robber",
+        "playtime_forever": 9,
+        "img_icon_url": "810402b02588c37cc459b1a39896ab9377ba616a",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 2669320,
+        "name": "EA SPORTS FC™ 25",
+        "playtime_2weeks": 289,
+        "playtime_forever": 6218,
+        "img_icon_url": "f6c4988f3e7b965451a3d9fca34014585d1754e2",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 3097560,
+        "name": "Liar's Bar",
+        "playtime_forever": 404,
+        "img_icon_url": "5342338ad1fd3561c1ed8c6d2ed4ae0e6ada2e9c",
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 3217240,
+        "name": "Soccer Manager 2026",
+        "playtime_forever": 10,
+        "img_icon_url": "a706efe5bc4fe114840997628359f49156622597",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 3265280,
+        "name": "Pic-Me!",
+        "playtime_forever": 93,
+        "img_icon_url": "1392bde7c1623d4eec1d19b28f7517fe32f7a984"
+      },
+      {
+        "appid": 3376250,
+        "name": "Nine-Ball Roulette",
+        "playtime_forever": 1163,
+        "img_icon_url": "f29097a56d34eb3051616479698a68b8bca5ef58",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          5
+        ]
+      },
+      {
+        "appid": 3405690,
+        "name": "EA SPORTS FC™ 26",
+        "playtime_2weeks": 1225,
+        "playtime_forever": 1225,
+        "img_icon_url": "9216dc0dc099279f3d560fcc73ff3c26f754100b"
+      }
+    ]
+  }
+}

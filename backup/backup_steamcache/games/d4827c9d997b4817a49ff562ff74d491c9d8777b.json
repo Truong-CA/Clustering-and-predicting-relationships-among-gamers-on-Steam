@@ -1,0 +1,396 @@
+{
+  "response": {
+    "game_count": 44,
+    "games": [
+      {
+        "appid": 550,
+        "name": "Left 4 Dead 2",
+        "playtime_forever": 3277,
+        "img_icon_url": "7d5a243f9500d2f8467312822f8af2a2928777ed",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 730,
+        "name": "Counter-Strike 2",
+        "playtime_forever": 38627,
+        "img_icon_url": "8dbc71957312bbd3baea65848b545be9eae2a355",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 1250,
+        "name": "Killing Floor",
+        "playtime_forever": 332,
+        "img_icon_url": "d8a2d777cb4c59cf06aa244166db232336520547",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 9480,
+        "name": "Saints Row 2",
+        "playtime_forever": 0,
+        "img_icon_url": "1a0aef912300d396a67f9eda9d8b4e66c41c9891",
+        "content_descriptorids": [
+          1,
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 11450,
+        "name": "Overlord",
+        "playtime_forever": 0,
+        "img_icon_url": "8fc55092acac2cb5f72dbf8f644fcd430c461dd6"
+      },
+      {
+        "appid": 24960,
+        "name": "Battlefield: Bad Company™ 2",
+        "playtime_forever": 18,
+        "img_icon_url": "3a8b5c53efd00554eb3315681754974c3edf1c41"
+      },
+      {
+        "appid": 35420,
+        "name": "Killing Floor Mod: Defence Alliance 2",
+        "playtime_forever": 1,
+        "img_icon_url": "ae7580a60cf77b754c723c72d5e31d530fbe7804",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 35450,
+        "name": "Rising Storm/Red Orchestra 2 Multiplayer",
+        "playtime_forever": 362,
+        "img_icon_url": "d70423dddb3bb2a144e38ab9cc811e6fda1eb622",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 55100,
+        "name": "Homefront",
+        "playtime_forever": 1,
+        "img_icon_url": "52d4f669d6aa00c92406457d430ed5aa6a035c54",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 57300,
+        "name": "Amnesia: The Dark Descent",
+        "playtime_forever": 2,
+        "img_icon_url": "2c08de657a8b273eeb55bb5bf674605ca023e381",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          5
+        ]
+      },
+      {
+        "appid": 96000,
+        "name": "The Tiny Bang Story",
+        "playtime_forever": 0,
+        "img_icon_url": "190760c7966fda0b4be9605de836e031f448fc49"
+      },
+      {
+        "appid": 203160,
+        "name": "Tomb Raider",
+        "playtime_forever": 596,
+        "img_icon_url": "3ee640a8aba6992678e36f4e40cba9c71c02348b",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 203770,
+        "name": "Crusader Kings II",
+        "playtime_forever": 324,
+        "img_icon_url": "56e9c15cbeb6c1f873f7f1dc757bae7618861484",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 207610,
+        "name": "The Walking Dead",
+        "playtime_forever": 276,
+        "img_icon_url": "87a13ae0a2a76488792924aa8bb0dd8a7760f931",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 208650,
+        "name": "Batman™: Arkham Knight",
+        "playtime_forever": 563,
+        "img_icon_url": "f6c2ce13796844750dfbd01685fb009eeac4bf70",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 209080,
+        "name": "Guns of Icarus Online",
+        "playtime_forever": 339,
+        "img_icon_url": "968e8c0b7a55f0229392278123dfd486140c9421",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 218620,
+        "name": "PAYDAY 2",
+        "playtime_forever": 339,
+        "img_icon_url": "a6abc0d0c1e79c0b5b0f5c8ab81ce9076a542414",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 219640,
+        "name": "Chivalry: Medieval Warfare",
+        "playtime_forever": 331,
+        "img_icon_url": "d4628be29b7e97d93a3404870dfe79642b90b907",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 231430,
+        "name": "Company of Heroes 2",
+        "playtime_forever": 303,
+        "img_icon_url": "5e7e1866fb4f33a17393b0441cd1c750dbd91c5f",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 234650,
+        "name": "Shadowrun Returns",
+        "playtime_forever": 0,
+        "img_icon_url": "13c8e62b9b079fba385a2d959ed4e8ce2c378c8c",
+        "content_descriptorids": [
+          5
+        ]
+      },
+      {
+        "appid": 236390,
+        "name": "War Thunder",
+        "playtime_forever": 720,
+        "img_icon_url": "c69fbafb6e9891314cc5df0fe6a659612c289bf9",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 236870,
+        "name": "HITMAN™",
+        "playtime_forever": 437,
+        "img_icon_url": "a4c559b6a3a7706d2f6c44a84e1daa8532bee741",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 238320,
+        "name": "Outlast",
+        "playtime_forever": 296,
+        "img_icon_url": "46bd3df92d4693d3b2af113bf8f31c2cbdadb20a",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          1,
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 239200,
+        "name": "Amnesia: A Machine for Pigs",
+        "playtime_forever": 0,
+        "img_icon_url": "3bf781ae80c6eeb8827819fb2ed92aa2353d3007",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          5
+        ]
+      },
+      {
+        "appid": 304390,
+        "name": "For Honor",
+        "playtime_forever": 33,
+        "img_icon_url": "24ec1359d4c27b2aef9ad3fc59fdfa495789d6e6",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 305050,
+        "name": "Outland",
+        "playtime_forever": 272,
+        "img_icon_url": "bdfa511693bd167835fb1d32331f0a579dcdb9a5",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 359310,
+        "name": "Evoland 2",
+        "playtime_forever": 84,
+        "img_icon_url": "d2f9687a00ccfa481db07eb17d0f927fb2d90ce7",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 365450,
+        "name": "Hacknet",
+        "playtime_forever": 16,
+        "img_icon_url": "2445c4ead6ee47784a326922271ec1c0b41d64e2",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          5
+        ]
+      },
+      {
+        "appid": 368230,
+        "name": "Kingdom: Classic",
+        "playtime_forever": 329,
+        "img_icon_url": "0d741624c643448ff74741f50a4b80a24529b869",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 439190,
+        "name": "Stories: The Path of Destinies",
+        "playtime_forever": 337,
+        "img_icon_url": "ed3383f9deed7e41515d34e544a67258fcf91c23",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 444090,
+        "name": "Paladins",
+        "playtime_forever": 819,
+        "img_icon_url": "1565119c17f532338a0645b98e69e1fc1df0c29e",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 463350,
+        "name": "Storm of Spears",
+        "playtime_forever": 267,
+        "img_icon_url": "c078d2ef81a3c9deb5a301c8243bcb7875ec949a",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          1,
+          5
+        ]
+      },
+      {
+        "appid": 552990,
+        "name": "World of Warships",
+        "playtime_forever": 74,
+        "img_icon_url": "023b6bb5bcf82f9222d70cd38fdb18a899bd67e8",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 578080,
+        "name": "PUBG: BATTLEGROUNDS",
+        "playtime_forever": 22681,
+        "img_icon_url": "609f27278aa70697c13bf99f32c5a0248c381f9d",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 630100,
+        "name": "SoulWorker",
+        "playtime_forever": 69,
+        "img_icon_url": "a6508d81099861636f59188db07f9349d885046a"
+      },
+      {
+        "appid": 644560,
+        "name": "Mirror",
+        "playtime_forever": 644,
+        "img_icon_url": "557469e128dcd3574436cd970501b59d02661356",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          1,
+          3,
+          4,
+          5
+        ]
+      },
+      {
+        "appid": 644570,
+        "name": "Material Girl",
+        "playtime_forever": 555,
+        "img_icon_url": "eeab9b591e9219d490ca5d5a3c4baa4f4d4a0a9f",
+        "content_descriptorids": [
+          1,
+          3,
+          5,
+          4
+        ]
+      },
+      {
+        "appid": 648390,
+        "name": "Marie's Room",
+        "playtime_forever": 30,
+        "img_icon_url": "35306af409be13729e980e3437249aae9d448076",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 654310,
+        "name": "For Honor - Public Test",
+        "playtime_forever": 0,
+        "img_icon_url": "64dd8eca34f0b5faeda135f057da1973806852f2"
+      },
+      {
+        "appid": 686190,
+        "name": "Killing Time",
+        "playtime_forever": 320,
+        "img_icon_url": "35ddc2d1b36b2421c44d08838cbdf1b5fbb0faa5"
+      },
+      {
+        "appid": 734910,
+        "name": "Eternal Hour: Golden Hour",
+        "playtime_forever": 17,
+        "img_icon_url": "861f463997b67b4280f09194e7b30a8c69779386",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          1,
+          5
+        ]
+      },
+      {
+        "appid": 774711,
+        "name": "The MagiCats Best Of",
+        "playtime_forever": 0,
+        "img_icon_url": "c4509f39de1d70153bce246ebb71a1a89e029e49",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 863550,
+        "name": "HITMAN™ 2",
+        "playtime_forever": 0,
+        "img_icon_url": "3f7c071da7a338e03f6243b73c02c072f1bacee9",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 1020470,
+        "name": "Evoland Legendary Edition",
+        "playtime_forever": 0,
+        "img_icon_url": "6b564bfe80bccfcadbb54881e21c3cdf582b1d1b",
+        "has_community_visible_stats": true
+      }
+    ]
+  }
+}

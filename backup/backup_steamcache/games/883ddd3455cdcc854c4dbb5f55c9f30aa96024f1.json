@@ -1,0 +1,35 @@
+{
+  "response": {
+    "total_count": 4,
+    "games": [
+      {
+        "appid": 730,
+        "name": "Counter-Strike 2",
+        "playtime_2weeks": 2134,
+        "playtime_forever": 544631,
+        "img_icon_url": "8dbc71957312bbd3baea65848b545be9eae2a355"
+      },
+      {
+        "appid": 570,
+        "name": "Dota 2",
+        "playtime_2weeks": 6,
+        "playtime_forever": 413078,
+        "img_icon_url": "0bbb630d63262dd66d2fdd0f7d37e8661a410075"
+      },
+      {
+        "appid": 1030300,
+        "name": "Hollow Knight: Silksong",
+        "playtime_2weeks": 2,
+        "playtime_forever": 2,
+        "img_icon_url": "b4a999c1302e3ac123c041fd41bb8a34528c6ab5"
+      },
+      {
+        "appid": 489830,
+        "name": "The Elder Scrolls V: Skyrim Special Edition",
+        "playtime_2weeks": 1,
+        "playtime_forever": 1236,
+        "img_icon_url": "0dfe3eed5658f9fbd8b62f8021038c0a4190f21d"
+      }
+    ]
+  }
+}

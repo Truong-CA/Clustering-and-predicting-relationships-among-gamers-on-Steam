@@ -1,0 +1,28 @@
+{
+  "response": {
+    "total_count": 3,
+    "games": [
+      {
+        "appid": 526870,
+        "name": "Satisfactory",
+        "playtime_2weeks": 1050,
+        "playtime_forever": 5727,
+        "img_icon_url": "ee3406fe5ec813b1987ad67e37e5cd6fb4f620e6"
+      },
+      {
+        "appid": 3405340,
+        "name": "Megabonk",
+        "playtime_2weeks": 784,
+        "playtime_forever": 784,
+        "img_icon_url": "8e0ff36cdb1076d69347a2796c7ef5ee18b2fee8"
+      },
+      {
+        "appid": 632360,
+        "name": "Risk of Rain 2",
+        "playtime_2weeks": 79,
+        "playtime_forever": 7952,
+        "img_icon_url": "0b809ac6f25e6570fecae5fc47bca0139a7bf70c"
+      }
+    ]
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "response": {
+    "game_count": 11,
+    "games": [
+      {
+        "appid": 730,
+        "name": "Counter-Strike 2",
+        "playtime_forever": 90431,
+        "img_icon_url": "8dbc71957312bbd3baea65848b545be9eae2a355",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 64000,
+        "name": "Men of War: Assault Squad",
+        "playtime_forever": 5,
+        "img_icon_url": "c8b86c3d1bbe28155b93efbf02a5905df13a50fa",
+        "has_community_visible_stats": true,
+        "has_leaderboards": true
+      },
+      {
+        "appid": 227940,
+        "name": "Heroes & Generals",
+        "playtime_forever": 12,
+        "img_icon_url": "64f09c15e558464a40ced00a9ef35ed13542e144"
+      },
+      {
+        "appid": 236390,
+        "name": "War Thunder",
+        "playtime_forever": 95,
+        "img_icon_url": "c69fbafb6e9891314cc5df0fe6a659612c289bf9",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 238910,
+        "name": "Bionic Dues",
+        "playtime_forever": 0,
+        "img_icon_url": "b32336f3ed512f909b9d240e8e2a26638b3924d6",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 253980,
+        "name": "Enclave",
+        "playtime_forever": 0,
+        "img_icon_url": "eb807cb60bbb54f7103659b17ca74c88477fa8f1"
+      },
+      {
+        "appid": 265630,
+        "name": "Fistful of Frags",
+        "playtime_forever": 197,
+        "img_icon_url": "e70c19e10125ea3f221666327af2b90f3fcecad9",
+        "has_community_visible_stats": true,
+        "has_leaderboards": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 407530,
+        "name": "ARK: Survival Of The Fittest",
+        "playtime_forever": 0,
+        "img_icon_url": "807c673cddebbfee0700a947a75f4872ad136e9b"
+      },
+      {
+        "appid": 555570,
+        "name": "Infestation: The New Z",
+        "playtime_forever": 34,
+        "img_icon_url": "1a47976ed0794d3aeac244ce7303efd572728ba9",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 578080,
+        "name": "PUBG: BATTLEGROUNDS",
+        "playtime_forever": 285,
+        "img_icon_url": "609f27278aa70697c13bf99f32c5a0248c381f9d",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 745380,
+        "name": "Znkl - 177",
+        "playtime_forever": 0,
+        "img_icon_url": "e512a92a96e868f7f3e8cfd6ca94250c1e57090e",
+        "has_community_visible_stats": true
+      }
+    ]
+  }
+}

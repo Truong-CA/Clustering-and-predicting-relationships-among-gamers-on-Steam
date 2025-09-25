@@ -1,0 +1,768 @@
+{
+  "response": {
+    "game_count": 94,
+    "games": [
+      {
+        "appid": 730,
+        "name": "Counter-Strike 2",
+        "playtime_forever": 2633,
+        "img_icon_url": "8dbc71957312bbd3baea65848b545be9eae2a355",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 8500,
+        "name": "EVE Online",
+        "playtime_forever": 62,
+        "img_icon_url": "884d8c6482487e74b18ceef872ee9543a1c5828d"
+      },
+      {
+        "appid": 25890,
+        "name": "Hearts of Iron III",
+        "playtime_forever": 225,
+        "img_icon_url": "a0e62d1a7b5f70a606100ff68ae351e1498804c1"
+      },
+      {
+        "appid": 32470,
+        "name": "STAR WARS™ Empire at War: Gold Pack",
+        "playtime_forever": 644,
+        "img_icon_url": "3f65d9be3af3083c07f1053dbf0b0653af7323b8"
+      },
+      {
+        "appid": 34030,
+        "name": "Total War: NAPOLEON - Definitive Edition",
+        "playtime_forever": 8,
+        "img_icon_url": "e6263fa77b39b3b83db00d089aed8dc0aac11b20",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 34330,
+        "name": "Total War: SHOGUN 2",
+        "playtime_forever": 3010,
+        "img_icon_url": "2fa97296a62daf0329b3867ad6837a2289229fbb",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 107410,
+        "name": "Arma 3",
+        "playtime_forever": 974,
+        "img_icon_url": "3212af52faf994c558bd622cb0f360c1ef295a6b",
+        "has_community_visible_stats": true,
+        "has_leaderboards": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 218230,
+        "name": "PlanetSide 2",
+        "playtime_forever": 199,
+        "img_icon_url": "f09d788b57eccd48ad9a6d1ec0dbf0707db39612"
+      },
+      {
+        "appid": 218620,
+        "name": "PAYDAY 2",
+        "playtime_forever": 68,
+        "img_icon_url": "a6abc0d0c1e79c0b5b0f5c8ab81ce9076a542414",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 223750,
+        "name": "DCS World Steam Edition",
+        "playtime_forever": 137,
+        "img_icon_url": "f709dbfd1d2ad385ae5baaa1824422c11a4a2dea"
+      },
+      {
+        "appid": 230410,
+        "name": "Warframe",
+        "playtime_forever": 118,
+        "img_icon_url": "22064646470f4c53388ba87774c7ac10f0a91ffa",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 236390,
+        "name": "War Thunder",
+        "playtime_forever": 9100,
+        "img_icon_url": "c69fbafb6e9891314cc5df0fe6a659612c289bf9",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 242860,
+        "name": "Verdun",
+        "playtime_forever": 416,
+        "img_icon_url": "2f4451d2bd41acf3fa7fc599935b8e4d8cb20593",
+        "has_community_visible_stats": true,
+        "has_leaderboards": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 261550,
+        "name": "Mount & Blade II: Bannerlord",
+        "playtime_forever": 2506,
+        "img_icon_url": "896d5f4214e4e185a20af51b46d9dea2e6f4aaad",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          5
+        ]
+      },
+      {
+        "appid": 281990,
+        "name": "Stellaris",
+        "playtime_forever": 551,
+        "img_icon_url": "cb4a03deab1e34ed2a5cbbdf419c66bb6459625f",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 291480,
+        "name": "Warface: Clutch",
+        "playtime_forever": 728,
+        "img_icon_url": "66ef308279871d99ca776d4602bf02a354570368",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 325610,
+        "name": "Total War: ATTILA",
+        "playtime_forever": 775,
+        "img_icon_url": "efb8ae63b78a36f130a4e9c1768d3dfea7056d02",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 349040,
+        "name": "NARUTO SHIPPUDEN: Ultimate Ninja STORM 4",
+        "playtime_forever": 472,
+        "img_icon_url": "bb5c2a74c919d172b4a40c85591aaffd101d26ef",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 364360,
+        "name": "Total War: WARHAMMER",
+        "playtime_forever": 66,
+        "img_icon_url": "918a2af60362c81e36dabb20bf99c4d1aea45ff8",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 386360,
+        "name": "SMITE",
+        "playtime_forever": 64,
+        "img_icon_url": "7ed9de7bbfab9accb81e47b84943e7478baf2f3a",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 444200,
+        "name": "World of Tanks Blitz",
+        "playtime_forever": 79,
+        "img_icon_url": "6ce02840322f500c93a2f0304bc916fb44422631"
+      },
+      {
+        "appid": 466240,
+        "name": "Deceit",
+        "playtime_forever": 76,
+        "img_icon_url": "9ab4436d104e73d560f6e0c439bcb150a9c5a174",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 552990,
+        "name": "World of Warships",
+        "playtime_forever": 1304,
+        "img_icon_url": "023b6bb5bcf82f9222d70cd38fdb18a899bd67e8",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 567630,
+        "name": "Blood of Steel",
+        "playtime_forever": 183,
+        "img_icon_url": "d355a0241e504f3f4bd96d926d79ae1ec661dad5",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 572410,
+        "name": "Steel Division: Normandy 44",
+        "playtime_forever": 181,
+        "img_icon_url": "5a2fdf6942436e69b5f52649507244da0ce03c82",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 577230,
+        "name": "Three Kingdoms: The Last Warlord",
+        "playtime_forever": 969,
+        "img_icon_url": "b08891bc5f69e6d082fffb18a563edef08211f24",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          5
+        ]
+      },
+      {
+        "appid": 581130,
+        "name": "Metal Waltz",
+        "playtime_forever": 78,
+        "img_icon_url": "8b4d91d4127dca1f94f95a390eeb0bfe2dcbce31",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          1,
+          5
+        ]
+      },
+      {
+        "appid": 582660,
+        "name": "Black Desert",
+        "playtime_forever": 1171,
+        "img_icon_url": "bf5ccace0a692720984827bf042143d0d4b28a42",
+        "content_descriptorids": [
+          1,
+          5
+        ]
+      },
+      {
+        "appid": 601050,
+        "name": "Attack on Titan 2 - A.O.T.2",
+        "playtime_forever": 527,
+        "img_icon_url": "1d8ce89256675934d5532871b59c52b94467d8ac",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 603850,
+        "name": "Age of History II",
+        "playtime_forever": 593,
+        "img_icon_url": "70a6108718bc4fa8aa0155fcfce6e64d8607b93a",
+        "has_community_visible_stats": true,
+        "has_leaderboards": true
+      },
+      {
+        "appid": 626690,
+        "name": "Sword Art Online: Fatal Bullet",
+        "playtime_forever": 63,
+        "img_icon_url": "fe19fa4187e12ccdb1d6f31ef56e3e54d3fc1dee",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 628060,
+        "name": "Romance of the Three Kingdoms X with Power Up Kit",
+        "playtime_forever": 512,
+        "img_icon_url": "865e4166e12b05cb8946a7d4c7555e8f1023cb05"
+      },
+      {
+        "appid": 630030,
+        "name": "War Tech Fighters",
+        "playtime_forever": 5,
+        "img_icon_url": "1c98fe31b72e93683f469574d4c958856b31f82d",
+        "has_community_visible_stats": true,
+        "has_leaderboards": true
+      },
+      {
+        "appid": 633230,
+        "name": "NARUTO TO BORUTO: SHINOBI STRIKER",
+        "playtime_forever": 283,
+        "img_icon_url": "02be261d86a6d13c975b5b30be50411f9c99fb8c",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 633460,
+        "name": "Tannenberg",
+        "playtime_forever": 36,
+        "img_icon_url": "66761379149da17d488cc6a114dcd08847a9ef75",
+        "has_community_visible_stats": true,
+        "has_leaderboards": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 644930,
+        "name": "They Are Billions",
+        "playtime_forever": 140,
+        "img_icon_url": "3121b4e36ea898e2cd2d43aad7ea0f7db200dd15",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 666150,
+        "name": "Prehistoric Kingdom",
+        "playtime_forever": 140,
+        "img_icon_url": "a847533e91166400a638e53fb563ba09d18eba5c",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 669320,
+        "name": "Nation War:Chronicles",
+        "playtime_forever": 32,
+        "img_icon_url": "be96e986ff8c5ce98d18f9923f3f17fa14bb9ebd",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 700330,
+        "name": "SCP: Secret Laboratory",
+        "playtime_forever": 41,
+        "img_icon_url": "ea2e9a0aa3b0d3393e7452913b3c255cd23a13ba",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 728530,
+        "name": "SD GUNDAM G GENERATION CROSS RAYS",
+        "playtime_forever": 632,
+        "img_icon_url": "1e55756cc65f139cbc898ec753076f6640f0778d",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          1,
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 773951,
+        "name": "Freeman: Guerrilla Warfare",
+        "playtime_forever": 465,
+        "img_icon_url": "66bc547818817c0b77ce783ce8beb801754a6f6c",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 779340,
+        "name": "Total War: THREE KINGDOMS",
+        "playtime_forever": 8083,
+        "img_icon_url": "12eb7d5a469812b3dd13d04165cff053f477914d",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 790710,
+        "name": "World of Warplanes",
+        "playtime_forever": 249,
+        "img_icon_url": "1257b24184e022770b30cdca80658b24d2f91af0"
+      },
+      {
+        "appid": 835570,
+        "name": "Conqueror's Blade",
+        "playtime_forever": 3188,
+        "img_icon_url": "146c4d41ab8c557a2a9ff1818d438e74de55942a",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 842780,
+        "name": "NavalArt",
+        "playtime_forever": 204,
+        "img_icon_url": "0b7c8755690478bc29bb5224654c51ab8549b694",
+        "has_community_visible_stats": true,
+        "has_leaderboards": true
+      },
+      {
+        "appid": 918570,
+        "name": "Century: Age of Ashes",
+        "playtime_forever": 118,
+        "img_icon_url": "e30da7a697bca2ff4e8c555787e5f9fd1ef46cb3",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 956680,
+        "name": "M.A.S.S. Builder",
+        "playtime_forever": 473,
+        "img_icon_url": "5a475c6f3f12c22870ed0b85b56a19c2554cc79a"
+      },
+      {
+        "appid": 977400,
+        "name": "Cell to Singularity - Evolution Never Ends",
+        "playtime_forever": 31,
+        "img_icon_url": "130a3091d6e6ae68e7204b21bfa2b4fec02c3d8d",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 994280,
+        "name": "Gujian3(古剑奇谭三)",
+        "playtime_forever": 1078,
+        "img_icon_url": "df578400e899bfd1605c01ce5ff6894c5d986ffb",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 1005460,
+        "name": "NationWar2:Chronicle",
+        "playtime_forever": 786,
+        "img_icon_url": "562e76ffd6f966c25af73a63a31b49eaab4c908f"
+      },
+      {
+        "appid": 1022450,
+        "name": "War Selection",
+        "playtime_forever": 162,
+        "img_icon_url": "ba39d4fb6ec685ab21949b5e90180311e23dcd7f"
+      },
+      {
+        "appid": 1056640,
+        "name": "Phantasy Star Online 2 New Genesis",
+        "playtime_forever": 1807,
+        "img_icon_url": "c54fa2778a5ebfa0d51e240f6782eb4af73e5b63",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 1069660,
+        "name": "Ultimate Admiral: Dreadnoughts",
+        "playtime_forever": 1035,
+        "img_icon_url": "f43428144075689da20df4840ab4d0b29179abe4"
+      },
+      {
+        "appid": 1089980,
+        "name": "The Henry Stickmin Collection",
+        "playtime_forever": 10,
+        "img_icon_url": "7d4a1943cb0b40413ae66f83ce943d82f4962321",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 1097580,
+        "name": "CUSTOM ORDER MAID 3D2 It's a Night Magic",
+        "playtime_forever": 97,
+        "img_icon_url": "c581c5fd17357e039563f04a4c50f9373340065c",
+        "content_descriptorids": [
+          1,
+          5
+        ]
+      },
+      {
+        "appid": 1203220,
+        "name": "NARAKA: BLADEPOINT",
+        "playtime_forever": 1407,
+        "img_icon_url": "8055e7baa81ce2084d7daa42233983967956abb0",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 1222670,
+        "name": "The Sims™ 4",
+        "playtime_forever": 81,
+        "img_icon_url": "ca6bc8b2411bce4a2cd325ab75f0204bc3a4ad98"
+      },
+      {
+        "appid": 1222680,
+        "name": "Need for Speed™ Heat ",
+        "playtime_forever": 52,
+        "img_icon_url": "98a96955403db8eeed026bc5ff04e51e3329f1b0",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 1226470,
+        "name": "Shadow Arena",
+        "playtime_forever": 50,
+        "img_icon_url": "1b16dff0db5733a212d9773dceed62f40fa907a5"
+      },
+      {
+        "appid": 1237950,
+        "name": "STAR WARS™ Battlefront™ II",
+        "playtime_forever": 2553,
+        "img_icon_url": "dbdd20f60579c3695427801a7b8d9844cf3e428b",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 1238840,
+        "name": "Battlefield™ 1",
+        "playtime_forever": 6185,
+        "img_icon_url": "325c78f6940b57a43b65468d2dc10e22601b0ec5",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 1284210,
+        "name": "Guild Wars 2",
+        "playtime_forever": 121,
+        "img_icon_url": "da75f97c0eb3abcd82fcbd0eee8725f0215b42ac"
+      },
+      {
+        "appid": 1286830,
+        "name": "STAR WARS™: The Old Republic™",
+        "playtime_forever": 1411,
+        "img_icon_url": "cee1e2970e9535767d963bf3c2c4011adb100609",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 1338770,
+        "name": "Sniper Ghost Warrior Contracts 2",
+        "playtime_forever": 71,
+        "img_icon_url": "6bdcfa89cd9d556ead596849b17683ee047a926c",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 1367080,
+        "name": "MOBILE SUIT GUNDAM BATTLE OPERATION 2",
+        "playtime_forever": 60,
+        "img_icon_url": "98e3486e7c4407e8b0af5c1898803142ec1917de",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 1377580,
+        "name": "Soulworker",
+        "playtime_forever": 152,
+        "img_icon_url": "9368274fbfb06eab26c03b4ccb1b0f397737e114",
+        "content_descriptorids": [
+          1,
+          5
+        ]
+      },
+      {
+        "appid": 1407200,
+        "name": "World of Tanks",
+        "playtime_forever": 1214,
+        "img_icon_url": "3ba3158e913a637a1fbe033db4f88fccc52f1ff4",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 1418100,
+        "name": "Swords of Legends Online",
+        "playtime_forever": 729,
+        "img_icon_url": "dca7855e237e7118914aa26a269a01502e13ed7a"
+      },
+      {
+        "appid": 1423330,
+        "name": "Ancient Warfare: The Han Dynasty",
+        "playtime_forever": 27,
+        "img_icon_url": "54339397594cc15bf6061e29a54f9ee1f761dd16",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 1449850,
+        "name": "Yu-Gi-Oh!  Master Duel",
+        "playtime_forever": 3578,
+        "img_icon_url": "2cd45ee5b6c31445216a980cf40fdb10a1587b7f",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 1489970,
+        "name": "Highrise City",
+        "playtime_forever": 131,
+        "img_icon_url": "564679b225fb021ea0fb705d5f906e4193f1753b",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 1504570,
+        "name": "Cultivation Tales",
+        "playtime_forever": 272,
+        "img_icon_url": "71b49d774356f8d77e7105ff2dedf10dd7ef0a46"
+      },
+      {
+        "appid": 1506830,
+        "name": "FIFA 22",
+        "playtime_forever": 1069,
+        "img_icon_url": "97e6ad42ea46c285ba047e8e7fd0487688e9d4c1",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 1510460,
+        "name": "Chicken Invaders Universe",
+        "playtime_forever": 357,
+        "img_icon_url": "94b6d0cd6104e7a8ef3afee6d0abbb924cabeba2",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 1516820,
+        "name": "春秋",
+        "playtime_forever": 3,
+        "img_icon_url": "01faff21e96d4e70c29498094e69f170b4045425"
+      },
+      {
+        "appid": 1517290,
+        "name": "Battlefield™ 2042",
+        "playtime_forever": 2182,
+        "img_icon_url": "dc805cd05c36a1b26f4eb57b64301e6708e20776",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 1557480,
+        "name": "Project MIKHAIL",
+        "playtime_forever": 1033,
+        "img_icon_url": "e54e7c8cb6ca355e9e06e3c64a97e63172d3335f"
+      },
+      {
+        "appid": 1599340,
+        "name": "Lost Ark",
+        "playtime_forever": 168,
+        "img_icon_url": "4e4ef2862189e1f1d3052125fb1ed6cb42bcaaf8",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          1,
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 1816670,
+        "name": "GUNDAM EVOLUTION",
+        "playtime_forever": 85,
+        "img_icon_url": "4fb2015d970fe8faebecc10e249a9a1922afddfe",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 2013240,
+        "name": "Immortal Family",
+        "playtime_forever": 3,
+        "img_icon_url": "6512b2f9953ca8e96682cbcf9433dba15d9e941f",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 2016220,
+        "name": "EarthRoyale",
+        "playtime_forever": 59,
+        "img_icon_url": "90effeb748d537ac6b14708735e205a8eed7418f",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 2051620,
+        "name": "Enlisted",
+        "playtime_forever": 665,
+        "img_icon_url": "aab3d3acc8f23fc838d252809aaf654b2ccbcca2",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          5
+        ]
+      },
+      {
+        "appid": 2073850,
+        "name": "THE FINALS",
+        "playtime_forever": 12,
+        "img_icon_url": "9532db560dca3b4982f4af3f5981b6b2ce2a6909",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 2074920,
+        "name": "The First Descendant",
+        "playtime_forever": 144,
+        "img_icon_url": "a07ab51050a8e03993b1860ae929da51287f283b",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 2139460,
+        "name": "Once Human",
+        "playtime_forever": 212,
+        "img_icon_url": "e1c29227c162232120c15edcf282df61ee35f091"
+      },
+      {
+        "appid": 2231380,
+        "name": "Ghost Recon Breakpoint",
+        "playtime_forever": 793,
+        "img_icon_url": "c3672938f6f5bd6b7825a1a3e434c27971a481a5",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 2288150,
+        "name": "ROMANCE OF THE THREE KINGDOMS 8  REMAKE",
+        "playtime_forever": 916,
+        "img_icon_url": "80d22268d1627906ff17b0fa4ab2b286ea316f40",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 2384580,
+        "name": "DYNASTY WARRIORS: ORIGINS",
+        "playtime_forever": 239,
+        "img_icon_url": "eb0916e2273784868147d295465cd8e2e72433a1",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 2406770,
+        "name": "Bodycam",
+        "playtime_forever": 298,
+        "img_icon_url": "793bf9dd10a0c8838879adca10459e77e1f02c51",
+        "has_community_visible_stats": true,
+        "has_leaderboards": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 2452280,
+        "name": "Mecha BREAK",
+        "playtime_forever": 380,
+        "img_icon_url": "9f7f1b2fce4b229fdd7c67aa78d825d4f3f42cb7",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          5
+        ]
+      },
+      {
+        "appid": 2716930,
+        "name": "The Emperor and State",
+        "playtime_forever": 186,
+        "img_icon_url": "cf527c718de40b89eaa55dd47a03a7779ba42b53",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 2832330,
+        "name": "Aeons Echo",
+        "playtime_forever": 65,
+        "img_icon_url": "11fe09005ea98b80bb064f0db8815715dace882e",
+        "content_descriptorids": [
+          1,
+          3,
+          4,
+          5
+        ]
+      },
+      {
+        "appid": 3035500,
+        "name": "Fantasy Map Simulator",
+        "playtime_2weeks": 216,
+        "playtime_forever": 812,
+        "img_icon_url": "c25d2befaf2228ebb9e8023144fcf66703a2f404"
+      },
+      {
+        "appid": 3224770,
+        "name": "Umamusume: Pretty Derby",
+        "playtime_forever": 1091,
+        "img_icon_url": "67a3e76c151bb0fe82c707c32c83f4d518a73a85",
+        "has_community_visible_stats": true
+      }
+    ]
+  }
+}

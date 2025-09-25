@@ -1,0 +1,42 @@
+{
+  "response": {
+    "total_count": 5,
+    "games": [
+      {
+        "appid": 2622380,
+        "name": "ELDEN RING NIGHTREIGN",
+        "playtime_2weeks": 879,
+        "playtime_forever": 9772,
+        "img_icon_url": "c59f3732d379c9667450b174353d69d5bcea95a5"
+      },
+      {
+        "appid": 2767030,
+        "name": "Marvel Rivals",
+        "playtime_2weeks": 277,
+        "playtime_forever": 13216,
+        "img_icon_url": "839b4712925b95702ca56e0c4d399adf54f4d617"
+      },
+      {
+        "appid": 1091500,
+        "name": "Cyberpunk 2077",
+        "playtime_2weeks": 230,
+        "playtime_forever": 1009,
+        "img_icon_url": "42b9b33fa0f0d997beb299c6157592a8fe7d8f68"
+      },
+      {
+        "appid": 3424520,
+        "name": "Monster Hunter Wilds Benchmark",
+        "playtime_2weeks": 123,
+        "playtime_forever": 184,
+        "img_icon_url": "05667f3795ed72593bc38225271e2b0b33a906e4"
+      },
+      {
+        "appid": 2246340,
+        "name": "Monster Hunter Wilds",
+        "playtime_2weeks": 35,
+        "playtime_forever": 5562,
+        "img_icon_url": "23474d61e4506351f9b26f230fd417d017cf2806"
+      }
+    ]
+  }
+}

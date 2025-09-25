@@ -1,0 +1,45 @@
+{
+  "response": {
+    "game_count": 5,
+    "games": [
+      {
+        "appid": 570,
+        "name": "Dota 2",
+        "playtime_forever": 154639,
+        "img_icon_url": "0bbb630d63262dd66d2fdd0f7d37e8661a410075",
+        "content_descriptorids": [
+          5
+        ]
+      },
+      {
+        "appid": 730,
+        "name": "Counter-Strike 2",
+        "playtime_forever": 937,
+        "img_icon_url": "8dbc71957312bbd3baea65848b545be9eae2a355",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 2400,
+        "name": "The Ship",
+        "playtime_forever": 0,
+        "img_icon_url": "1d17a5d3d7da68eb317d848727ea235790e1d8a4"
+      },
+      {
+        "appid": 2420,
+        "name": "The Ship Single Player",
+        "playtime_forever": 0,
+        "img_icon_url": "683c3b48b4a8c586d0f143765502383cc8f07ac6"
+      },
+      {
+        "appid": 2430,
+        "name": "The Ship Tutorial",
+        "playtime_forever": 0,
+        "img_icon_url": "683c3b48b4a8c586d0f143765502383cc8f07ac6"
+      }
+    ]
+  }
+}

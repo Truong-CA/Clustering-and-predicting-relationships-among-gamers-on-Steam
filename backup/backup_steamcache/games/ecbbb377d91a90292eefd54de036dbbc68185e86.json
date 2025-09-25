@@ -1,0 +1,323 @@
+{
+  "response": {
+    "game_count": 41,
+    "games": [
+      {
+        "appid": 440,
+        "name": "Team Fortress 2",
+        "playtime_forever": 25494,
+        "img_icon_url": "f568912870a4684f9ec76277a1a404dda6bab213",
+        "has_community_visible_stats": true,
+        "has_leaderboards": true
+      },
+      {
+        "appid": 730,
+        "name": "Counter-Strike 2",
+        "playtime_2weeks": 910,
+        "playtime_forever": 60646,
+        "img_icon_url": "8dbc71957312bbd3baea65848b545be9eae2a355",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 3410,
+        "name": "Heavy Weapon Deluxe",
+        "playtime_forever": 1205,
+        "img_icon_url": "32180a539f834902f5d4ad1e8fb9a7ffa23d627f"
+      },
+      {
+        "appid": 4000,
+        "name": "Garry's Mod",
+        "playtime_forever": 343,
+        "img_icon_url": "4a6f25cfa2426445d0d9d6e233408de4d371ce8b",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 105600,
+        "name": "Terraria",
+        "playtime_forever": 5750,
+        "img_icon_url": "858961e95fbf869f136e1770d586e0caefd4cfac",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 109400,
+        "name": "MicroVolts Surge",
+        "playtime_forever": 73,
+        "img_icon_url": "84451152cc2862ca27b9d5e77a3213dc123ec04a"
+      },
+      {
+        "appid": 200210,
+        "name": "Realm of the Mad God Exalt",
+        "playtime_forever": 2008,
+        "img_icon_url": "76c62602486e58f9501e09e7e8f189e86823e8d5",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 207140,
+        "name": "SpeedRunners",
+        "playtime_forever": 1384,
+        "img_icon_url": "65cfa21149c415430fe36d83c23e079e6db476cc",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 209670,
+        "name": "Cortex Command",
+        "playtime_forever": 10,
+        "img_icon_url": "2976d0e44d338d1f6136d222d8b2a764a1dfee2e",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 212680,
+        "name": "FTL: Faster Than Light",
+        "playtime_forever": 1955,
+        "img_icon_url": "e8770ddb95fde0804694b116dfe3479f5a65900d",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 216150,
+        "name": "MapleStory",
+        "playtime_forever": 37,
+        "img_icon_url": "263753195620210c0947ff3be2cb6b8d835bca23",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 218620,
+        "name": "PAYDAY 2",
+        "playtime_forever": 0,
+        "img_icon_url": "a6abc0d0c1e79c0b5b0f5c8ab81ce9076a542414",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 219830,
+        "name": "King Arthur's Gold",
+        "playtime_forever": 99583,
+        "img_icon_url": "be02fc5638b8b5b7935452849e8e88ea173e061d",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 244210,
+        "name": "Assetto Corsa",
+        "playtime_forever": 56,
+        "img_icon_url": "c35922c480816b55f18b2843c6d838ccbc8ff825",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 252950,
+        "name": "Rocket League",
+        "playtime_forever": 6794,
+        "img_icon_url": "9ad6dd3d173523354385955b5fb2af87639c4163",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 265930,
+        "name": "Goat Simulator",
+        "playtime_forever": 379,
+        "img_icon_url": "edf6c28b83d5fc221338ff71d01caa11d11d3b50",
+        "has_community_visible_stats": true,
+        "has_leaderboards": true
+      },
+      {
+        "appid": 269210,
+        "name": "Hero Siege",
+        "playtime_forever": 298,
+        "img_icon_url": "c787f8aa68ebb1426c5a9633b7609d7e849c1bc2",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 291550,
+        "name": "Brawlhalla",
+        "playtime_forever": 22009,
+        "img_icon_url": "c43fac31b8bf8821764603a14d09412bc3d45f66",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 312990,
+        "name": "The Expendabros",
+        "playtime_forever": 72,
+        "img_icon_url": "63305a7d0473b92c6d8830a3f62527e64c479e7c"
+      },
+      {
+        "appid": 315880,
+        "name": "WTFast Gamers Private Network (GPN)",
+        "playtime_forever": 41,
+        "img_icon_url": "253320cbba7d60e475cb28cf2bce7dd9196b66c5"
+      },
+      {
+        "appid": 359050,
+        "name": "Shower With Your Dad Simulator 2015: Do You Still Shower With Your Dad",
+        "playtime_forever": 0,
+        "img_icon_url": "2914eef2904d321bf58adebccc1c92ef6b2c6834",
+        "has_community_visible_stats": true,
+        "has_leaderboards": true,
+        "content_descriptorids": [
+          1,
+          5
+        ]
+      },
+      {
+        "appid": 363970,
+        "name": "Clicker Heroes",
+        "playtime_forever": 63,
+        "img_icon_url": "155ed2de95eacc3353b91c2a057bdbf727c11c20",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 383980,
+        "name": "Rivals of Aether",
+        "playtime_forever": 149,
+        "img_icon_url": "1eaacd26ab3f35ba0432b63f6ddac66cf3a79afa",
+        "has_community_visible_stats": true,
+        "has_leaderboards": true
+      },
+      {
+        "appid": 408900,
+        "name": "Unfortunate Spacemen",
+        "playtime_forever": 0,
+        "img_icon_url": "0bdcc10a2e989fca01c9ac504668117dfc1b81e4",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 410670,
+        "name": "Suits: A Business RPG",
+        "playtime_forever": 8,
+        "img_icon_url": "c3b77b374e173dbe520f11187e51b6e22b14e0df",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 413150,
+        "name": "Stardew Valley",
+        "playtime_forever": 944,
+        "img_icon_url": "35d1377200084a4034238c05b0c8930451e2fb40",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 444640,
+        "name": "Bloons TD Battles",
+        "playtime_forever": 21,
+        "img_icon_url": "8041a649686724400b5999a364b3bc8ad1840ac2",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 448510,
+        "name": "Overcooked",
+        "playtime_forever": 56,
+        "img_icon_url": "0f8cb2d03134bfbc0536dcc9a476d9ba3a1e67f5",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 504370,
+        "name": "Battlerite",
+        "playtime_forever": 135,
+        "img_icon_url": "943ec9894774f40c9863d0305c456a3c3b2f7c13"
+      },
+      {
+        "appid": 513560,
+        "name": "Hunger Dungeon",
+        "playtime_forever": 11,
+        "img_icon_url": "fda62fb6f6b6669ac23de9c4cd4fc95860958f19",
+        "has_community_visible_stats": true,
+        "has_leaderboards": true
+      },
+      {
+        "appid": 638490,
+        "name": "Soldat",
+        "playtime_forever": 14,
+        "img_icon_url": "d9e29c9c4efa26a936c04812f068ec97ca7025f2",
+        "content_descriptorids": [
+          5
+        ]
+      },
+      {
+        "appid": 677620,
+        "name": "Splitgate",
+        "playtime_forever": 212,
+        "img_icon_url": "03e452b180ff77986c3957819bde4c69448a2d0f",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 714010,
+        "name": "Aimlabs",
+        "playtime_forever": 1190,
+        "img_icon_url": "15347de11efc127539c388e585af9e92d10d5189",
+        "has_community_visible_stats": true,
+        "has_leaderboards": true
+      },
+      {
+        "appid": 880940,
+        "name": "Pummel Party",
+        "playtime_forever": 98,
+        "img_icon_url": "0e2e222010d009ca46b575cc5c53a23250434341",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 905640,
+        "name": "CombatArms: Reloaded",
+        "playtime_forever": 59,
+        "img_icon_url": "496c9d079cab7ea633d95c5f33e5e178b993f85a",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 1046930,
+        "name": "Dota Underlords",
+        "playtime_forever": 86,
+        "img_icon_url": "1f6f64144e8cc371c5382660e48998dfbe0a708e"
+      },
+      {
+        "appid": 1172470,
+        "name": "Apex Legends",
+        "playtime_forever": 89,
+        "img_icon_url": "6cc35932af780289ae3d8d5cdbfe9cd545decad2",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 1782210,
+        "name": "Crab Game",
+        "playtime_forever": 26,
+        "img_icon_url": "e1afdaf96f55771d1d5ea4c9692d0f707ab0110b",
+        "content_descriptorids": [
+          5
+        ]
+      },
+      {
+        "appid": 2073850,
+        "name": "THE FINALS",
+        "playtime_forever": 26,
+        "img_icon_url": "9532db560dca3b4982f4af3f5981b6b2ce2a6909",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 2488620,
+        "name": "F1® 24",
+        "playtime_forever": 2685,
+        "img_icon_url": "a0b0c1f0392f4ce0ba6d3442d5c117500ebc8d77",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 2767030,
+        "name": "Marvel Rivals",
+        "playtime_forever": 175,
+        "img_icon_url": "839b4712925b95702ca56e0c4d399adf54f4d617",
+        "has_community_visible_stats": true
+      }
+    ]
+  }
+}

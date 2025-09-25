@@ -1,0 +1,338 @@
+{
+  "response": {
+    "game_count": 41,
+    "games": [
+      {
+        "appid": 570,
+        "name": "Dota 2",
+        "playtime_forever": 28721,
+        "img_icon_url": "0bbb630d63262dd66d2fdd0f7d37e8661a410075",
+        "content_descriptorids": [
+          5
+        ]
+      },
+      {
+        "appid": 620,
+        "name": "Portal 2",
+        "playtime_forever": 90,
+        "img_icon_url": "25a5a16b2423bf7487ac5340b5b0948cef48c5f8",
+        "has_community_visible_stats": true,
+        "has_leaderboards": true
+      },
+      {
+        "appid": 730,
+        "name": "Counter-Strike 2",
+        "playtime_forever": 103371,
+        "img_icon_url": "8dbc71957312bbd3baea65848b545be9eae2a355",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 4000,
+        "name": "Garry's Mod",
+        "playtime_forever": 994,
+        "img_icon_url": "4a6f25cfa2426445d0d9d6e233408de4d371ce8b",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 7670,
+        "name": "BioShock",
+        "playtime_forever": 0,
+        "img_icon_url": "9a7c9f640a76e6a32592277dbbc36a0f6da05372"
+      },
+      {
+        "appid": 8850,
+        "name": "BioShock 2",
+        "playtime_forever": 0,
+        "img_icon_url": "f5eda925c0e57373aaea4cae17b6f175115a8d54",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 8870,
+        "name": "BioShock Infinite",
+        "playtime_forever": 0,
+        "img_icon_url": "4ebaf5f9ee74f50152f7ff361debef7553fa0e4e",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 49520,
+        "name": "Borderlands 2",
+        "playtime_forever": 205,
+        "img_icon_url": "a3f4945226e69b6196074df4c776e342d3e5a3be",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 241930,
+        "name": "Middle-earth™: Shadow of Mordor™",
+        "playtime_forever": 158,
+        "img_icon_url": "161afab3c9f725f593635723cc64a7fbeb324ead",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 264710,
+        "name": "Subnautica",
+        "playtime_forever": 195,
+        "img_icon_url": "8a14ceef6e230330a916d7a6324b8c52d464d569",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 273350,
+        "name": "Evolve Stage 2",
+        "playtime_forever": 0,
+        "img_icon_url": "6b9e205c389185a4b0e079a13090c751e47375d2"
+      },
+      {
+        "appid": 275850,
+        "name": "No Man's Sky",
+        "playtime_forever": 7576,
+        "img_icon_url": "fccb20f309ac5ae05b3cb4576a8a3357edf86f2e",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 322330,
+        "name": "Don't Starve Together",
+        "playtime_forever": 624,
+        "img_icon_url": "a80aa6cff8eebc1cbc18c367d9ab063e1553b0ee"
+      },
+      {
+        "appid": 390100,
+        "name": "9Dragons",
+        "playtime_forever": 64,
+        "img_icon_url": "1a978f7a3ba0e8328abf75e8d42f18fb3af6012d"
+      },
+      {
+        "appid": 397900,
+        "name": "Business Tour - Online Multiplayer Board Game",
+        "playtime_forever": 510,
+        "img_icon_url": "b6ce52a576e99f54c5d18f675540b9c3ee70ed47",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 403640,
+        "name": "Dishonored 2",
+        "playtime_forever": 2874,
+        "img_icon_url": "6d6bac950a234764a353c518607dcd01973f5b65",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 409710,
+        "name": "BioShock Remastered",
+        "playtime_forever": 841,
+        "img_icon_url": "eb72262cd3ccc3219dd76392be3b60a4b6cbfd38",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 409720,
+        "name": "BioShock 2 Remastered",
+        "playtime_forever": 0,
+        "img_icon_url": "97527a02b36f8ac4aba21005c2d953cc908a08e1",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          5
+        ]
+      },
+      {
+        "appid": 414530,
+        "name": "Skyforge",
+        "playtime_forever": 65,
+        "img_icon_url": "c2c3c736a773670b6a46ae0dccd5acc9fd6d1ecd",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 436150,
+        "name": "Governor of Poker 3",
+        "playtime_forever": 42,
+        "img_icon_url": "735ec92e0a6c35de6af1788021ec4bb9db02dd75",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 515960,
+        "name": "Martha Is Dead",
+        "playtime_forever": 496,
+        "img_icon_url": "d9e6613bd3edc1bfae7dd512cb5c599cb251d288",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          1,
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 534500,
+        "name": "Tiger Knight: Empire War",
+        "playtime_forever": 90,
+        "img_icon_url": "569f892f5d0c70adbc59efd2e63b98bab5da3ec5",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 542340,
+        "name": "Slingshot people",
+        "playtime_forever": 0,
+        "img_icon_url": "30a3880a1071cbe281ed65813e143925b2a60080",
+        "content_descriptorids": [
+          1,
+          5
+        ]
+      },
+      {
+        "appid": 550650,
+        "name": "Black Squad",
+        "playtime_forever": 783,
+        "img_icon_url": "213a736d8c5b75998b671de25e6621d1e7bc122a",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          1,
+          5
+        ]
+      },
+      {
+        "appid": 578080,
+        "name": "PUBG: BATTLEGROUNDS",
+        "playtime_forever": 6730,
+        "img_icon_url": "609f27278aa70697c13bf99f32c5a0248c381f9d",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 582500,
+        "name": "We Were Here",
+        "playtime_forever": 115,
+        "img_icon_url": "3b5dc17a063e558ef755b7bb6e7a3feeb771972f",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 705210,
+        "name": "Cube Racer",
+        "playtime_forever": 251,
+        "img_icon_url": "729bcef1b009c32e0c99b7418bac2e5873ae872f",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 728880,
+        "name": "Overcooked! 2",
+        "playtime_forever": 310,
+        "img_icon_url": "bac36f471109038ae0b40619de4109d475f86a54",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 883710,
+        "name": "Resident Evil 2",
+        "playtime_forever": 740,
+        "img_icon_url": "86ef2fdebeced746313994ccf2d7afb1f2887bf0",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 976730,
+        "name": "Halo: The Master Chief Collection",
+        "playtime_forever": 682,
+        "img_icon_url": "196a45d8df1981ff6b6b1872a38dc38f6c22875d",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 1088850,
+        "name": "Marvel's Guardians of the Galaxy",
+        "playtime_forever": 0,
+        "img_icon_url": "8aec558b5e9c3aa185869d438f78200a2d4bf885",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 1091500,
+        "name": "Cyberpunk 2077",
+        "playtime_forever": 783,
+        "img_icon_url": "42b9b33fa0f0d997beb299c6157592a8fe7d8f68",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          1,
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 1422450,
+        "name": "Deadlock",
+        "playtime_forever": 597,
+        "img_icon_url": "f6da1420a173324d49bcd470fa3eee781ad0fa5e"
+      },
+      {
+        "appid": 1426210,
+        "name": "It Takes Two",
+        "playtime_forever": 334,
+        "img_icon_url": "6b15f6d81c4fc52056f4928b363b7fac591a945b",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 1474700,
+        "name": "MONOPOLY Poker",
+        "playtime_forever": 21,
+        "img_icon_url": "1330949c2110d65a9393d68782d8871fca2329ac",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 1610440,
+        "name": "Minds Beneath Us",
+        "playtime_forever": 1383,
+        "img_icon_url": "b1de7c7fc8ea5a208f80ae9d2d1eedbfa29f4693",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 1625450,
+        "name": "Muck",
+        "playtime_forever": 89,
+        "img_icon_url": "a123e3d10527fbdf3fea7ea235e11b41da3754dc",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 1782210,
+        "name": "Crab Game",
+        "playtime_forever": 29,
+        "img_icon_url": "e1afdaf96f55771d1d5ea4c9692d0f707ab0110b",
+        "content_descriptorids": [
+          5
+        ]
+      },
+      {
+        "appid": 2106840,
+        "name": "PARANORMASIGHT: The Seven Mysteries of Honjo",
+        "playtime_forever": 170,
+        "img_icon_url": "f27d207c7456998c4e0f65320f2bd08fff2d5cd1",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 2637990,
+        "name": "Duck Detective: The Secret Salami",
+        "playtime_forever": 154,
+        "img_icon_url": "f84d21d80da084d2f00dea54187b2190187d8282",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 2714620,
+        "name": "Duck Detective: The Ghost of Glamping",
+        "playtime_forever": 100,
+        "img_icon_url": "2ba17e1f7b655d7829a298be4d10550fae8f1afd",
+        "has_community_visible_stats": true
+      }
+    ]
+  }
+}

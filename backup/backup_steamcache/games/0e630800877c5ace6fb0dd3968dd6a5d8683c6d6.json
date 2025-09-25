@@ -1,0 +1,42 @@
+{
+  "response": {
+    "total_count": 5,
+    "games": [
+      {
+        "appid": 1285190,
+        "name": "Borderlands® 4",
+        "playtime_2weeks": 3021,
+        "playtime_forever": 3021,
+        "img_icon_url": "9a7ba760c036bb0a73310dc9731d7a84a329b921"
+      },
+      {
+        "appid": 1172470,
+        "name": "Apex Legends",
+        "playtime_2weeks": 302,
+        "playtime_forever": 13309,
+        "img_icon_url": "6cc35932af780289ae3d8d5cdbfe9cd545decad2"
+      },
+      {
+        "appid": 1190000,
+        "name": "Car Mechanic Simulator 2021",
+        "playtime_2weeks": 185,
+        "playtime_forever": 1840,
+        "img_icon_url": "b8a1a49beda2a70e57c2c1b72d5c531a638fd0f8"
+      },
+      {
+        "appid": 3354750,
+        "name": "skate.",
+        "playtime_2weeks": 184,
+        "playtime_forever": 184,
+        "img_icon_url": "741cefdfeabf38b28288dab2cdbcf848995b85cb"
+      },
+      {
+        "appid": 228380,
+        "name": "Wreckfest",
+        "playtime_2weeks": 106,
+        "playtime_forever": 1079,
+        "img_icon_url": "2c93b44a991870cff51b8f77096969201771d2e9"
+      }
+    ]
+  }
+}

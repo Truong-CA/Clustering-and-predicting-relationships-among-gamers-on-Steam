@@ -1,0 +1,35 @@
+{
+  "response": {
+    "total_count": 4,
+    "games": [
+      {
+        "appid": 730,
+        "name": "Counter-Strike 2",
+        "playtime_2weeks": 286,
+        "playtime_forever": 297560,
+        "img_icon_url": "8dbc71957312bbd3baea65848b545be9eae2a355"
+      },
+      {
+        "appid": 578080,
+        "name": "PUBG: BATTLEGROUNDS",
+        "playtime_2weeks": 150,
+        "playtime_forever": 394512,
+        "img_icon_url": "609f27278aa70697c13bf99f32c5a0248c381f9d"
+      },
+      {
+        "appid": 2139460,
+        "name": "Once Human",
+        "playtime_2weeks": 3,
+        "playtime_forever": 153,
+        "img_icon_url": "e1c29227c162232120c15edcf282df61ee35f091"
+      },
+      {
+        "appid": 431960,
+        "name": "Wallpaper Engine",
+        "playtime_2weeks": 1,
+        "playtime_forever": 278,
+        "img_icon_url": "72edaed9d748c6cf7397ffb1c83f0b837b9ebd9d"
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "response": {
+    "total_count": 3,
+    "games": [
+      {
+        "appid": 730,
+        "name": "Counter-Strike 2",
+        "playtime_2weeks": 809,
+        "playtime_forever": 116508,
+        "img_icon_url": "8dbc71957312bbd3baea65848b545be9eae2a355"
+      },
+      {
+        "appid": 397900,
+        "name": "Business Tour - Online Multiplayer Board Game",
+        "playtime_2weeks": 201,
+        "playtime_forever": 2026,
+        "img_icon_url": "b6ce52a576e99f54c5d18f675540b9c3ee70ed47"
+      },
+      {
+        "appid": 291550,
+        "name": "Brawlhalla",
+        "playtime_2weeks": 8,
+        "playtime_forever": 591,
+        "img_icon_url": "c43fac31b8bf8821764603a14d09412bc3d45f66"
+      }
+    ]
+  }
+}

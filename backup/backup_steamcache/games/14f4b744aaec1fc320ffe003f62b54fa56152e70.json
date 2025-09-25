@@ -1,0 +1,49 @@
+{
+  "response": {
+    "total_count": 6,
+    "games": [
+      {
+        "appid": 730,
+        "name": "Counter-Strike 2",
+        "playtime_2weeks": 2128,
+        "playtime_forever": 355751,
+        "img_icon_url": "8dbc71957312bbd3baea65848b545be9eae2a355"
+      },
+      {
+        "appid": 1941540,
+        "name": "Mafia: The Old Country",
+        "playtime_2weeks": 1257,
+        "playtime_forever": 1257,
+        "img_icon_url": "4afa63381aebb28b832279ac0679d258b86e9cec"
+      },
+      {
+        "appid": 1978590,
+        "name": "Anger Foot",
+        "playtime_2weeks": 144,
+        "playtime_forever": 144,
+        "img_icon_url": "8c136ff3ea578e5956951536ed289dac61eda43c"
+      },
+      {
+        "appid": 1262540,
+        "name": "Need for Speed™",
+        "playtime_2weeks": 48,
+        "playtime_forever": 48,
+        "img_icon_url": "aba036f7d667799de0bbfd7df9e51613928c9dfc"
+      },
+      {
+        "appid": 476600,
+        "name": "Call of Duty: WWII",
+        "playtime_2weeks": 46,
+        "playtime_forever": 559,
+        "img_icon_url": "9cc56555b04419785037d36362b71e2854daa69c"
+      },
+      {
+        "appid": 3017860,
+        "name": "DOOM: The Dark Ages",
+        "playtime_2weeks": 1,
+        "playtime_forever": 2455,
+        "img_icon_url": "f0d79db78568f80f3532151fed5d9633191d0ebe"
+      }
+    ]
+  }
+}

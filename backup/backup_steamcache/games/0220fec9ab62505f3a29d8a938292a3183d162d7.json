@@ -1,0 +1,28 @@
+{
+  "response": {
+    "total_count": 3,
+    "games": [
+      {
+        "appid": 3008130,
+        "name": "Dying Light: The Beast",
+        "playtime_2weeks": 365,
+        "playtime_forever": 365,
+        "img_icon_url": "48a57f9344332b2c9c16c3590a14af7b39abd8eb"
+      },
+      {
+        "appid": 2085540,
+        "name": "Stick It to the Stickman",
+        "playtime_2weeks": 48,
+        "playtime_forever": 48,
+        "img_icon_url": "a96a7943cf7f3922988918d2cceea6cf7eb2d415"
+      },
+      {
+        "appid": 431960,
+        "name": "Wallpaper Engine",
+        "playtime_2weeks": 3,
+        "playtime_forever": 85,
+        "img_icon_url": "72edaed9d748c6cf7397ffb1c83f0b837b9ebd9d"
+      }
+    ]
+  }
+}

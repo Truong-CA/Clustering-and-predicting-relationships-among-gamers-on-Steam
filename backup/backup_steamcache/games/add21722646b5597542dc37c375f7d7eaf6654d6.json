@@ -1,0 +1,28 @@
+{
+  "response": {
+    "total_count": 3,
+    "games": [
+      {
+        "appid": 363970,
+        "name": "Clicker Heroes",
+        "playtime_2weeks": 12128,
+        "playtime_forever": 30496,
+        "img_icon_url": "155ed2de95eacc3353b91c2a057bdbf727c11c20"
+      },
+      {
+        "appid": 730,
+        "name": "Counter-Strike 2",
+        "playtime_2weeks": 2175,
+        "playtime_forever": 362509,
+        "img_icon_url": "8dbc71957312bbd3baea65848b545be9eae2a355"
+      },
+      {
+        "appid": 2073850,
+        "name": "THE FINALS",
+        "playtime_2weeks": 378,
+        "playtime_forever": 2782,
+        "img_icon_url": "9532db560dca3b4982f4af3f5981b6b2ce2a6909"
+      }
+    ]
+  }
+}

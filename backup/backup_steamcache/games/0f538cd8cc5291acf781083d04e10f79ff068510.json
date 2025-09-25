@@ -1,0 +1,28 @@
+{
+  "response": {
+    "total_count": 3,
+    "games": [
+      {
+        "appid": 271590,
+        "name": "Grand Theft Auto V Legacy",
+        "playtime_2weeks": 28,
+        "playtime_forever": 71351,
+        "img_icon_url": "1e72f87eb927fa1485e68aefaff23c7fd7178251"
+      },
+      {
+        "appid": 3240220,
+        "name": "Grand Theft Auto V Enhanced",
+        "playtime_2weeks": 17,
+        "playtime_forever": 43,
+        "img_icon_url": "8355a7bbdb704f727bfba80ec56bc7228991338e"
+      },
+      {
+        "appid": 261550,
+        "name": "Mount & Blade II: Bannerlord",
+        "playtime_2weeks": 1,
+        "playtime_forever": 7910,
+        "img_icon_url": "896d5f4214e4e185a20af51b46d9dea2e6f4aaad"
+      }
+    ]
+  }
+}

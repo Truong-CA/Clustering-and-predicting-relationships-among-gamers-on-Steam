@@ -1,0 +1,28 @@
+{
+  "response": {
+    "total_count": 3,
+    "games": [
+      {
+        "appid": 553850,
+        "name": "HELLDIVERS™ 2",
+        "playtime_2weeks": 1163,
+        "playtime_forever": 16316,
+        "img_icon_url": "c3dff088e090f81d6e3d88eabbb67732647c69cf"
+      },
+      {
+        "appid": 2444750,
+        "name": "Shape of Dreams",
+        "playtime_2weeks": 182,
+        "playtime_forever": 182,
+        "img_icon_url": "d3ce738e87bae5369f078abed5cac1b5a50c21ad"
+      },
+      {
+        "appid": 3224770,
+        "name": "Umamusume: Pretty Derby",
+        "playtime_2weeks": 3,
+        "playtime_forever": 5649,
+        "img_icon_url": "67a3e76c151bb0fe82c707c32c83f4d518a73a85"
+      }
+    ]
+  }
+}

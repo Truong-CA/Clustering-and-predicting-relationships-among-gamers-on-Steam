@@ -1,0 +1,28 @@
+{
+  "response": {
+    "total_count": 3,
+    "games": [
+      {
+        "appid": 2622380,
+        "name": "ELDEN RING NIGHTREIGN",
+        "playtime_2weeks": 704,
+        "playtime_forever": 4699,
+        "img_icon_url": "c59f3732d379c9667450b174353d69d5bcea95a5"
+      },
+      {
+        "appid": 105600,
+        "name": "Terraria",
+        "playtime_2weeks": 185,
+        "playtime_forever": 185,
+        "img_icon_url": "858961e95fbf869f136e1770d586e0caefd4cfac"
+      },
+      {
+        "appid": 2444750,
+        "name": "Shape of Dreams",
+        "playtime_2weeks": 62,
+        "playtime_forever": 62,
+        "img_icon_url": "d3ce738e87bae5369f078abed5cac1b5a50c21ad"
+      }
+    ]
+  }
+}

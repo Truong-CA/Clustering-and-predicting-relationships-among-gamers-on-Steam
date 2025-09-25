@@ -1,0 +1,28 @@
+{
+  "response": {
+    "total_count": 3,
+    "games": [
+      {
+        "appid": 730,
+        "name": "Counter-Strike 2",
+        "playtime_2weeks": 6229,
+        "playtime_forever": 875518,
+        "img_icon_url": "8dbc71957312bbd3baea65848b545be9eae2a355"
+      },
+      {
+        "appid": 240,
+        "name": "Counter-Strike: Source",
+        "playtime_2weeks": 6029,
+        "playtime_forever": 105483,
+        "img_icon_url": "9052fa60c496a1c03383b27687ec50f4bf0f0e10"
+      },
+      {
+        "appid": 10,
+        "name": "Counter-Strike",
+        "playtime_2weeks": 6029,
+        "playtime_forever": 65141,
+        "img_icon_url": "6b0312cda02f5f777efa2f3318c307ff9acafbb5"
+      }
+    ]
+  }
+}

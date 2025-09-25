@@ -1,0 +1,49 @@
+{
+  "response": {
+    "total_count": 6,
+    "games": [
+      {
+        "appid": 1623730,
+        "name": "Palworld",
+        "playtime_2weeks": 5040,
+        "playtime_forever": 29257,
+        "img_icon_url": "f5523077a8f4c923c2e8d8c17794b3319035fa73"
+      },
+      {
+        "appid": 1028860,
+        "name": "Star Chef: Cooking & Restaurant Game",
+        "playtime_2weeks": 2777,
+        "playtime_forever": 35596,
+        "img_icon_url": "4c8c7498838b42eb0496931cc64e895a42d336d0"
+      },
+      {
+        "appid": 578080,
+        "name": "PUBG: BATTLEGROUNDS",
+        "playtime_2weeks": 566,
+        "playtime_forever": 158344,
+        "img_icon_url": "609f27278aa70697c13bf99f32c5a0248c381f9d"
+      },
+      {
+        "appid": 728880,
+        "name": "Overcooked! 2",
+        "playtime_2weeks": 124,
+        "playtime_forever": 226,
+        "img_icon_url": "bac36f471109038ae0b40619de4109d475f86a54"
+      },
+      {
+        "appid": 397900,
+        "name": "Business Tour - Online Multiplayer Board Game",
+        "playtime_2weeks": 111,
+        "playtime_forever": 3967,
+        "img_icon_url": "b6ce52a576e99f54c5d18f675540b9c3ee70ed47"
+      },
+      {
+        "appid": 705210,
+        "name": "Cube Racer",
+        "playtime_2weeks": 60,
+        "playtime_forever": 46067,
+        "img_icon_url": "729bcef1b009c32e0c99b7418bac2e5873ae872f"
+      }
+    ]
+  }
+}

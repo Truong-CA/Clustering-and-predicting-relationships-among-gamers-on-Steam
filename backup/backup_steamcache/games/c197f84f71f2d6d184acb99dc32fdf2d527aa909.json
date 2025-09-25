@@ -1,0 +1,21 @@
+{
+  "response": {
+    "total_count": 2,
+    "games": [
+      {
+        "appid": 570,
+        "name": "Dota 2",
+        "playtime_2weeks": 2144,
+        "playtime_forever": 641137,
+        "img_icon_url": "0bbb630d63262dd66d2fdd0f7d37e8661a410075"
+      },
+      {
+        "appid": 440,
+        "name": "Team Fortress 2",
+        "playtime_2weeks": 3,
+        "playtime_forever": 25,
+        "img_icon_url": "f568912870a4684f9ec76277a1a404dda6bab213"
+      }
+    ]
+  }
+}

@@ -1,0 +1,349 @@
+{
+  "response": {
+    "game_count": 40,
+    "games": [
+      {
+        "appid": 70,
+        "name": "Half-Life",
+        "playtime_forever": 0,
+        "img_icon_url": "95be6d131fc61f145797317ca437c9765f24b41c",
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 220,
+        "name": "Half-Life 2",
+        "playtime_forever": 0,
+        "img_icon_url": "fcfb366051782b8ebf2aa297f3b746395858cb62",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 320,
+        "name": "Half-Life 2: Deathmatch",
+        "playtime_forever": 0,
+        "img_icon_url": "795e85364189511f4990861b578084deef086cb1",
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 360,
+        "name": "Half-Life Deathmatch: Source",
+        "playtime_forever": 0,
+        "img_icon_url": "40b8a62efff5a9ab356e5c56f5c8b0532c8e1aa3",
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 550,
+        "name": "Left 4 Dead 2",
+        "playtime_forever": 0,
+        "img_icon_url": "7d5a243f9500d2f8467312822f8af2a2928777ed",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 730,
+        "name": "Counter-Strike 2",
+        "playtime_forever": 0,
+        "img_icon_url": "8dbc71957312bbd3baea65848b545be9eae2a355",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 1250,
+        "name": "Killing Floor",
+        "playtime_forever": 0,
+        "img_icon_url": "d8a2d777cb4c59cf06aa244166db232336520547",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 16730,
+        "name": "Legendary",
+        "playtime_forever": 0,
+        "img_icon_url": "aa7c97df92136f377b52790486350f626d981fe4"
+      },
+      {
+        "appid": 33180,
+        "name": "Zombie Shooter 2",
+        "playtime_forever": 0,
+        "img_icon_url": "61fc5d2b3929e440fda3eb79da0912b59ab60737",
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 35420,
+        "name": "Killing Floor Mod: Defence Alliance 2",
+        "playtime_forever": 0,
+        "img_icon_url": "ae7580a60cf77b754c723c72d5e31d530fbe7804",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 35450,
+        "name": "Rising Storm/Red Orchestra 2 Multiplayer",
+        "playtime_forever": 0,
+        "img_icon_url": "d70423dddb3bb2a144e38ab9cc811e6fda1eb622",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 43160,
+        "name": "Metro: Last Light Complete Edition",
+        "playtime_forever": 0,
+        "img_icon_url": "7b84b80d2cebe41ba87c59b28e2473d3b33e797d",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 44350,
+        "name": "GRID 2",
+        "playtime_forever": 0,
+        "img_icon_url": "78dfd2533e0ee4cdf981cf13fbdea9596f1ed433",
+        "has_community_visible_stats": true,
+        "has_leaderboards": true
+      },
+      {
+        "appid": 67370,
+        "name": "The Darkness II",
+        "playtime_forever": 0,
+        "img_icon_url": "6ca6291fe216a8cc5c56f01b1e7f83e396a8fa81",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 204360,
+        "name": "Castle Crashers",
+        "playtime_forever": 0,
+        "img_icon_url": "9b7625f9b70f103397fd0416fd92abb583db8659",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 204880,
+        "name": "Sins of a Solar Empire: Rebellion",
+        "playtime_forever": 0,
+        "img_icon_url": "31832cdd443b665a8ae599f76761411f3d939b98",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 207610,
+        "name": "The Walking Dead",
+        "playtime_forever": 0,
+        "img_icon_url": "87a13ae0a2a76488792924aa8bb0dd8a7760f931",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 218620,
+        "name": "PAYDAY 2",
+        "playtime_forever": 0,
+        "img_icon_url": "a6abc0d0c1e79c0b5b0f5c8ab81ce9076a542414",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 238320,
+        "name": "Outlast",
+        "playtime_forever": 0,
+        "img_icon_url": "46bd3df92d4693d3b2af113bf8f31c2cbdadb20a",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          1,
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 264300,
+        "name": "Guns'N'Zombies",
+        "playtime_forever": 0,
+        "img_icon_url": "3a8dc56bee10bc7b742488d1d63c11e18e0c9bd4",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 266310,
+        "name": "GameGuru Classic",
+        "playtime_forever": 0,
+        "img_icon_url": "07c5b9b14641c60336cb89f05531f077dea2936a"
+      },
+      {
+        "appid": 282070,
+        "name": "This War of Mine",
+        "playtime_forever": 0,
+        "img_icon_url": "38ad6fd10e2b89ab24e8013584ece7961bebe086",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          5
+        ]
+      },
+      {
+        "appid": 292910,
+        "name": "Deponia: The Complete Journey",
+        "playtime_forever": 0,
+        "img_icon_url": "98e31755e9695af7d427411d55100ce834f1f102",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 305050,
+        "name": "Outland",
+        "playtime_forever": 0,
+        "img_icon_url": "bdfa511693bd167835fb1d32331f0a579dcdb9a5",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 322330,
+        "name": "Don't Starve Together",
+        "playtime_forever": 0,
+        "img_icon_url": "a80aa6cff8eebc1cbc18c367d9ab063e1553b0ee"
+      },
+      {
+        "appid": 335700,
+        "name": "I am weapon: Revival",
+        "playtime_forever": 0,
+        "img_icon_url": "eba24eb446d1f74bf3c72c14f2221db5a4967ab2",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 343710,
+        "name": "KHOLAT",
+        "playtime_forever": 0,
+        "img_icon_url": "77c0fe5a1f94460962d547716a1391bb0ad8264e",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 418670,
+        "name": "Pankapu",
+        "playtime_forever": 0,
+        "img_icon_url": "646b618afcddf400428cb3e77034be3eb1bbbf80",
+        "has_community_visible_stats": true,
+        "has_leaderboards": true
+      },
+      {
+        "appid": 440900,
+        "name": "Conan Exiles",
+        "playtime_forever": 0,
+        "img_icon_url": "399859f8bdaeef066f14029d5f1910960545fbd9",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          1,
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 447940,
+        "name": "Brine",
+        "playtime_forever": 0,
+        "img_icon_url": "209e241f7551770a005f12e4065c767da79fda9e"
+      },
+      {
+        "appid": 475150,
+        "name": "Titan Quest Anniversary Edition",
+        "playtime_forever": 0,
+        "img_icon_url": "be3384e7936f548303c77ee2abc4c9026285f554",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 489520,
+        "name": "Minion Masters",
+        "playtime_forever": 0,
+        "img_icon_url": "ad87d123224d786a413a6021ddaf9257e26c0a28",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 544610,
+        "name": "Battlestar Galactica Deadlock",
+        "playtime_forever": 0,
+        "img_icon_url": "9f04e46ee137eac4bcd300c566c91c858abb3c55",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 582660,
+        "name": "Black Desert",
+        "playtime_forever": 0,
+        "img_icon_url": "bf5ccace0a692720984827bf042143d0d4b28a42",
+        "content_descriptorids": [
+          1,
+          5
+        ]
+      },
+      {
+        "appid": 774171,
+        "name": "Muse Dash",
+        "playtime_forever": 0,
+        "img_icon_url": "116c4098769bb51aed2d654f2943771b68c29afa",
+        "has_community_visible_stats": true,
+        "has_leaderboards": true,
+        "content_descriptorids": [
+          1,
+          5
+        ]
+      },
+      {
+        "appid": 931180,
+        "name": "Conan Exiles - Public Beta Client",
+        "playtime_forever": 0,
+        "img_icon_url": "67a32c9bdd0738df619162c70bdebfe8a735abec"
+      },
+      {
+        "appid": 1025440,
+        "name": "Fantasy General II",
+        "playtime_forever": 0,
+        "img_icon_url": "bd5ca49b57cdf52990701a4ca22036b0e1fdbbf5",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 1368870,
+        "name": "Field of Glory II: Medieval",
+        "playtime_forever": 0,
+        "img_icon_url": "3227ee83711ae4e2f24c62be289b9c35f43b5f18",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 1468810,
+        "name": "鬼谷八荒 Tale of Immortal",
+        "playtime_forever": 0,
+        "img_icon_url": "51a531645724df6f419ce89c1d8c34b2b2355428",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 1621690,
+        "name": "Core Keeper",
+        "playtime_forever": 0,
+        "img_icon_url": "53517a1b2eb22e22ac4a1f71c814209f1b84c063",
+        "has_community_visible_stats": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "response": {
+    "total_count": 2,
+    "games": [
+      {
+        "appid": 1922560,
+        "name": "Plants vs. Zombies™ Garden Warfare 2: Deluxe Edition",
+        "playtime_2weeks": 132,
+        "playtime_forever": 34455,
+        "img_icon_url": "fc6f1e8686ad5b42e270ea1ce592e30b5f77ef25"
+      },
+      {
+        "appid": 1517290,
+        "name": "Battlefield™ 2042",
+        "playtime_2weeks": 45,
+        "playtime_forever": 38044,
+        "img_icon_url": "dc805cd05c36a1b26f4eb57b64301e6708e20776"
+      }
+    ]
+  }
+}

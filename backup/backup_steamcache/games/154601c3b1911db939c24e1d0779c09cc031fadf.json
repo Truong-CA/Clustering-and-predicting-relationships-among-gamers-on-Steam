@@ -1,0 +1,35 @@
+{
+  "response": {
+    "total_count": 4,
+    "games": [
+      {
+        "appid": 1086940,
+        "name": "Baldur's Gate 3",
+        "playtime_2weeks": 770,
+        "playtime_forever": 19304,
+        "img_icon_url": "d866cae7ea1e471fdbc206287111f1b642373bd9"
+      },
+      {
+        "appid": 3115220,
+        "name": "Town To City",
+        "playtime_2weeks": 574,
+        "playtime_forever": 574,
+        "img_icon_url": "befb8188ed67e6fb4bf083ab4cb395054445bc47"
+      },
+      {
+        "appid": 2767030,
+        "name": "Marvel Rivals",
+        "playtime_2weeks": 513,
+        "playtime_forever": 8206,
+        "img_icon_url": "839b4712925b95702ca56e0c4d399adf54f4d617"
+      },
+      {
+        "appid": 3035570,
+        "name": "Assassin's Creed Mirage",
+        "playtime_2weeks": 6,
+        "playtime_forever": 292,
+        "img_icon_url": "e5d6098ec84423be04e5d8a4fac2784b392dae86"
+      }
+    ]
+  }
+}

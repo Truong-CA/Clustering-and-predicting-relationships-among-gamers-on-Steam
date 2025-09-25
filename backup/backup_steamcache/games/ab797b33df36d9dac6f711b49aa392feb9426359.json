@@ -1,0 +1,35 @@
+{
+  "response": {
+    "total_count": 4,
+    "games": [
+      {
+        "appid": 3419430,
+        "name": "Bongo Cat",
+        "playtime_2weeks": 11012,
+        "playtime_forever": 110747,
+        "img_icon_url": "b25d4b846c745bdf809f5657af00298e0ae62465"
+      },
+      {
+        "appid": 1030300,
+        "name": "Hollow Knight: Silksong",
+        "playtime_2weeks": 547,
+        "playtime_forever": 726,
+        "img_icon_url": "b4a999c1302e3ac123c041fd41bb8a34528c6ab5"
+      },
+      {
+        "appid": 3008130,
+        "name": "Dying Light: The Beast",
+        "playtime_2weeks": 295,
+        "playtime_forever": 295,
+        "img_icon_url": "48a57f9344332b2c9c16c3590a14af7b39abd8eb"
+      },
+      {
+        "appid": 2088760,
+        "name": "Little Nightmares III - Demo",
+        "playtime_2weeks": 55,
+        "playtime_forever": 55,
+        "img_icon_url": "d44c75c7a8fcfcec222762e1a8155e0b43e6eec0"
+      }
+    ]
+  }
+}

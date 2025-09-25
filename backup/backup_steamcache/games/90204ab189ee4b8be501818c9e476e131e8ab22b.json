@@ -1,0 +1,268 @@
+{
+  "response": {
+    "game_count": 31,
+    "games": [
+      {
+        "appid": 10,
+        "name": "Counter-Strike",
+        "playtime_forever": 106,
+        "img_icon_url": "6b0312cda02f5f777efa2f3318c307ff9acafbb5",
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 80,
+        "name": "Counter-Strike: Condition Zero",
+        "playtime_forever": 22,
+        "img_icon_url": "077b050ef3e89cd84e2c5a575d78d53b54058236",
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 100,
+        "name": "Counter-Strike: Condition Zero Deleted Scenes",
+        "playtime_forever": 20,
+        "img_icon_url": "077b050ef3e89cd84e2c5a575d78d53b54058236"
+      },
+      {
+        "appid": 240,
+        "name": "Counter-Strike: Source",
+        "playtime_forever": 67,
+        "img_icon_url": "9052fa60c496a1c03383b27687ec50f4bf0f0e10",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 440,
+        "name": "Team Fortress 2",
+        "playtime_forever": 47,
+        "img_icon_url": "f568912870a4684f9ec76277a1a404dda6bab213",
+        "has_community_visible_stats": true,
+        "has_leaderboards": true
+      },
+      {
+        "appid": 570,
+        "name": "Dota 2",
+        "playtime_2weeks": 296,
+        "playtime_forever": 521758,
+        "img_icon_url": "0bbb630d63262dd66d2fdd0f7d37e8661a410075",
+        "content_descriptorids": [
+          5
+        ]
+      },
+      {
+        "appid": 730,
+        "name": "Counter-Strike 2",
+        "playtime_2weeks": 295,
+        "playtime_forever": 215344,
+        "img_icon_url": "8dbc71957312bbd3baea65848b545be9eae2a355",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 27920,
+        "name": "Booster Trooper",
+        "playtime_forever": 0,
+        "img_icon_url": "269d10df5f00ae0b4c55d7785a8be20b5abe4b44",
+        "has_community_visible_stats": true,
+        "has_leaderboards": true
+      },
+      {
+        "appid": 202970,
+        "name": "Call of Duty: Black Ops II",
+        "playtime_forever": 0,
+        "img_icon_url": "0a23d78ade8c8d7b4cfa15bf71c9dd535b2998ca",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 202990,
+        "name": "Call of Duty: Black Ops II - Multiplayer",
+        "playtime_forever": 0,
+        "img_icon_url": "1f3a69123b4c7e47904dcd0c55e48c5522e30284",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 212910,
+        "name": "Call of Duty: Black Ops II - Zombies",
+        "playtime_forever": 0,
+        "img_icon_url": "abbc45872375bcf8ac6b67cae6ed9ddb6c75d350",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 271590,
+        "name": "Grand Theft Auto V Legacy",
+        "playtime_forever": 0,
+        "img_icon_url": "1e72f87eb927fa1485e68aefaff23c7fd7178251",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          5
+        ]
+      },
+      {
+        "appid": 357070,
+        "name": "UBERMOSH",
+        "playtime_forever": 0,
+        "img_icon_url": "e8cd0580affd04d1da681da369fb0d5f927dae8d",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 359550,
+        "name": "Tom Clancy's Rainbow Six® Siege X",
+        "playtime_forever": 0,
+        "img_icon_url": "624745d333ac54aedb1ee911013e2edb7722550e",
+        "content_descriptorids": [
+          5
+        ]
+      },
+      {
+        "appid": 377160,
+        "name": "Fallout 4",
+        "playtime_forever": 0,
+        "img_icon_url": "779c4356ebe32af2af7c9f0bbba595dfe872cd7f",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 379430,
+        "name": "Kingdom Come: Deliverance",
+        "playtime_forever": 0,
+        "img_icon_url": "915ec515c36645855abed0476b5b0891d8a4e47a",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          1,
+          5
+        ]
+      },
+      {
+        "appid": 391460,
+        "name": "WARMODE",
+        "playtime_forever": 42,
+        "img_icon_url": "e42a4a7627c4806f29d40e4564d3b20092e16b2a"
+      },
+      {
+        "appid": 394360,
+        "name": "Hearts of Iron IV",
+        "playtime_forever": 0,
+        "img_icon_url": "67b15e2336311b4b4f1eb5c802af0c0dbe644195",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 509220,
+        "name": "Save Jesus",
+        "playtime_forever": 0,
+        "img_icon_url": "7dc91530174e9a42e988f732e6da02b551a3488e",
+        "has_community_visible_stats": true,
+        "has_leaderboards": true
+      },
+      {
+        "appid": 578080,
+        "name": "PUBG: BATTLEGROUNDS",
+        "playtime_forever": 41767,
+        "img_icon_url": "609f27278aa70697c13bf99f32c5a0248c381f9d",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 618140,
+        "name": "Barro",
+        "playtime_forever": 0,
+        "img_icon_url": "d096b0cbb1a0121d28d6224f4ae32816cd53eb29",
+        "has_community_visible_stats": true,
+        "has_leaderboards": true
+      },
+      {
+        "appid": 623990,
+        "name": "Tom Clancy's Rainbow Six Siege - Test Server",
+        "playtime_forever": 0,
+        "img_icon_url": "20deaf466474f76f2ffdb345fe56f40fe3af74c0"
+      },
+      {
+        "appid": 648800,
+        "name": "Raft",
+        "playtime_forever": 0,
+        "img_icon_url": "6a9ae357c4133b1b631b520edd25b1974f3afb68",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 678950,
+        "name": "DRAGON BALL FighterZ",
+        "playtime_forever": 18,
+        "img_icon_url": "ebac40c0f7452dcafd40d0fb0ad52c2ae10639f5",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 749990,
+        "name": "Trigonometry",
+        "playtime_forever": 0,
+        "img_icon_url": "35966ba255c151833d4560a8323113627196b5fa",
+        "has_community_visible_stats": true,
+        "has_leaderboards": true
+      },
+      {
+        "appid": 779340,
+        "name": "Total War: THREE KINGDOMS",
+        "playtime_forever": 9666,
+        "img_icon_url": "12eb7d5a469812b3dd13d04165cff053f477914d",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 979560,
+        "name": "RainWallpaper",
+        "playtime_forever": 644,
+        "img_icon_url": "dcbd919bf56424c81d5b3aa11dbac0420c29d695"
+      },
+      {
+        "appid": 1046930,
+        "name": "Dota Underlords",
+        "playtime_forever": 79,
+        "img_icon_url": "1f6f64144e8cc371c5382660e48998dfbe0a708e"
+      },
+      {
+        "appid": 1091500,
+        "name": "Cyberpunk 2077",
+        "playtime_forever": 0,
+        "img_icon_url": "42b9b33fa0f0d997beb299c6157592a8fe7d8f68",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          1,
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 2633500,
+        "name": "Dragon Throne: Battle of Red Cliffs",
+        "playtime_forever": 2056,
+        "img_icon_url": "8d60fb9bf3c50fe62113828be34f49d136aa70d4"
+      },
+      {
+        "appid": 3240220,
+        "name": "Grand Theft Auto V Enhanced",
+        "playtime_forever": 0,
+        "img_icon_url": "8355a7bbdb704f727bfba80ec56bc7228991338e",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          1,
+          2,
+          5
+        ]
+      }
+    ]
+  }
+}

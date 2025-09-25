@@ -1,0 +1,227 @@
+{
+  "response": {
+    "game_count": 28,
+    "games": [
+      {
+        "appid": 730,
+        "name": "Counter-Strike 2",
+        "playtime_forever": 0,
+        "img_icon_url": "8dbc71957312bbd3baea65848b545be9eae2a355",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 21690,
+        "name": "Resident Evil 5",
+        "playtime_forever": 0,
+        "img_icon_url": "26108f5caff3638c9f522dd79ee84a12761f373a",
+        "has_community_visible_stats": true,
+        "has_leaderboards": true
+      },
+      {
+        "appid": 91310,
+        "name": "Dead Island",
+        "playtime_forever": 0,
+        "img_icon_url": "1df9ab123c2180d8933038be7578a21e2442befb",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 202970,
+        "name": "Call of Duty: Black Ops II",
+        "playtime_forever": 0,
+        "img_icon_url": "0a23d78ade8c8d7b4cfa15bf71c9dd535b2998ca",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 202990,
+        "name": "Call of Duty: Black Ops II - Multiplayer",
+        "playtime_forever": 0,
+        "img_icon_url": "1f3a69123b4c7e47904dcd0c55e48c5522e30284",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 212910,
+        "name": "Call of Duty: Black Ops II - Zombies",
+        "playtime_forever": 0,
+        "img_icon_url": "abbc45872375bcf8ac6b67cae6ed9ddb6c75d350",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 233270,
+        "name": "Far Cry® 3 Blood Dragon",
+        "playtime_forever": 0,
+        "img_icon_url": "37ea239abeef5c5b2a90a2f821aaab745633972a",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          1,
+          5
+        ]
+      },
+      {
+        "appid": 238320,
+        "name": "Outlast",
+        "playtime_forever": 0,
+        "img_icon_url": "46bd3df92d4693d3b2af113bf8f31c2cbdadb20a",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          1,
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 273350,
+        "name": "Evolve Stage 2",
+        "playtime_forever": 0,
+        "img_icon_url": "6b9e205c389185a4b0e079a13090c751e47375d2"
+      },
+      {
+        "appid": 297020,
+        "name": "The Culling Of The Cows",
+        "playtime_forever": 0,
+        "img_icon_url": "b7903ebb375cc33c6e5ce3e64d3af5540e4973b3",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 304390,
+        "name": "For Honor",
+        "playtime_forever": 0,
+        "img_icon_url": "24ec1359d4c27b2aef9ad3fc59fdfa495789d6e6",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 304930,
+        "name": "Unturned",
+        "playtime_forever": 0,
+        "img_icon_url": "e18009fb628b35953826efe47dc3be556b689f4c",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 311210,
+        "name": "Call of Duty: Black Ops III",
+        "playtime_forever": 0,
+        "img_icon_url": "bd3e3a9516b480164df25d16e49ae4ce4a063cb4",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 346110,
+        "name": "ARK: Survival Evolved",
+        "playtime_forever": 0,
+        "img_icon_url": "fef1799533131c10f538d2dd697bbbd89e663265",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 354830,
+        "name": "Wolfenstein: The Old Blood German Edition",
+        "playtime_forever": 0,
+        "img_icon_url": "e45bc4d7a8233546c74f1cbba4e7d7a02bfc53a0",
+        "has_community_visible_stats": true,
+        "has_leaderboards": true
+      },
+      {
+        "appid": 381210,
+        "name": "Dead by Daylight",
+        "playtime_forever": 0,
+        "img_icon_url": "aa152097a700fd6f4707397ce41794ea30874790",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 407530,
+        "name": "ARK: Survival Of The Fittest",
+        "playtime_forever": 0,
+        "img_icon_url": "807c673cddebbfee0700a947a75f4872ad136e9b"
+      },
+      {
+        "appid": 412600,
+        "name": "Lup",
+        "playtime_forever": 0,
+        "img_icon_url": "c0fbf31d46d13464614480ef1a24f5c13842cb51"
+      },
+      {
+        "appid": 418070,
+        "name": "Turbo Pug",
+        "playtime_forever": 0,
+        "img_icon_url": "ac53f00d25ad44409a267d580e1243ca851af8fa"
+      },
+      {
+        "appid": 428950,
+        "name": "Kivi, Toilet and Shotgun",
+        "playtime_forever": 0,
+        "img_icon_url": "81a0ed0b073e532dd5a4dff10e837862d8cc001b"
+      },
+      {
+        "appid": 433850,
+        "name": "Z1 Battle Royale",
+        "playtime_forever": 0,
+        "img_icon_url": "aee7491abfd812e2fbb4ec3326ad5f4b85c8137a",
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 437220,
+        "name": "The Culling",
+        "playtime_forever": 0,
+        "img_icon_url": "68314798715c44705e5b69c9fd1199a60222effe",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 439700,
+        "name": "H1Z1: Test Server",
+        "playtime_forever": 0,
+        "img_icon_url": "d0e924622be8ce1e9920197f397365bb1e6bca5f"
+      },
+      {
+        "appid": 451880,
+        "name": "Catch a Falling Star",
+        "playtime_forever": 0,
+        "img_icon_url": "3bc87206d801b7bd84a691b75b57eaa379a7d777",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 454200,
+        "name": "Neon Hardcorps",
+        "playtime_forever": 0,
+        "img_icon_url": "08ed96f731c0fd0375acc5c705fb165d5959695b"
+      },
+      {
+        "appid": 469730,
+        "name": "Super Mega Neo Pug",
+        "playtime_forever": 0,
+        "img_icon_url": "8074e0975a38c9a6376b02af4d8fdb18eeaa509a"
+      },
+      {
+        "appid": 485570,
+        "name": "Milford Heaven - Luken's Chronicles",
+        "playtime_forever": 0,
+        "img_icon_url": "02f364db3387cec70646a52f3b47651ca120c2b5"
+      },
+      {
+        "appid": 654310,
+        "name": "For Honor - Public Test",
+        "playtime_forever": 0,
+        "img_icon_url": "64dd8eca34f0b5faeda135f057da1973806852f2"
+      }
+    ]
+  }
+}
