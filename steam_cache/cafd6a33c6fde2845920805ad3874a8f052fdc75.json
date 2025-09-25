@@ -1,0 +1,98 @@
+{
+  "response": {
+    "game_count": 10,
+    "games": [
+      {
+        "appid": 730,
+        "name": "Counter-Strike 2",
+        "playtime_forever": 0,
+        "img_icon_url": "8dbc71957312bbd3baea65848b545be9eae2a355",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 1250,
+        "name": "Killing Floor",
+        "playtime_forever": 0,
+        "img_icon_url": "d8a2d777cb4c59cf06aa244166db232336520547",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 35420,
+        "name": "Killing Floor Mod: Defence Alliance 2",
+        "playtime_forever": 0,
+        "img_icon_url": "ae7580a60cf77b754c723c72d5e31d530fbe7804",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 55100,
+        "name": "Homefront",
+        "playtime_forever": 0,
+        "img_icon_url": "52d4f669d6aa00c92406457d430ed5aa6a035c54",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 57300,
+        "name": "Amnesia: The Dark Descent",
+        "playtime_forever": 0,
+        "img_icon_url": "2c08de657a8b273eeb55bb5bf674605ca023e381",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          5
+        ]
+      },
+      {
+        "appid": 63380,
+        "name": "Sniper Elite V2",
+        "playtime_forever": 0,
+        "img_icon_url": "0092da2541424d4c1d10c1757dcb8104c37323ac",
+        "has_community_visible_stats": true,
+        "has_leaderboards": true
+      },
+      {
+        "appid": 203160,
+        "name": "Tomb Raider",
+        "playtime_forever": 0,
+        "img_icon_url": "3ee640a8aba6992678e36f4e40cba9c71c02348b",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 224420,
+        "name": "Afterfall InSanity Extended Edition",
+        "playtime_forever": 0,
+        "img_icon_url": "f934d7548341cb9973bccf40b590d49800c25fab",
+        "has_community_visible_stats": true,
+        "has_leaderboards": true
+      },
+      {
+        "appid": 582010,
+        "name": "Monster Hunter: World",
+        "playtime_forever": 0,
+        "img_icon_url": "6ec147f2d423f435e15eb79b3d82f771913de634",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 611500,
+        "name": "Quake Champions",
+        "playtime_forever": 0,
+        "img_icon_url": "539032fb1e8b41d0a48ff11bf63bfe7918ace24c",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      }
+    ]
+  }
+}

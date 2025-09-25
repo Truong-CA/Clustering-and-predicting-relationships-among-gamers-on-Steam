@@ -1,0 +1,28 @@
+{
+  "response": {
+    "total_count": 3,
+    "games": [
+      {
+        "appid": 1938090,
+        "name": "Call of Duty®",
+        "playtime_2weeks": 12,
+        "playtime_forever": 12,
+        "img_icon_url": "8eaf32220060344996cbf11f697a4f4be943e5f3"
+      },
+      {
+        "appid": 291550,
+        "name": "Brawlhalla",
+        "playtime_2weeks": 6,
+        "playtime_forever": 6,
+        "img_icon_url": "c43fac31b8bf8821764603a14d09412bc3d45f66"
+      },
+      {
+        "appid": 1203220,
+        "name": "NARAKA: BLADEPOINT",
+        "playtime_2weeks": 1,
+        "playtime_forever": 10340,
+        "img_icon_url": "8055e7baa81ce2084d7daa42233983967956abb0"
+      }
+    ]
+  }
+}

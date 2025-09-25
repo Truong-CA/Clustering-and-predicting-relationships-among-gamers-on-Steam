@@ -1,0 +1,21 @@
+{
+  "response": {
+    "total_count": 2,
+    "games": [
+      {
+        "appid": 271590,
+        "name": "Grand Theft Auto V Legacy",
+        "playtime_2weeks": 2503,
+        "playtime_forever": 14392,
+        "img_icon_url": "1e72f87eb927fa1485e68aefaff23c7fd7178251"
+      },
+      {
+        "appid": 493490,
+        "name": "City Car Driving",
+        "playtime_2weeks": 1,
+        "playtime_forever": 1985,
+        "img_icon_url": "4c1b4eee0e6fd92810d01106a2efec8a3f60d6c0"
+      }
+    ]
+  }
+}

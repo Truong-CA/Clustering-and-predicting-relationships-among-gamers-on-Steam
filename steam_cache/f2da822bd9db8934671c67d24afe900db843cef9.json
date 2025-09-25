@@ -1,0 +1,62 @@
+{
+  "response": {
+    "game_count": 7,
+    "games": [
+      {
+        "appid": 730,
+        "name": "Counter-Strike 2",
+        "playtime_2weeks": 6,
+        "playtime_forever": 77843,
+        "img_icon_url": "8dbc71957312bbd3baea65848b545be9eae2a355",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 397900,
+        "name": "Business Tour - Online Multiplayer Board Game",
+        "playtime_forever": 334,
+        "img_icon_url": "b6ce52a576e99f54c5d18f675540b9c3ee70ed47",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 444090,
+        "name": "Paladins",
+        "playtime_forever": 56,
+        "img_icon_url": "1565119c17f532338a0645b98e69e1fc1df0c29e",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 678950,
+        "name": "DRAGON BALL FighterZ",
+        "playtime_forever": 215,
+        "img_icon_url": "ebac40c0f7452dcafd40d0fb0ad52c2ae10639f5",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 1088150,
+        "name": "Scribble It!",
+        "playtime_forever": 57,
+        "img_icon_url": "a7a683dce57646a59a0fca326d0ceae5a74b8c2f",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 1131720,
+        "name": "Prop and Seek",
+        "playtime_forever": 107,
+        "img_icon_url": "c580682bdb70b0a9d5f4d5374f2e2fad8ca75438",
+        "has_community_visible_stats": true,
+        "has_leaderboards": true
+      },
+      {
+        "appid": 1474700,
+        "name": "MONOPOLY Poker",
+        "playtime_forever": 577,
+        "img_icon_url": "1330949c2110d65a9393d68782d8871fca2329ac",
+        "has_community_visible_stats": true
+      }
+    ]
+  }
+}

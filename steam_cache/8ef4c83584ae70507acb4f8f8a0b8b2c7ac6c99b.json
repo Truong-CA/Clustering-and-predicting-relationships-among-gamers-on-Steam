@@ -1,6 +1,6 @@
 {
   "response": {
-    "total_count": 2,
+    "total_count": 3,
     "games": [
       {
         "appid": 2694490,
@@ -15,6 +15,13 @@
         "playtime_2weeks": 140,
         "playtime_forever": 1322,
         "img_icon_url": "52bc6c4bf0c232cf30d66eb3d1638bf099bc6061"
+      },
+      {
+        "appid": 261550,
+        "name": "Mount & Blade II: Bannerlord",
+        "playtime_2weeks": 123,
+        "playtime_forever": 12334,
+        "img_icon_url": "896d5f4214e4e185a20af51b46d9dea2e6f4aaad"
       }
     ]
   }

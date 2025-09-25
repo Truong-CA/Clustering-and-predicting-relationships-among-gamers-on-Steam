@@ -1,0 +1,42 @@
+{
+  "response": {
+    "total_count": 5,
+    "games": [
+      {
+        "appid": 359550,
+        "name": "Tom Clancy's Rainbow Six® Siege X",
+        "playtime_2weeks": 3009,
+        "playtime_forever": 74956,
+        "img_icon_url": "624745d333ac54aedb1ee911013e2edb7722550e"
+      },
+      {
+        "appid": 553540,
+        "name": "Phantom Brigade",
+        "playtime_2weeks": 405,
+        "playtime_forever": 476,
+        "img_icon_url": "03b4eb921eb98c0820aa7eb9ff3c00deb8ada49c"
+      },
+      {
+        "appid": 377160,
+        "name": "Fallout 4",
+        "playtime_2weeks": 145,
+        "playtime_forever": 18444,
+        "img_icon_url": "779c4356ebe32af2af7c9f0bbba595dfe872cd7f"
+      },
+      {
+        "appid": 294100,
+        "name": "RimWorld",
+        "playtime_2weeks": 40,
+        "playtime_forever": 34345,
+        "img_icon_url": "addbe3b704b267060b4d5d7649cfb292de61bd70"
+      },
+      {
+        "appid": 3224770,
+        "name": "Umamusume: Pretty Derby",
+        "playtime_2weeks": 18,
+        "playtime_forever": 2724,
+        "img_icon_url": "67a3e76c151bb0fe82c707c32c83f4d518a73a85"
+      }
+    ]
+  }
+}

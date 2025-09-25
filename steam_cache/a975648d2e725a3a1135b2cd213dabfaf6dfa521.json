@@ -1,0 +1,28 @@
+{
+  "response": {
+    "total_count": 3,
+    "games": [
+      {
+        "appid": 381210,
+        "name": "Dead by Daylight",
+        "playtime_2weeks": 300,
+        "playtime_forever": 2467,
+        "img_icon_url": "aa152097a700fd6f4707397ce41794ea30874790"
+      },
+      {
+        "appid": 1903340,
+        "name": "Clair Obscur: Expedition 33",
+        "playtime_2weeks": 22,
+        "playtime_forever": 353,
+        "img_icon_url": "d48fb3ed033a08bad9bf0a2e1ceb145e58ffe0aa"
+      },
+      {
+        "appid": 594650,
+        "name": "Hunt: Showdown 1896",
+        "playtime_2weeks": 3,
+        "playtime_forever": 3752,
+        "img_icon_url": "06c70772db40f714537f4d80c11859a68560a6b3"
+      }
+    ]
+  }
+}

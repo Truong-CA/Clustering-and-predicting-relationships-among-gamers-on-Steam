@@ -1,0 +1,414 @@
+{
+  "response": {
+    "game_count": 50,
+    "games": [
+      {
+        "appid": 570,
+        "name": "Dota 2",
+        "playtime_forever": 138384,
+        "img_icon_url": "0bbb630d63262dd66d2fdd0f7d37e8661a410075",
+        "content_descriptorids": [
+          5
+        ]
+      },
+      {
+        "appid": 730,
+        "name": "Counter-Strike 2",
+        "playtime_forever": 317,
+        "img_icon_url": "8dbc71957312bbd3baea65848b545be9eae2a355",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 50300,
+        "name": "Spec Ops: The Line",
+        "playtime_forever": 31,
+        "img_icon_url": "55ae859a90d61c08f18ed3aa0ee2579169d2c2bf",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 55230,
+        "name": "Saints Row: The Third",
+        "playtime_forever": 995,
+        "img_icon_url": "ec83645f13643999e7c91da75d418053d6b56529",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          1,
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 203160,
+        "name": "Tomb Raider",
+        "playtime_forever": 186,
+        "img_icon_url": "3ee640a8aba6992678e36f4e40cba9c71c02348b",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 204300,
+        "name": "Awesomenauts",
+        "playtime_forever": 36,
+        "img_icon_url": "4996933171d0804bd0ceb7b9a0e224b3139d18ba",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 206420,
+        "name": "Saints Row IV",
+        "playtime_forever": 847,
+        "img_icon_url": "211c502e385781a17b4d02cad7a3ef53f09f1e91",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          5
+        ]
+      },
+      {
+        "appid": 226840,
+        "name": "Age of Wonders III",
+        "playtime_forever": 26,
+        "img_icon_url": "06f134e787a2dd9022c0e8514ab918f4530665a8",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 242700,
+        "name": "Injustice: Gods Among Us Ultimate Edition",
+        "playtime_forever": 26,
+        "img_icon_url": "4ea9f28360ca77b2ced5c8ac5545fcfc6ea8ef15",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 268500,
+        "name": "XCOM 2",
+        "playtime_forever": 3571,
+        "img_icon_url": "f275aeb0b1b947262810569356a199848c643754",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 282800,
+        "name": "100% Orange Juice",
+        "playtime_forever": 0,
+        "img_icon_url": "baaf4be38deeb8a631567ee6c651ca23b65c834a",
+        "has_community_visible_stats": true,
+        "has_leaderboards": true
+      },
+      {
+        "appid": 289130,
+        "name": "ENDLESS™ Legend",
+        "playtime_forever": 0,
+        "img_icon_url": "02277be6b9b09671b857948006316057974d7036",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 307690,
+        "name": "Sleeping Dogs: Definitive Edition",
+        "playtime_forever": 1330,
+        "img_icon_url": "8ef5e84ffbd9a4b3fb28d308073bccb415fc25ab",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 354640,
+        "name": "The Settlers Online",
+        "playtime_forever": 420,
+        "img_icon_url": "dc2c644adb3eaaa5a055a374f1af57cf58ef1d76"
+      },
+      {
+        "appid": 356190,
+        "name": "Middle-earth™: Shadow of War™",
+        "playtime_forever": 3289,
+        "img_icon_url": "316c479e5d51d21e15eb8f82338fce82c42c4115",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 368260,
+        "name": "Marvel's Midnight Suns",
+        "playtime_forever": 8391,
+        "img_icon_url": "67a641b993a2bfab72a2466b4ee7050c184b7dc5",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 373600,
+        "name": "Weapon of Choice",
+        "playtime_forever": 0,
+        "img_icon_url": "16928dc115d57b622669c96a4d666a47f3023e7a",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 442070,
+        "name": "Drawful 2",
+        "playtime_forever": 0,
+        "img_icon_url": "a2aab99a9ec657f817aff247593b3310cae44288",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 489520,
+        "name": "Minion Masters",
+        "playtime_forever": 1168,
+        "img_icon_url": "ad87d123224d786a413a6021ddaf9257e26c0a28",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 489630,
+        "name": "Warhammer 40,000: Gladius - Relics of War",
+        "playtime_forever": 4,
+        "img_icon_url": "ba6ea4fbeec62073763e103450e8aa7c5373d010",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 544730,
+        "name": "Catan Universe",
+        "playtime_forever": 32,
+        "img_icon_url": "8cd29d84f760481a824955e880ee5b86b7d2b4dc",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 544810,
+        "name": "KARDS - The WWII Card Game",
+        "playtime_forever": 74,
+        "img_icon_url": "a87cdfca39c1dd5eadfd919621e008c1bdbd705c"
+      },
+      {
+        "appid": 552500,
+        "name": "Warhammer: Vermintide 2",
+        "playtime_forever": 11,
+        "img_icon_url": "a671f2ddf7359beba9702ac097baf6d50cb07202",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 582660,
+        "name": "Black Desert",
+        "playtime_forever": 0,
+        "img_icon_url": "bf5ccace0a692720984827bf042143d0d4b28a42",
+        "content_descriptorids": [
+          1,
+          5
+        ]
+      },
+      {
+        "appid": 601510,
+        "name": "Yu-Gi-Oh! Duel Links",
+        "playtime_forever": 129,
+        "img_icon_url": "9ad05577afe1c49bc7fe5454a99b6a367e7a3233",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 616560,
+        "name": "Ultimate Epic Battle Simulator",
+        "playtime_forever": 0,
+        "img_icon_url": "808ec0919be68550c107fc513522633dc7656885",
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 671510,
+        "name": "Desolate",
+        "playtime_forever": 0,
+        "img_icon_url": "b52a4a88f4dd3978b47f9f7fdb8531f5a341716c",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 845070,
+        "name": "The Awesome Adventures of Captain Spirit",
+        "playtime_forever": 64,
+        "img_icon_url": "b0a58984e1e24531843f2bfe0b3d70135b0a8e57",
+        "content_descriptorids": [
+          5
+        ]
+      },
+      {
+        "appid": 882100,
+        "name": "XCOM: Chimera Squad",
+        "playtime_forever": 422,
+        "img_icon_url": "dd8ae1a236af5d4a833f41aab2fdad902f454c63",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          5
+        ]
+      },
+      {
+        "appid": 933110,
+        "name": "Age of Empires III: Definitive Edition",
+        "playtime_forever": 361,
+        "img_icon_url": "145e4d6278f545ea3300d777e2dc3c56ddbbcc5c",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 950100,
+        "name": "PRO EVOLUTION SOCCER 2019 LITE",
+        "playtime_forever": 1430,
+        "img_icon_url": "f7ce11b09b021a22a8d39f0fd9f81145df951941"
+      },
+      {
+        "appid": 990080,
+        "name": "Hogwarts Legacy",
+        "playtime_forever": 3139,
+        "img_icon_url": "a9ecb94f249768d0ee5ccecbffe8d8c06d9bed59",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 996470,
+        "name": "eFootball PES 2020",
+        "playtime_forever": 10463,
+        "img_icon_url": "0fba959dc0c76678c22910546818f705bb6fc6f5"
+      },
+      {
+        "appid": 1046930,
+        "name": "Dota Underlords",
+        "playtime_forever": 10301,
+        "img_icon_url": "1f6f64144e8cc371c5382660e48998dfbe0a708e"
+      },
+      {
+        "appid": 1085660,
+        "name": "Destiny 2",
+        "playtime_forever": 37,
+        "img_icon_url": "fce050d63f0a2f8eb51b603c7f30bfca2a301549",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 1180660,
+        "name": "Tell Me Why",
+        "playtime_forever": 0,
+        "img_icon_url": "6eb40e6f71226ce5bea75601a1ec0f9d6f647dd1",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          5
+        ]
+      },
+      {
+        "appid": 1259970,
+        "name": "eFootball PES 2021 SEASON UPDATE",
+        "playtime_forever": 110,
+        "img_icon_url": "75855d0516893e1dadab6d193bce97a45f765f43"
+      },
+      {
+        "appid": 1294660,
+        "name": "Divine Knockout (DKO)",
+        "playtime_forever": 0,
+        "img_icon_url": "2f2112d19f357a6bdaccafbdda5bd3ad82bb0d9f",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 1313860,
+        "name": "EA SPORTS™ FIFA 21 ",
+        "playtime_forever": 6089,
+        "img_icon_url": "6f8d384b395d64b39f6f0f6569a393fc856ce263",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 1367020,
+        "name": "Storybook Brawl",
+        "playtime_forever": 62994,
+        "img_icon_url": "6afeeb55c0b872b06265bbef698335b9bf12b1f9"
+      },
+      {
+        "appid": 1449850,
+        "name": "Yu-Gi-Oh!  Master Duel",
+        "playtime_forever": 192,
+        "img_icon_url": "2cd45ee5b6c31445216a980cf40fdb10a1587b7f",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 1506830,
+        "name": "FIFA 22",
+        "playtime_forever": 13744,
+        "img_icon_url": "97e6ad42ea46c285ba047e8e7fd0487688e9d4c1",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 1549250,
+        "name": "Undecember",
+        "playtime_forever": 65,
+        "img_icon_url": "6c11f10e6f438fde8e7ca4c51447be720e200a83",
+        "content_descriptorids": [
+          1,
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 1599340,
+        "name": "Lost Ark",
+        "playtime_forever": 58,
+        "img_icon_url": "4e4ef2862189e1f1d3052125fb1ed6cb42bcaaf8",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          1,
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 1611910,
+        "name": "Warhammer 40,000: Chaos Gate - Daemonhunters",
+        "playtime_forever": 2270,
+        "img_icon_url": "6495e5b6550e114ffff75c39226f3680211b32ce",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 1665460,
+        "name": "eFootball™",
+        "playtime_forever": 12218,
+        "img_icon_url": "a92db647cc4e0a0cecfa1b664de7ab800343e3a3"
+      },
+      {
+        "appid": 1997040,
+        "name": "MARVEL SNAP",
+        "playtime_forever": 1169,
+        "img_icon_url": "ac70da51184b62607a88b9bd33cef0fab6aa2ebc"
+      },
+      {
+        "appid": 2072450,
+        "name": "Like a Dragon: Infinite Wealth",
+        "playtime_forever": 5830,
+        "img_icon_url": "b6deba4e44ec723fbc8ae733dbf9afd2ba758c60",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          1,
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 2429640,
+        "name": "THRONE AND LIBERTY",
+        "playtime_forever": 31,
+        "img_icon_url": "f03eb7d1aee8d7997b28ccc8de047b8fe561a657",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 2828500,
+        "name": "The Jackbox Megapicker",
+        "playtime_forever": 0,
+        "img_icon_url": "0866a1d27e96a96c7d013c41eb6fa2ec6a935a7d"
+      }
+    ]
+  }
+}

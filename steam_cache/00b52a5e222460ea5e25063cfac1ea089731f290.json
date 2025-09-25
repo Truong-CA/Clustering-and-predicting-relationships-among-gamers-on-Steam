@@ -1,0 +1,21 @@
+{
+  "response": {
+    "total_count": 2,
+    "games": [
+      {
+        "appid": 730,
+        "name": "Counter-Strike 2",
+        "playtime_2weeks": 3430,
+        "playtime_forever": 177766,
+        "img_icon_url": "8dbc71957312bbd3baea65848b545be9eae2a355"
+      },
+      {
+        "appid": 648800,
+        "name": "Raft",
+        "playtime_2weeks": 191,
+        "playtime_forever": 191,
+        "img_icon_url": "6a9ae357c4133b1b631b520edd25b1974f3afb68"
+      }
+    ]
+  }
+}

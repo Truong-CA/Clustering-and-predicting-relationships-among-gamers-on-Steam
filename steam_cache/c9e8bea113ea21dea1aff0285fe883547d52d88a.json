@@ -1,11 +1,11 @@
 {
   "response": {
-    "total_count": 4,
+    "total_count": 5,
     "games": [
       {
         "appid": 2369390,
         "name": "Far Cry 6",
-        "playtime_2weeks": 4526,
+        "playtime_2weeks": 4525,
         "playtime_forever": 15906,
         "img_icon_url": "178c21f6ed3ea43c9e5b3c9ea2919e7bca63c7b0"
       },
@@ -22,6 +22,13 @@
         "playtime_2weeks": 383,
         "playtime_forever": 10275,
         "img_icon_url": "928df2d32021f480499a97458068f62c45298e7a"
+      },
+      {
+        "appid": 359550,
+        "name": "Tom Clancy's Rainbow Six® Siege X",
+        "playtime_2weeks": 214,
+        "playtime_forever": 170574,
+        "img_icon_url": "624745d333ac54aedb1ee911013e2edb7722550e"
       },
       {
         "appid": 7670,

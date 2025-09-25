@@ -1,6 +1,6 @@
 {
   "response": {
-    "game_count": 143,
+    "game_count": 144,
     "games": [
       {
         "appid": 440,
@@ -959,6 +959,16 @@
         "playtime_forever": 0,
         "img_icon_url": "e3d6fff9fbed2343a80ef71e6d2dbe1bee68031f",
         "has_community_visible_stats": true
+      },
+      {
+        "appid": 1757300,
+        "name": "Jump Space",
+        "playtime_forever": 0,
+        "img_icon_url": "bf17dea5fe4340915e328e29b00b6fc43579194b",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          5
+        ]
       },
       {
         "appid": 1801110,

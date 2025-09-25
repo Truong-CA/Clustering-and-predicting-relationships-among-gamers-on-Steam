@@ -1,0 +1,212 @@
+{
+  "response": {
+    "game_count": 24,
+    "games": [
+      {
+        "appid": 10,
+        "name": "Counter-Strike",
+        "playtime_forever": 1,
+        "img_icon_url": "6b0312cda02f5f777efa2f3318c307ff9acafbb5",
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 80,
+        "name": "Counter-Strike: Condition Zero",
+        "playtime_forever": 0,
+        "img_icon_url": "077b050ef3e89cd84e2c5a575d78d53b54058236",
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 100,
+        "name": "Counter-Strike: Condition Zero Deleted Scenes",
+        "playtime_forever": 0,
+        "img_icon_url": "077b050ef3e89cd84e2c5a575d78d53b54058236"
+      },
+      {
+        "appid": 240,
+        "name": "Counter-Strike: Source",
+        "playtime_forever": 0,
+        "img_icon_url": "9052fa60c496a1c03383b27687ec50f4bf0f0e10",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 550,
+        "name": "Left 4 Dead 2",
+        "playtime_forever": 73,
+        "img_icon_url": "7d5a243f9500d2f8467312822f8af2a2928777ed",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 730,
+        "name": "Counter-Strike 2",
+        "playtime_2weeks": 2319,
+        "playtime_forever": 140883,
+        "img_icon_url": "8dbc71957312bbd3baea65848b545be9eae2a355",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 48000,
+        "name": "LIMBO",
+        "playtime_forever": 242,
+        "img_icon_url": "463f57855017564301b17050fba73804b3bd86d6",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 218620,
+        "name": "PAYDAY 2",
+        "playtime_forever": 0,
+        "img_icon_url": "a6abc0d0c1e79c0b5b0f5c8ab81ce9076a542414",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 230410,
+        "name": "Warframe",
+        "playtime_forever": 80,
+        "img_icon_url": "22064646470f4c53388ba87774c7ac10f0a91ffa",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 271590,
+        "name": "Grand Theft Auto V Legacy",
+        "playtime_forever": 0,
+        "img_icon_url": "1e72f87eb927fa1485e68aefaff23c7fd7178251",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          5
+        ]
+      },
+      {
+        "appid": 273350,
+        "name": "Evolve Stage 2",
+        "playtime_forever": 0,
+        "img_icon_url": "6b9e205c389185a4b0e079a13090c751e47375d2"
+      },
+      {
+        "appid": 299460,
+        "name": "Woodle Tree Adventures",
+        "playtime_forever": 0,
+        "img_icon_url": "69bd90435878b5c5508dcb960ee0224de73c2c22",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 346110,
+        "name": "ARK: Survival Evolved",
+        "playtime_forever": 6,
+        "img_icon_url": "fef1799533131c10f538d2dd697bbbd89e663265",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 397900,
+        "name": "Business Tour - Online Multiplayer Board Game",
+        "playtime_forever": 60,
+        "img_icon_url": "b6ce52a576e99f54c5d18f675540b9c3ee70ed47",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 407530,
+        "name": "ARK: Survival Of The Fittest",
+        "playtime_forever": 0,
+        "img_icon_url": "807c673cddebbfee0700a947a75f4872ad136e9b"
+      },
+      {
+        "appid": 422100,
+        "name": "Heaven Island Life",
+        "playtime_forever": 0,
+        "img_icon_url": "685998a7b9bd45ddd2344cd70912634e8038fc6f"
+      },
+      {
+        "appid": 447940,
+        "name": "Brine",
+        "playtime_forever": 0,
+        "img_icon_url": "209e241f7551770a005f12e4065c767da79fda9e"
+      },
+      {
+        "appid": 489520,
+        "name": "Minion Masters",
+        "playtime_forever": 0,
+        "img_icon_url": "ad87d123224d786a413a6021ddaf9257e26c0a28",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 578080,
+        "name": "PUBG: BATTLEGROUNDS",
+        "playtime_forever": 1504,
+        "img_icon_url": "609f27278aa70697c13bf99f32c5a0248c381f9d",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 945360,
+        "name": "Among Us",
+        "playtime_forever": 134,
+        "img_icon_url": "b82c3f46da8f3c918e1c9e0d18bd6fa8fcef6801",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 1203220,
+        "name": "NARAKA: BLADEPOINT",
+        "playtime_2weeks": 967,
+        "playtime_forever": 45150,
+        "img_icon_url": "8055e7baa81ce2084d7daa42233983967956abb0",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 2181930,
+        "name": "DR LIVESEY ROM AND DEATH EDITION",
+        "playtime_forever": 0,
+        "img_icon_url": "78132f97f17ef61df4cc99b0fbf78d7c7247a283",
+        "has_community_visible_stats": true,
+        "has_leaderboards": true
+      },
+      {
+        "appid": 3240220,
+        "name": "Grand Theft Auto V Enhanced",
+        "playtime_forever": 0,
+        "img_icon_url": "8355a7bbdb704f727bfba80ec56bc7228991338e",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          1,
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 3527290,
+        "name": "PEAK",
+        "playtime_2weeks": 251,
+        "playtime_forever": 251,
+        "img_icon_url": "b3a992fd5991bd2f4c956d58e062b0ce2988d6cd",
+        "has_community_visible_stats": true
+      }
+    ]
+  }
+}

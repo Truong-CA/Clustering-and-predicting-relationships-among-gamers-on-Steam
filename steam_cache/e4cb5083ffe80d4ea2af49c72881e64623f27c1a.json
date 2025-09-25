@@ -1,0 +1,108 @@
+{
+  "response": {
+    "game_count": 11,
+    "games": [
+      {
+        "appid": 730,
+        "name": "Counter-Strike 2",
+        "playtime_2weeks": 266,
+        "playtime_forever": 142080,
+        "img_icon_url": "8dbc71957312bbd3baea65848b545be9eae2a355",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 286690,
+        "name": "Metro 2033 Redux",
+        "playtime_forever": 0,
+        "img_icon_url": "353ea01a045c084215bca95519808eaa7319ce0c",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          1,
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 578080,
+        "name": "PUBG: BATTLEGROUNDS",
+        "playtime_forever": 70,
+        "img_icon_url": "609f27278aa70697c13bf99f32c5a0248c381f9d",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 582660,
+        "name": "Black Desert",
+        "playtime_forever": 0,
+        "img_icon_url": "bf5ccace0a692720984827bf042143d0d4b28a42",
+        "content_descriptorids": [
+          1,
+          5
+        ]
+      },
+      {
+        "appid": 729460,
+        "name": "Distant Space 2",
+        "playtime_forever": 0,
+        "img_icon_url": "0c9c34d2e426d9086b95c7034a12981220a541ee",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 813540,
+        "name": "Scheming Through The Zombie Apocalypse: The Beginning",
+        "playtime_forever": 0,
+        "img_icon_url": "3138e1c654922fd57f59f91e6579a975aabc4ecc",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          5
+        ]
+      },
+      {
+        "appid": 1046930,
+        "name": "Dota Underlords",
+        "playtime_forever": 923,
+        "img_icon_url": "1f6f64144e8cc371c5382660e48998dfbe0a708e"
+      },
+      {
+        "appid": 1203220,
+        "name": "NARAKA: BLADEPOINT",
+        "playtime_forever": 9,
+        "img_icon_url": "8055e7baa81ce2084d7daa42233983967956abb0",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 1721470,
+        "name": "Poppy Playtime",
+        "playtime_forever": 32,
+        "img_icon_url": "2035ade9393613f669a77e23d09b1fa22ac77481"
+      },
+      {
+        "appid": 1782210,
+        "name": "Crab Game",
+        "playtime_forever": 140,
+        "img_icon_url": "e1afdaf96f55771d1d5ea4c9692d0f707ab0110b",
+        "content_descriptorids": [
+          5
+        ]
+      },
+      {
+        "appid": 1938090,
+        "name": "Call of Duty®",
+        "playtime_forever": 9,
+        "img_icon_url": "8eaf32220060344996cbf11f697a4f4be943e5f3",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "response": {
+    "game_count": 5,
+    "games": [
+      {
+        "appid": 440,
+        "name": "Team Fortress 2",
+        "playtime_forever": 193,
+        "img_icon_url": "f568912870a4684f9ec76277a1a404dda6bab213",
+        "has_community_visible_stats": true,
+        "has_leaderboards": true
+      },
+      {
+        "appid": 730,
+        "name": "Counter-Strike 2",
+        "playtime_forever": 6179,
+        "img_icon_url": "8dbc71957312bbd3baea65848b545be9eae2a355",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 107410,
+        "name": "Arma 3",
+        "playtime_forever": 22679,
+        "img_icon_url": "3212af52faf994c558bd622cb0f360c1ef295a6b",
+        "has_community_visible_stats": true,
+        "has_leaderboards": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 113400,
+        "name": "APB Reloaded",
+        "playtime_forever": 3832,
+        "img_icon_url": "9bb8bd1b727f3b93f70351e0902139d4a3679ec6",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 506540,
+        "name": "Last Man Standing",
+        "playtime_forever": 35,
+        "img_icon_url": "dbc9c2863f6b352c91fa6b347397320ea5ef19be"
+      }
+    ]
+  }
+}

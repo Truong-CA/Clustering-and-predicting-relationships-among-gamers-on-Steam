@@ -1,0 +1,480 @@
+{
+  "response": {
+    "game_count": 55,
+    "games": [
+      {
+        "appid": 570,
+        "name": "Dota 2",
+        "playtime_2weeks": 3350,
+        "playtime_forever": 214963,
+        "img_icon_url": "0bbb630d63262dd66d2fdd0f7d37e8661a410075",
+        "content_descriptorids": [
+          5
+        ]
+      },
+      {
+        "appid": 730,
+        "name": "Counter-Strike 2",
+        "playtime_2weeks": 379,
+        "playtime_forever": 264809,
+        "img_icon_url": "8dbc71957312bbd3baea65848b545be9eae2a355",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 29800,
+        "name": "Caster",
+        "playtime_forever": 0,
+        "img_icon_url": "31528f4c11a59d2c904109a6ad5e3764f782108c"
+      },
+      {
+        "appid": 43160,
+        "name": "Metro: Last Light Complete Edition",
+        "playtime_forever": 0,
+        "img_icon_url": "7b84b80d2cebe41ba87c59b28e2473d3b33e797d",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 50620,
+        "name": "Darksiders",
+        "playtime_forever": 0,
+        "img_icon_url": "e429cee10d864faf2aae2ea9cd75e8e1942fbe08",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 203160,
+        "name": "Tomb Raider",
+        "playtime_forever": 0,
+        "img_icon_url": "3ee640a8aba6992678e36f4e40cba9c71c02348b",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 218620,
+        "name": "PAYDAY 2",
+        "playtime_forever": 150,
+        "img_icon_url": "a6abc0d0c1e79c0b5b0f5c8ab81ce9076a542414",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 230410,
+        "name": "Warframe",
+        "playtime_forever": 438,
+        "img_icon_url": "22064646470f4c53388ba87774c7ac10f0a91ffa",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 236390,
+        "name": "War Thunder",
+        "playtime_2weeks": 820,
+        "playtime_forever": 42148,
+        "img_icon_url": "c69fbafb6e9891314cc5df0fe6a659612c289bf9",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 261570,
+        "name": "Ori and the Blind Forest",
+        "playtime_forever": 0,
+        "img_icon_url": "a8b0c1ca89fa421e5061d4ac5c17e2fbf4f08845",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 271590,
+        "name": "Grand Theft Auto V Legacy",
+        "playtime_forever": 1875,
+        "img_icon_url": "1e72f87eb927fa1485e68aefaff23c7fd7178251",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          5
+        ]
+      },
+      {
+        "appid": 292030,
+        "name": "The Witcher 3: Wild Hunt",
+        "playtime_forever": 92,
+        "img_icon_url": "78d0ff98b67851f24539cdf2402cf147679134f4",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          1,
+          5
+        ]
+      },
+      {
+        "appid": 304930,
+        "name": "Unturned",
+        "playtime_forever": 0,
+        "img_icon_url": "e18009fb628b35953826efe47dc3be556b689f4c",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 312660,
+        "name": "Sniper Elite 4",
+        "playtime_forever": 367,
+        "img_icon_url": "3a1dbbf59326c0bb78113db7ac0d70b9988b3ce8",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 315880,
+        "name": "WTFast Gamers Private Network (GPN)",
+        "playtime_forever": 1178,
+        "img_icon_url": "253320cbba7d60e475cb28cf2bce7dd9196b66c5"
+      },
+      {
+        "appid": 346110,
+        "name": "ARK: Survival Evolved",
+        "playtime_forever": 0,
+        "img_icon_url": "fef1799533131c10f538d2dd697bbbd89e663265",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 356190,
+        "name": "Middle-earth™: Shadow of War™",
+        "playtime_forever": 1096,
+        "img_icon_url": "316c479e5d51d21e15eb8f82338fce82c42c4115",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 359550,
+        "name": "Tom Clancy's Rainbow Six® Siege X",
+        "playtime_forever": 2694,
+        "img_icon_url": "624745d333ac54aedb1ee911013e2edb7722550e",
+        "content_descriptorids": [
+          5
+        ]
+      },
+      {
+        "appid": 381990,
+        "name": "Dragon Saga",
+        "playtime_forever": 299,
+        "img_icon_url": "249346d1be45e78ee6beeaed33c45a65b34c2634",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 387290,
+        "name": "Ori and the Blind Forest: Definitive Edition",
+        "playtime_forever": 734,
+        "img_icon_url": "a8b0c1ca89fa421e5061d4ac5c17e2fbf4f08845",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 388410,
+        "name": "Darksiders II Deathinitive Edition",
+        "playtime_forever": 0,
+        "img_icon_url": "a2d5549090144f1bfd9e00f1b460c1ad0aa9c366",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 393380,
+        "name": "Squad",
+        "playtime_forever": 110,
+        "img_icon_url": "eb66a8cb52165274c84cae6526205065d13119d5",
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 407530,
+        "name": "ARK: Survival Of The Fittest",
+        "playtime_forever": 0,
+        "img_icon_url": "807c673cddebbfee0700a947a75f4872ad136e9b"
+      },
+      {
+        "appid": 460930,
+        "name": "Tom Clancy's Ghost Recon® Wildlands",
+        "playtime_forever": 669,
+        "img_icon_url": "ddd459159befc6a8cd6c4cb0e2a13c2fd2f8b065",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 462780,
+        "name": "Darksiders Warmastered Edition",
+        "playtime_forever": 0,
+        "img_icon_url": "4616a0d94eb5864f2933fd0157bb60a27b14d5fe",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 550650,
+        "name": "Black Squad",
+        "playtime_forever": 1475,
+        "img_icon_url": "213a736d8c5b75998b671de25e6621d1e7bc122a",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          1,
+          5
+        ]
+      },
+      {
+        "appid": 562650,
+        "name": "Cube Master",
+        "playtime_forever": 0,
+        "img_icon_url": "9b6910aeefefc51a7bac233b5cf8d626b9cbcc61"
+      },
+      {
+        "appid": 578080,
+        "name": "PUBG: BATTLEGROUNDS",
+        "playtime_forever": 71997,
+        "img_icon_url": "609f27278aa70697c13bf99f32c5a0248c381f9d",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 582010,
+        "name": "Monster Hunter: World",
+        "playtime_forever": 5756,
+        "img_icon_url": "6ec147f2d423f435e15eb79b3d82f771913de634",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 601150,
+        "name": "Devil May Cry 5",
+        "playtime_forever": 2359,
+        "img_icon_url": "7ec2f6fb9069c3ae03af7e83610862090cd757bb",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          1,
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 606280,
+        "name": "Darksiders III",
+        "playtime_forever": 2852,
+        "img_icon_url": "1f2b21f809d9a409460f23d12061c1b18f6d5a74",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 623990,
+        "name": "Tom Clancy's Rainbow Six Siege - Test Server",
+        "playtime_forever": 0,
+        "img_icon_url": "20deaf466474f76f2ffdb345fe56f40fe3af74c0"
+      },
+      {
+        "appid": 710920,
+        "name": "Darksiders Genesis",
+        "playtime_forever": 1615,
+        "img_icon_url": "bc17b70c4360207b64d6d0b278d04291bafed2e3",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 774941,
+        "name": "Squad - Public Testing",
+        "playtime_forever": 0,
+        "img_icon_url": "6a9ee44c92c5ca7ddacf0d56bb7d5720961da0f8"
+      },
+      {
+        "appid": 814380,
+        "name": "Sekiro™: Shadows Die Twice",
+        "playtime_forever": 6407,
+        "img_icon_url": "2704fb9c5465045d00a5b19a0cb1e9bdabbd15cc",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 863550,
+        "name": "HITMAN™ 2",
+        "playtime_forever": 35,
+        "img_icon_url": "3f7c071da7a338e03f6243b73c02c072f1bacee9",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 945360,
+        "name": "Among Us",
+        "playtime_forever": 935,
+        "img_icon_url": "b82c3f46da8f3c918e1c9e0d18bd6fa8fcef6801",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 1030300,
+        "name": "Hollow Knight: Silksong",
+        "playtime_2weeks": 2784,
+        "playtime_forever": 5949,
+        "img_icon_url": "b4a999c1302e3ac123c041fd41bb8a34528c6ab5",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 1057090,
+        "name": "Ori and the Will of the Wisps",
+        "playtime_forever": 1412,
+        "img_icon_url": "ea50b151bb1e2c39e7bdd3ff4f8cc5e8738d6983",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 1144200,
+        "name": "Ready or Not",
+        "playtime_forever": 53,
+        "img_icon_url": "9312af21d070f126acbd2237c461b0d06d9b3e20",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          1,
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 1145350,
+        "name": "Hades II",
+        "playtime_forever": 2603,
+        "img_icon_url": "621d9f1cfa204c0bae07a981f41007d2cf03a56c",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 1145360,
+        "name": "Hades",
+        "playtime_forever": 1230,
+        "img_icon_url": "8a3fca36a00883e8066263ad35dd15d77a1f9abc",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 1172470,
+        "name": "Apex Legends",
+        "playtime_forever": 179,
+        "img_icon_url": "6cc35932af780289ae3d8d5cdbfe9cd545decad2",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 1203220,
+        "name": "NARAKA: BLADEPOINT",
+        "playtime_forever": 20871,
+        "img_icon_url": "8055e7baa81ce2084d7daa42233983967956abb0",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 1217060,
+        "name": "Gunfire Reborn",
+        "playtime_forever": 1549,
+        "img_icon_url": "446d10e4c62466203a4c60e3416d4307048710b8",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 1245620,
+        "name": "ELDEN RING",
+        "playtime_forever": 8026,
+        "img_icon_url": "b6e290dd5a92ce98f89089a207733c70c41a1871",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 1296830,
+        "name": "暖雪 Warm Snow",
+        "playtime_forever": 2166,
+        "img_icon_url": "48380df34376cdfc206d647d61fed9e98ce929f1",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 1517290,
+        "name": "Battlefield™ 2042",
+        "playtime_forever": 2952,
+        "img_icon_url": "dc805cd05c36a1b26f4eb57b64301e6708e20776",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 1568590,
+        "name": "Goose Goose Duck",
+        "playtime_forever": 84,
+        "img_icon_url": "3b802d5010d6d5d72c93a8565b260c6042cc9390",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 1623660,
+        "name": "MIR4",
+        "playtime_forever": 14,
+        "img_icon_url": "6c4b7e10e9fbb9c2165ce07833ba715897cbc192"
+      },
+      {
+        "appid": 1812620,
+        "name": "DSX",
+        "playtime_forever": 20768,
+        "img_icon_url": "a4960d1d3f5edd6963a7a34df26732626ac504cc",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 1928420,
+        "name": "Farlight 84",
+        "playtime_forever": 4061,
+        "img_icon_url": "c2aaf912e0bfd0da705fde5cb713758170633c9d"
+      },
+      {
+        "appid": 2943650,
+        "name": "FragPunk",
+        "playtime_forever": 3038,
+        "img_icon_url": "7e4276d769044a725905fe72c2d78977fde908e2"
+      },
+      {
+        "appid": 3164500,
+        "name": "Schedule I",
+        "playtime_2weeks": 106,
+        "playtime_forever": 106,
+        "img_icon_url": "3d9f9ed56cb6e1ba995883207290c39674e9c411",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          5
+        ]
+      },
+      {
+        "appid": 3240220,
+        "name": "Grand Theft Auto V Enhanced",
+        "playtime_forever": 0,
+        "img_icon_url": "8355a7bbdb704f727bfba80ec56bc7228991338e",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          1,
+          2,
+          5
+        ]
+      }
+    ]
+  }
+}

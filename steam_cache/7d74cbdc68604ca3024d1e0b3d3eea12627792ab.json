@@ -1,7 +1,14 @@
 {
   "response": {
-    "total_count": 10,
+    "total_count": 9,
     "games": [
+      {
+        "appid": 381210,
+        "name": "Dead by Daylight",
+        "playtime_2weeks": 432,
+        "playtime_forever": 33732,
+        "img_icon_url": "aa152097a700fd6f4707397ce41794ea30874790"
+      },
       {
         "appid": 250900,
         "name": "The Binding of Isaac: Rebirth",
@@ -10,25 +17,11 @@
         "img_icon_url": "16d46c8630499bfc54d20745ac90786a302cd643"
       },
       {
-        "appid": 381210,
-        "name": "Dead by Daylight",
-        "playtime_2weeks": 209,
-        "playtime_forever": 33508,
-        "img_icon_url": "aa152097a700fd6f4707397ce41794ea30874790"
-      },
-      {
         "appid": 2074920,
         "name": "The First Descendant",
         "playtime_2weeks": 197,
         "playtime_forever": 320,
         "img_icon_url": "a07ab51050a8e03993b1860ae929da51287f283b"
-      },
-      {
-        "appid": 360430,
-        "name": "Mafia III: Definitive Edition",
-        "playtime_2weeks": 72,
-        "playtime_forever": 2163,
-        "img_icon_url": "3df3ee0dfcb254bedbf15822c93a6983f67b0822"
       },
       {
         "appid": 1364780,

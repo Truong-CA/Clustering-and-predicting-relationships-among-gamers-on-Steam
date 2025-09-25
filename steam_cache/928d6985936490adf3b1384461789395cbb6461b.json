@@ -1,0 +1,28 @@
+{
+  "response": {
+    "total_count": 3,
+    "games": [
+      {
+        "appid": 730,
+        "name": "Counter-Strike 2",
+        "playtime_2weeks": 250,
+        "playtime_forever": 127711,
+        "img_icon_url": "8dbc71957312bbd3baea65848b545be9eae2a355"
+      },
+      {
+        "appid": 2767030,
+        "name": "Marvel Rivals",
+        "playtime_2weeks": 45,
+        "playtime_forever": 221,
+        "img_icon_url": "839b4712925b95702ca56e0c4d399adf54f4d617"
+      },
+      {
+        "appid": 570,
+        "name": "Dota 2",
+        "playtime_2weeks": 11,
+        "playtime_forever": 210430,
+        "img_icon_url": "0bbb630d63262dd66d2fdd0f7d37e8661a410075"
+      }
+    ]
+  }
+}

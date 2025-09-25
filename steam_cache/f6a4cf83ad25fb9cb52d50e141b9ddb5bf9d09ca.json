@@ -1,0 +1,37 @@
+{
+  "response": {
+    "game_count": 3,
+    "games": [
+      {
+        "appid": 730,
+        "name": "Counter-Strike 2",
+        "playtime_forever": 22241,
+        "img_icon_url": "8dbc71957312bbd3baea65848b545be9eae2a355",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 383180,
+        "name": "Dead Island Riptide Definitive Edition",
+        "playtime_forever": 0,
+        "img_icon_url": "68ea0c6d8ed1d089687da6318a62a7c3e3b5741b",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 714010,
+        "name": "Aimlabs",
+        "playtime_forever": 83,
+        "img_icon_url": "15347de11efc127539c388e585af9e92d10d5189",
+        "has_community_visible_stats": true,
+        "has_leaderboards": true
+      }
+    ]
+  }
+}

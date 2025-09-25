@@ -1,0 +1,21 @@
+{
+  "response": {
+    "total_count": 2,
+    "games": [
+      {
+        "appid": 1517290,
+        "name": "Battlefield™ 2042",
+        "playtime_2weeks": 842,
+        "playtime_forever": 27417,
+        "img_icon_url": "dc805cd05c36a1b26f4eb57b64301e6708e20776"
+      },
+      {
+        "appid": 730,
+        "name": "Counter-Strike 2",
+        "playtime_2weeks": 26,
+        "playtime_forever": 108460,
+        "img_icon_url": "8dbc71957312bbd3baea65848b545be9eae2a355"
+      }
+    ]
+  }
+}

@@ -1,11 +1,11 @@
 {
   "response": {
-    "total_count": 14,
+    "total_count": 15,
     "games": [
       {
         "appid": 1449850,
         "name": "Yu-Gi-Oh!  Master Duel",
-        "playtime_2weeks": 1570,
+        "playtime_2weeks": 1353,
         "playtime_forever": 32369,
         "img_icon_url": "2cd45ee5b6c31445216a980cf40fdb10a1587b7f"
       },
@@ -45,18 +45,18 @@
         "img_icon_url": "b4a999c1302e3ac123c041fd41bb8a34528c6ab5"
       },
       {
-        "appid": 3513350,
-        "name": "Wuthering Waves",
-        "playtime_2weeks": 163,
-        "playtime_forever": 2453,
-        "img_icon_url": "ea6de95b3d1a26d8a2aa8c4ac8fbc3df4f968f12"
-      },
-      {
         "appid": 239140,
         "name": "Dying Light",
         "playtime_2weeks": 149,
         "playtime_forever": 227,
         "img_icon_url": "d575b4ba3480fe20aaeda8e8f498c3e47033069d"
+      },
+      {
+        "appid": 3513350,
+        "name": "Wuthering Waves",
+        "playtime_2weeks": 117,
+        "playtime_forever": 2453,
+        "img_icon_url": "ea6de95b3d1a26d8a2aa8c4ac8fbc3df4f968f12"
       },
       {
         "appid": 1030840,
@@ -71,6 +71,13 @@
         "playtime_2weeks": 47,
         "playtime_forever": 497,
         "img_icon_url": "af67577ce6051d85440c7fa65ff21f8eb5b0b199"
+      },
+      {
+        "appid": 2246340,
+        "name": "Monster Hunter Wilds",
+        "playtime_2weeks": 44,
+        "playtime_forever": 13385,
+        "img_icon_url": "23474d61e4506351f9b26f230fd417d017cf2806"
       },
       {
         "appid": 1346400,

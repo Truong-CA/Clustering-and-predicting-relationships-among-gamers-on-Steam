@@ -1,0 +1,28 @@
+{
+  "response": {
+    "total_count": 3,
+    "games": [
+      {
+        "appid": 594650,
+        "name": "Hunt: Showdown 1896",
+        "playtime_2weeks": 465,
+        "playtime_forever": 13936,
+        "img_icon_url": "06c70772db40f714537f4d80c11859a68560a6b3"
+      },
+      {
+        "appid": 393380,
+        "name": "Squad",
+        "playtime_2weeks": 35,
+        "playtime_forever": 1624,
+        "img_icon_url": "eb66a8cb52165274c84cae6526205065d13119d5"
+      },
+      {
+        "appid": 2767030,
+        "name": "Marvel Rivals",
+        "playtime_2weeks": 18,
+        "playtime_forever": 3248,
+        "img_icon_url": "839b4712925b95702ca56e0c4d399adf54f4d617"
+      }
+    ]
+  }
+}

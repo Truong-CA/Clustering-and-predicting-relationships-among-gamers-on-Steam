@@ -1,0 +1,28 @@
+{
+  "response": {
+    "total_count": 3,
+    "games": [
+      {
+        "appid": 2277560,
+        "name": "WUCHANG: Fallen Feathers",
+        "playtime_2weeks": 94,
+        "playtime_forever": 94,
+        "img_icon_url": "06a62ea3a0cb8c177a0e336696d174ceacd003f4"
+      },
+      {
+        "appid": 2767030,
+        "name": "Marvel Rivals",
+        "playtime_2weeks": 69,
+        "playtime_forever": 24681,
+        "img_icon_url": "839b4712925b95702ca56e0c4d399adf54f4d617"
+      },
+      {
+        "appid": 2088760,
+        "name": "Little Nightmares III - Demo",
+        "playtime_2weeks": 13,
+        "playtime_forever": 13,
+        "img_icon_url": "d44c75c7a8fcfcec222762e1a8155e0b43e6eec0"
+      }
+    ]
+  }
+}

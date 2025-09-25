@@ -1,0 +1,49 @@
+{
+  "response": {
+    "total_count": 6,
+    "games": [
+      {
+        "appid": 1203220,
+        "name": "NARAKA: BLADEPOINT",
+        "playtime_2weeks": 1454,
+        "playtime_forever": 23990,
+        "img_icon_url": "8055e7baa81ce2084d7daa42233983967956abb0"
+      },
+      {
+        "appid": 648800,
+        "name": "Raft",
+        "playtime_2weeks": 144,
+        "playtime_forever": 1474,
+        "img_icon_url": "6a9ae357c4133b1b631b520edd25b1974f3afb68"
+      },
+      {
+        "appid": 705210,
+        "name": "Cube Racer",
+        "playtime_2weeks": 88,
+        "playtime_forever": 2832,
+        "img_icon_url": "729bcef1b009c32e0c99b7418bac2e5873ae872f"
+      },
+      {
+        "appid": 480,
+        "name": "Spacewar",
+        "playtime_2weeks": 84,
+        "playtime_forever": 5160,
+        "img_icon_url": ""
+      },
+      {
+        "appid": 766570,
+        "name": "Russian Fishing 4",
+        "playtime_2weeks": 45,
+        "playtime_forever": 45,
+        "img_icon_url": "3b374139de62caed7c8f2df0a57f671b7fa7dffb"
+      },
+      {
+        "appid": 3749680,
+        "name": "Demon Bluff Playtest",
+        "playtime_2weeks": 21,
+        "playtime_forever": 97,
+        "img_icon_url": "78ea92f19566acb8060d92d09b47f26072ce4d44"
+      }
+    ]
+  }
+}

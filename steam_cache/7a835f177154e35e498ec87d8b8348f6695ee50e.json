@@ -1,6 +1,6 @@
 {
   "response": {
-    "game_count": 366,
+    "game_count": 367,
     "games": [
       {
         "appid": 400,
@@ -2884,6 +2884,13 @@
         "name": "Journey to Incrementalia",
         "playtime_forever": 0,
         "img_icon_url": "38337bf37805dc3ac6a6af9e93854ac34fb7e463",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 3405340,
+        "name": "Megabonk",
+        "playtime_forever": 0,
+        "img_icon_url": "8e0ff36cdb1076d69347a2796c7ef5ee18b2fee8",
         "has_community_visible_stats": true
       }
     ]

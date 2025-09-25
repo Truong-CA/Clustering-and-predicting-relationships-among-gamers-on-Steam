@@ -1,0 +1,266 @@
+{
+  "response": {
+    "game_count": 32,
+    "games": [
+      {
+        "appid": 70,
+        "name": "Half-Life",
+        "playtime_forever": 0,
+        "img_icon_url": "95be6d131fc61f145797317ca437c9765f24b41c",
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 550,
+        "name": "Left 4 Dead 2",
+        "playtime_forever": 88,
+        "img_icon_url": "7d5a243f9500d2f8467312822f8af2a2928777ed",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 730,
+        "name": "Counter-Strike 2",
+        "playtime_2weeks": 3430,
+        "playtime_forever": 177766,
+        "img_icon_url": "8dbc71957312bbd3baea65848b545be9eae2a355",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 22000,
+        "name": "World of Goo",
+        "playtime_forever": 393,
+        "img_icon_url": "756b5775f9a42e4b07283a8552f825d315798cca",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 261550,
+        "name": "Mount & Blade II: Bannerlord",
+        "playtime_forever": 895,
+        "img_icon_url": "896d5f4214e4e185a20af51b46d9dea2e6f4aaad",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          5
+        ]
+      },
+      {
+        "appid": 271590,
+        "name": "Grand Theft Auto V Legacy",
+        "playtime_forever": 300,
+        "img_icon_url": "1e72f87eb927fa1485e68aefaff23c7fd7178251",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          5
+        ]
+      },
+      {
+        "appid": 322330,
+        "name": "Don't Starve Together",
+        "playtime_forever": 7254,
+        "img_icon_url": "a80aa6cff8eebc1cbc18c367d9ab063e1553b0ee"
+      },
+      {
+        "appid": 346110,
+        "name": "ARK: Survival Evolved",
+        "playtime_forever": 24242,
+        "img_icon_url": "fef1799533131c10f538d2dd697bbbd89e663265",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 397900,
+        "name": "Business Tour - Online Multiplayer Board Game",
+        "playtime_forever": 1025,
+        "img_icon_url": "b6ce52a576e99f54c5d18f675540b9c3ee70ed47",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 407530,
+        "name": "ARK: Survival Of The Fittest",
+        "playtime_forever": 0,
+        "img_icon_url": "807c673cddebbfee0700a947a75f4872ad136e9b"
+      },
+      {
+        "appid": 440900,
+        "name": "Conan Exiles",
+        "playtime_forever": 17704,
+        "img_icon_url": "399859f8bdaeef066f14029d5f1910960545fbd9",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          1,
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 448510,
+        "name": "Overcooked",
+        "playtime_forever": 0,
+        "img_icon_url": "0f8cb2d03134bfbc0536dcc9a476d9ba3a1e67f5",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 477160,
+        "name": "Human Fall Flat",
+        "playtime_forever": 578,
+        "img_icon_url": "15c6f6a4d69633a63ee410b24a2417f16d803b06",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 578080,
+        "name": "PUBG: BATTLEGROUNDS",
+        "playtime_forever": 2137,
+        "img_icon_url": "609f27278aa70697c13bf99f32c5a0248c381f9d",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 617670,
+        "name": "Zup! S",
+        "playtime_forever": 70,
+        "img_icon_url": "64d8bf5ec2621eeace7f898afa9f56d6eb5aff4a",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 648350,
+        "name": "Jurassic World Evolution",
+        "playtime_forever": 0,
+        "img_icon_url": "729afe990601e31fb216e60c4b755600a9d939df",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 648800,
+        "name": "Raft",
+        "playtime_2weeks": 191,
+        "playtime_forever": 191,
+        "img_icon_url": "6a9ae357c4133b1b631b520edd25b1974f3afb68",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 673950,
+        "name": "Farm Together",
+        "playtime_forever": 14,
+        "img_icon_url": "d968e9e31ef9cb110f09780f7112bac1c9968716",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 728880,
+        "name": "Overcooked! 2",
+        "playtime_forever": 447,
+        "img_icon_url": "bac36f471109038ae0b40619de4109d475f86a54",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 837470,
+        "name": "Untitled Goose Game",
+        "playtime_forever": 763,
+        "img_icon_url": "6e2e1a85218053fbb1bca010bf28d73f1bec1965",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 893050,
+        "name": "Hasbro's BATTLESHIP",
+        "playtime_forever": 0,
+        "img_icon_url": "7685d378123775e804f33253d1bc81cede6bfaac",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 931180,
+        "name": "Conan Exiles - Public Beta Client",
+        "playtime_forever": 0,
+        "img_icon_url": "67a32c9bdd0738df619162c70bdebfe8a735abec"
+      },
+      {
+        "appid": 1062520,
+        "name": "Dinkum",
+        "playtime_forever": 8735,
+        "img_icon_url": "0201c9b277e291d2fe3d2a5e6d3dda0ee38d9e4e",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 1274570,
+        "name": "DEVOUR",
+        "playtime_forever": 49,
+        "img_icon_url": "e24aa080068d3686e0b1b5aa52a4155dc553e69d",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 1509960,
+        "name": "PICO PARK",
+        "playtime_forever": 201,
+        "img_icon_url": "738c7b1a12275d8b792f9a01a6c174453cd9770e"
+      },
+      {
+        "appid": 1966720,
+        "name": "Lethal Company",
+        "playtime_forever": 1841,
+        "img_icon_url": "8393f321a62a9ef0be762c81565d2caea4fb7da6",
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 1987080,
+        "name": "Inside the Backrooms",
+        "playtime_forever": 0,
+        "img_icon_url": "36c529359e0802af3589360e03ed781c366b5ae5",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 2644470,
+        "name": "PICO PARK 2",
+        "playtime_forever": 0,
+        "img_icon_url": "7d1948eb5efb3d884c5d726591549e1cfd8a7d00",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 2934180,
+        "name": "Doraemon Dorayaki Shop Story",
+        "playtime_forever": 22,
+        "img_icon_url": "9f1dd134af215da723693f0b62da06ee2c1cf056",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 3240220,
+        "name": "Grand Theft Auto V Enhanced",
+        "playtime_forever": 0,
+        "img_icon_url": "8355a7bbdb704f727bfba80ec56bc7228991338e",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          1,
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 3241660,
+        "name": "R.E.P.O.",
+        "playtime_forever": 3590,
+        "img_icon_url": "b8bf4770408fc369e15cebd42e0026a27b67aaa8"
+      },
+      {
+        "appid": 3404470,
+        "name": "Maltese's Fluffy Onsen",
+        "playtime_forever": 3731,
+        "img_icon_url": "6525eb37249a9afb420f76bc492447d3cb334e62",
+        "has_community_visible_stats": true
+      }
+    ]
+  }
+}

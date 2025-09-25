@@ -1,6 +1,6 @@
 {
   "response": {
-    "game_count": 88,
+    "game_count": 89,
     "games": [
       {
         "appid": 10,
@@ -490,6 +490,13 @@
         "name": "Energy Balance",
         "playtime_forever": 0,
         "img_icon_url": "d6a7b5fb8bf98b5dc7ea4f0647965242d31d95db",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 391220,
+        "name": "Rise of the Tomb Raider",
+        "playtime_forever": 0,
+        "img_icon_url": "0b8a37f32ed2b7c934be8aa94d53f71e274c6497",
         "has_community_visible_stats": true
       },
       {

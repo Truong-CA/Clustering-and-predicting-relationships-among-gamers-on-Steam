@@ -1,0 +1,28 @@
+{
+  "response": {
+    "total_count": 3,
+    "games": [
+      {
+        "appid": 578080,
+        "name": "PUBG: BATTLEGROUNDS",
+        "playtime_2weeks": 1336,
+        "playtime_forever": 78888,
+        "img_icon_url": "609f27278aa70697c13bf99f32c5a0248c381f9d"
+      },
+      {
+        "appid": 730,
+        "name": "Counter-Strike 2",
+        "playtime_2weeks": 1243,
+        "playtime_forever": 303530,
+        "img_icon_url": "8dbc71957312bbd3baea65848b545be9eae2a355"
+      },
+      {
+        "appid": 2943650,
+        "name": "FragPunk",
+        "playtime_2weeks": 61,
+        "playtime_forever": 3994,
+        "img_icon_url": "7e4276d769044a725905fe72c2d78977fde908e2"
+      }
+    ]
+  }
+}

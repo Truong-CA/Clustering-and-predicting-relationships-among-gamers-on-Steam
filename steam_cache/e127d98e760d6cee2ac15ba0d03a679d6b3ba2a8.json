@@ -1,27 +1,20 @@
 {
   "response": {
-    "total_count": 3,
+    "total_count": 2,
     "games": [
       {
         "appid": 218,
         "name": "Source SDK Base 2007",
-        "playtime_2weeks": 10427,
-        "playtime_forever": 409648,
+        "playtime_2weeks": 10235,
+        "playtime_forever": 410160,
         "img_icon_url": ""
       },
       {
         "appid": 1477830,
         "name": "HudSight - crosshair overlay",
-        "playtime_2weeks": 2674,
-        "playtime_forever": 208887,
+        "playtime_2weeks": 2960,
+        "playtime_forever": 209616,
         "img_icon_url": "00e8a31d29638c165317b0630c7d0068e14026aa"
-      },
-      {
-        "appid": 578080,
-        "name": "PUBG: BATTLEGROUNDS",
-        "playtime_2weeks": 5,
-        "playtime_forever": 590439,
-        "img_icon_url": "609f27278aa70697c13bf99f32c5a0248c381f9d"
       }
     ]
   }

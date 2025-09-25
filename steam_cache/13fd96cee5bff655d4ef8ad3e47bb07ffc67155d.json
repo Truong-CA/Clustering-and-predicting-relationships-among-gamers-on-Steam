@@ -1,0 +1,162 @@
+{
+  "response": {
+    "game_count": 18,
+    "games": [
+      {
+        "appid": 10,
+        "name": "Counter-Strike",
+        "playtime_forever": 581,
+        "img_icon_url": "6b0312cda02f5f777efa2f3318c307ff9acafbb5",
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 80,
+        "name": "Counter-Strike: Condition Zero",
+        "playtime_forever": 0,
+        "img_icon_url": "077b050ef3e89cd84e2c5a575d78d53b54058236",
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 100,
+        "name": "Counter-Strike: Condition Zero Deleted Scenes",
+        "playtime_forever": 0,
+        "img_icon_url": "077b050ef3e89cd84e2c5a575d78d53b54058236"
+      },
+      {
+        "appid": 240,
+        "name": "Counter-Strike: Source",
+        "playtime_forever": 5,
+        "img_icon_url": "9052fa60c496a1c03383b27687ec50f4bf0f0e10",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 550,
+        "name": "Left 4 Dead 2",
+        "playtime_forever": 3,
+        "img_icon_url": "7d5a243f9500d2f8467312822f8af2a2928777ed",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 570,
+        "name": "Dota 2",
+        "playtime_forever": 620,
+        "img_icon_url": "0bbb630d63262dd66d2fdd0f7d37e8661a410075",
+        "content_descriptorids": [
+          5
+        ]
+      },
+      {
+        "appid": 730,
+        "name": "Counter-Strike 2",
+        "playtime_forever": 304660,
+        "img_icon_url": "8dbc71957312bbd3baea65848b545be9eae2a355",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 16720,
+        "name": "Velvet Assassin",
+        "playtime_forever": 8,
+        "img_icon_url": "9cb1163ea695c98f9c8d8e056d99dddb68051454"
+      },
+      {
+        "appid": 24240,
+        "name": "PAYDAY: The Heist",
+        "playtime_forever": 0,
+        "img_icon_url": "a07ceea8808f1a2104ed1c864756f263ec67df49",
+        "has_community_visible_stats": true,
+        "has_leaderboards": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 206500,
+        "name": "AirMech",
+        "playtime_forever": 8,
+        "img_icon_url": "9d150aff067427392e5b822e430caa062322c875",
+        "has_community_visible_stats": true,
+        "has_leaderboards": true
+      },
+      {
+        "appid": 230410,
+        "name": "Warframe",
+        "playtime_forever": 1661,
+        "img_icon_url": "22064646470f4c53388ba87774c7ac10f0a91ffa",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 237310,
+        "name": "Elsword",
+        "playtime_forever": 8,
+        "img_icon_url": "311373619fe61198fa93080fa0c7deb3ad6f7c36",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 242720,
+        "name": "GunZ 2: The Second Duel",
+        "playtime_forever": 7,
+        "img_icon_url": "9a2d384575e6ecb3ab219716f58516f5b47b2fdb",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 243870,
+        "name": "Tom Clancy's Ghost Recon Phantoms - NA",
+        "playtime_forever": 443,
+        "img_icon_url": "7ca714724bfc22fc9601d8b65f65c47f5d4103f3"
+      },
+      {
+        "appid": 273350,
+        "name": "Evolve Stage 2",
+        "playtime_forever": 0,
+        "img_icon_url": "6b9e205c389185a4b0e079a13090c751e47375d2"
+      },
+      {
+        "appid": 339610,
+        "name": "FreeStyle 2: Street Basketball",
+        "playtime_forever": 489,
+        "img_icon_url": "368f89b5ecc999f1956a98a9bdb86f4d6acb243d"
+      },
+      {
+        "appid": 434110,
+        "name": "Premium Pool",
+        "playtime_forever": 8,
+        "img_icon_url": "0cffe8badd809db12dea04ed2c2f562a3c0a7c98",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 578080,
+        "name": "PUBG: BATTLEGROUNDS",
+        "playtime_forever": 14,
+        "img_icon_url": "609f27278aa70697c13bf99f32c5a0248c381f9d",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      }
+    ]
+  }
+}

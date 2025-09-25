@@ -1,6 +1,6 @@
 {
   "response": {
-    "game_count": 309,
+    "game_count": 310,
     "games": [
       {
         "appid": 220,
@@ -1511,6 +1511,17 @@
         ]
       },
       {
+        "appid": 420740,
+        "name": "The Deed",
+        "playtime_forever": 0,
+        "img_icon_url": "39d10c70200e26356e7ca7c5cd4ec9b9a7381200",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
         "appid": 426000,
         "name": "HunieCam Studio",
         "playtime_forever": 383,
@@ -2506,8 +2517,8 @@
       {
         "appid": 2344520,
         "name": "Diablo® IV",
-        "playtime_2weeks": 31,
-        "playtime_forever": 7245,
+        "playtime_2weeks": 291,
+        "playtime_forever": 7504,
         "img_icon_url": "15d3e861875701ec9b01f9d9b606c7c8379e6115",
         "has_community_visible_stats": true,
         "content_descriptorids": [

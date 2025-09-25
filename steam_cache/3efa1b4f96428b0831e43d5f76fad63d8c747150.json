@@ -1,0 +1,100 @@
+{
+  "response": {
+    "game_count": 10,
+    "games": [
+      {
+        "appid": 730,
+        "name": "Counter-Strike 2",
+        "playtime_forever": 0,
+        "img_icon_url": "8dbc71957312bbd3baea65848b545be9eae2a355",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 24960,
+        "name": "Battlefield: Bad Company™ 2",
+        "playtime_forever": 0,
+        "img_icon_url": "3a8b5c53efd00554eb3315681754974c3edf1c41"
+      },
+      {
+        "appid": 218620,
+        "name": "PAYDAY 2",
+        "playtime_forever": 0,
+        "img_icon_url": "a6abc0d0c1e79c0b5b0f5c8ab81ce9076a542414",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 227300,
+        "name": "Euro Truck Simulator 2",
+        "playtime_forever": 0,
+        "img_icon_url": "adc18a4fc9adc0330144b76d61cbda68bb2394a0",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 271590,
+        "name": "Grand Theft Auto V Legacy",
+        "playtime_forever": 0,
+        "img_icon_url": "1e72f87eb927fa1485e68aefaff23c7fd7178251",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          5
+        ]
+      },
+      {
+        "appid": 304050,
+        "name": "Trove",
+        "playtime_forever": 0,
+        "img_icon_url": "76b62601bb6f0551c415697fe92a6653340f4a5e",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 307780,
+        "name": "Mortal Kombat X",
+        "playtime_forever": 0,
+        "img_icon_url": "f3137c23413b98a9091a217e16ccc5e477a2a88e",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 578080,
+        "name": "PUBG: BATTLEGROUNDS",
+        "playtime_forever": 0,
+        "img_icon_url": "609f27278aa70697c13bf99f32c5a0248c381f9d",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 945360,
+        "name": "Among Us",
+        "playtime_forever": 0,
+        "img_icon_url": "b82c3f46da8f3c918e1c9e0d18bd6fa8fcef6801",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 3240220,
+        "name": "Grand Theft Auto V Enhanced",
+        "playtime_forever": 0,
+        "img_icon_url": "8355a7bbdb704f727bfba80ec56bc7228991338e",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          1,
+          2,
+          5
+        ]
+      }
+    ]
+  }
+}

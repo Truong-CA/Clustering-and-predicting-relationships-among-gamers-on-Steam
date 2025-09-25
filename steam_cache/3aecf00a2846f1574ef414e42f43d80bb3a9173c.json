@@ -1,0 +1,50 @@
+{
+  "response": {
+    "game_count": 5,
+    "games": [
+      {
+        "appid": 730,
+        "name": "Counter-Strike 2",
+        "playtime_forever": 157317,
+        "img_icon_url": "8dbc71957312bbd3baea65848b545be9eae2a355",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 227300,
+        "name": "Euro Truck Simulator 2",
+        "playtime_forever": 74,
+        "img_icon_url": "adc18a4fc9adc0330144b76d61cbda68bb2394a0",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 378860,
+        "name": "Project CARS 2",
+        "playtime_forever": 635,
+        "img_icon_url": "cd55d51de2df3a45757aca93b84112576f5b0db3",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 410340,
+        "name": "Liftoff",
+        "playtime_forever": 3044,
+        "img_icon_url": "c6f3a404671e722222675053f40295bbbd57413a",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 578080,
+        "name": "PUBG: BATTLEGROUNDS",
+        "playtime_forever": 1505,
+        "img_icon_url": "609f27278aa70697c13bf99f32c5a0248c381f9d",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      }
+    ]
+  }
+}

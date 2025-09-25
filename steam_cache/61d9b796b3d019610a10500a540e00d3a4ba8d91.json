@@ -1,6 +1,6 @@
 {
   "response": {
-    "game_count": 540,
+    "game_count": 541,
     "games": [
       {
         "appid": 10,
@@ -206,8 +206,8 @@
       {
         "appid": 730,
         "name": "Counter-Strike 2",
-        "playtime_2weeks": 1997,
-        "playtime_forever": 355508,
+        "playtime_2weeks": 2128,
+        "playtime_forever": 355751,
         "img_icon_url": "8dbc71957312bbd3baea65848b545be9eae2a355",
         "has_community_visible_stats": true,
         "content_descriptorids": [
@@ -2392,6 +2392,17 @@
         "img_icon_url": "646b618afcddf400428cb3e77034be3eb1bbbf80",
         "has_community_visible_stats": true,
         "has_leaderboards": true
+      },
+      {
+        "appid": 420740,
+        "name": "The Deed",
+        "playtime_forever": 0,
+        "img_icon_url": "39d10c70200e26356e7ca7c5cd4ec9b9a7381200",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
       },
       {
         "appid": 424840,

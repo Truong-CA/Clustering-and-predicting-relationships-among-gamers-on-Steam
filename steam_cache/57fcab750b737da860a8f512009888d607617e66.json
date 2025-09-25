@@ -1,0 +1,21 @@
+{
+  "response": {
+    "total_count": 2,
+    "games": [
+      {
+        "appid": 1530300,
+        "name": "Auto Chess",
+        "playtime_2weeks": 612,
+        "playtime_forever": 15311,
+        "img_icon_url": "0742d3a5a0d85fbd05136bcfca979f3827451dde"
+      },
+      {
+        "appid": 1203220,
+        "name": "NARAKA: BLADEPOINT",
+        "playtime_2weeks": 387,
+        "playtime_forever": 125251,
+        "img_icon_url": "8055e7baa81ce2084d7daa42233983967956abb0"
+      }
+    ]
+  }
+}

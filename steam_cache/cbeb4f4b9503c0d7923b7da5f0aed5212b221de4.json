@@ -1,0 +1,45 @@
+{
+  "response": {
+    "game_count": 5,
+    "games": [
+      {
+        "appid": 730,
+        "name": "Counter-Strike 2",
+        "playtime_forever": 165152,
+        "img_icon_url": "8dbc71957312bbd3baea65848b545be9eae2a355",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 227940,
+        "name": "Heroes & Generals",
+        "playtime_forever": 143,
+        "img_icon_url": "64f09c15e558464a40ced00a9ef35ed13542e144"
+      },
+      {
+        "appid": 397900,
+        "name": "Business Tour - Online Multiplayer Board Game",
+        "playtime_forever": 282,
+        "img_icon_url": "b6ce52a576e99f54c5d18f675540b9c3ee70ed47",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 1088150,
+        "name": "Scribble It!",
+        "playtime_forever": 27,
+        "img_icon_url": "a7a683dce57646a59a0fca326d0ceae5a74b8c2f",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 1305420,
+        "name": "Agrou",
+        "playtime_forever": 427,
+        "img_icon_url": "f1cf3a79549ee9b856ae2a0066ad3813ff8ee142",
+        "has_community_visible_stats": true
+      }
+    ]
+  }
+}

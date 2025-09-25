@@ -1,6 +1,6 @@
 {
   "response": {
-    "total_count": 16,
+    "total_count": 15,
     "games": [
       {
         "appid": 1086940,
@@ -52,25 +52,11 @@
         "img_icon_url": "f95f362708fc326511c5d86566c447ee625bf776"
       },
       {
-        "appid": 1466860,
-        "name": "Age of Empires IV: Anniversary Edition",
-        "playtime_2weeks": 113,
-        "playtime_forever": 5103,
-        "img_icon_url": "503acf3ef0503e24af6b5336012a1f585a2f955e"
-      },
-      {
         "appid": 1271700,
         "name": "HOT WHEELS UNLEASHED™",
         "playtime_2weeks": 69,
         "playtime_forever": 69,
         "img_icon_url": "9858624f92471c7228e99e038b2d61aa070e8a7a"
-      },
-      {
-        "appid": 976730,
-        "name": "Halo: The Master Chief Collection",
-        "playtime_2weeks": 53,
-        "playtime_forever": 10211,
-        "img_icon_url": "196a45d8df1981ff6b6b1872a38dc38f6c22875d"
       },
       {
         "appid": 2658450,
@@ -106,6 +92,13 @@
         "playtime_2weeks": 17,
         "playtime_forever": 17,
         "img_icon_url": "c94e91cdf9ec7a73fde8090d96a8674386a1a0e3"
+      },
+      {
+        "appid": 976730,
+        "name": "Halo: The Master Chief Collection",
+        "playtime_2weeks": 15,
+        "playtime_forever": 10211,
+        "img_icon_url": "196a45d8df1981ff6b6b1872a38dc38f6c22875d"
       },
       {
         "appid": 3843540,

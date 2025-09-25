@@ -1,0 +1,79 @@
+{
+  "response": {
+    "game_count": 8,
+    "games": [
+      {
+        "appid": 550,
+        "name": "Left 4 Dead 2",
+        "playtime_forever": 328,
+        "img_icon_url": "7d5a243f9500d2f8467312822f8af2a2928777ed",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 730,
+        "name": "Counter-Strike 2",
+        "playtime_2weeks": 1074,
+        "playtime_forever": 254249,
+        "img_icon_url": "8dbc71957312bbd3baea65848b545be9eae2a355",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 227940,
+        "name": "Heroes & Generals",
+        "playtime_forever": 13,
+        "img_icon_url": "64f09c15e558464a40ced00a9ef35ed13542e144"
+      },
+      {
+        "appid": 236390,
+        "name": "War Thunder",
+        "playtime_forever": 676,
+        "img_icon_url": "c69fbafb6e9891314cc5df0fe6a659612c289bf9",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 578080,
+        "name": "PUBG: BATTLEGROUNDS",
+        "playtime_2weeks": 943,
+        "playtime_forever": 89505,
+        "img_icon_url": "609f27278aa70697c13bf99f32c5a0248c381f9d",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 1046930,
+        "name": "Dota Underlords",
+        "playtime_forever": 237,
+        "img_icon_url": "1f6f64144e8cc371c5382660e48998dfbe0a708e"
+      },
+      {
+        "appid": 1238810,
+        "name": "Battlefield™ V",
+        "playtime_forever": 758,
+        "img_icon_url": "23ded6a957b5ec7525679c2e7bdac90c0653dbc8",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 1273710,
+        "name": "King of Crabs",
+        "playtime_forever": 23,
+        "img_icon_url": "ee2469b799c84eca9681baf6fdabd1fef8979164",
+        "has_community_visible_stats": true
+      }
+    ]
+  }
+}

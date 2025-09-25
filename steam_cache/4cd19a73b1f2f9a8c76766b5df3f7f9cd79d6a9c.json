@@ -1,0 +1,101 @@
+{
+  "response": {
+    "game_count": 10,
+    "games": [
+      {
+        "appid": 10,
+        "name": "Counter-Strike",
+        "playtime_forever": 961,
+        "img_icon_url": "6b0312cda02f5f777efa2f3318c307ff9acafbb5",
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 80,
+        "name": "Counter-Strike: Condition Zero",
+        "playtime_forever": 5,
+        "img_icon_url": "077b050ef3e89cd84e2c5a575d78d53b54058236",
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 100,
+        "name": "Counter-Strike: Condition Zero Deleted Scenes",
+        "playtime_forever": 0,
+        "img_icon_url": "077b050ef3e89cd84e2c5a575d78d53b54058236"
+      },
+      {
+        "appid": 500,
+        "name": "Left 4 Dead",
+        "playtime_forever": 25,
+        "img_icon_url": "428df26bc35b09319e31b1ffb712487b20b3245c",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 550,
+        "name": "Left 4 Dead 2",
+        "playtime_forever": 0,
+        "img_icon_url": "7d5a243f9500d2f8467312822f8af2a2928777ed",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 730,
+        "name": "Counter-Strike 2",
+        "playtime_forever": 98844,
+        "img_icon_url": "8dbc71957312bbd3baea65848b545be9eae2a355",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 203160,
+        "name": "Tomb Raider",
+        "playtime_forever": 0,
+        "img_icon_url": "3ee640a8aba6992678e36f4e40cba9c71c02348b",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 218620,
+        "name": "PAYDAY 2",
+        "playtime_forever": 15,
+        "img_icon_url": "a6abc0d0c1e79c0b5b0f5c8ab81ce9076a542414",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 958260,
+        "name": "DEAD OR ALIVE Xtreme Venus Vacation",
+        "playtime_forever": 15,
+        "img_icon_url": "00dc41fe7ba0756a2f7e387c330eb40ea8bbd713",
+        "content_descriptorids": [
+          1,
+          5
+        ]
+      },
+      {
+        "appid": 961440,
+        "name": "Resident Evil 2 \"1-Shot Demo\"",
+        "playtime_forever": 13,
+        "img_icon_url": "280cc7bf9e12785e84dc84b9db2c6e44adfa2aad",
+        "has_community_visible_stats": true
+      }
+    ]
+  }
+}

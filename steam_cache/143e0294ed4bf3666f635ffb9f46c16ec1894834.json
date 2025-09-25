@@ -1,0 +1,49 @@
+{
+  "response": {
+    "total_count": 6,
+    "games": [
+      {
+        "appid": 1147560,
+        "name": "Skul: The Hero Slayer",
+        "playtime_2weeks": 342,
+        "playtime_forever": 342,
+        "img_icon_url": "a236593e8d5c8d6fdf3db3d004b9d37c0debf3b4"
+      },
+      {
+        "appid": 379430,
+        "name": "Kingdom Come: Deliverance",
+        "playtime_2weeks": 326,
+        "playtime_forever": 2860,
+        "img_icon_url": "915ec515c36645855abed0476b5b0891d8a4e47a"
+      },
+      {
+        "appid": 553850,
+        "name": "HELLDIVERS™ 2",
+        "playtime_2weeks": 83,
+        "playtime_forever": 83,
+        "img_icon_url": "c3dff088e090f81d6e3d88eabbb67732647c69cf"
+      },
+      {
+        "appid": 305620,
+        "name": "The Long Dark",
+        "playtime_2weeks": 53,
+        "playtime_forever": 147,
+        "img_icon_url": "e26b78087b75d5e002e92f2bdd73ce6fc4861e56"
+      },
+      {
+        "appid": 431960,
+        "name": "Wallpaper Engine",
+        "playtime_2weeks": 3,
+        "playtime_forever": 423,
+        "img_icon_url": "72edaed9d748c6cf7397ffb1c83f0b837b9ebd9d"
+      },
+      {
+        "appid": 730,
+        "name": "Counter-Strike 2",
+        "playtime_2weeks": 1,
+        "playtime_forever": 243533,
+        "img_icon_url": "8dbc71957312bbd3baea65848b545be9eae2a355"
+      }
+    ]
+  }
+}

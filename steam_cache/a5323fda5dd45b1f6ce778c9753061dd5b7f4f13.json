@@ -1,12 +1,12 @@
 {
   "response": {
-    "total_count": 7,
+    "total_count": 6,
     "games": [
       {
         "appid": 304390,
         "name": "For Honor",
-        "playtime_2weeks": 924,
-        "playtime_forever": 27203,
+        "playtime_2weeks": 990,
+        "playtime_forever": 27269,
         "img_icon_url": "24ec1359d4c27b2aef9ad3fc59fdfa495789d6e6"
       },
       {
@@ -26,7 +26,7 @@
       {
         "appid": 352120,
         "name": "Fair Strike",
-        "playtime_2weeks": 140,
+        "playtime_2weeks": 134,
         "playtime_forever": 328,
         "img_icon_url": "92e29d6a3b90b9d9bfd11a50630637a8a95cd0ba"
       },
@@ -43,13 +43,6 @@
         "playtime_2weeks": 17,
         "playtime_forever": 84768,
         "img_icon_url": "f568912870a4684f9ec76277a1a404dda6bab213"
-      },
-      {
-        "appid": 2536410,
-        "name": "Poker Crush",
-        "playtime_2weeks": 9,
-        "playtime_forever": 9,
-        "img_icon_url": "e2f1baed40495c7066f9112b69bb93ac5d612bc6"
       }
     ]
   }

@@ -1,0 +1,35 @@
+{
+  "response": {
+    "total_count": 4,
+    "games": [
+      {
+        "appid": 730,
+        "name": "Counter-Strike 2",
+        "playtime_2weeks": 907,
+        "playtime_forever": 202758,
+        "img_icon_url": "8dbc71957312bbd3baea65848b545be9eae2a355"
+      },
+      {
+        "appid": 774171,
+        "name": "Muse Dash",
+        "playtime_2weeks": 229,
+        "playtime_forever": 3903,
+        "img_icon_url": "116c4098769bb51aed2d654f2943771b68c29afa"
+      },
+      {
+        "appid": 1203220,
+        "name": "NARAKA: BLADEPOINT",
+        "playtime_2weeks": 84,
+        "playtime_forever": 22809,
+        "img_icon_url": "8055e7baa81ce2084d7daa42233983967956abb0"
+      },
+      {
+        "appid": 431960,
+        "name": "Wallpaper Engine",
+        "playtime_2weeks": 1,
+        "playtime_forever": 7636,
+        "img_icon_url": "72edaed9d748c6cf7397ffb1c83f0b837b9ebd9d"
+      }
+    ]
+  }
+}

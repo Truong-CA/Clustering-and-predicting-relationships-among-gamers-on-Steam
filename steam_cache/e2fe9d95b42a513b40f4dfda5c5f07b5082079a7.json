@@ -1,0 +1,49 @@
+{
+  "response": {
+    "total_count": 6,
+    "games": [
+      {
+        "appid": 2694490,
+        "name": "Path of Exile 2",
+        "playtime_2weeks": 1976,
+        "playtime_forever": 35809,
+        "img_icon_url": "fa8ff2005f65d0cbc7403a5b18ca77c0bbc9d05a"
+      },
+      {
+        "appid": 2417610,
+        "name": "METAL GEAR SOLID Δ: SNAKE EATER",
+        "playtime_2weeks": 278,
+        "playtime_forever": 278,
+        "img_icon_url": "23e791770df64f422ed9e3620085f44c1c27ed50"
+      },
+      {
+        "appid": 730,
+        "name": "Counter-Strike 2",
+        "playtime_2weeks": 267,
+        "playtime_forever": 196205,
+        "img_icon_url": "8dbc71957312bbd3baea65848b545be9eae2a355"
+      },
+      {
+        "appid": 570,
+        "name": "Dota 2",
+        "playtime_2weeks": 186,
+        "playtime_forever": 212195,
+        "img_icon_url": "0bbb630d63262dd66d2fdd0f7d37e8661a410075"
+      },
+      {
+        "appid": 3489700,
+        "name": "Stellar Blade™",
+        "playtime_2weeks": 139,
+        "playtime_forever": 253,
+        "img_icon_url": "57038a59c95ccee823169ffd580adef713543d46"
+      },
+      {
+        "appid": 287700,
+        "name": "METAL GEAR SOLID V: THE PHANTOM PAIN",
+        "playtime_2weeks": 10,
+        "playtime_forever": 209,
+        "img_icon_url": "7a1737163c96ea641143db45709a4ac444ba8f7b"
+      }
+    ]
+  }
+}

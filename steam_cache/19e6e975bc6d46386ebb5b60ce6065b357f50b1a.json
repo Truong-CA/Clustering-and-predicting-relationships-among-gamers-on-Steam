@@ -1,12 +1,12 @@
 {
   "response": {
-    "total_count": 9,
+    "total_count": 10,
     "games": [
       {
         "appid": 1407200,
         "name": "World of Tanks",
-        "playtime_2weeks": 1008,
-        "playtime_forever": 6577,
+        "playtime_2weeks": 1221,
+        "playtime_forever": 6789,
         "img_icon_url": "3ba3158e913a637a1fbe033db4f88fccc52f1ff4"
       },
       {
@@ -15,13 +15,6 @@
         "playtime_2weeks": 398,
         "playtime_forever": 128843,
         "img_icon_url": "8dbc71957312bbd3baea65848b545be9eae2a355"
-      },
-      {
-        "appid": 1517290,
-        "name": "Battlefield™ 2042",
-        "playtime_2weeks": 94,
-        "playtime_forever": 1915,
-        "img_icon_url": "dc805cd05c36a1b26f4eb57b64301e6708e20776"
       },
       {
         "appid": 2183900,
@@ -52,9 +45,23 @@
         "img_icon_url": "9312af21d070f126acbd2237c461b0d06d9b3e20"
       },
       {
+        "appid": 1145360,
+        "name": "Hades",
+        "playtime_2weeks": 32,
+        "playtime_forever": 50,
+        "img_icon_url": "8a3fca36a00883e8066263ad35dd15d77a1f9abc"
+      },
+      {
+        "appid": 1517290,
+        "name": "Battlefield™ 2042",
+        "playtime_2weeks": 24,
+        "playtime_forever": 1915,
+        "img_icon_url": "dc805cd05c36a1b26f4eb57b64301e6708e20776"
+      },
+      {
         "appid": 431960,
         "name": "Wallpaper Engine",
-        "playtime_2weeks": 13,
+        "playtime_2weeks": 7,
         "playtime_forever": 3476,
         "img_icon_url": "72edaed9d748c6cf7397ffb1c83f0b837b9ebd9d"
       },

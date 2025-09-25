@@ -1,27 +1,20 @@
 {
   "response": {
-    "total_count": 5,
+    "total_count": 4,
     "games": [
       {
         "appid": 3008130,
         "name": "Dying Light: The Beast",
-        "playtime_2weeks": 1213,
-        "playtime_forever": 1213,
+        "playtime_2weeks": 1286,
+        "playtime_forever": 1286,
         "img_icon_url": "48a57f9344332b2c9c16c3590a14af7b39abd8eb"
       },
       {
         "appid": 730,
         "name": "Counter-Strike 2",
-        "playtime_2weeks": 633,
+        "playtime_2weeks": 621,
         "playtime_forever": 161115,
         "img_icon_url": "8dbc71957312bbd3baea65848b545be9eae2a355"
-      },
-      {
-        "appid": 553850,
-        "name": "HELLDIVERS™ 2",
-        "playtime_2weeks": 111,
-        "playtime_forever": 3235,
-        "img_icon_url": "c3dff088e090f81d6e3d88eabbb67732647c69cf"
       },
       {
         "appid": 220240,

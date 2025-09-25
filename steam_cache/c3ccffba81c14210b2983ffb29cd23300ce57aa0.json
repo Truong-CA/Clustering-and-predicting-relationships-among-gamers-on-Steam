@@ -1,0 +1,21 @@
+{
+  "response": {
+    "total_count": 2,
+    "games": [
+      {
+        "appid": 513710,
+        "name": "SCUM",
+        "playtime_2weeks": 4947,
+        "playtime_forever": 29995,
+        "img_icon_url": "c25483e3e989239b932901118e44cf71606b5973"
+      },
+      {
+        "appid": 431960,
+        "name": "Wallpaper Engine",
+        "playtime_2weeks": 95,
+        "playtime_forever": 41145,
+        "img_icon_url": "72edaed9d748c6cf7397ffb1c83f0b837b9ebd9d"
+      }
+    ]
+  }
+}

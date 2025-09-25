@@ -1,0 +1,21 @@
+{
+  "response": {
+    "total_count": 2,
+    "games": [
+      {
+        "appid": 897450,
+        "name": "The Survivalists",
+        "playtime_2weeks": 856,
+        "playtime_forever": 1012,
+        "img_icon_url": "210ddf7659b9dc50051c397cbd51eb35fa584373"
+      },
+      {
+        "appid": 730,
+        "name": "Counter-Strike 2",
+        "playtime_2weeks": 452,
+        "playtime_forever": 95540,
+        "img_icon_url": "8dbc71957312bbd3baea65848b545be9eae2a355"
+      }
+    ]
+  }
+}

@@ -1,0 +1,173 @@
+{
+  "response": {
+    "game_count": 20,
+    "games": [
+      {
+        "appid": 570,
+        "name": "Dota 2",
+        "playtime_forever": 4121,
+        "img_icon_url": "0bbb630d63262dd66d2fdd0f7d37e8661a410075",
+        "content_descriptorids": [
+          5
+        ]
+      },
+      {
+        "appid": 730,
+        "name": "Counter-Strike 2",
+        "playtime_forever": 115053,
+        "img_icon_url": "8dbc71957312bbd3baea65848b545be9eae2a355",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 12210,
+        "name": "Grand Theft Auto IV: The Complete Edition",
+        "playtime_forever": 94,
+        "img_icon_url": "a3cf6a64c73f991898a9e34681d0db8226eaa191",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 24240,
+        "name": "PAYDAY: The Heist",
+        "playtime_forever": 36,
+        "img_icon_url": "a07ceea8808f1a2104ed1c864756f263ec67df49",
+        "has_community_visible_stats": true,
+        "has_leaderboards": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 63380,
+        "name": "Sniper Elite V2",
+        "playtime_forever": 0,
+        "img_icon_url": "0092da2541424d4c1d10c1757dcb8104c37323ac",
+        "has_community_visible_stats": true,
+        "has_leaderboards": true
+      },
+      {
+        "appid": 209160,
+        "name": "Call of Duty: Ghosts",
+        "playtime_forever": 0,
+        "img_icon_url": "634577eb0ac94ce620c328885961ed6756823474",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 209170,
+        "name": "Call of Duty: Ghosts - Multiplayer",
+        "playtime_forever": 2450,
+        "img_icon_url": "634577eb0ac94ce620c328885961ed6756823474",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 230410,
+        "name": "Warframe",
+        "playtime_forever": 25,
+        "img_icon_url": "22064646470f4c53388ba87774c7ac10f0a91ffa",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 237310,
+        "name": "Elsword",
+        "playtime_forever": 21,
+        "img_icon_url": "311373619fe61198fa93080fa0c7deb3ad6f7c36",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 239660,
+        "name": "Soldier Front 2",
+        "playtime_forever": 70,
+        "img_icon_url": "5b506ecd514473924ade995a48d90957fa80b2f5",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 243870,
+        "name": "Tom Clancy's Ghost Recon Phantoms - NA",
+        "playtime_forever": 113,
+        "img_icon_url": "7ca714724bfc22fc9601d8b65f65c47f5d4103f3"
+      },
+      {
+        "appid": 252490,
+        "name": "Rust",
+        "playtime_forever": 324,
+        "img_icon_url": "820be4782639f9c4b64fa3ca7e6c26a95ae4fd1c",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          1,
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 268420,
+        "name": "Aura Kingdom",
+        "playtime_forever": 9,
+        "img_icon_url": "a437c523f796bbe6d34625bdc2aafb5018fd2f34"
+      },
+      {
+        "appid": 291550,
+        "name": "Brawlhalla",
+        "playtime_forever": 27,
+        "img_icon_url": "c43fac31b8bf8821764603a14d09412bc3d45f66",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 323370,
+        "name": "TERA",
+        "playtime_forever": 70,
+        "img_icon_url": "cbfb0fe6ce60b1fa651abe643215f7e721bd81fd"
+      },
+      {
+        "appid": 372000,
+        "name": "Tree of Savior (English Ver.)",
+        "playtime_forever": 170,
+        "img_icon_url": "4c250d09c325ee3b05cc09189d4859aaf3bb3811",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 578080,
+        "name": "PUBG: BATTLEGROUNDS",
+        "playtime_forever": 10907,
+        "img_icon_url": "609f27278aa70697c13bf99f32c5a0248c381f9d",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 632360,
+        "name": "Risk of Rain 2",
+        "playtime_forever": 607,
+        "img_icon_url": "0b809ac6f25e6570fecae5fc47bca0139a7bf70c",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 1422450,
+        "name": "Deadlock",
+        "playtime_2weeks": 1004,
+        "playtime_forever": 70288,
+        "img_icon_url": "f6da1420a173324d49bcd470fa3eee781ad0fa5e"
+      },
+      {
+        "appid": 1473480,
+        "name": "A.V.A Global",
+        "playtime_forever": 16,
+        "img_icon_url": "2b45e3e18703f5461ab9c3dce8e39025c1d6e467",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      }
+    ]
+  }
+}

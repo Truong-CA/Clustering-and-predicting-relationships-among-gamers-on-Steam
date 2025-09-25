@@ -1,0 +1,76 @@
+{
+  "response": {
+    "game_count": 9,
+    "games": [
+      {
+        "appid": 730,
+        "name": "Counter-Strike 2",
+        "playtime_forever": 319414,
+        "img_icon_url": "8dbc71957312bbd3baea65848b545be9eae2a355",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 282660,
+        "name": "Easy eSports",
+        "playtime_forever": 424,
+        "img_icon_url": "38a313d2413d5c679dcf41e169cc4d815765d775"
+      },
+      {
+        "appid": 291550,
+        "name": "Brawlhalla",
+        "playtime_forever": 26,
+        "img_icon_url": "c43fac31b8bf8821764603a14d09412bc3d45f66",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 339610,
+        "name": "FreeStyle 2: Street Basketball",
+        "playtime_forever": 246,
+        "img_icon_url": "368f89b5ecc999f1956a98a9bdb86f4d6acb243d"
+      },
+      {
+        "appid": 397900,
+        "name": "Business Tour - Online Multiplayer Board Game",
+        "playtime_forever": 1055,
+        "img_icon_url": "b6ce52a576e99f54c5d18f675540b9c3ee70ed47",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 534500,
+        "name": "Tiger Knight: Empire War",
+        "playtime_forever": 664,
+        "img_icon_url": "569f892f5d0c70adbc59efd2e63b98bab5da3ec5",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 550650,
+        "name": "Black Squad",
+        "playtime_forever": 37,
+        "img_icon_url": "213a736d8c5b75998b671de25e6621d1e7bc122a",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          1,
+          5
+        ]
+      },
+      {
+        "appid": 797430,
+        "name": "HD Poker",
+        "playtime_forever": 158,
+        "img_icon_url": "32b7e5d1447ebd3b85e8b32cd987aba74c3a406f",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 1088150,
+        "name": "Scribble It!",
+        "playtime_forever": 155,
+        "img_icon_url": "a7a683dce57646a59a0fca326d0ceae5a74b8c2f",
+        "has_community_visible_stats": true
+      }
+    ]
+  }
+}
