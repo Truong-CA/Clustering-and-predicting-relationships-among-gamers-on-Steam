@@ -12,6 +12,9 @@ Phân Cụm Cộng Đồng (Clustering): Sử dụng các đặc trưng đa ch
 
 Dự Đoán Mối Quan Hệ (Link Prediction): Ứng dụng kết quả phân cụm cộng đồǹg và các biến dữ liệu cá nhân, làm biến dự báo để xây dựng mô hình dự đoán khả năng kết bạn giữa các cặp game thủ trên mạng lưới Steam.
 
+![Mô tả](p1.jpg)
+
+
 # II. Thu thập Dữ liệu (Data Acquisition)
 
 Phần này mô tả chi tiết quy trình ** thu thập dữ liệu** từ Steam Web API và tạo tập dữ liệu thô.
@@ -31,13 +34,28 @@ Quá trình thu thập này không chỉ đơn thuần là lấy một bảng d�
 | Games            | Danh sách game sở hữu, `playtime_forever`. | Đặc trưng: `total_games`, `total_playtime_hours`. |
 | Groups           | Danh sách nhóm tham gia (`filtered_all_groups_gid_30`,`group_names`). | Dữ liệu cốt lõi cho phân cụm cộng đồng. |
 
+![Dữ liệu sau khi đã được crawl ](p2.pnj)
+
+
+
+
+
 
 
 ## 2.2 Gộp và Chuẩn bị Dữ liệu
 
+
+
 Sau khi thu thập dữ liệu từ **5 nguồn khác nhau** (Profiles, Achievements, Friends, Games, Groups), bước tiếp theo là tiến hành gộp chúng lại để hình thành **bộ dữ liệu hợp nhất ở mức người dùng (user-level dataset)**.  
 
 Quá trình này gồm các bước chính:
+```{r}
+# Đọc dữ liệu CSV
+df <- read.csv("data_users.csv")
+
+# Hiển thị tất cả tên cột
+colnames(df)
+```
 
 1. **Xác định khóa chính (Primary Key)**  
    - Sử dụng `user_id` (hay `steamID`) làm định danh duy nhất cho mỗi người dùng.  
