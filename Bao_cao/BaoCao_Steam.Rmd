@@ -1,7 +1,15 @@
 ---
-title: " Phân Cụm Cộng Đồng Game Trên Nền Tảng Steam - Dự Đoán Mối Quan Hệ Kết Bạn Giữa                                             Game Thủ Steam"
-output: html_document
+title: " Phân Cụm Cộng Đồng Game Trên Nền Tảng Steam - Dự Đoán Mối Quan Hệ Kết Bạn
+  Giữa                                             Game Thủ Steam"
+author: "Nguyen Duc Truong"
 date: "2025-09-29"
+output:
+  word_document: default
+  pdf_document:
+    latex_engine: xelatex
+fontsize: 11pt
+mainfont: Times New Roman
+geometry: margin=1in
 ---
 
 # I. Giới Thiệu và Thiết Lập
@@ -12,7 +20,7 @@ Phân Cụm Cộng Đồng (Clustering): Sử dụng các đặc trưng đa ch
 
 Dự Đoán Mối Quan Hệ (Link Prediction): Ứng dụng kết quả phân cụm cộng đồǹg và các biến dữ liệu cá nhân, làm biến dự báo để xây dựng mô hình dự đoán khả năng kết bạn giữa các cặp game thủ trên mạng lưới Steam.
 
-![Mô tả](p1.jpg)
+![Mô tả](image/p1.jpg)
 
 
 # II. Thu thập Dữ liệu (Data Acquisition)
@@ -23,20 +31,36 @@ Vì để vào steam communty để cào dữ liệu, người dùng se
 ## 2.1 Cào dữ liệu từ Steam Web API
 
 Dữ liệu được thu thập thông qua **Steam Web API**, một giao diện cho phép truy cập trực tiếp vào các thông tin công khai của người dùng và hệ sinh thái trên nền tảng Steam.  
-Quá trình thu thập này không chỉ đơn thuần là lấy một bảng dữ liệu duy nhất, mà cần thực hiện **nhiều loại truy vấn khác nhau**, mỗi truy vấn trả về một khía cạnh riêng của người dùng.  
 
+Quá trình thu thập dữ liệu trải qua nhiều giai đoạn và thu thập nhiều loại thông tin. Đầu tiên, vì Steam Web API không cho phép cào dữ liệu một cách ngẫu nhiên, nên cần đưa vào steam id của một người dùng nào đó trên steam để API tìm, khi đó chương trình sẽ dẫn đến trang cá nhân của người đó.
+
+Trong một trang cá nhân bao gồm nhiều thông tin như: id, tên, thời gian tham gia, nước, khu vực, số thành tựu, số trò chơi đã có, list bạn bè và nhóm tham gia,...
+Để thu thập các thông tin trên ta sử dụng API endpoints( bao gồm các biến mà steam cung cấp để lấy các dữ liệu tương ứng): 
+
+- GetFriendList : Lấy danh sách bạn bè của một người
+- GetUserGroupList : Lấy danh sách nhóm của một người
+- get_owned_games : Lấy danh sách game của một người
+- get_owned_achievements: lấy danh sách thành tựu của một người
+
+Và chỉ thu thập thông tin của người nào đặt trạng thái là public, các account để Private thì bo qua.
+Sau khi thu thập xong một trang cá nhân thì chương trình sẽ chuyển hướng đến danh sách bạn bè của người đó, thực hiện truy cập vào trang cá nhân của người đó và tiếp tục thu thập. Chương trình sẽ tiếp tục thu thập theo hướng đó cho tới khi đủ 2000 người dùng public.
+
+ 
+ 
+ ![Dữ liệu sau khi đã được crawl](image/p2.png)
+ 
+ 
+ ![WorkFlow Hậu thu thập dữ liệu ](image/p4.png)
+ 
+ 
 
 | Hạng mục         | Dữ liệu thu thập | Mục đích |
 |------------------|------------------|----------|
 | Profiles_Users   | Thông tin cơ bản: `timecreated`,`user_id`, `loccountrycode`,`personaname`, `loccountrycode`. | Tính tuổi tài khoản, vị trí địa lý. |
-| Achievements     | Danh sách achievements và thời gian mở khóa. | Đo lường mức độ "try-hard" (`total_achievements`). |
-| Friends          | Danh sách bạn bè (`User_A_ID`, `User_B_ID`). | Dữ liệu chính cho dự đoán mối quan hệ (Edge List). |
-| Games            | Danh sách game sở hữu, `playtime_forever`. | Đặc trưng: `total_games`, `total_playtime_hours`. |
-| Groups           | Danh sách nhóm tham gia (`filtered_all_groups_gid_30`,`group_names`). | Dữ liệu cốt lõi cho phân cụm cộng đồng. |
-
-![Dữ liệu sau khi đã được crawl ](p2.pnj)
-
-
+| Achievements     | Danh sách achievements và thời gian mở khóa. | Đo lường hành vi chơi game |
+| Friends          | Danh sách bạn bè (`,friend_steamids_list`, `friend_count`). | Dữ liệu chính cho dự đoán mối quan hệ  |
+| Games            | Danh sách game sở hữu, `playtime_forever`. | Tổng quan về dữ liệu trò chơi của người dùng |
+| Groups           | Danh sách nhóm tham gia (`filtered_all_groups_gid_30`,`group_names`). | Dùng cho phân cụm cộng đồng. |
 
 
 
@@ -46,16 +70,24 @@ Quá trình thu thập này không chỉ đơn thuần là lấy một bảng d�
 
 
 
-Sau khi thu thập dữ liệu từ **5 nguồn khác nhau** (Profiles, Achievements, Friends, Games, Groups), bước tiếp theo là tiến hành gộp chúng lại để hình thành **bộ dữ liệu hợp nhất ở mức người dùng (user-level dataset)**.  
+Sau khi thu thập dữ liệu, trong thư mục dữ liệu sẽ có cấu trúc là 1 thư mục dữ liệu duy nhất, trong đó tất cả là dữ liệu người dùng được định dạng theo file json. 
+đó.
+
+
+
+![WorkFlow Hậu thu thập dữ liệu ](image/p3.png)
+
+
+
+
+
+Bước tiếp theo là tiến hành gộp chúng lại để hình thành bộ dữ liệu hợp nhất ở mức người dùng. Và từ các trường dữ liệu sẵn có thì thực hiện tạo thêm các trường dữ liệu mới dựa vào dữ liệu đã có như:
+
+
 
 Quá trình này gồm các bước chính:
-```{r}
-# Đọc dữ liệu CSV
-df <- read.csv("data_users.csv")
 
-# Hiển thị tất cả tên cột
-colnames(df)
-```
+
 
 1. **Xác định khóa chính (Primary Key)**  
    - Sử dụng `user_id` (hay `steamID`) làm định danh duy nhất cho mỗi người dùng.  
@@ -63,20 +95,15 @@ colnames(df)
 
 2. **Chuẩn hóa dữ liệu trước khi gộp**  
    - Đảm bảo các trường có định dạng đồng nhất:  
-     - Thời gian (`timecreated`) → chuyển sang dạng **datetime** rồi tính ra số năm (`account_age_years`).  
-     - Các cột nhị phân (`is_old_account`, `is_VN`, …) → chuẩn về 0/1.  
-     - Các biến dạng chuỗi nhiều giá trị (như danh sách group) → chuyển sang vector đa nhãn (multi-hot).  
+     - Thời gian (`timecreated`) → chuyển sang dạng **datetime** 
+     - Các cột nhị phân (`is_old_account`, `is_VN`,`in_game_group`, `in_fan_group`,`in_platform_group`) → chuẩn về 0/1.  
+     - Các biến dạng chuỗi nhiều giá trị (như danh sách group) → chuyển sang vector đa nhãn 
 
-3. **Xử lý dữ liệu thiếu (missing values)**  
-   - Nếu `total_playtime_hours` bị thiếu → thay bằng 0.  
-   - Nếu `loccountrycode` trống → gán là `"Unknown"`.  
-   - Nếu người dùng không tham gia group nào → vector group toàn 0.  
 
-4. **Tính toán đặc trưng phụ trợ**  
-   - `total_games`: đếm số game của mỗi user.  
-   - `avg_playtime_per_game`: chia `total_playtime_hours / total_games`.  
-   - `social_factor`: kết hợp giữa số bạn bè (`friends_count`) và số group tham gia (`group_count`).  
-
+4. **Xóa các cột dữ liệu không cần thiết cho phân tích **  
+   - Xóa các cột như: "realname", "profilestate", "personastate", "primaryclanid",
+    "game_achievements_summary", "total_playtime_forever", "avatarfull"
+    
 5. **Tạo bảng hợp nhất cuối cùng**  
    - Mỗi hàng = 1 người dùng.  
    - Các cột đặc trưng:  
@@ -86,9 +113,42 @@ colnames(df)
      - **Xã hội**: `friends_count`, `group_count`, `social_factor`.  
      - **Group Membership**: vector nhị phân từ `gid`.  
 
+6. **Tạo thêm các trường dữ liệu khác dựa vào dữ liệu đã có**  
+    
+ - cột `timecreated` tạo ra được cọt `account_age_years`,`account_age_da    total_playtime_hours `, `is_old_account`
+ 
+ 
+ - Cột `loccountrycode` tạo ra được cột `is_VN`, cột `locstatecode` tạo ra được cột `region` và cột `ten_tinh`
+
+
+ - Cột `game` tạo được cột `total_game` , `avg_playtime_per_game`    
+ 
+ 
+ - Cột `group` tạo được cột `filtered_all_groups_gid_30` , `big_group_member` , `group_count`, `in_game_group` , `in_fan_group` ,`in_platform_group` , `group_name` , `social_factor`         
+ 
+ 
+ - Cột `Friend` tạo được cột `friend_steamids_list`, ` friend_count`
+ 
+ 
+ - Cột `Achivement` tạo được cột ` total_achievements`
+
+
+
+7. **Bộ dữ liệu hoàn chỉnh**
+```{r}
+
+                                      
+# Đọc dữ liệu CSV
+df <- read.csv("data_users.csv")
+
+# Hiển thị tất cả tên cột
+colnames(df)
+```
+     
+
 # III. Tiền xử lý và Tạo Đặc trưng (Feature Engineering & Preprocessing)
 
-Sau khi dữ liệu thô từ nhiều nguồn đã được gộp lại thành một **bảng hợp nhất** ở mức người dùng (`merge_data`), bước tiếp theo là **tiền xử lý dữ liệu** và **xây dựng đặc trưng**. Đây là giai đoạn then chốt, quyết định chất lượng của phân tích và mô hình sau này.
+Sau khi dữ liệu thô từ nhiều nguồn đã được gộp lại thành một **bảng hợp nhất** ở mức người dùng, bước tiếp theo là **tiền xử lý dữ liệu** và **xây dựng đặc trưng**. Đây là giai đoạn then chốt, quyết định chất lượng của phân tích và mô hình sau này.
 
 ## 3.1 Tạo Đặc trưng có giá trị phân tích
 
@@ -108,7 +168,8 @@ Một số đặc trưng quan trọng được tính toán từ dữ liệu gố
   - Phản ánh mức độ "try-hard" của người chơi.  
 
 - **Đặc trưng xã hội**  
-  - `friends_count`: số lượng bạn bè (từ bảng Friends).  
+  - `friends_count`: số lượng bạn bè 
+  - `friend_steamids_list`: danh sách bạn bè.   
   - `group_count`: số nhóm tham gia.  
   - `social_factor`: kết hợp số bạn bè và số nhóm, nhằm đo lường mức độ gắn kết xã hội.  
 
@@ -121,123 +182,300 @@ Một số đặc trưng quan trọng được tính toán từ dữ liệu gố
 Để đảm bảo dữ liệu ổn định cho mô hình:
 
 1. **Xử lý dữ liệu thiếu (Missing Values)**  
-   - Nếu `total_playtime_hours` bị thiếu → gán = 0.  
-   - Nếu `loccountrycode` trống → gán `"Unknown"`.  
-   - Nếu user không có achievements → `total_achievements = 0`.  
+  A. **Điền bằng Giá trị Trung vị (Median Imputation)**
+ Sử dụng giá trị trung vị để điền vào các cột có tính chất số liên tục nhằm giảm thiểu ảnh hưởng của các giá trị ngoại lai (outliers):
+
+ - Tổng số game (`total_games`): Giá trị thiếu được điền bằng trung vị của toàn bộ cột.
+
+ - Ngày tạo tài khoản (`timecreated`): Sau khi cột này được chuyển đổi sang định dạng datetime, các giá trị còn thiếu cũng được điền bằng trung vị của thời gian tạo tài khoản.
+
+  B. **Điền bằng Giá trị Số Mặc định (0 Imputation)**
+
+ - Các cột liên quan đến trạng thái hoặc số lượng vật lý được điền bằng 0, ngụ ý rằng thông tin hoặc hoạt động đó không tồn tại:
+
+ - Tổng thời gian chơi (`total_playtime_hours`): Nếu thiếu, gán bằng 0, giả định người chơi chưa có thời gian chơi được ghi nhận.
+
+ - Tổng thành tích (`total_achievements`): Nếu user không có thành tích, gán 0.
+
+ - Trạng thái hồ sơ (`profilestate`) và Tổng số nhóm (`total_groups`): Các cột này cũng được điền bằng 0 (giá trị mặc định hoặc không hoạt động).
+
+  C. **Điền bằng Chuỗi ký tự (String Imputation)**
+ 
+Chúng tôi sử dụng các chuỗi ký tự mô tả để điền vào các giá trị bị thiếu trong dữ liệu phân loại hoặc dữ liệu văn bản:
+
+ - Tên người dùng (`personaname`): Điền bằng 'Unknown'.
+
+ - Tên tỉnh/thành (`ten_tinh`): Điền 'UNKNOWN'.
+
+ - Mã quốc gia (`loccountrycode`): Nếu thiếu, giá trị mặc định là 'VN' (Việt Nam) hoặc 'Unknown' trong các trường hợp khác.
+
+ - Tóm tắt thành tích game (`game_achievements_summary`): Thay giá trị thiếu bằng None.
+
+ - Danh sách Group GID (`all_groups_gid`): Điền chuỗi rỗng '[]' để chuẩn bị cho việc xử lý cấu trúc dữ liệu mảng sau này.
+
+ - Xử lý Mã tỉnh/thành (`locstatecode`): Cột này có quy tắc riêng biệt. Nếu quốc gia là 'VN' nhưng mã tỉnh/thành bị thiếu, chúng tôi gán một số ngẫu nhiên từ 1 đến 63 để mô phỏng 63 tỉnh/thành của Việt Nam. Với các quốc gia khác, giá trị được điền là 'Unknown'. 
+
 
 2. **Xử lý ngoại lệ (Outliers)**  
-   - Áp dụng Winsorization (giới hạn theo IQR) cho các biến có phân phối lệch mạnh (`total_playtime_hours`, `total_achievements`).  
+   - Áp dụng Winsorization (giới hạn theo IQR) cho các biến có phân phối lệch mạnh (`total_playtime_hours`, `total_achievements`,`total_games`, `account_age_years`, `avg_playtime_per_game`).  
    - Giúp giảm ảnh hưởng của các user có hành vi bất thường (ví dụ: chơi 50,000 giờ).  
+   ![ ](image/p8.png)
 
-3. **Xóa cột không cần thiết**  
-   - Loại bỏ các cột không dùng cho phân tích hoặc gây nhiễu:  
-     - `personaname` (tên người chơi, dạng text).  
-     - `locstatecode` (không đầy đủ, nhiều missing).  
-     - Các ID thô đã được mã hóa lại.  
 
-4. **Chuẩn hóa dữ liệu số**  
-   - Các biến số (`total_games`, `avg_playtime_per_game`, …) được chuẩn hóa bằng **StandardScaler** (Z-score).  
+
+
+3. **Chuẩn hóa dữ liệu số**  
+   - Các biến số (`total_games`, `avg_playtime_per_game`,`total_playtime_hours`,
+    `friend_count`, `group_count`, `new_group_count`, `social_factor`,
+    `account_age_days`, `account_age_years` …) được chuẩn hóa bằng **StandardScaler** (Z-score).  
    - Đảm bảo các đặc trưng có cùng thang đo trước khi đưa vào mô hình (K-Means, PCA, …).  
 
 ## 3.3 Kết quả sau tiền xử lý
 
-- Mỗi hàng = 1 user, mỗi cột = 1 đặc trưng đã được chuẩn hóa.  
-- Các đặc trưng chính:  
+Sau khi hoàn tất tiền xử lý, dữ liệu người dùng đã được làm sạch, chuẩn hóa và sẵn sàng cho phân tích. Tất cả giá trị thiếu được xử lý bằng 0, trung vị hoặc chuỗi mặc định; các ngoại lệ được giới hạn bằng phương pháp Winsorization (IQR clipping) để loại bỏ ảnh hưởng của người dùng bất thường. Toàn bộ các biến số được chuẩn hóa bằng StandardScaler, giúp các đặc trưng có cùng thang đo. Kết quả thu được là một bảng dữ liệu hợp nhất gồm khoảng 2.000 người dùng và hơn 25 đặc trưng phản ánh hành vi, hoạt động và mức độ gắn kết xã hội. Dữ liệu sau xử lý đạt 0% giá trị thiếu, không còn ngoại lệ, phân phối cân bằng và sẵn sàng cho bước phân tích giảm chiều (PCA) và phân cụm người dùng.
 
-  - **Thông tin cơ bản**: `account_age_years`, `is_old_account`, `is_VN`.  
-  - **Hoạt động chơi game**: `total_games`, `total_playtime_hours`, `avg_playtime_per_game`.  
-  - **Thành tích**: `total_achievements`.  
-  - **Xã hội**: `friends_count`, `group_count`, `social_factor`.  
-  - **Nhóm (Groups)**: vector nhị phân (multi-hot encoding từ `gid`).  
+## 3.4 TRực quan hóa dữ liệu
+
+Sau khi tiền xử lý, dữ liệu được trực quan hóa nhằm đánh giá phân phối, sự cân bằng và mối quan hệ giữa các đặc trưng:
+
+### 3.4.1 Phân phối các biến số:
+Các đặc trưng định lượng như `total_games`, `total_playtime_hours`, `avg_playtime_per_game`, `friend_count`, `group_count`… có phân phối lệch phải (skewed), cho thấy phần lớn người dùng có mức độ hoạt động thấp, chỉ một số ít có giá trị rất cao. Biến account_age_days có dạng gần chuẩn, phản ánh sự phân bố đồng đều giữa các tài khoản mới và cũ.
+![ ](image/p12.png)
+
+
+### 3.4.2 Phân phối các biến phân loại:
+Dữ liệu nhị phân như `is_old_account`, `in_game_group`, `in_platform_group`, `in_fan_group`… nhìn chung khá cân bằng, ngoại trừ một vài biến có xu hướng lệch (ví dụ, phần lớn người dùng thuộc nhóm in_fan_group = 1). Biến region phân bố đều giữa các vùng, đảm bảo dữ liệu không bị thiên lệch địa lý.
+![ ](image/p10.png)
+
+
+### 3.4.3 Tương quan giữa các biến số:
+Ma trận tương quan (heatmap) cho thấy các đặc trưng `group_count`, `new_group_count` và `social_factor` có mức tương quan cao (≈ 0.9), phản ánh chúng cùng mô tả mức độ tham gia nhóm xã hội. Trong khi đó, các biến như `total_games`, `total_playtime_hours`, `friend_count`, `account_age_days` có tương quan yếu, thể hiện tính độc lập, phù hợp cho các mô hình phân tích đa chiều.
+![ ](image/p11.png)
+
+
+## 3.4 Liên Kết Xã Hội
+Vì Steam là một nền tảng chơi game online đa nề tảng, gióng như một mạng xã hội của các gamer nên người dùng không chỉ thể hiện hoạt động cá nhân thông qua việc chơi game mà còn hình thành mối quan hệ xã hội với những người chơi khác thông qua các nhóm, bạn bè, hoặc cộng đồng chung.
+Do đó, việc phân tích liên kết xã hội giúp hiểu sâu hơn về cấu trúc tương tác, mức độ kết nối, và ảnh hưởng xã hội của từng người dùng trong hệ sinh thái này.
+ 
+### 3.4.1 Số node và số cạnh
+Sau khi xử lý dữ liệu, số lượng node trong mạng xã hội tương ứng với số người dùng hợp lệ (không trùng lặp), còn số lượng cạnh được tính dựa trên tổng số quan hệ bạn bè có thật giữa các người dùng có trong tập dữ liệu.
+
+Trong bộ dữ liệu này: số node là 1482 và số cạnh là: 57796
+
+### 3.4.2 Đồ thị biểu diễn lien kết xã hội
+- Để trực quan hóa cấu trúc kết nối, đồ thị mạng được vẽ với mỗi node là một người dùng, và cạnh thể hiện mối quan hệ bạn bè.
+
+#### **A  đồ thị biểu diễn sứ lien kết của 100 users đầu tiên**
+
+![ ](image/p5.png)
+
+
+Phần lớn các nút (người dùng) tập trung ở vùng trung tâm, cho thấy có một cộng đồng chính trong đó nhiều người có mối liên kết lẫn nhau.
+
+Một số nút nằm rải rác ở ngoài, thể hiện các người dùng cô lập hoặc chỉ có ít kết nối (thậm chí không có bạn chung).
+
+Mạng lưới chưa quá dày đặc, tức là mức độ kết nối giữa người dùng vẫn còn hạn chế — nhiều người chỉ có 1–2 liên kết.
+
+Sự xuất hiện của một cụm lớn trung tâm cho thấy có khả năng tồn tại một nhóm người dùng hoạt động mạnh hoặc có sở thích chung.
+
+Một vài thành phần tách biệt (disconnected components) ở rìa biểu đồ thể hiện những nhóm nhỏ hoặc cá nhân không liên hệ với mạng chính.
 
 
 
-## IV. Lane 1: Phân cụm cộng đồng (Community Clustering)
 
-Trong Lane 1, mục tiêu là **xác định các nhóm người dùng có hành vi và đặc điểm tương đồng** để phục vụ cho việc phân tích sâu hơn và làm đầu vào cho Lane 2.  
+
+
+#### **B đồ thị biểu diễn đầy đủ sự lien kết giữa các người chơi:**
+![ ](image/p6.png)
+Mạng lưới có mật độ kết nối cao, thể hiện qua vùng trung tâm dày đặc, nơi nhiều người dùng có mối quan hệ chồng chéo.
+
+Xuất hiện một cộng đồng chính rất lớn, trong đó hầu hết người dùng đều liên kết với nhau, cho thấy tính liên thông mạnh giữa các tài khoản.
+
+Một số nút nằm ở rìa hoặc tách biệt, biểu hiện cho các người dùng ít bạn hoặc chỉ kết nối với một số thành viên trong mạng.
+
+Cấu trúc này gợi ý rằng hệ thống có một mạng xã hội trung tâm (core network), với các nhóm nhỏ hơn lan tỏa xung quanh.
+
+
+
+#### **C  là biểu đồ tương quan thể hiện sự tương đồng của người dùng thể hiện qua các biến dữ liệu**
+ 
+Vì nếu vẽ ra toàn bộ 1498 người thì rõ ràng biểu đồ rất khó nhìn, nên ở đây chỉ biểu diễn trên  10 người đầu tiên.
+
+Các yếu tố để xét sự tương đồng là: "loccountrycode", "region", "ten_tinh","in_game_group", "in_platform_group", "in_fan_group", "friend_steamids_list".
+bao gồm: Quốc gia, khu vực (Bắc/Trung/Nam), tên tỉnh/thành phố, nằm trong các nhóm đã được phân loại, và có bạn chung
+Cách tính điểm trên biểu đồ tương quan là: Nếu 2 người có 1 bạn chung thì cộng 0.2 điểm, các yếu tốc khác chung sẽ đươc cộng 1 điểm.
+![ ](image/p7.png)
+
+Biểu đồ heatmap thể hiện điểm tương đồng giữa 10 người dùng đầu tiên trong tập dữ liệu. Quan sát cho thấy:
+
+Các ô màu đậm (xanh đậm) biểu thị cặp người dùng có mức độ tương đồng cao, tức là họ có nhiều đặc điểm giống nhau (ví dụ: cùng quốc gia, cùng vùng, tham gia nhóm giống nhau hoặc có bạn chung).
+
+Các ô màu nhạt (xanh nhạt hoặc vàng nhạt) biểu thị mức độ tương đồng thấp, tức là hai người dùng có ít điểm chung hơn.
+
+Đường chéo chính có giá trị 0 vì mỗi người không so sánh với chính mình.
+
+Một số nhóm người dùng (ví dụ User3–User4–User6–User9) có điểm tương đồng cao lặp lại, cho thấy họ có thể thuộc cùng cộng đồng hoặc nhóm hành vi tương tự.
+
+Ngược lại, các người dùng như User7 có giá trị tương đồng thấp hơn với hầu hết người khác, cho thấy họ ít điểm chung hơn với phần còn lại.
+
+
+
+## IV.Phân cụm cộng đồng.
+
+Mục tiêu chính là xác định và phân loại các nhóm người dùng có hành vi và đặc điểm tương đồng dựa trên các thông tin về hoạt động, tương tác xã hội và sở thích cá nhân. Việc này không chỉ giúp hiểu rõ cấu trúc và đặc điểm của cộng đồng người dùng mà còn tạo tiền đề quan trọng cho các phân tích nâng cao sau này. Bằng cách xác định các nhóm đồng nhất, chúng ta có thể:
+
+A. **PHÂN CỤM HOẠT ĐỘNG**
+
+Chỉ tập trung vào các đặc trưng về hoạt động chơi game: số game chơi, tổng thời gian chơi, thời gian trung bình cho mỗi game…
+
+Mục tiêu: phân loại người dùng dựa trên mức độ hoạt động trong game, ví dụ casual vs hardcore.
+
+Ứng dụng: gợi ý game mới, chương trình reward, hoặc đánh giá engagement.
+
+B. **PHÂN CỤM XÃ HỘI**
+
+Tập trung vào tương tác xã hội: số bạn bè, số nhóm tham gia, social_factor, thành viên nhóm lớn…
+
+Mục tiêu: phân loại người dùng dựa trên mức độ kết nối và tham gia cộng đồng.
+
+Ứng dụng: gợi ý kết nối bạn bè, event xã hội, phân tích mạng lưới cộng đồng.
+
 
 ### 4.1 Biểu diễn dữ liệu người dùng – nhóm  
 
-- Mỗi người dùng có thể tham gia nhiều nhóm cộng đồng (ví dụ: nhóm chơi game, nhóm xã hội, nhóm fan).  
-- Ta biểu diễn dữ liệu này dưới dạng **ma trận Người dùng – Nhóm**, trong đó:  
-  - Hàng: một người dùng.  
-  - Cột: một nhóm.  
-  - Ô (i, j) = 1 nếu người dùng *i* thuộc nhóm *j*, ngược lại = 0.  
-- Cách biểu diễn này cho phép mô hình nhận biết **sự tương đồng giữa người dùng thông qua việc chia sẻ nhóm chung**.  
+Trong cộng đồng người dùng, mỗi cá nhân có thể tham gia nhiều loại nhóm khác nhau, chẳng hạn như nhóm chơi game, nhóm xã hội, nhóm fan hoặc các nhóm sở thích chuyên biệt khác. Để mô hình hóa sự tham gia này, ta biểu diễn dữ liệu dưới dạng ma trận Người dùng – Nhóm:
+
+Hàng (rows): mỗi hàng đại diện cho một người dùng duy nhất trong hệ thống.
+
+Cột (columns): mỗi cột tương ứng với một nhóm cụ thể trong cộng đồng.
+
+Ô (i, j): giá trị của ô là 1 nếu người dùng thứ i thuộc nhóm thứ j, và 0 nếu không tham gia.
+
+Cách biểu diễn này giúp mô hình nhận biết sự tương đồng giữa các người dùng dựa trên việc chia sẻ nhóm chung. Những người dùng tham gia nhiều nhóm giống nhau sẽ có các hàng ma trận gần nhau, phản ánh mối liên hệ về sở thích, hành vi hoặc mức độ tham gia trong cộng đồng. Nhờ ma trận này, các thuật toán phân cụm có thể phát hiện ra các nhóm người dùng đồng nhất, phục vụ cho các phân tích nâng cao và các ứng dụng như gợi ý kết nối, cá nhân hóa trải nghiệm hay đánh giá mức độ gắn kết trong cộng đồng.
+
 
 ### 4.2 Giảm chiều và chuẩn hóa dữ liệu  
 
 - Do số nhóm rất lớn và dữ liệu thưa, cần giảm chiều để tăng hiệu quả phân tích.  
-- Phương pháp như **PCA (Phân tích thành phần chính)** giúp nén thông tin nhưng vẫn giữ lại sự khác biệt quan trọng.  
+- Phương pháp **PCA (Phân tích thành phần chính)** giúp nén thông tin nhưng vẫn giữ lại sự khác biệt quan trọng.  
 - Sau đó chuẩn hóa dữ liệu để các đặc trưng hành vi (số giờ chơi, số game, thành tích…) có cùng thang đo.  
 
-### 4.3 Phân cụm người dùng  
+### 4.3 Phân cụm bằng K-means và DBscan 
 
-- Áp dụng thuật toán **K-Means clustering** để chia người dùng thành *K* cụm.  
-- Việc chọn số cụm *K* dựa trên các tiêu chí:  
-  - **Elbow method**: xem điểm gãy trong đồ thị để chọn số cụm hợp lý.  
-  - **Silhouette score**: đánh giá độ tách biệt giữa các cụm.  
-- Ví dụ: dữ liệu có thể chia thành 5 cụm đặc trưng.  
+Để phân loại người dùng thành các nhóm có hành vi và đặc điểm tương đồng, ta áp dụng hai thuật toán phân cụm phổ biến:
 
-### 4.4 Ý nghĩa kết quả phân cụm  
+**K-Means Clustering**
 
-Sau khi phân cụm, mỗi người dùng sẽ có một **nhãn cụm (`cluster_label`)**. Điều này cho phép:  
+Chia người dùng thành K cụm dựa trên khoảng cách giữa các đặc trưng.
 
-- **Mô tả từng cụm (Cluster Profiling):**  
-  - Cụm 1: Người chơi hardcore, nhiều giờ chơi, nhiều achievements.  
-  - Cụm 2: Người chơi casual, ít hoạt động.  
-  - Cụm 3: Người tham gia nhiều nhóm xã hội, ít tập trung vào thành tích game.  
-  - Cụm 4: Người dùng mới, tài khoản trẻ, ít dữ liệu.  
-  - Cụm 5: Người dùng kỳ cựu, tài khoản lâu năm, mạng lưới rộng.  
+Số cụm K được lựa chọn dựa trên Elbow method, tức quan sát điểm gãy trong đồ thị tổng bình phương khoảng cách trong cụm (Inertia) để xác định số cụm hợp lý.
 
-- **Ứng dụng cho Lane 2:**  
-  - Biến `cluster_label` trở thành đặc trưng quan trọng để dự đoán mối quan hệ bạn bè hoặc mức độ gắn kết giữa hai người dùng.  
-  - Ví dụ: người dùng cùng cụm có xác suất cao trở thành bạn bè, trong khi hai người từ các cụm rất khác nhau có khả năng kết nối thấp.  
+Phương pháp này giúp nhóm những người dùng có hành vi tương tự nhau thành các cụm đồng nhất.
 
-## V. Lane 2: Dự đoán mối quan hệ (Link Prediction)
+**DBSCAN Clustering**
 
-Trong Lane 2, mục tiêu là **dự đoán khả năng hai người dùng trên Steam sẽ trở thành bạn bè** dựa trên thông tin từ Lane 1 (phân cụm cộng đồng) kết hợp với các đặc trưng hành vi và xã hội.
+Phân cụm dựa trên mật độ dữ liệu, tự động xác định các cụm có hình dạng khác nhau và phát hiện các điểm dữ liệu nhiễu (outlier).
 
-### 5.1 Xây dựng tập dữ liệu quan hệ  
+Thuật toán này đặc biệt hữu ích khi các cụm không có kích thước hoặc hình dạng đều nhau.
 
-- Dữ liệu đầu vào là **cặp người dùng (User A, User B)**.  
-- Với mỗi cặp, ta gắn nhãn:  
-  - `1` nếu họ là bạn bè (theo dữ liệu Friends từ API).  
-  - `0` nếu họ không phải bạn bè.  
+Sử dụng kết hợp cả hai thuật toán cho phép vừa phân cụm theo cấu trúc hình học (K-Means), vừa phát hiện các nhóm đặc biệt và điểm ngoại lệ trong dữ liệu (DBSCAN).
 
-- Các đặc trưng được trích xuất cho mỗi cặp gồm:  
-  - **Đặc trưng cộng đồng:**  
-    - Cùng cụm (`same_cluster = 1` nếu cùng `cluster_label`).  
-    - Khoảng cách giữa vector nhóm (`cosine_similarity`).  
-  - **Đặc trưng hành vi:**  
-    - Chênh lệch số giờ chơi (`|playtime_A - playtime_B|`).  
-    - Chênh lệch số game, achievements.  
-  - **Đặc trưng xã hội:**  
-    - Số nhóm chung (`common_groups`).  
-    - Bạn chung (`mutual_friends`).  
+### 4.4 Thực hiện phân cụm
+#### 4.4.1 Xác định số cụm bằng Elbow Method
+Để chọn số cụm hợp lý cho K-Means, ta áp dụng Elbow method:
 
-### 5.2 Phương pháp mô hình hóa  
+Vẽ đồ thị Inertia (tổng bình phương khoảng cách trong cụm) theo số cụm K.
 
-- Bài toán được mô hình hóa dưới dạng **phân loại nhị phân**.  
-- Một số mô hình thường dùng:  
-  - **Logistic Regression**: dễ diễn giải, cho baseline.  
-  - **Random Forest / XGBoost**: mạnh mẽ với đặc trưng phi tuyến tính.  
-  - **Graph Neural Networks (GNNs)**: khai thác trực tiếp cấu trúc mạng xã hội.  
+Quan sát điểm gãy (elbow) trong đồ thị, tại đó việc tăng số cụm không còn giảm đáng kể Inertia nữa.
 
-### 5.3 Đánh giá mô hình  
+Điểm gãy này được chọn làm số cụm tối ưu, giúp K-Means phân loại dữ liệu hiệu quả mà không quá nhiều hoặc quá ít cụm.
+![ ](image/p13.png)
 
-- Sử dụng các thước đo phân loại:  
-  - **Accuracy**: tỉ lệ dự đoán đúng.  
-  - **Precision, Recall, F1-score**: cân nhắc giữa dự đoán đúng và sai khi dữ liệu mất cân bằng.  
-  - **AUC-ROC**: đo khả năng mô hình phân biệt cặp bạn bè và không bạn bè.  
+**Elbow - Social (Phân Cụm Xã Hội)**
+Biểu đồ này thể hiện Inertia giảm dần khi số cụm (k) tăng lên.
 
-### 5.4 Ứng dụng kết quả  
+Điểm Uốn Khả Thi: Điểm uốn (elbow) rõ ràng nhất có thể được nhìn thấy tại k=3 hoặc k=4.
 
-- **Xây dựng hệ thống gợi ý bạn bè (Friend Recommendation System):**  
-  - Khi một người dùng mới tham gia, mô hình có thể đề xuất bạn bè tiềm năng dựa trên hành vi và cụm cộng đồng.  
-  - Điều này giúp tăng **tính kết nối xã hội** và **giữ chân người dùng**.  
+Sự giảm Inertia từ k=2 xuống k=3 là rất lớn.
 
-- **Nghiên cứu hành vi xã hội:**  
-  - Kết quả dự đoán phản ánh cách người chơi Steam hình thành quan hệ.  
-  - Có thể kiểm chứng giả thuyết: “Người chơi có hành vi và tham gia cùng cộng đồng thường dễ trở thành bạn bè hơn”.  
+Sự giảm từ k=3 xuống k=4 vẫn đáng kể.
 
+Từ k=4 trở đi, đường cong trở nên thoai thoải hơn, cho thấy lợi ích biên của việc thêm cụm giảm đi.
+
+Lựa Chọn Khuyến Nghị: Lựa chọn tối ưu nhất có xu hướng là k=3 để đạt được sự cân bằng giữa độ nén của cụm.
+
+
+**Elbow - Activity (Phân Cụm Hoạt Động)**
+
+Biểu đồ này cũng cho thấy Inertia giảm nhanh chóng ở k nhỏ.
+
+Điểm Uốn Khả Thi: Điểm uốn (elbow) rõ rệt có vẻ xuất hiện tại k=3 hoặc k=4.
+
+Sự giảm Inertia từ k=2 xuống k=3 là rất mạnh.
+
+Sự giảm từ k=3 xuống k=4 vẫn khá dốc.
+
+Tương tự như biểu đồ Social, chọn k=3,sẽ đạt được độ ổn định hơn.
+
+
+
+
+#### 4.4.2 Kết quả phân cụm
+
+![ ](image/p14.png)
+![ ](image/p15.png)
+![ ](image/p16.png)
+![ ](image/p17.png)
+
+### 4.4 So sánh hai mô hình
+
+| Tiêu chí               | K-Means                                                                                       | DBSCAN                                                                                       |
+|------------------------|------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------|
+| Nguyên tắc hoạt động    | Chia dữ liệu thành k cụm dựa trên khoảng cách Euclide đến tâm cụm , giả định cụm có hình dạng cầu. | Phân nhóm dữ liệu dựa trên mật độ , tìm kiếm các khu vực dày đặc bị tách biệt bởi các khu vực có mật độ thấp. |
+| Xử lý Nhiễu  | Gán mọi điểm vào một cụm bất kỳ, ngay cả điểm ngoại lai.                                      | Xác định rõ ràng các điểm có mật độ thấp là Nhiễu (-1).                                    |
+| Hiệu suất trên Dữ liệu này | Tốt hơn. Tạo ra các cụm có kích thước tương đối cân bằng, dễ diễn giải, và phù hợp với mục tiêu tạo phân khúc thị trường . | Kém hiệu quả. Thường coi phần lớn dữ liệu là một cụm duy nhất (Cụm 0) hoặc là Nhiễu (-1), đặc biệt trong Phân cụm Hoạt động và Xã hội. |
+| Yêu cầu Tham số         | Chỉ cần xác định k (số cụm), được hỗ trợ bởi phương pháp Elbow.                              | Cần tinh chỉnh ϵ (bán kính) và MinSamples (mật độ tối thiểu), rất nhạy cảm với sự thay đổi mật độ dữ liệu. |
+
+
+**Phân Tích Chuyên Sâu theo Kết Quả**
+
+**1. Ưu thế của K-Means**
+Tính Ứng dụng Cao: K-Means đã thành công trong việc tạo ra các phân khúc có ý nghĩa trong cả hai hạng mục (Xã hội, Hoạt động).
+
+Trong Phân cụm, K-Means  đã phân tách rõ ràng Cụm 3 (màu đỏ), một nhóm người dùng có hồ sơ cực kỳ khác biệt (PC2 rất thấp), khỏi khối dữ liệu chính. Điều này là cực kỳ quan trọng cho việc mô tả hồ sơ.
+
+Độ Ổn định và Tính Diễn giải: Do buộc phải chia dữ liệu thành k cụm, K-Means cung cấp cái nhìn tổng thể về cách cộng đồng được phân bổ, ngay cả khi các cụm có sự chồng chéo.
+
+**2. Hạn chế của DBSCAN**
+Quá Nhạy Cảm với Mật Độ: Các biểu đồ cho thấy dữ liệu người dùng có mật độ rất dày và đồng nhất (kết quả của việc chuẩn hóa).
+
+Trong Phân cụm Hoạt động, DBSCAN gần như gán toàn bộ dữ liệu vào một cụm duy nhất (Cụm 0), cho thấy nó không thể tìm thấy các "khoảng trống" để tách người dùng thành các cấp độ hoạt động khác nhau.
+
+Trong Phân cụm Xã hội, DBSCAN lại quá nhạy cảm và coi phần lớn là nhiễu (-1).
+
+Không Phù hợp với Mục tiêu: Mục tiêu là tạo ra các phân khúc có thể định nghĩa được để làm đầu vào cho mô hình dự đoán. DBSCAN, bằng cách tạo ra quá nhiều nhiễu hoặc quá ít cụm có ý nghĩa, không đáp ứng được mục tiêu này.
+
+
+### 4.5 Ý nghĩa kết quả phân cụm  
+
+**Cụm Xã Hội**
+
+| Cụm (KMeans)       | Phân Bố trên PCA 2D                     | Hồ Sơ Đặc Trưng (Cluster Profile)                                                                 | Vai Trò Cộng Đồng                                                                 |
+|-------------------|----------------------------------------|-------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------|
+| Cụm 0 (Xanh Dương) | Trung tâm, rộng, chồng chéo với Cụm 1 | Người Dùng Cân Bằng/Tiêu Chuẩn: Mạng lưới xã hội vừa phải và ổn định. Tương tác và tham gia nhóm ở mức trung bình. | Nền tảng: Tạo sự ổn định và là cầu nối cho các cụm khác.           |
+| Cụm 1 (Cam)        | Phía trên & phải (PC1 cao)             | Người Xã Hội Năng Động : Số lượng bạn bè và nhóm tham gia rất cao. Là những người dùng có xu hướng kết nối mạnh mẽ, làm trung tâm giao tiếp. | Chủ chốt: Quan trọng để lan truyền thông tin, kết nối mạng lưới, và thúc đẩy hoạt động xã hội. |
+| Cụm 2 (Xanh Lá)    | Phía trên & trái (PC1 thấp)            | Người Ít Giao Tiếp Xã Hội : Số lượng bạn bè và nhóm tham gia thấp hoặc rất chọn lọc. Tập trung vào game/nội dung hơn là mở rộng mạng lưới. | Người dùng Thầm Lặng: Cần chiến lược can thiệp để thúc đẩy tương tác xã hội. |
+
+
+**Cụm Hoạt Động**
+
+| Cụm               | Vị Trí trên PCA 2D (Tương đối)                   | Hồ Sơ Đặc Trưng (Giả định)                                                                                 | Ý Nghĩa Cộng Đồng                                                                                       |
+|------------------|--------------------------------------------------|------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------|
+| Cụm 0 (Xanh Dương) | Trung tâm và rải rác                            | Người Chơi Casual (Thấp): Có tổng giờ chơi và số game thấp (có thể là người chơi ít thường xuyên hoặc chỉ mới bắt đầu). | Nhóm có nguy cơ rời bỏ cao, cần đề xuất nội dung hoặc nhóm chơi hấp dẫn.                               |
+| Cụm 1 (Cam)        | Phía trên bên phải (PC1 cao, PC2 cao/trung bình) | Người Chơi Core/Hardcore (Cao): Có tổng giờ chơi và số game rất cao. Họ là những người dành nhiều thời gian nhất cho nền tảng. | High-Value Users (Người dùng giá trị cao), đóng góp lớn vào sự duy trì hoạt động của nền tảng.        |
+| Cụm 2 (Xanh Lá)    | Phía trên bên trái (PC1 thấp, PC2 cao)           | Người Chơi Trung Bình/Chuyên Sâu: Có mức độ hoạt động vừa phải; có thể là những người chơi thường xuyên nhưng không nhiều giờ như Cụm 1, hoặc những người chơi nhiều giờ nhưng chỉ tập trung vào một số game nhất định. | Nhóm có tiềm năng phát triển, cần khuyến khích thử nghiệm game mới hoặc tương tác cộng đồng.        |
+
+
+# V. Kết luận
+
+Quy trình phân cụm đã thành công trong việc phân đoạn người dùng thành các nhóm có ý nghĩa bằng thuật toán K-Means, vượt trội so với DBSCAN trong việc tạo ra các phân khúc dễ diễn giải. Cụ thể, phân tích đã xác định được các hồ sơ quan trọng thông qua các cụm được hỗ trợ bởi phương pháp Elbow. Các nhãn cụm này đóng vai trò là biến đại diện  mạnh mẽ, cô đọng hành vi phức tạp của người dùng. Việc đưa các nhãn này vào mô hình dự đoán sẽ đơn giản hóa tính toán tương đồng, xác định tính bổ sung và cá nhân hóa gợi ý kết nối, từ đó nâng cao độ chính xác trong việc dự đoán và thúc đẩy các mối quan hệ tích cực giữa những người chơi.

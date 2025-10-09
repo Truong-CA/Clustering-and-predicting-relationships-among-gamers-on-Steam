@@ -1,0 +1,1064 @@
+% Options for packages loaded elsewhere
+\PassOptionsToPackage{unicode}{hyperref}
+\PassOptionsToPackage{hyphens}{url}
+%
+\documentclass[
+  11pt,
+]{article}
+\usepackage{amsmath,amssymb}
+\usepackage{lmodern}
+\usepackage{iftex}
+\ifPDFTeX
+  \usepackage[T1]{fontenc}
+  \usepackage[utf8]{inputenc}
+  \usepackage{textcomp} % provide euro and other symbols
+\else % if luatex or xetex
+  \usepackage{unicode-math}
+  \defaultfontfeatures{Scale=MatchLowercase}
+  \defaultfontfeatures[\rmfamily]{Ligatures=TeX,Scale=1}
+  \setmainfont[]{Times New Roman}
+\fi
+% Use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+\IfFileExists{microtype.sty}{% use microtype if available
+  \usepackage[]{microtype}
+  \UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+}{}
+\makeatletter
+\@ifundefined{KOMAClassName}{% if non-KOMA class
+  \IfFileExists{parskip.sty}{%
+    \usepackage{parskip}
+  }{% else
+    \setlength{\parindent}{0pt}
+    \setlength{\parskip}{6pt plus 2pt minus 1pt}}
+}{% if KOMA class
+  \KOMAoptions{parskip=half}}
+\makeatother
+\usepackage{xcolor}
+\usepackage[margin=1in]{geometry}
+\usepackage{color}
+\usepackage{fancyvrb}
+\newcommand{\VerbBar}{|}
+\newcommand{\VERB}{\Verb[commandchars=\\\{\}]}
+\DefineVerbatimEnvironment{Highlighting}{Verbatim}{commandchars=\\\{\}}
+% Add ',fontsize=\small' for more characters per line
+\usepackage{framed}
+\definecolor{shadecolor}{RGB}{248,248,248}
+\newenvironment{Shaded}{\begin{snugshade}}{\end{snugshade}}
+\newcommand{\AlertTok}[1]{\textcolor[rgb]{0.94,0.16,0.16}{#1}}
+\newcommand{\AnnotationTok}[1]{\textcolor[rgb]{0.56,0.35,0.01}{\textbf{\textit{#1}}}}
+\newcommand{\AttributeTok}[1]{\textcolor[rgb]{0.77,0.63,0.00}{#1}}
+\newcommand{\BaseNTok}[1]{\textcolor[rgb]{0.00,0.00,0.81}{#1}}
+\newcommand{\BuiltInTok}[1]{#1}
+\newcommand{\CharTok}[1]{\textcolor[rgb]{0.31,0.60,0.02}{#1}}
+\newcommand{\CommentTok}[1]{\textcolor[rgb]{0.56,0.35,0.01}{\textit{#1}}}
+\newcommand{\CommentVarTok}[1]{\textcolor[rgb]{0.56,0.35,0.01}{\textbf{\textit{#1}}}}
+\newcommand{\ConstantTok}[1]{\textcolor[rgb]{0.00,0.00,0.00}{#1}}
+\newcommand{\ControlFlowTok}[1]{\textcolor[rgb]{0.13,0.29,0.53}{\textbf{#1}}}
+\newcommand{\DataTypeTok}[1]{\textcolor[rgb]{0.13,0.29,0.53}{#1}}
+\newcommand{\DecValTok}[1]{\textcolor[rgb]{0.00,0.00,0.81}{#1}}
+\newcommand{\DocumentationTok}[1]{\textcolor[rgb]{0.56,0.35,0.01}{\textbf{\textit{#1}}}}
+\newcommand{\ErrorTok}[1]{\textcolor[rgb]{0.64,0.00,0.00}{\textbf{#1}}}
+\newcommand{\ExtensionTok}[1]{#1}
+\newcommand{\FloatTok}[1]{\textcolor[rgb]{0.00,0.00,0.81}{#1}}
+\newcommand{\FunctionTok}[1]{\textcolor[rgb]{0.00,0.00,0.00}{#1}}
+\newcommand{\ImportTok}[1]{#1}
+\newcommand{\InformationTok}[1]{\textcolor[rgb]{0.56,0.35,0.01}{\textbf{\textit{#1}}}}
+\newcommand{\KeywordTok}[1]{\textcolor[rgb]{0.13,0.29,0.53}{\textbf{#1}}}
+\newcommand{\NormalTok}[1]{#1}
+\newcommand{\OperatorTok}[1]{\textcolor[rgb]{0.81,0.36,0.00}{\textbf{#1}}}
+\newcommand{\OtherTok}[1]{\textcolor[rgb]{0.56,0.35,0.01}{#1}}
+\newcommand{\PreprocessorTok}[1]{\textcolor[rgb]{0.56,0.35,0.01}{\textit{#1}}}
+\newcommand{\RegionMarkerTok}[1]{#1}
+\newcommand{\SpecialCharTok}[1]{\textcolor[rgb]{0.00,0.00,0.00}{#1}}
+\newcommand{\SpecialStringTok}[1]{\textcolor[rgb]{0.31,0.60,0.02}{#1}}
+\newcommand{\StringTok}[1]{\textcolor[rgb]{0.31,0.60,0.02}{#1}}
+\newcommand{\VariableTok}[1]{\textcolor[rgb]{0.00,0.00,0.00}{#1}}
+\newcommand{\VerbatimStringTok}[1]{\textcolor[rgb]{0.31,0.60,0.02}{#1}}
+\newcommand{\WarningTok}[1]{\textcolor[rgb]{0.56,0.35,0.01}{\textbf{\textit{#1}}}}
+\usepackage{longtable,booktabs,array}
+\usepackage{calc} % for calculating minipage widths
+% Correct order of tables after \paragraph or \subparagraph
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\makeatother
+% Allow footnotes in longtable head/foot
+\IfFileExists{footnotehyper.sty}{\usepackage{footnotehyper}}{\usepackage{footnote}}
+\makesavenoteenv{longtable}
+\usepackage{graphicx}
+\makeatletter
+\def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
+\def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
+\makeatother
+% Scale images if necessary, so that they will not overflow the page
+% margins by default, and it is still possible to overwrite the defaults
+% using explicit options in \includegraphics[width, height, ...]{}
+\setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
+% Set default figure placement to htbp
+\makeatletter
+\def\fps@figure{htbp}
+\makeatother
+\setlength{\emergencystretch}{3em} % prevent overfull lines
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+\setcounter{secnumdepth}{-\maxdimen} % remove section numbering
+\ifLuaTeX
+  \usepackage{selnolig}  % disable illegal ligatures
+\fi
+\IfFileExists{bookmark.sty}{\usepackage{bookmark}}{\usepackage{hyperref}}
+\IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
+\urlstyle{same} % disable monospaced font for URLs
+\hypersetup{
+  pdftitle={Phân Cụm Cộng Đồng Game Trên Nền Tảng Steam - Dự Đoán Mối Quan Hệ Kết Bạn Giữa Game Thủ Steam},
+  pdfauthor={Tên bạn},
+  hidelinks,
+  pdfcreator={LaTeX via pandoc}}
+
+\title{Phân Cụm Cộng Đồng Game Trên Nền Tảng Steam - Dự Đoán Mối Quan Hệ
+Kết Bạn Giữa Game Thủ Steam}
+\author{Tên bạn}
+\date{2025-09-29}
+
+\begin{document}
+\maketitle
+
+\hypertarget{i.-giux1edbi-thiux1ec7u-vuxe0-thiux1ebft-lux1eadp}{%
+\section{I. Giới Thiệu và Thiết
+Lập}\label{i.-giux1edbi-thiux1ec7u-vuxe0-thiux1ebft-lux1eadp}}
+
+Nghiên cứu này là một phân tích nhằm khám phá cấu trúc và động lực xã
+hội của cộng đồng game thủ trên nền tảng Steam. Mục tiêu cốt lõi là định
+hình thành hai giai đoạn liên kết:
+
+Phân Cụm Cộng Đồng (Clustering): Sử dụng các đặc trưng đa chiều (thời
+gian chơi game, thành tích, nhóm tham gia, và tương tác xã hội) để xác
+định và định danh các cộng đồng người dùng có hành vi đồng nhất.
+
+Dự Đoán Mối Quan Hệ (Link Prediction): Ứng dụng kết quả phân cụm cộng
+đồǹg và các biến dữ liệu cá nhân, làm biến dự báo để xây dựng mô hình dự
+đoán khả năng kết bạn giữa các cặp game thủ trên mạng lưới Steam.
+
+\begin{figure}
+\centering
+\includegraphics{image/p1.jpg}
+\caption{Mô tả}
+\end{figure}
+
+\hypertarget{ii.-thu-thux1eadp-dux1eef-liux1ec7u-data-acquisition}{%
+\section{II. Thu thập Dữ liệu (Data
+Acquisition)}\label{ii.-thu-thux1eadp-dux1eef-liux1ec7u-data-acquisition}}
+
+Phần này mô tả chi tiết quy trình ** thu thập dữ liệu** từ Steam Web API
+và tạo tập dữ liệu thô. Vì để vào steam communty để cào dữ liệu, người
+dùng sẽ bị chặn hoặc găp nhiều khó khăn trong quá trình thu thập như bị
+chặn hoặc capcha,.. .Chỉ có một cách là dùng account nào đủ uy tín ( đã
+mua game hoạc trade game có giao dịch trên 5usd sẽ được cấp Steam Web
+API Key). Sau khi có Key thì thực hiện thu thập dữ liệu
+
+\hypertarget{cuxe0o-dux1eef-liux1ec7u-tux1eeb-steam-web-api}{%
+\subsection{2.1 Cào dữ liệu từ Steam Web
+API}\label{cuxe0o-dux1eef-liux1ec7u-tux1eeb-steam-web-api}}
+
+Dữ liệu được thu thập thông qua \textbf{Steam Web API}, một giao diện
+cho phép truy cập trực tiếp vào các thông tin công khai của người dùng
+và hệ sinh thái trên nền tảng Steam.
+
+Quá trình thu thập dữ liệu trải qua nhiều giai đoạn và thu thập nhiều
+loại thông tin. Đầu tiên, vì Steam Web API không cho phép cào dữ liệu
+một cách ngẫu nhiên, nên cần đưa vào steam id của một người dùng nào đó
+trên steam để API tìm, khi đó chương trình sẽ dẫn đến trang cá nhân của
+người đó.
+
+Trong một trang cá nhân bao gồm nhiều thông tin như: id, tên, thời gian
+tham gia, nước, khu vực, số thành tựu, số trò chơi đã có, list bạn bè và
+nhóm tham gia,\ldots{} Để thu thập các thông tin trên ta sử dụng API
+endpoints( bao gồm các biến mà steam cung cấp để lấy các dữ liệu tương
+ứng):
+
+\begin{itemize}
+\tightlist
+\item
+  GetFriendList : Lấy danh sách bạn bè của một người
+\item
+  GetUserGroupList : Lấy danh sách nhóm của một người
+\item
+  get\_owned\_games : Lấy danh sách game của một người
+\item
+  get\_owned\_achievements: lấy danh sách thành tựu của một người
+\end{itemize}
+
+Và chỉ thu thập thông tin của người nào đặt trạng thái là public, các
+account để Private thì bo qua. Sau khi thu thập xong một trang cá nhân
+thì chương trình sẽ chuyển hướng đến danh sách bạn bè của người đó, thực
+hiện truy cập vào trang cá nhân của người đó và tiếp tục thu
+thập.~Chương trình sẽ tiếp tục thu thập theo hướng đó cho tới khi đủ
+2000 người dùng public.
+
+\begin{figure}
+\centering
+\includegraphics{image/p2.png}
+\caption{Dữ liệu sau khi đã được crawl}
+\end{figure}
+
+\begin{figure}
+\centering
+\includegraphics{image/p4.png}
+\caption{WorkFlow Hậu thu thập dữ liệu}
+\end{figure}
+
+\begin{longtable}[]{@{}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 4\tabcolsep) * \real{0.3913}}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 4\tabcolsep) * \real{0.3913}}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 4\tabcolsep) * \real{0.2174}}@{}}
+\toprule()
+\begin{minipage}[b]{\linewidth}\raggedright
+Hạng mục
+\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
+Dữ liệu thu thập
+\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
+Mục đích
+\end{minipage} \\
+\midrule()
+\endhead
+Profiles\_Users & Thông tin cơ bản:
+\texttt{timecreated},\texttt{user\_id},
+\texttt{loccountrycode},\texttt{personaname}, \texttt{loccountrycode}. &
+Tính tuổi tài khoản, vị trí địa lý. \\
+Achievements & Danh sách achievements và thời gian mở khóa. & Đo lường
+hành vi chơi game \\
+Friends & Danh sách bạn bè (\texttt{,friend\_steamids\_list},
+\texttt{friend\_count}). & Dữ liệu chính cho dự đoán mối quan hệ \\
+Games & Danh sách game sở hữu, \texttt{playtime\_forever}. & Tổng quan
+về dữ liệu trò chơi của người dùng \\
+Groups & Danh sách nhóm tham gia
+(\texttt{filtered\_all\_groups\_gid\_30},\texttt{group\_names}). & Dùng
+cho phân cụm cộng đồng. \\
+\bottomrule()
+\end{longtable}
+
+\hypertarget{gux1ed9p-vuxe0-chuux1ea9n-bux1ecb-dux1eef-liux1ec7u}{%
+\subsection{2.2 Gộp và Chuẩn bị Dữ
+liệu}\label{gux1ed9p-vuxe0-chuux1ea9n-bux1ecb-dux1eef-liux1ec7u}}
+
+Sau khi thu thập dữ liệu, trong thư mục dữ liệu sẽ có cấu trúc là 1 thư
+mục dữ liệu duy nhất, trong đó tất cả là dữ liệu người dùng được định
+dạng theo file json. đó.
+
+\begin{figure}
+\centering
+\includegraphics{image/p3.png}
+\caption{WorkFlow Hậu thu thập dữ liệu}
+\end{figure}
+
+Bước tiếp theo là tiến hành gộp chúng lại để hình thành bộ dữ liệu hợp
+nhất ở mức người dùng. Và từ các trường dữ liệu sẵn có thì thực hiện tạo
+thêm các trường dữ liệu mới dựa vào dữ liệu đã có như:
+
+Quá trình này gồm các bước chính:
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  \textbf{Xác định khóa chính (Primary Key)}
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Sử dụng \texttt{user\_id} (hay \texttt{steamID}) làm định danh duy
+    nhất cho mỗi người dùng.\\
+  \item
+    Mọi bảng dữ liệu phụ (achievements, games, groups, friends) đều được
+    ánh xạ về bảng chính thông qua khóa này.
+  \end{itemize}
+\item
+  \textbf{Chuẩn hóa dữ liệu trước khi gộp}
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Đảm bảo các trường có định dạng đồng nhất:
+
+    \begin{itemize}
+    \tightlist
+    \item
+      Thời gian (\texttt{timecreated}) → chuyển sang dạng
+      \textbf{datetime}
+    \item
+      Các cột nhị phân (\texttt{is\_old\_account},
+      \texttt{is\_VN},\texttt{in\_game\_group},
+      \texttt{in\_fan\_group},\texttt{in\_platform\_group}) → chuẩn về
+      0/1.\\
+    \item
+      Các biến dạng chuỗi nhiều giá trị (như danh sách group) → chuyển
+      sang vector đa nhãn
+    \end{itemize}
+  \end{itemize}
+\item
+  \textbf{Xóa các cột dữ liệu không cần thiết cho phân tích }
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Xóa các cột như: ``realname'', ``profilestate'', ``personastate'',
+    ``primaryclanid'', ``game\_achievements\_summary'',
+    ``total\_playtime\_forever'', ``avatarfull''
+  \end{itemize}
+\item
+  \textbf{Tạo bảng hợp nhất cuối cùng}
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Mỗi hàng = 1 người dùng.\\
+  \item
+    Các cột đặc trưng:
+
+    \begin{itemize}
+    \tightlist
+    \item
+      \textbf{Thông tin cơ bản}: \texttt{user\_id},
+      \texttt{account\_age\_years}, \texttt{loccountrycode}.\\
+    \item
+      \textbf{Hoạt động chơi game}: \texttt{total\_games},
+      \texttt{total\_playtime\_hours},
+      \texttt{avg\_playtime\_per\_game}.\\
+    \item
+      \textbf{Thành tựu}: \texttt{total\_achievements}.\\
+    \item
+      \textbf{Xã hội}: \texttt{friends\_count}, \texttt{group\_count},
+      \texttt{social\_factor}.\\
+    \item
+      \textbf{Group Membership}: vector nhị phân từ \texttt{gid}.
+    \end{itemize}
+  \end{itemize}
+\item
+  \textbf{Tạo thêm các trường dữ liệu khác dựa vào dữ liệu đã có}
+\end{enumerate}
+
+\begin{itemize}
+\item
+  cột \texttt{timecreated} tạo ra được cọt
+  \texttt{account\_age\_years},\texttt{account\_age\_da\ \ \ \ total\_playtime\_hours},
+  \texttt{is\_old\_account}
+\item
+  Cột \texttt{loccountrycode} tạo ra được cột \texttt{is\_VN}, cột
+  \texttt{locstatecode} tạo ra được cột \texttt{region} và cột
+  \texttt{ten\_tinh}
+\item
+  Cột \texttt{game} tạo được cột \texttt{total\_game} ,
+  \texttt{avg\_playtime\_per\_game}
+\item
+  Cột \texttt{group} tạo được cột
+  \texttt{filtered\_all\_groups\_gid\_30} , \texttt{big\_group\_member}
+  , \texttt{group\_count}, \texttt{in\_game\_group} ,
+  \texttt{in\_fan\_group} ,\texttt{in\_platform\_group} ,
+  \texttt{group\_name} , \texttt{social\_factor}
+\item
+  Cột \texttt{Friend} tạo được cột \texttt{friend\_steamids\_list},
+  \texttt{friend\_count}
+\item
+  Cột \texttt{Achivement} tạo được cột \texttt{total\_achievements}
+\end{itemize}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\setcounter{enumi}{6}
+\tightlist
+\item
+  \textbf{Bộ dữ liệu hoàn chỉnh}
+\end{enumerate}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\CommentTok{\# Đọc dữ liệu CSV}
+\NormalTok{df }\OtherTok{\textless{}{-}} \FunctionTok{read.csv}\NormalTok{(}\StringTok{"data\_users.csv"}\NormalTok{)}
+
+\CommentTok{\# Hiển thị tất cả tên cột}
+\FunctionTok{colnames}\NormalTok{(df)}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+##  [1] "steamid"                    "user_id"                   
+##  [3] "personaname"                "new_group_count"           
+##  [5] "filtered_all_groups_gid_30" "group_names"               
+##  [7] "timecreated"                "account_age_days"          
+##  [9] "loccountrycode"             "locstatecode"              
+## [11] "ten_tinh"                   "total_achievements"        
+## [13] "total_games"                "total_playtime_hours"      
+## [15] "big_group_member"           "avg_playtime_per_game"     
+## [17] "account_age_years"          "is_old_account"            
+## [19] "is_VN"                      "region"                    
+## [21] "group_count"                "social_factor"             
+## [23] "in_game_group"              "in_platform_group"         
+## [25] "in_fan_group"               "friend_steamids_list"      
+## [27] "friend_count"
+\end{verbatim}
+
+\hypertarget{iii.-tiux1ec1n-xux1eed-luxfd-vuxe0-tux1ea1o-ux111ux1eb7c-trux1b0ng-feature-engineering-preprocessing}{%
+\section{III. Tiền xử lý và Tạo Đặc trưng (Feature Engineering \&
+Preprocessing)}\label{iii.-tiux1ec1n-xux1eed-luxfd-vuxe0-tux1ea1o-ux111ux1eb7c-trux1b0ng-feature-engineering-preprocessing}}
+
+Sau khi dữ liệu thô từ nhiều nguồn đã được gộp lại thành một
+\textbf{bảng hợp nhất} ở mức người dùng, bước tiếp theo là \textbf{tiền
+xử lý dữ liệu} và \textbf{xây dựng đặc trưng}. Đây là giai đoạn then
+chốt, quyết định chất lượng của phân tích và mô hình sau này.
+
+\hypertarget{tux1ea1o-ux111ux1eb7c-trux1b0ng-cuxf3-giuxe1-trux1ecb-phuxe2n-tuxedch}{%
+\subsection{3.1 Tạo Đặc trưng có giá trị phân
+tích}\label{tux1ea1o-ux111ux1eb7c-trux1b0ng-cuxf3-giuxe1-trux1ecb-phuxe2n-tuxedch}}
+
+Một số đặc trưng quan trọng được tính toán từ dữ liệu gốc:
+
+\begin{itemize}
+\tightlist
+\item
+  \textbf{Tuổi tài khoản}
+
+  \begin{itemize}
+  \tightlist
+  \item
+    \texttt{account\_age\_years} = (ngày hiện tại --
+    \texttt{timecreated}) / 365.\\
+  \item
+    Dùng để phân loại người dùng mới và cũ (\texttt{is\_old\_account}).
+  \end{itemize}
+\item
+  \textbf{Chỉ số hoạt động chơi game}
+
+  \begin{itemize}
+  \tightlist
+  \item
+    \texttt{total\_games}: số lượng game sở hữu.\\
+  \item
+    \texttt{total\_playtime\_hours}: tổng thời gian chơi (giờ).\\
+  \item
+    \texttt{avg\_playtime\_per\_game}: trung bình giờ chơi trên mỗi
+    game.
+  \end{itemize}
+\item
+  \textbf{Chỉ số thành tích}
+
+  \begin{itemize}
+  \tightlist
+  \item
+    \texttt{total\_achievements}: tổng số achievement đã mở khóa.\\
+  \item
+    Phản ánh mức độ ``try-hard'' của người chơi.
+  \end{itemize}
+\item
+  \textbf{Đặc trưng xã hội}
+
+  \begin{itemize}
+  \tightlist
+  \item
+    \texttt{friends\_count}: số lượng bạn bè
+  \item
+    \texttt{friend\_steamids\_list}: danh sách bạn bè.\\
+  \item
+    \texttt{group\_count}: số nhóm tham gia.\\
+  \item
+    \texttt{social\_factor}: kết hợp số bạn bè và số nhóm, nhằm đo lường
+    mức độ gắn kết xã hội.
+  \end{itemize}
+\item
+  \textbf{Đặc trưng nhị phân (One-hot/Binary Features)}
+
+  \begin{itemize}
+  \tightlist
+  \item
+    \texttt{is\_VN}: người dùng có mã quốc gia = Việt Nam.\\
+  \item
+    \texttt{in\_game\_group}, \texttt{in\_platform\_group},
+    \texttt{in\_fan\_group}: xác định kiểu nhóm mà user tham gia.
+  \end{itemize}
+\end{itemize}
+
+\hypertarget{xux1eed-luxfd-dux1eef-liux1ec7u-vuxe0-chuux1ea9n-huxf3a}{%
+\subsection{3.2 Xử lý dữ liệu và Chuẩn
+hóa}\label{xux1eed-luxfd-dux1eef-liux1ec7u-vuxe0-chuux1ea9n-huxf3a}}
+
+Để đảm bảo dữ liệu ổn định cho mô hình:
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  \textbf{Xử lý dữ liệu thiếu (Missing Values)}\\
+  A. \textbf{Điền bằng Giá trị Trung vị (Median Imputation)} Sử dụng giá
+  trị trung vị để điền vào các cột có tính chất số liên tục nhằm giảm
+  thiểu ảnh hưởng của các giá trị ngoại lai (outliers):
+\end{enumerate}
+
+\begin{itemize}
+\item
+  Tổng số game (\texttt{total\_games}): Giá trị thiếu được điền bằng
+  trung vị của toàn bộ cột.
+\item
+  Ngày tạo tài khoản (\texttt{timecreated}): Sau khi cột này được chuyển
+  đổi sang định dạng datetime, các giá trị còn thiếu cũng được điền bằng
+  trung vị của thời gian tạo tài khoản.
+\end{itemize}
+
+B. \textbf{Điền bằng Giá trị Số Mặc định (0 Imputation)}
+
+\begin{itemize}
+\item
+  Các cột liên quan đến trạng thái hoặc số lượng vật lý được điền bằng
+  0, ngụ ý rằng thông tin hoặc hoạt động đó không tồn tại:
+\item
+  Tổng thời gian chơi (\texttt{total\_playtime\_hours}): Nếu thiếu, gán
+  bằng 0, giả định người chơi chưa có thời gian chơi được ghi nhận.
+\item
+  Tổng thành tích (\texttt{total\_achievements}): Nếu user không có
+  thành tích, gán 0.
+\item
+  Trạng thái hồ sơ (\texttt{profilestate}) và Tổng số nhóm
+  (\texttt{total\_groups}): Các cột này cũng được điền bằng 0 (giá trị
+  mặc định hoặc không hoạt động).
+\end{itemize}
+
+C. \textbf{Điền bằng Chuỗi ký tự (String Imputation)}
+
+Chúng tôi sử dụng các chuỗi ký tự mô tả để điền vào các giá trị bị thiếu
+trong dữ liệu phân loại hoặc dữ liệu văn bản:
+
+\begin{itemize}
+\item
+  Tên người dùng (\texttt{personaname}): Điền bằng `Unknown'.
+\item
+  Tên tỉnh/thành (\texttt{ten\_tinh}): Điền `UNKNOWN'.
+\item
+  Mã quốc gia (\texttt{loccountrycode}): Nếu thiếu, giá trị mặc định là
+  `VN' (Việt Nam) hoặc `Unknown' trong các trường hợp khác.
+\item
+  Tóm tắt thành tích game (\texttt{game\_achievements\_summary}): Thay
+  giá trị thiếu bằng None.
+\item
+  Danh sách Group GID (\texttt{all\_groups\_gid}): Điền chuỗi rỗng
+  `{[}{]}' để chuẩn bị cho việc xử lý cấu trúc dữ liệu mảng sau này.
+\item
+  Xử lý Mã tỉnh/thành (\texttt{locstatecode}): Cột này có quy tắc riêng
+  biệt. Nếu quốc gia là `VN' nhưng mã tỉnh/thành bị thiếu, chúng tôi gán
+  một số ngẫu nhiên từ 1 đến 63 để mô phỏng 63 tỉnh/thành của Việt Nam.
+  Với các quốc gia khác, giá trị được điền là `Unknown'.
+\end{itemize}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\setcounter{enumi}{1}
+\tightlist
+\item
+  \textbf{Xử lý ngoại lệ (Outliers)}
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Áp dụng Winsorization (giới hạn theo IQR) cho các biến có phân phối
+    lệch mạnh (\texttt{total\_playtime\_hours},
+    \texttt{total\_achievements},\texttt{total\_games},
+    \texttt{account\_age\_years}, \texttt{avg\_playtime\_per\_game}).\\
+  \item
+    Giúp giảm ảnh hưởng của các user có hành vi bất thường (ví dụ: chơi
+    50,000 giờ).\\
+    \includegraphics{image/p8.png}
+  \end{itemize}
+\item
+  \textbf{Chuẩn hóa dữ liệu số}
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Các biến số (\texttt{total\_games},
+    \texttt{avg\_playtime\_per\_game},\texttt{total\_playtime\_hours},
+    \texttt{friend\_count}, \texttt{group\_count},
+    \texttt{new\_group\_count}, \texttt{social\_factor},
+    \texttt{account\_age\_days}, \texttt{account\_age\_years} \ldots)
+    được chuẩn hóa bằng \textbf{StandardScaler} (Z-score).\\
+  \item
+    Đảm bảo các đặc trưng có cùng thang đo trước khi đưa vào mô hình
+    (K-Means, PCA, \ldots).
+  \end{itemize}
+\end{enumerate}
+
+\hypertarget{kux1ebft-quux1ea3-sau-tiux1ec1n-xux1eed-luxfd}{%
+\subsection{3.3 Kết quả sau tiền xử
+lý}\label{kux1ebft-quux1ea3-sau-tiux1ec1n-xux1eed-luxfd}}
+
+Sau khi hoàn tất tiền xử lý, dữ liệu người dùng đã được làm sạch, chuẩn
+hóa và sẵn sàng cho phân tích. Tất cả giá trị thiếu được xử lý bằng 0,
+trung vị hoặc chuỗi mặc định; các ngoại lệ được giới hạn bằng phương
+pháp Winsorization (IQR clipping) để loại bỏ ảnh hưởng của người dùng
+bất thường. Toàn bộ các biến số được chuẩn hóa bằng StandardScaler, giúp
+các đặc trưng có cùng thang đo. Kết quả thu được là một bảng dữ liệu hợp
+nhất gồm khoảng 2.000 người dùng và hơn 25 đặc trưng phản ánh hành vi,
+hoạt động và mức độ gắn kết xã hội. Dữ liệu sau xử lý đạt 0\% giá trị
+thiếu, không còn ngoại lệ, phân phối cân bằng và sẵn sàng cho bước phân
+tích giảm chiều (PCA) và phân cụm người dùng.
+
+\hypertarget{trux1b0c-quan-hoa-dux1b0-liuxeau}{%
+\subsection{3.4 TRực quan hóa dữ
+liệu}\label{trux1b0c-quan-hoa-dux1b0-liuxeau}}
+
+Sau khi tiền xử lý, dữ liệu được trực quan hóa nhằm đánh giá phân phối,
+sự cân bằng và mối quan hệ giữa các đặc trưng:
+
+\hypertarget{phuxe2n-phux1ed1i-cuxe1c-biux1ebfn-sux1ed1}{%
+\subsubsection{3.4.1 Phân phối các biến
+số:}\label{phuxe2n-phux1ed1i-cuxe1c-biux1ebfn-sux1ed1}}
+
+Các đặc trưng định lượng như \texttt{total\_games},
+\texttt{total\_playtime\_hours}, \texttt{avg\_playtime\_per\_game},
+\texttt{friend\_count}, \texttt{group\_count}\ldots{} có phân phối lệch
+phải (skewed), cho thấy phần lớn người dùng có mức độ hoạt động thấp,
+chỉ một số ít có giá trị rất cao. Biến account\_age\_days có dạng gần
+chuẩn, phản ánh sự phân bố đồng đều giữa các tài khoản mới và cũ.
+\includegraphics{image/p12.png}
+
+\hypertarget{phuxe2n-phux1ed1i-cuxe1c-biux1ebfn-phuxe2n-loux1ea1i}{%
+\subsubsection{3.4.2 Phân phối các biến phân
+loại:}\label{phuxe2n-phux1ed1i-cuxe1c-biux1ebfn-phuxe2n-loux1ea1i}}
+
+Dữ liệu nhị phân như \texttt{is\_old\_account},
+\texttt{in\_game\_group}, \texttt{in\_platform\_group},
+\texttt{in\_fan\_group}\ldots{} nhìn chung khá cân bằng, ngoại trừ một
+vài biến có xu hướng lệch (ví dụ, phần lớn người dùng thuộc nhóm
+in\_fan\_group = 1). Biến region phân bố đều giữa các vùng, đảm bảo dữ
+liệu không bị thiên lệch địa lý. \includegraphics{image/p10.png}
+
+\hypertarget{tux1b0ux1a1ng-quan-giux1eefa-cuxe1c-biux1ebfn-sux1ed1}{%
+\subsubsection{3.4.3 Tương quan giữa các biến
+số:}\label{tux1b0ux1a1ng-quan-giux1eefa-cuxe1c-biux1ebfn-sux1ed1}}
+
+Ma trận tương quan (heatmap) cho thấy các đặc trưng
+\texttt{group\_count}, \texttt{new\_group\_count} và
+\texttt{social\_factor} có mức tương quan cao (≈ 0.9), phản ánh chúng
+cùng mô tả mức độ tham gia nhóm xã hội. Trong khi đó, các biến như
+\texttt{total\_games}, \texttt{total\_playtime\_hours},
+\texttt{friend\_count}, \texttt{account\_age\_days} có tương quan yếu,
+thể hiện tính độc lập, phù hợp cho các mô hình phân tích đa chiều.
+\includegraphics{image/p11.png}
+
+\hypertarget{liuxean-kuxeat-xa-huxf4i}{%
+\subsection{3.4 Liên Kết Xã Hội}\label{liuxean-kuxeat-xa-huxf4i}}
+
+Vì Steam là một nền tảng chơi game online đa nề tảng, gióng như một mạng
+xã hội của các gamer nên người dùng không chỉ thể hiện hoạt động cá nhân
+thông qua việc chơi game mà còn hình thành mối quan hệ xã hội với những
+người chơi khác thông qua các nhóm, bạn bè, hoặc cộng đồng chung. Do đó,
+việc phân tích liên kết xã hội giúp hiểu sâu hơn về cấu trúc tương tác,
+mức độ kết nối, và ảnh hưởng xã hội của từng người dùng trong hệ sinh
+thái này.
+
+\hypertarget{suxf4-node-va-suxf4-canh}{%
+\subsubsection{3.4.1 Số node và số
+cạnh}\label{suxf4-node-va-suxf4-canh}}
+
+Sau khi xử lý dữ liệu, số lượng node trong mạng xã hội tương ứng với số
+người dùng hợp lệ (không trùng lặp), còn số lượng cạnh được tính dựa
+trên tổng số quan hệ bạn bè có thật giữa các người dùng có trong tập dữ
+liệu.
+
+Trong bộ dữ liệu này: số node là 1482 và số cạnh là: 57796
+
+\hypertarget{ux111uxf4-thi-biuxeau-diuxean-lien-kuxeat-xa-huxf4i}{%
+\subsubsection{3.4.2 Đồ thị biểu diễn lien kết xã
+hội}\label{ux111uxf4-thi-biuxeau-diuxean-lien-kuxeat-xa-huxf4i}}
+
+\begin{itemize}
+\tightlist
+\item
+  Để trực quan hóa cấu trúc kết nối, đồ thị mạng được vẽ với mỗi node là
+  một người dùng, và cạnh thể hiện mối quan hệ bạn bè.
+\end{itemize}
+
+\hypertarget{a-ux111uxf4-thi-biuxeau-diuxean-sux1b0-lien-kuxeat-cua-100-users-ux111uxe2u-tiuxean}{%
+\paragraph{\texorpdfstring{\textbf{A đồ thị biểu diễn sứ lien kết của
+100 users đầu
+tiên}}{A đồ thị biểu diễn sứ lien kết của 100 users đầu tiên}}\label{a-ux111uxf4-thi-biuxeau-diuxean-sux1b0-lien-kuxeat-cua-100-users-ux111uxe2u-tiuxean}}
+
+\includegraphics{image/p5.png}
+
+Phần lớn các nút (người dùng) tập trung ở vùng trung tâm, cho thấy có
+một cộng đồng chính trong đó nhiều người có mối liên kết lẫn nhau.
+
+Một số nút nằm rải rác ở ngoài, thể hiện các người dùng cô lập hoặc chỉ
+có ít kết nối (thậm chí không có bạn chung).
+
+Mạng lưới chưa quá dày đặc, tức là mức độ kết nối giữa người dùng vẫn
+còn hạn chế --- nhiều người chỉ có 1--2 liên kết.
+
+Sự xuất hiện của một cụm lớn trung tâm cho thấy có khả năng tồn tại một
+nhóm người dùng hoạt động mạnh hoặc có sở thích chung.
+
+Một vài thành phần tách biệt (disconnected components) ở rìa biểu đồ thể
+hiện những nhóm nhỏ hoặc cá nhân không liên hệ với mạng chính.
+
+\hypertarget{b-ux111uxf4-thi-biuxeau-diuxean-ux111uxe2y-ux111u-sux1b0-lien-kuxeat-giux1b0a-cac-ngux1b0ux1a1i-chux1a1i}{%
+\paragraph{\texorpdfstring{\textbf{B đồ thị biểu diễn đầy đủ sự lien kết
+giữa các người
+chơi:}}{B đồ thị biểu diễn đầy đủ sự lien kết giữa các người chơi:}}\label{b-ux111uxf4-thi-biuxeau-diuxean-ux111uxe2y-ux111u-sux1b0-lien-kuxeat-giux1b0a-cac-ngux1b0ux1a1i-chux1a1i}}
+
+\includegraphics{image/p6.png} Mạng lưới có mật độ kết nối cao, thể hiện
+qua vùng trung tâm dày đặc, nơi nhiều người dùng có mối quan hệ chồng
+chéo.
+
+Xuất hiện một cộng đồng chính rất lớn, trong đó hầu hết người dùng đều
+liên kết với nhau, cho thấy tính liên thông mạnh giữa các tài khoản.
+
+Một số nút nằm ở rìa hoặc tách biệt, biểu hiện cho các người dùng ít bạn
+hoặc chỉ kết nối với một số thành viên trong mạng.
+
+Cấu trúc này gợi ý rằng hệ thống có một mạng xã hội trung tâm (core
+network), với các nhóm nhỏ hơn lan tỏa xung quanh.
+
+\hypertarget{c-la-biuxeau-ux111uxf4-tux1b0ux1a1ng-quan-thuxea-hiuxean-sux1b0-tux1b0ux1a1ng-ux111uxf4ng-cua-ngux1b0ux1a1i-dung-thuxea-hiuxean-qua-cac-biuxean-dux1b0-liuxeau}{%
+\paragraph{\texorpdfstring{\textbf{C là biểu đồ tương quan thể hiện sự
+tương đồng của người dùng thể hiện qua các biến dữ
+liệu}}{C là biểu đồ tương quan thể hiện sự tương đồng của người dùng thể hiện qua các biến dữ liệu}}\label{c-la-biuxeau-ux111uxf4-tux1b0ux1a1ng-quan-thuxea-hiuxean-sux1b0-tux1b0ux1a1ng-ux111uxf4ng-cua-ngux1b0ux1a1i-dung-thuxea-hiuxean-qua-cac-biuxean-dux1b0-liuxeau}}
+
+Vì nếu vẽ ra toàn bộ 1498 người thì rõ ràng biểu đồ rất khó nhìn, nên ở
+đây chỉ biểu diễn trên 10 người đầu tiên.
+
+Các yếu tố để xét sự tương đồng là: ``loccountrycode'', ``region'',
+``ten\_tinh'',``in\_game\_group'', ``in\_platform\_group'',
+``in\_fan\_group'', ``friend\_steamids\_list''. bao gồm: Quốc gia, khu
+vực (Bắc/Trung/Nam), tên tỉnh/thành phố, nằm trong các nhóm đã được phân
+loại, và có bạn chung Cách tính điểm trên biểu đồ tương quan là: Nếu 2
+người có 1 bạn chung thì cộng 0.2 điểm, các yếu tốc khác chung sẽ đươc
+cộng 1 điểm. \includegraphics{image/p7.png}
+
+Biểu đồ heatmap thể hiện điểm tương đồng giữa 10 người dùng đầu tiên
+trong tập dữ liệu. Quan sát cho thấy:
+
+Các ô màu đậm (xanh đậm) biểu thị cặp người dùng có mức độ tương đồng
+cao, tức là họ có nhiều đặc điểm giống nhau (ví dụ: cùng quốc gia, cùng
+vùng, tham gia nhóm giống nhau hoặc có bạn chung).
+
+Các ô màu nhạt (xanh nhạt hoặc vàng nhạt) biểu thị mức độ tương đồng
+thấp, tức là hai người dùng có ít điểm chung hơn.
+
+Đường chéo chính có giá trị 0 vì mỗi người không so sánh với chính mình.
+
+Một số nhóm người dùng (ví dụ User3--User4--User6--User9) có điểm tương
+đồng cao lặp lại, cho thấy họ có thể thuộc cùng cộng đồng hoặc nhóm hành
+vi tương tự.
+
+Ngược lại, các người dùng như User7 có giá trị tương đồng thấp hơn với
+hầu hết người khác, cho thấy họ ít điểm chung hơn với phần còn lại.
+
+\hypertarget{iv.phuxe2n-cux1ee5m-cux1ed9ng-ux111ux1ed3ng.}{%
+\subsection{IV.Phân cụm cộng
+đồng.}\label{iv.phuxe2n-cux1ee5m-cux1ed9ng-ux111ux1ed3ng.}}
+
+Mục tiêu chính là xác định và phân loại các nhóm người dùng có hành vi
+và đặc điểm tương đồng dựa trên các thông tin về hoạt động, tương tác xã
+hội và sở thích cá nhân. Việc này không chỉ giúp hiểu rõ cấu trúc và đặc
+điểm của cộng đồng người dùng mà còn tạo tiền đề quan trọng cho các phân
+tích nâng cao sau này. Bằng cách xác định các nhóm đồng nhất, chúng ta
+có thể:
+
+A. \textbf{PHÂN CỤM HOẠT ĐỘNG}
+
+Chỉ tập trung vào các đặc trưng về hoạt động chơi game: số game chơi,
+tổng thời gian chơi, thời gian trung bình cho mỗi game\ldots{}
+
+Mục tiêu: phân loại người dùng dựa trên mức độ hoạt động trong game, ví
+dụ casual vs hardcore.
+
+Ứng dụng: gợi ý game mới, chương trình reward, hoặc đánh giá engagement.
+
+B. \textbf{PHÂN CỤM XÃ HỘI}
+
+Tập trung vào tương tác xã hội: số bạn bè, số nhóm tham gia,
+social\_factor, thành viên nhóm lớn\ldots{}
+
+Mục tiêu: phân loại người dùng dựa trên mức độ kết nối và tham gia cộng
+đồng.
+
+Ứng dụng: gợi ý kết nối bạn bè, event xã hội, phân tích mạng lưới cộng
+đồng.
+
+\hypertarget{biux1ec3u-diux1ec5n-dux1eef-liux1ec7u-ngux1b0ux1eddi-duxf9ng-nhuxf3m}{%
+\subsubsection{4.1 Biểu diễn dữ liệu người dùng --
+nhóm}\label{biux1ec3u-diux1ec5n-dux1eef-liux1ec7u-ngux1b0ux1eddi-duxf9ng-nhuxf3m}}
+
+Trong cộng đồng người dùng, mỗi cá nhân có thể tham gia nhiều loại nhóm
+khác nhau, chẳng hạn như nhóm chơi game, nhóm xã hội, nhóm fan hoặc các
+nhóm sở thích chuyên biệt khác. Để mô hình hóa sự tham gia này, ta biểu
+diễn dữ liệu dưới dạng ma trận Người dùng -- Nhóm:
+
+Hàng (rows): mỗi hàng đại diện cho một người dùng duy nhất trong hệ
+thống.
+
+Cột (columns): mỗi cột tương ứng với một nhóm cụ thể trong cộng đồng.
+
+Ô (i, j): giá trị của ô là 1 nếu người dùng thứ i thuộc nhóm thứ j, và 0
+nếu không tham gia.
+
+Cách biểu diễn này giúp mô hình nhận biết sự tương đồng giữa các người
+dùng dựa trên việc chia sẻ nhóm chung. Những người dùng tham gia nhiều
+nhóm giống nhau sẽ có các hàng ma trận gần nhau, phản ánh mối liên hệ về
+sở thích, hành vi hoặc mức độ tham gia trong cộng đồng. Nhờ ma trận này,
+các thuật toán phân cụm có thể phát hiện ra các nhóm người dùng đồng
+nhất, phục vụ cho các phân tích nâng cao và các ứng dụng như gợi ý kết
+nối, cá nhân hóa trải nghiệm hay đánh giá mức độ gắn kết trong cộng
+đồng.
+
+\hypertarget{giux1ea3m-chiux1ec1u-vuxe0-chuux1ea9n-huxf3a-dux1eef-liux1ec7u}{%
+\subsubsection{4.2 Giảm chiều và chuẩn hóa dữ
+liệu}\label{giux1ea3m-chiux1ec1u-vuxe0-chuux1ea9n-huxf3a-dux1eef-liux1ec7u}}
+
+\begin{itemize}
+\tightlist
+\item
+  Do số nhóm rất lớn và dữ liệu thưa, cần giảm chiều để tăng hiệu quả
+  phân tích.\\
+\item
+  Phương pháp \textbf{PCA (Phân tích thành phần chính)} giúp nén thông
+  tin nhưng vẫn giữ lại sự khác biệt quan trọng.\\
+\item
+  Sau đó chuẩn hóa dữ liệu để các đặc trưng hành vi (số giờ chơi, số
+  game, thành tích\ldots) có cùng thang đo.
+\end{itemize}
+
+\hypertarget{phuxe2n-cum-bux103ng-k-means-va-dbscan}{%
+\subsubsection{4.3 Phân cụm bằng K-means và
+DBscan}\label{phuxe2n-cum-bux103ng-k-means-va-dbscan}}
+
+Để phân loại người dùng thành các nhóm có hành vi và đặc điểm tương
+đồng, ta áp dụng hai thuật toán phân cụm phổ biến:
+
+\textbf{K-Means Clustering}
+
+Chia người dùng thành K cụm dựa trên khoảng cách giữa các đặc trưng.
+
+Số cụm K được lựa chọn dựa trên Elbow method, tức quan sát điểm gãy
+trong đồ thị tổng bình phương khoảng cách trong cụm (Inertia) để xác
+định số cụm hợp lý.
+
+Phương pháp này giúp nhóm những người dùng có hành vi tương tự nhau
+thành các cụm đồng nhất.
+
+\textbf{DBSCAN Clustering}
+
+Phân cụm dựa trên mật độ dữ liệu, tự động xác định các cụm có hình dạng
+khác nhau và phát hiện các điểm dữ liệu nhiễu (outlier).
+
+Thuật toán này đặc biệt hữu ích khi các cụm không có kích thước hoặc
+hình dạng đều nhau.
+
+Sử dụng kết hợp cả hai thuật toán cho phép vừa phân cụm theo cấu trúc
+hình học (K-Means), vừa phát hiện các nhóm đặc biệt và điểm ngoại lệ
+trong dữ liệu (DBSCAN).
+
+\hypertarget{thux1b0c-hiuxean-phuxe2n-cum}{%
+\subsubsection{4.4 Thực hiện phân
+cụm}\label{thux1b0c-hiuxean-phuxe2n-cum}}
+
+\hypertarget{xuxe1c-ux111ux1ecbnh-sux1ed1-cux1ee5m-bux1eb1ng-elbow-method}{%
+\paragraph{4.4.1 Xác định số cụm bằng Elbow
+Method}\label{xuxe1c-ux111ux1ecbnh-sux1ed1-cux1ee5m-bux1eb1ng-elbow-method}}
+
+Để chọn số cụm hợp lý cho K-Means, ta áp dụng Elbow method:
+
+Vẽ đồ thị Inertia (tổng bình phương khoảng cách trong cụm) theo số cụm
+K.
+
+Quan sát điểm gãy (elbow) trong đồ thị, tại đó việc tăng số cụm không
+còn giảm đáng kể Inertia nữa.
+
+Điểm gãy này được chọn làm số cụm tối ưu, giúp K-Means phân loại dữ liệu
+hiệu quả mà không quá nhiều hoặc quá ít cụm.
+\includegraphics{image/p13.png}
+
+\textbf{Elbow - Social (Phân Cụm Xã Hội)} Biểu đồ này thể hiện Inertia
+giảm dần khi số cụm (k) tăng lên.
+
+Điểm Uốn Khả Thi: Điểm uốn (elbow) rõ ràng nhất có thể được nhìn thấy
+tại k=3 hoặc k=4.
+
+Sự giảm Inertia từ k=2 xuống k=3 là rất lớn.
+
+Sự giảm từ k=3 xuống k=4 vẫn đáng kể.
+
+Từ k=4 trở đi, đường cong trở nên thoai thoải hơn, cho thấy lợi ích biên
+của việc thêm cụm giảm đi.
+
+Lựa Chọn Khuyến Nghị: Lựa chọn tối ưu nhất có xu hướng là k=3 để đạt
+được sự cân bằng giữa độ nén của cụm.
+
+\textbf{Elbow - Activity (Phân Cụm Hoạt Động)}
+
+Biểu đồ này cũng cho thấy Inertia giảm nhanh chóng ở k nhỏ.
+
+Điểm Uốn Khả Thi: Điểm uốn (elbow) rõ rệt có vẻ xuất hiện tại k=3 hoặc
+k=4.
+
+Sự giảm Inertia từ k=2 xuống k=3 là rất mạnh.
+
+Sự giảm từ k=3 xuống k=4 vẫn khá dốc.
+
+Tương tự như biểu đồ Social, chọn k=3,sẽ đạt được độ ổn định hơn.
+
+\hypertarget{kuxeat-qua-phuxe2n-cum}{%
+\paragraph{4.4.2 Kết quả phân cụm}\label{kuxeat-qua-phuxe2n-cum}}
+
+\includegraphics{image/p14.png} \includegraphics{image/p15.png}
+\includegraphics{image/p16.png} \includegraphics{image/p17.png}
+
+\hypertarget{so-sanh-hai-muxf4-hinh}{%
+\subsubsection{4.4 So sánh hai mô hình}\label{so-sanh-hai-muxf4-hinh}}
+
+\begin{longtable}[]{@{}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 4\tabcolsep) * \real{0.1127}}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 4\tabcolsep) * \real{0.4507}}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 4\tabcolsep) * \real{0.4366}}@{}}
+\toprule()
+\begin{minipage}[b]{\linewidth}\raggedright
+Tiêu chí
+\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
+K-Means
+\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
+DBSCAN
+\end{minipage} \\
+\midrule()
+\endhead
+Nguyên tắc hoạt động & Chia dữ liệu thành k cụm dựa trên khoảng cách
+Euclide đến tâm cụm , giả định cụm có hình dạng cầu. & Phân nhóm dữ liệu
+dựa trên mật độ , tìm kiếm các khu vực dày đặc bị tách biệt bởi các khu
+vực có mật độ thấp. \\
+Xử lý Nhiễu & Gán mọi điểm vào một cụm bất kỳ, ngay cả điểm ngoại lai. &
+Xác định rõ ràng các điểm có mật độ thấp là Nhiễu (-1). \\
+Hiệu suất trên Dữ liệu này & Tốt hơn. Tạo ra các cụm có kích thước tương
+đối cân bằng, dễ diễn giải, và phù hợp với mục tiêu tạo phân khúc thị
+trường . & Kém hiệu quả. Thường coi phần lớn dữ liệu là một cụm duy nhất
+(Cụm 0) hoặc là Nhiễu (-1), đặc biệt trong Phân cụm Hoạt động và Xã
+hội. \\
+Yêu cầu Tham số & Chỉ cần xác định k (số cụm), được hỗ trợ bởi phương
+pháp Elbow. & Cần tinh chỉnh ϵ (bán kính) và MinSamples (mật độ tối
+thiểu), rất nhạy cảm với sự thay đổi mật độ dữ liệu. \\
+\bottomrule()
+\end{longtable}
+
+\textbf{Phân Tích Chuyên Sâu theo Kết Quả}
+
+\textbf{1. Ưu thế của K-Means} Tính Ứng dụng Cao: K-Means đã thành công
+trong việc tạo ra các phân khúc có ý nghĩa trong cả hai hạng mục (Xã
+hội, Hoạt động).
+
+Trong Phân cụm, K-Means đã phân tách rõ ràng Cụm 3 (màu đỏ), một nhóm
+người dùng có hồ sơ cực kỳ khác biệt (PC2 rất thấp), khỏi khối dữ liệu
+chính. Điều này là cực kỳ quan trọng cho việc mô tả hồ sơ.
+
+Độ Ổn định và Tính Diễn giải: Do buộc phải chia dữ liệu thành k cụm,
+K-Means cung cấp cái nhìn tổng thể về cách cộng đồng được phân bổ, ngay
+cả khi các cụm có sự chồng chéo.
+
+\textbf{2. Hạn chế của DBSCAN} Quá Nhạy Cảm với Mật Độ: Các biểu đồ cho
+thấy dữ liệu người dùng có mật độ rất dày và đồng nhất (kết quả của việc
+chuẩn hóa).
+
+Trong Phân cụm Hoạt động, DBSCAN gần như gán toàn bộ dữ liệu vào một cụm
+duy nhất (Cụm 0), cho thấy nó không thể tìm thấy các ``khoảng trống'' để
+tách người dùng thành các cấp độ hoạt động khác nhau.
+
+Trong Phân cụm Xã hội, DBSCAN lại quá nhạy cảm và coi phần lớn là nhiễu
+(-1).
+
+Không Phù hợp với Mục tiêu: Mục tiêu là tạo ra các phân khúc có thể định
+nghĩa được để làm đầu vào cho mô hình dự đoán. DBSCAN, bằng cách tạo ra
+quá nhiều nhiễu hoặc quá ít cụm có ý nghĩa, không đáp ứng được mục tiêu
+này.
+
+\hypertarget{uxfd-nghux129a-kux1ebft-quux1ea3-phuxe2n-cux1ee5m}{%
+\subsubsection{4.5 Ý nghĩa kết quả phân
+cụm}\label{uxfd-nghux129a-kux1ebft-quux1ea3-phuxe2n-cux1ee5m}}
+
+\textbf{Cụm Xã Hội}
+
+\begin{longtable}[]{@{}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 6\tabcolsep) * \real{0.0798}}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 6\tabcolsep) * \real{0.1681}}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 6\tabcolsep) * \real{0.4076}}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 6\tabcolsep) * \real{0.3445}}@{}}
+\toprule()
+\begin{minipage}[b]{\linewidth}\raggedright
+Cụm (KMeans)
+\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
+Phân Bố trên PCA 2D
+\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
+Hồ Sơ Đặc Trưng (Cluster Profile)
+\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
+Vai Trò Cộng Đồng
+\end{minipage} \\
+\midrule()
+\endhead
+Cụm 0 (Xanh Dương) & Trung tâm, rộng, chồng chéo với Cụm 1 & Người Dùng
+Cân Bằng/Tiêu Chuẩn: Mạng lưới xã hội vừa phải và ổn định. Tương tác và
+tham gia nhóm ở mức trung bình. & Nền tảng: Tạo sự ổn định và là cầu nối
+cho các cụm khác. \\
+Cụm 1 (Cam) & Phía trên \& phải (PC1 cao) & Người Xã Hội Năng Động : Số
+lượng bạn bè và nhóm tham gia rất cao. Là những người dùng có xu hướng
+kết nối mạnh mẽ, làm trung tâm giao tiếp. & Chủ chốt: Quan trọng để lan
+truyền thông tin, kết nối mạng lưới, và thúc đẩy hoạt động xã hội. \\
+Cụm 2 (Xanh Lá) & Phía trên \& trái (PC1 thấp) & Người Ít Giao Tiếp Xã
+Hội : Số lượng bạn bè và nhóm tham gia thấp hoặc rất chọn lọc. Tập trung
+vào game/nội dung hơn là mở rộng mạng lưới. & Người dùng Thầm Lặng: Cần
+chiến lược can thiệp để thúc đẩy tương tác xã hội. \\
+\bottomrule()
+\end{longtable}
+
+\textbf{Cụm Hoạt Động}
+
+\begin{longtable}[]{@{}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 6\tabcolsep) * \real{0.0643}}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 6\tabcolsep) * \real{0.1786}}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 6\tabcolsep) * \real{0.3857}}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 6\tabcolsep) * \real{0.3714}}@{}}
+\toprule()
+\begin{minipage}[b]{\linewidth}\raggedright
+Cụm
+\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
+Vị Trí trên PCA 2D (Tương đối)
+\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
+Hồ Sơ Đặc Trưng (Giả định)
+\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
+Ý Nghĩa Cộng Đồng
+\end{minipage} \\
+\midrule()
+\endhead
+Cụm 0 (Xanh Dương) & Trung tâm và rải rác & Người Chơi Casual (Thấp): Có
+tổng giờ chơi và số game thấp (có thể là người chơi ít thường xuyên hoặc
+chỉ mới bắt đầu). & Nhóm có nguy cơ rời bỏ cao, cần đề xuất nội dung
+hoặc nhóm chơi hấp dẫn. \\
+Cụm 1 (Cam) & Phía trên bên phải (PC1 cao, PC2 cao/trung bình) & Người
+Chơi Core/Hardcore (Cao): Có tổng giờ chơi và số game rất cao. Họ là
+những người dành nhiều thời gian nhất cho nền tảng. & High-Value Users
+(Người dùng giá trị cao), đóng góp lớn vào sự duy trì hoạt động của nền
+tảng. \\
+Cụm 2 (Xanh Lá) & Phía trên bên trái (PC1 thấp, PC2 cao) & Người Chơi
+Trung Bình/Chuyên Sâu: Có mức độ hoạt động vừa phải; có thể là những
+người chơi thường xuyên nhưng không nhiều giờ như Cụm 1, hoặc những
+người chơi nhiều giờ nhưng chỉ tập trung vào một số game nhất định. &
+Nhóm có tiềm năng phát triển, cần khuyến khích thử nghiệm game mới hoặc
+tương tác cộng đồng. \\
+\bottomrule()
+\end{longtable}
+
+\hypertarget{v.-kuxeat-luuxe2n}{%
+\section{V. Kết luận}\label{v.-kuxeat-luuxe2n}}
+
+Quy trình phân cụm đã thành công trong việc phân đoạn người dùng thành
+các nhóm có ý nghĩa bằng thuật toán K-Means, vượt trội so với DBSCAN
+trong việc tạo ra các phân khúc dễ diễn giải. Cụ thể, phân tích đã xác
+định được các hồ sơ quan trọng thông qua các cụm được hỗ trợ bởi phương
+pháp Elbow. Các nhãn cụm này đóng vai trò là biến đại diện mạnh mẽ, cô
+đọng hành vi phức tạp của người dùng. Việc đưa các nhãn này vào mô hình
+dự đoán sẽ đơn giản hóa tính toán tương đồng, xác định tính bổ sung và
+cá nhân hóa gợi ý kết nối, từ đó nâng cao độ chính xác trong việc dự
+đoán và thúc đẩy các mối quan hệ tích cực giữa những người chơi.
+
+\end{document}
